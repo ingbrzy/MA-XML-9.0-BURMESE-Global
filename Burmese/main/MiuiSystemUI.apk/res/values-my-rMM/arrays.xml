@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>စကန်ဖတ်နေသည်…</item>
+        <item>ချိတ်ဆက်နေဆဲ…</item>
+        <item>မှန်ကြောင်း စစ်ဆေးနေ…</item>
+        <item>IP လိပ်စာရယူနေ…</item>
+        <item>ချိတ်ဆက်ထားသော</item>
+        <item>ဆိုင်းငံ့ထားသော</item>
+        <item>အဆက်အသွယ်ဖြတ်နေ…</item>
+        <item>ဆက်သွယ်ခြင်းဖြတ်</item>
+        <item>မအောင်မြင်သော</item>
+        <item>ပိတ်ထားသော</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>စကန်ဖတ်နေသည်…</item>
+        <item>%1$sသို့ချိတ်ဆက်နေ…</item>
+        <item>%1$sနှင့် မှန်ကန်ကြောင်းစစ်ဆေးနေ…</item>
+        <item>%1$s မှ IP လိပ်စာရယူနေ…</item>
+        <item>%1$sသို့ ချိတ်ဆက်ထားသော</item>
+        <item>ဆိုင်းငံ့ထားသော</item>
+        <item>%1$s မှချိတ်ဆက်မှု ဖျက်နေ…</item>
+        <item>ချိတ်ဆက်မှု ဖြတ်လိုက်သော</item>
+        <item>မအောင်မြင်သော</item>
+        <item>ဘလော့လုပ်ထားသော</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Never check</item>
+        <item>Check for DRM content only</item>
+        <item>Always check</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Always use HDCP checking</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logd_size_summaries">
+        <item>Off</item>
+        <item>64K per log buffer</item>
+        <item>256K per log buffer</item>
+        <item>1M per log buffer</item>
+        <item>4M per log buffer</item>
+        <item>16M per log buffer</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animation off</item>
+        <item>Animation scale .5x</item>
+        <item>Animation scale 1x</item>
+        <item>Animation scale 1.5x</item>
+        <item>Animation scale 2x</item>
+        <item>Animation scale 5x</item>
+        <item>Animation scale 10x</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (dual screen)</item>
+    </string-array>
+    <string-array name="enable_opengl_traces_entries">
+        <item>None</item>
+        <item>Logcat</item>
+        <item>Systrace (Graphics)</item>
+        <item>Call stack on glGetError</item>
+    </string-array>
+    <string-array name="show_non_rect_clip_entries">
+        <item>Off</item>
+        <item>Draw non-rectangular clip region in blue</item>
+        <item>Highlight tested drawing commands in green</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>On screen as bars</item>
+        <item>In adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Standard limit</item>
+        <item>No background processes</item>
+        <item>At most 1 process</item>
+        <item>At most 2 processes</item>
+        <item>At most 3 processes</item>
+        <item>At most 4 processes</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Charging</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Standard</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Enhanced colors</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colors optimized for digital content</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="aqi_title">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
+    <string-array name="weather_type">
+        <item>နေသာသော</item>
+        <item>တိမ်ထူသော</item>
+        <item>တိမ်ထူထပ်</item>
+        <item>မြူဆိုင်းသော</item>
+        <item>မုန်တိုင်းကြီး</item>
+        <item>မိုးသည်းထန်စွာရွာသွန်း</item>
+        <item>မိုးလေမုန်တိုင်း</item>
+        <item>မိုးကြိုးမုန်တိုင်း</item>
+        <item>မိုးဖွဲဖွဲရွာသွန်း</item>
+        <item>မိုးသည်းထန်စွာရွာသွန်း</item>
+        <item>မိုးအသင့်အတင့်ရွာသွန်း</item>
+        <item>မိုးအနည်းငယ်ရွာသွန်း</item>
+        <item>ဆီးနှင်းရွာသွန်း</item>
+        <item>နှင်းမုန်တိုင်း</item>
+        <item>နှင်းကျ</item>
+        <item>နှင်းသည်းထန်စွာကျ</item>
+        <item>နှင်းအသင့်အတင့်</item>
+        <item>နှင့်အနည်းငယ်ကျ</item>
+        <item>အားပြင်းသော သဲမုန်တိုင်း</item>
+        <item>သဲမုန်တိုင်း</item>
+        <item>သဲ</item>
+        <item>လေထန်</item>
+        <item>မိုးသီးကြွေခြင်း</item>
+        <item>ဖုန်ထူ</item>
+        <item>မြူ</item>
+        <item>ရေခဲမိုး</item>
+        <item></item>
+    </string-array>
+</resources>

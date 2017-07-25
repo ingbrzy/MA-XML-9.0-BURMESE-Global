@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">မီဒီယာဆာဗာ</string>
+    <string name="noti_projection_status_title">MiPlay ကြိုးမဲ့ပြသခြင်း</string>
+    <string name="noti_projection_status_desc_on">မျက်နှာပြင် မှန်လုပ်ခြင်းဖွင့်ထားသည်</string>
+    <string name="prjection_title">ကြိုးမဲ့ပြသခြင်း</string>
+    <string name="search_for_devices">ပြန်လန်းဆန်း</string>
+    <string name="media_feature_projection">မှန် မျက်နှာပြင်</string>
+    <string name="media_status_error">အမှား</string>
+    <string name="media_status_starting">ချိတ်ဆက်နေ…</string>
+    <string name="media_status_started">ချိတ်ဆက်ထားသော</string>
+    <string name="media_status_stopping">ရပ်နေသည်…</string>
+    <string name="media_status_stopped">ရပ်ခဲ့သည်</string>
+    <string name="wifi_display_settings_title">ပြသ</string>
+    <string name="wifi_display_enable_menu_item">ကြိုးမဲ့ပြသခြင်းအား ဖွင့်ပါ</string>
+    <string name="wifi_display_no_devices_found">အနီးရှိ စက်များအား မတွေ့ရှိနိုင်ခဲ့ပါ</string>
+    <string name="wifi_display_status_connecting">ချိတ်ဆက်နေသည်</string>
+    <string name="wifi_display_status_connected">ချိတ်ဆက်ထားသော</string>
+    <string name="wifi_display_status_in_use">သုံးနေ</string>
+    <string name="wifi_display_status_not_available">မရရှိနိုင်သော</string>
+    <string name="wifi_display_details">ပြသချက် ဆက်တင်များ</string>
+    <string name="wifi_display_options_title">ကြိုးမဲ့ပြသမှုရွေးချယ်စရာများ</string>
+    <string name="wifi_display_options_forget">မေ့လိုက်ပါ</string>
+    <string name="wifi_display_options_done">ပြီးပြီ</string>
+    <string name="wifi_display_options_name">အမည်</string>
+    <string name="cancel">ဖျက်သိမ်း</string>
+    <string name="enable_wifi_title">Wi-Fi ကိုဖွင့်မည်</string>
+    <string name="enable_wifi_message">အနီးအနားရှိစက်များအား ရှာဖွေရန်နှင့် ချိတ်ဆက်ရန် Wi-Fi ဖွင့်ပါ။</string>
+    <string name="enable_wifi_btn">ဖွင့်</string>
+    <string name="media_route_controller_disconnect">ချိတ်ဆက်ဖြတ်ပါ</string>
+</resources>

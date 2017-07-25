@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="delete">ဖျက်ပစ်ပါ</string>
+    <string name="unlockscreen_recharging_message">Charging %d%%</string>
+    <string name="unlockscreen_recharge_completed">ဘက်ထရီ အားသွင်းပြီးပြီ</string>
+    <string name="unlockscreen_low_battery">ချာဂျာဖြင့် အခု ချိတ်ဆက်ပါ</string>
+    <string name="lockscreen_charging_msg">အားသွင်းနေဆဲ</string>
+    <string name="emergency_call_string">အရေးပေါ်</string>
+    <string name="forget_password_string">စကားဝှက် မေ့နေသည်</string>
+    <string name="input_puk_code">ဖြည့်သွင်းချက် PUK</string>
+    <string name="unlocking_sim_card">SIM ကတ် သော့ဖွင့်ခြင်း</string>
+    <string name="input_pin_code">PIN ထည့်သွင်းပါ</string>
+    <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
+    <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
+    <string name="incorrect_pukcode">မမှန်သော PUK ကုဒ်</string>
+    <string name="incorrect_pincode">မမှန်သော PUK ကုဒ်</string>
+    <string name="lock_screen_date">EEEE, d MMMM</string>
+    <string name="lock_screen_date_12">EEEE, d MMMM</string>
+    <string name="phone_locked_string">ဖုန်းကို သော့ခတ်ထားသည်</string>
+    <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
+    <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
+    <string name="phone_locked_foget_password">စကားဝှက် မေ့နေလား?</string>
+    <string name="phone_locked_foget_password_header">စကားဝှက်ကိုမေ့သွားပါက ဘာလုပ်သင့်ပါသလဲ?</string>
+    <string name="phone_locked_foget_password_content">"i.mi.com သို့ စက်နှင့် ဆက်စပ်နေသည့် Mi အကောင့်သုံး၍ဝင်ရောက်ပြီး ဒေတာအားလုံးကို ရှင်းလင်းပါ။ သင့်စက်ပေါ်ရှိဒေတာအားလုံးကို ဖျက်လိုက်ပါလိမ့်မည်။ပြီးနောက်၊ စက်အားပိတ်၍ပြန်စပြီး အဆက်အသွယ်များ၊ မက်ဆေ့ချ်များ၊ ဓါတ်ပုံများနှင့် အခြား Mi ကလောက်ပေါ်ရှိ အိုင်တမ်များအား ပြန်လည်ရယူပါ။ 
+
+စက်ပေါ်တွင် Mi အကောင့်သုံး၍ ဆိုင်းအင်မဝင်ထားပါက ဤသို့လုပ်၍ရနိုင်မည်မဟုတ်ပါ။ စက်အားထပ်မံ flash လုပ်ရန်လိုအပ်ပါလိမ့်မည်။"</string>
+    <string name="phone_locked_foget_password_footer">အဆင့်များ−i.mi.com သို့ ဆိုင်းအင်ဝင်ပါ၊\"စက်ရှာဖွေပါ\"သို့သွားရောက်ပါ၊ စက်ကိုရွေးချယ်ပြီး \" စက်ရှင်းလင်း\" အားရွေးချယ်ပါ။</string>
+    <string name="phone_locked_foget_password_ok">ရပြီ</string>
+    <string name="lockscreen_access_pattern_start">ပုံစံ စတင်ပြီးပြီ</string>
+    <string name="lockscreen_access_pattern_cleared">ပုံစံ အမှားကင်းရှင်းသည်</string>
+    <string name="lockscreen_access_pattern_cell_added">ဆယ်လ် ပေါင်းထည့်ပြီးပြီ</string>
+    <string name="lockscreen_access_pattern_detected">ပုံစံ ပြီးမြောက်ပါပြီ</string>
+    <string name="default_lockscreen_unlock_hint_text">သော့ဖွင့်ရန်အပေါ်သို့ပွတ်ဆွဲပါ</string>
+    <string name="lockscreen_failed_attempts_almost_glogin" formatted="false">"သင့်စကားဝှက်ကို %d ခါမှားယွင်းစွာ ထည့်သွင်းခဲ့သည်။ နောက်ထပ် မှားယွင်းစွာ %d ခါထည့်သွင်းပြီးနောက်တွင်၊ သင့်ဖုန်းကို Mi အကောင့် ဆိုင်းအင်ဝင်ခြင်းဖြင့် သော့ဖွင့်ရန် သင့်ကို တောင်းဆိုပါလိမ့်မည်။
+
+ %d စက္ကန့် အကြာမှာ ထပ်ကြိုးစားပါ။"</string>
+    <string name="lockscreen_failed_attempts_almost_at_wipe" formatted="false">သင်သည် ဖုန်းကို သော့ဖွင့်ရန် %d ခါ မှားယွင်းစွာ အားထုတ်ခဲ့သည်။ နောက်ထပ် မှားယွင်းစွာ %d ခါ ထည့်သွင်းပြီးနောက်တွင်၊ ဖုန်းကို စက်ရုံထုတ်အနေအထားသို့ပြန်သတ်မှတ်လိမ့်မည်ဖြစ်ပြီး၊ သုံးသူဒေတာအားလုံး ပျောက်ဆုံးသွားလိမ့်မည်။</string>
+    <string name="lockscreen_failed_attempts_now_wiping">သင်သည် ဖုန်းကို သော့ဖွင့်ရန် %d ခါ မမှန်မကန် အားထုတ်ခဲ့ပြီးပြီ။ ဖုန်းကို ယခုပင် စက်ရုံထုတ်သတ်မှတ်ပုံစံသို့ ပြန်သတ်မှတ်ပါမည်။</string>
+    <string name="miui_keyguard_ble_unlock_succeed_msg">ဘလူးတုသ်ကိရိယာဖြင့် သော့ဖွင့်ထားသည်</string>
+    <string name="wrong_password">စကားဝှက်မမှန်ကန်ပါ</string>
+    <string name="keyguard_torch_cover_text">ဓာတ်မီး ဆက်ဖွင့်ထားရန်၊ ပါဝါခလုတ်ကို ကိုင်ထားပါ</string>
+    <string name="confirm_pin_msg">PIN ထပ်မံ ထည့်သွင်းပါ</string>
+    <string name="invalid_confirm_pin_hint">PINs မကိုက်ညီပါ</string>
+    <string name="unlock_string">သော့ဖွင့်ပါ</string>
+    <string name="open_camera_hint_text">%s အားဖွင့်ရန် ဘယ်ဘက်သို့ဆွဲလိုက်ပါ</string>
+    <string name="open_remote_center_hint_text">%s အားဖွင့်ရန် ညာဘက်သို့ဆွဲလိုက်ပါ</string>
+    <string name="left_action_default_hint_text">Mi ရီမု</string>
+    <string name="click_to_enter_text">ကြည့်ရန် နှိပ်ပါ</string>
+    <string name="fingerprint_try_again_text">ထပ်ကြိုးစား</string>
+    <string name="fingerprint_try_again_msg">သင့်ဘက်ဗွေအား အတည်မပြုရသေးပါ၊ ထပ်မံကြိုးစားကြည့်ပါ</string>
+    <string name="fingerprint_not_identified_title">စကားဝှက် ထည့်သွင်းပါ</string>
+    <string name="fingerprint_not_identified_msg">မအောင်မြင်သည့် ကြိုးပမ်းမှုများစွာ ပြုလုပ်ပြီးပါပြီ။ စကားဝှက်ကို ယခု ရိုက်ထည့်ပါ သို့မဟုတ် စက္ကန့်အနည်းငယ်ကြာမှ သင့်လက်ဗွေကို အသုံးပြုပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="fingerprint_again_identified_msg">သင့်လက်ဗွေအသက်သွင်းပြီးဖြစ်သည်။၄င်းကို စက်သော့ဖွင့်ရန်အသုံးပြုပါ သို့မဟုတ် စကားဝှက်ကို ရိုက်ထည့်ပါ။</string>
+    <string name="fingerprint_add_title">လက်ဗွေပေါင်းထည့်</string>
+    <string name="fingerprint_add_text">လက်ဗွေအင်တာဖေ့စ်အား အသစ်မွမ်းမံခဲ့သည်။သင်၏လက်ဗွေထပ်မံပေါင်းထည့်ပါ</string>
+    <string name="invalid_sim_pin_hint">PIN နံပါတ် 4 လုံးမှ 8 လုံးအထိပါဝင်သင့်ပါသည်</string>
+    <string name="invalid_sim_puk_hint">PUK နံပါတ်သည် အနည်းဆုံး 8 လုံး ပါဝင်ရပါမည်</string>
+    <string name="input_password_hint_text">စကားဝှက် ထည့်သွင်းပါ</string>
+    <string name="input_pattern_hint_text">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ</string>
+    <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
+    <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
+    <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
+    <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
+    <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
+    <string name="custom_lock_wallpaper_enter">ရိုက်ထည့်</string>
+    <string name="fingerprint_enter_second_psw_title">ဒုတိယနေရာစကားဝှက်အား ရိုက်ထည့်ပါ</string>
+    <string name="fingerprint_enter_second_psw_msg">လက်ဗွေသိရှိခြင်းအား အသုံးပြုနိုင်ရန် စက်အားပြန်လည်စတင်ပြီးနောက် ဒုတိယနေရာစကားဝှက်အား ရိုက်ထည့်ပါ</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">လိုက်မုတ်တွင် ဒုတိယနေရာသို့ ဝင်ရောက်၍မရနိုင်ပါ</string>
+    <string name="keyguard_charging_info_click_to_detail">အသေးစိတ်များကို ကြည့်ပါ</string>
+    <string name="keyguard_quick_charging_info_click_to_detail">အမြန်အားသွင်းခြင်း။အသေးစိတ်များကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
+    <string name="keyguard_quickly_charging_info_charging_text">အမြန်အားသွင်းခြင်း…</string>
+    <string name="keyguard_charging_info_finished_charging_text">အားပြည့်သွားပြီ</string>
+    <string name="keyguard_charging_info_charging_text">အားသွင်းနေ</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">About %d min until full​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">About %d hr %d min until full</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
+    <string name="keyguard_charging_info_last_charge_today_time">Today %s</string>
+    <string name="keyguard_charging_info_last_charge_yesterday_time">Yesterday %s</string>
+    <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
+    <string name="keyguard_charging_info_current_now_text">တိုက်ရိုက် စောင့်ကြည့်ခြင်း</string>
+    <string name="keyguard_charging_info_charging_voltage_text">ဗို့အား</string>
+    <string name="keyguard_charging_info_battery_temperature_text">ဘက်ထရီအပူချိန်</string>
+    <string name="keyguard_charging_info_last_charged_time_text">နောက်ဆုံးအားသွင်းခဲ့သော</string>
+    <string name="keyguard_charging_info_battery_used_time_text">ဘက်ထရီပေါ်တွင်</string>
+    <string name="keyguard_charging_info_drained_power_percent_text">အားကုန်သွားခဲ့သော</string>
+    <string name="keyguard_charging_info_tip_text1">ဘက်ထရီသက်တမ်း ကြာရှည်စေရန် အားကို ၁၀ % အထက်အမြဲထားထားပါ။</string>
+    <string name="keyguard_charging_info_tip_text2">သင့်စက်ကို အားသွင်း မလွန်ပါစေနှင့်။ မကြာမကြာ ခဏခဏသွင်းခြင်းသည် ညလုံးပေါက်သွင်းခြင်းထက် ပိုကောင်းပါသည်။</string>
+    <string name="keyguard_charging_info_tip_text3">ပတ်ဝန်းကျင်းအပူချိန် 0℃ ထက်နည်းနေပါက ဖုန်းအား မသွင်းပါနှင့်။</string>
+    <string name="keyguard_charging_info_tip_text4">အပူချိန်လွန်ကဲခြင်းကို ရှောင်ရှားရန် အားသွင်းနေစဉ် စက်ကို ခဏခဏမသုံးပါနှင့်။</string>
+    <string name="keyguard_charging_info_tip_text5">ဘက်ထရီသည်ပူလာပါက အားပြည့်ရန် ပုံမှန်ထက်ပို၍ ကြာနိုင်ပါသည်။</string>
+    <string name="keyguard_charging_info_tip_text6">စက်ကို အအေးခံရန် မျက်နှာပြင်ကို ပိတ်လိုက်ပြီး စက်ကို ချထားလိုက်ပါ။</string>
+    <string name="keyguard_charging_info_data_ma">%smA</string>
+    <string name="keyguard_charging_info_data_v">%sV</string>
+    <string name="keyguard_charging_info_data_c">%s℃</string>
+    <string name="keyguard_charging_info_data_percent">%s%%</string>
+</resources>

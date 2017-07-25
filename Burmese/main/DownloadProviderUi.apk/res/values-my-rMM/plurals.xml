@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sniff_find_resource">
+        <item quantity="other">အိုင်တမ်%d ခုတွေ့ရှိခဲ့သည်</item>
+    </plurals>
+    <plurals name="numberOfItemsAvailable">
+        <item quantity="other">အိုင်တမ်%dခုအားဖျက်မည်လား?</item>
+    </plurals>
+    <plurals name="sniff_find_result">
+        <item quantity="other">ရလဒ် %dခုတွေ့ရှိခဲ့သည်</item>
+    </plurals>
+</resources>

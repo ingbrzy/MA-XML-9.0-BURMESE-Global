@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="record_downloading_complete_count">
+        <item quantity="other">ဖမ်းယူထားသည့်အသံအပိုင်း %d ခုကို ဒေါင်းလုတ်လုပ်ပြီးပြီ</item>
+    </plurals>
+    <plurals name="local_records_count">
+        <item quantity="other">%d အိုင်တမ်</item>
+    </plurals>
+    <plurals name="unsynced_records_count">
+        <item quantity="other">%d အားဆင့်ခ်မလုပ်နိုင်ခဲ့</item>
+    </plurals>
+</resources>

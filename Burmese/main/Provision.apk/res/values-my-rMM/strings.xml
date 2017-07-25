@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">ကြိုဆိုပါသည်</string>
+    <string name="app_name">ကြိုတင်ကာလ</string>
+    <string name="input_method_setting">ကီးဘုတ်ရွေးချယ်ပါ</string>
+    <string name="input_method_category">အီးမေးလ်များ၊ မှတ်ချက်များနှင့် ဘယ်နေရာက ဘယ်လိုအကြာင်းကိစ္စမျိုးမဆို သင်ရေးသားသောအခါ သုံးနိုင်သော သတ်မှတ်ပုံစံ ကီးဘုတ်ကို ရွေးပါ။ အခြား တတိယ-ပါတီ ကီးဘုတ်များကိုလည်း နောင်တွင် သင် တပ်ဆင်နိုင်သည်ကို သတိမူပါ။</string>
+    <string name="provision_inputmethod_policy_description">"
+ရွေးထားသော ကီးဘုတ်၏ ကိုယ်ရေးမူဝါဒအား ကြည့်ပါ"</string>
+    <string name="provision_inputmethod_policy_description1">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
+    <string name="multisim_settings_title">SIM ကတ် ၂ ခု ရှာတွေ့ပြီးပြီ</string>
+    <string name="multisim_settings_category">SIM ကတ် ဆက်တင်များ</string>
+    <string name="sim_card_detection">SIM ကတ် ထည့်သွင်းပါ</string>
+    <string name="sim_card_detecting_title">SIM ကတ်ကို စစ်ဆေးပါ</string>
+    <string name="sim_card_detection_info">သင်၏ SIM ကတ်ကို ထည့်သွင်းရန်၊ သင့်ကိရိယာနှင့်အတူ ပါလာသော ညွှန်ကြားချက်များကို ဖတ်ပါ။</string>
+    <string name="sim_card_detecting">SIM ကတ်ကို စစ်ဆေးနေဆဲ…</string>
+    <string name="other_settings">နောက်ထပ် ဆက်တင်များ</string>
+    <string name="other_settings_location">တည်နေရာ</string>
+    <string name="other_settings_location_summary">သင့်တည်နေရာကို ဝင်ရောက်ရန် အက်ပ်ကို ခွင့်ပြုပါ</string>
+    <string name="other_settings_user_experience">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
+    <string name="other_settings_user_experience_summary">အမည်မသိဒေတာအသုံးပြုမှုအချက်အလက်များ ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများအား တိုးတက်အောင် ကူညီပေးပါ။</string>
+    <string name="other_settings_upload_debug_log_title">ချွင်းချက်ပြုပြင်ချက်များအား အလိုအလျောက်ပေးပို့ပါ</string>
+    <string name="other_settings_upload_debug_log_summary">ကျွန်ုပ်တို့ စုဆောင်းလိုက်သော အချက်အလက်များအား စနစ်ရှိ ပြဿနာအား စီစစ်ရှာဖွေဖြေရှင်းရန်အတွက် အသုံးပြုပါသည်။ ၄င်းတွင် သင့်ကိုယ်ရေးအချက်အလက်များပါဝင်နိုင်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာအား သိရှိရန် မည်သည့်ဒေတာကိုမျှ အသုံးပြုမည်မဟုတ်ပါ။</string>
+    <string name="other_settings_auto_update">Install automatically</string>
+    <string name="other_settings_auto_update_summary">MIUI will select the best moment to install updates.</string>
+    <string name="other_settings_mifg_online_content">နောက်ခံပုံ လှည့်ပြခြင်း</string>
+    <string name="other_settings_mifg_online_content_summary">ရုပ်ပုံအသစ်များ ဒေါင်းလုပ်လုပ်နိုင်ရန် ဝေါလ်ပေပါ ကာရိုဆယ်အား အင်တာနက်နှင့် ချိတ်ဆက်ရန် ခွင့်ပြုပေးပါ</string>
+    <string name="back">နောက်သို့</string>
+    <string name="next">နောက်ထပ်</string>
+    <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
+    <string name="sim_dectection_next">ဆက်လုပ်ရန်</string>
+    <string name="shut_down">အပြီးပိတ်ပါ</string>
+    <string name="sim_redetection">ထပ်မံ စစ်ဆေးပါ</string>
+    <string name="congratulation_title">သတ်မှတ်မှု ပြီးပြည့်စုံပြီ</string>
+    <string name="congratulation_label">သင်စတင်ရန် အသင့်ဖြစ်နေပြီ!</string>
+    <string name="pref_title_voice_slot">အသံ SIM ကတ်ကို ပိုနှစ်ခြိုက်သည်</string>
+    <string name="pref_title_data_slot">ဒေတာ SIM ကတ်ကို ပိုနှစ်ခြိုက်သည်</string>
+    <string name="summary_not_set">မသတ်မှတ်ထား</string>
+    <string name="ime_privacy_policy">ရွေးထားသော ကီးဘုတ်အတွက် ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
+    <string name="ime_privacy_policy_no_network">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ ဒီကီးဘုတ်အတွက်ကိုယ်ပိုင်ရေးရာမူဝါဒကို၊ %s ၌ ကြည့်ပါ</string>
+    <string name="terms_of_use">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
+    <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
+
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, and Mi Account components will connect to the internet and acquire your location."</string>
+    <string name="user_agreement">ဝန်ဆောင်မှုသတ်မှတ်ချက်များ</string>
+    <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
+    <string name="agree">သဘောတူသည်</string>
+    <string name="disagree">ပယ်ဖျက်သည်</string>
+    <string name="setting_locale">ပင်ရင်းဒေသ သတ်မှတ်နေ…</string>
+    <string name="agree_terms">ဝန်ဆောင်မှုစည်းမျဉ်းများနှင့် ကိုယ်ရေးမူဝါဒများအား ကျွန်ုပ်ဖတ်ပြီး သဘောတူပါသည်။</string>
+    <string name="miui_terms_no_network">သင့်၌ အင်တာနက်ချိတ်ဆက်မှုတစ်ခု ရှိမနေပါ။ %s ၌ ဝန်ဆောင်မှုသတ်မှတ်ချက်များကို ကြည့်ပါ။</string>
+    <string name="miui_privacy_policy_no_network">သင့်၌ အင်တာနက်ချိတ်ဆက်မှုတစ်ခု ရှိမနေပါ။ %s ၌ ကိုယ်ရေးမူဝါဒကို ကြည့်ပါ။</string>
+    <string name="locale_picker_title">သင့်နေရာကို ရွေးချယ်ပါ</string>
+    <string name="install_preinstall_app">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
+    <string name="title_fingerprint">သင့်လက်ဗွေအား ပေါင်းထည့်ပါ</string>
+    <string name="desc_fingerprint">သင့်စက်အား သော့ဖြည်ရန် လက်ဗွေအား အသုံးပြုပါ၊ Mi Pay လွှဲပြောင်းမှုများအား အတည်ပြုပါ၊ သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="desc_extra_fingerprint" />
+    <string name="next_fingerprint">နောက်သို့</string>
+    <string name="desc_extra_international_fingerprint" />
+    <string name="desc_international_fingerprint">သင့်စက်အား သော့ဖြည်ရန် သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ရန် လက်ဗွေအား အသုံးပြုပါ</string>
+    <string name="content_description_start">စတင်</string>
+    <string name="content_description_miui_version">MIUI 8</string>
+    <string name="content_description_complete">ပြည့်စုံသော</string>
+    <string name="content_description_language_picker">ဘာသာစကား ရွေးချယ်ပါ</string>
+    <string name="language_picker_other_languages_title">ဘာသာစကားပိုမို၍</string>
+    <string name="enable_accessibility_dialog_message">ဖုန်းမျက်နှာပြင်ကို လက်နှစ်ချောင်းဖြင့် ၁၀ စက္ကန့်ထက်ကြာကြာ ဖိနှိပ်ထားခြင်းဖြင့် TalkBack အားဖွင့်လိုက်ပါ။ TalkBack သည် အမြင်အာရုံချို့တဲ့သူများအတွက် အသံဖြင့်တုန့်ပြန်မှုကို ပေးစွမ်းပါသည်။ ၄င်းအား မတော်တဆဖွင့်လိုက်မိပါက ပယ်ဖျက်ပါ ခလုတ်ကိုနှိပ်ပြီး ပြန်ပိတ်လိုက်ပါ၊ ပြီးနောက် မျက်နှာပြင်အား နှစ်ချက်ဆက်တိုက်ထိနှိပ်ပါ။</string>
+    <string name="enable_accessibility_dialog_positive_btn">အိုကေ</string>
+    <string name="enable_accessibility_dialog_negative_btn">ဖျက်သိမ်း</string>
+    <string name="cm_terms_title">မိုဘိုင်းကွန်ရက် အော်ပရိတ်တာ သဘောတူညီချက်</string>
+    <string name="cm_terms_content">သင့်ကိုထောက်ပံ့ထားသော ဝန်ဆောင်မှုများကို တိုးဆက်စေရန်၊သင်ရွေးလိုက်ရာ မိုဘိုင်းကွန်ရက် အော်ပရေတာသည် သင်၏ပုဂ္ဂိုလ်ရေးရာ ဒေတာများနှင့် ဤစက်၏ အချက်အလက်များကို ၄င်းဆာဗာသို့ Wi-Fi သို့မဟုတ် မိုဘိုင်းဒေတာအသုံးပြုပြီး လုတ်တင်ပါလိမ့်မည်။ ဤအချက်အချက်အလက်များကို ဝန်ဆောင်မှု အရည်အသွေးတိုးမြှင့်ရန်နှင့် သင့်အတွက် အသုံးဝင်သော ကြောင်းအရာများကို ပိုမိုထောင့်ပံ့ပေးနိုင်ရန်သာ အသုံးပြုမည်ဖြစ်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာကို သိရှိရန်နှင့် အခြား တစ်ဆင့်ခံများကို ဖော်ထုတ်ပြခြင်း လုံးဝမပြုလုပ်ပါ။</string>
+</resources>

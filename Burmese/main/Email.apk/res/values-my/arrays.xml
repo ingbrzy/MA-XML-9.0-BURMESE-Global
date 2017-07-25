@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="calendar_remind_string_array">
+        <item>ယနေ့ည</item>
+        <item>မနက်ဖြန်</item>
+        <item>စနေနေ့နှင့်တနင်္ဂေနွနေ့</item>
+        <item>နောက်တစ်ပတ်</item>
+        <item>နောက်တစ်လ</item>
+        <item>ရက်စွဲရွေးပါ</item>
+    </string-array>
+    <string-array name="compose_modes">
+        <item>ပြန်ကြား</item>
+        <item>အားလုံးပြန်ကြား</item>
+        <item>ထပ်ဆင့်ပို့ရန်</item>
+    </string-array>
+    <string-array name="general_preference_text_zoom_summary_array">
+        <item>သေးငယ်သော</item>
+        <item>ငယ်သော</item>
+        <item>ပုံမှန်</item>
+        <item>ကြီးသော</item>
+        <item>အလွန်ကြီးသော</item>
+    </string-array>
+    <string-array name="menu_att_mgr_sort_string_array">
+        <item>မကြာသေးမီကကြည့်ထားသော</item>
+        <item>ဖောမတ်</item>
+        <item>အမည်</item>
+        <item>ပေးပို့သူ</item>
+        <item>ရရှိသောဒေတာ</item>
+    </string-array>
+    <string-array name="moveto_folder_sections">
+        <item>စနစ်</item>
+        <item>အသုံးများသော</item>
+        <item>ဖိုင်တွဲအားလုံး</item>
+    </string-array>
+    <string-array name="prefEntries_autoAdvance">
+        <item>ပိုသစ်သောမက်ဆေ့ချ်</item>
+        <item>ပိုဟောင်းသောမက်ဆေ့ချ်</item>
+        <item>အဝင်ပုံး</item>
+    </string-array>
+    <string-array name="signature_normal_string_array_next">
+        <item>လိပ်စာ−</item>
+        <item>တယ်လီဖုန်း−</item>
+        <item>အမည်−</item>
+        <item>အီးမေးလ်−</item>
+        <item>မိုလ်ဘိုင်း−</item>
+        <item>WeChat−</item>
+        <item>Fax−</item>
+        <item>စာတိုက်သင်္ကေတကုဒ်</item>
+    </string-array>
+    <string-array name="signature_special_string_array_next">
+        <item>ကျေးဇူးပါ၊</item>
+        <item>လေးစားစွာဖြင့်</item>
+        <item>မှပေးပို့သည်</item>
+        <item>နဂိုမူလအီးမေးလ်</item>
+        <item>မှပေးပို့သည်</item>
+        <item>မှပေးပို့</item>
+        <item>မှ</item>
+        <item>ဤအီးမေးလ်</item>
+        <item>မသက်ဆိုင်ကြောင်းငြင်းဆိုချက်</item>
+        <item>မသက်ဆိုင်ကြောင်းငြင်းဆိုချက် အီးမေးလ်</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="install_game_count_title">
+        <item quantity="other">ဂိမ်း %d ခုပေါင်းထည့်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="uninstall_game_count_title">
+        <item quantity="other">ဂိမ်း %d ခု မပေါင်းရသေး</item>
+    </plurals>
+    <plurals name="found_apps_title">
+        <item quantity="other">အက်ပ် %d ခုကို တွေ့ရှိခဲ့သည်</item>
+    </plurals>
+    <plurals name="find_applications">
+        <item quantity="other">အက်ပ် %d ခုအတွင်းရှာပါ</item>
+    </plurals>
+</resources>
