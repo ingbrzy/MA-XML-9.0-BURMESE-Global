@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>အေးအောင်လုပ်နေသည်</item>
+        <item>အပူပေးနေသည်</item>
+        <item>ရေငွေ့လျှော့ချနေသည်</item>
+        <item>ပန်ကာ</item>
+    </string-array>
+    <string-array name="answer">
+        <item>သင့်စက်သည် Mi TV၊ Mi Box နှင့် အခြားသော Wi-Fi သုံးသည့် Android စက်မျာဖြင့်သာ တွဲချိတ်နိုင်ပါသည်။</item>
+        <item>တွဲချိတ်စဉ် မှန်ကန်သော A/C မော်ဒယ်ကို ရွေးထားကြောင်းသေချာအောင် လုပ်ပါ။ တွဲချိတ်ခြင်းပြီးမြောက်သည် အထိ ပေါ်လာသော ညွှန်ပြချက်များအတိုင်း သေချာစွာ လိုက်နာဆောင်ရွက်ပါ။</item>
+        <item>မဟုတ်ပါ။ သင်သည် Mi 4, Mi 4c နှင့် Redmi Note 2 တို့အား အဝေးထိန်း IR ရီမုဒ်အဖြစ် အသုံးပြုနိုင်ပါသည်</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>နွေ</item>
+        <item>လာ</item>
+        <item>ဂါ</item>
+        <item>ဟူး</item>
+        <item>တေး</item>
+        <item>သော</item>
+        <item>နေ</item>
+    </string-array>
+    <string-array name="question">
+        <item>အဘယ်ကြောင့် ကျွန်ုပ်၏ဖုန်းသည် ကြိုးမဲ့စက်များအား ဆက်တိုက်ရှာဖွေနေရသနည်း?</item>
+        <item>အဘယ်ကြောင့် A/Cအား ဖွင့်၍ရပြီး ပိတ်၍မရသနည်း?</item>
+        <item>Mi 3, Mi 2, နှင့် Redmi တို့အား ရီမုဒ်အဖြစ်အသုံးပြု၍ ရနိုင်ပါသလား?</item>
+    </string-array>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="group_name_translate">
+        <item>မူလသတ်မှတ်ချက်</item>
+        <item>ဖုံးကွယ်မုဒ်</item>
+        <item>စာဖတ်မုဒ်</item>
+        <item>မီဒီယာမုဒ်</item>
+    </string-array>
+    <string-array name="event_name_translate">
+        <item>အက်ပ်လက်ရှိအရှေ့တွင် အလုပ်လုပ်နေသည်</item>
+        <item>ပြသမှုအားဖွင့်</item>
+        <item>ပြသမှုအားပိတ်</item>
+        <item>10 မိနစ်ကြာပြီးနောက် ပြသမှုအားပိတ်ပါ</item>
+        <item>မျက်နှာပြင်အပြည့်</item>
+        <item>မျက်နှာပြင်အပြည့်မှထွက်</item>
+        <item>အက်ပ်သည် နောက်ခံတွင်အလုပ်လုပ်နေပါသည်</item>
+        <item>ဖုန်းအားသွင်းနေပါသည်</item>
+        <item>ဖုန်းအားသွင်းမနေပါ</item>
+        <item>ဖုန်းပုံမှန်အနေထားတွင်ရှိနေသည်</item>
+    </string-array>
+    <string-array name="action_name_translate">
+        <item>အမြင့်ဆုံး　တောက်ပမှု</item>
+        <item>အမြင့်ဆုံး　CPU　ကြိမ်နှုန်း</item>
+        <item>ပြသခြင်းမုဒ်</item>
+        <item>CPU အသုံးပြမှု</item>
+        <item>အင်တာနက်ဒေတာချိတ်ဆက်မှု</item>
+        <item>တည်နေရာ</item>
+        <item>ပထမအသိပေးချက်</item>
+        <item>သော့ခတ်မျက်နှာပြင်　အသိပေးချက်များ</item>
+        <item>နောက်ခံဒေတာချိတ်ဆက်မှုများအား　ကန့်သတ်ပါ</item>
+    </string-array>
+    <string-array name="action_param_translate">
+        <item>မရှိ</item>
+        <item>မူလသတ်မှတ်ချက်</item>
+        <item>ပုံ</item>
+        <item>ရုပ်ရှင်</item>
+        <item>ဘက်ထရီချွေတာသူ</item>
+        <item>ဟန်ချက်ညီညီ</item>
+        <item>စွမ်းဆောင်ရည်</item>
+        <item>ဖွင့်ရန်</item>
+        <item>ပိတ်ရန်</item>
+        <item>ချက်ချင်း</item>
+        <item>10　မိနစ်ပြီးနောက်</item>
+        <item>မိနစ်30 ပြီးနောက်</item>
+        <item>ပြသမှုပိတ်ပြီးနောက်</item>
+    </string-array>
+    <string-array name="app_groups">
+        <item>ဤမုဒ်ထဲတွင်</item>
+        <item>တစ်ခုမှ ရွေးမထားပါ</item>
+        <item>အခြားရွေးထားသော မုဒ်များထဲတွင်</item>
+    </string-array>
+    <string-array name="hmode_app_groups">
+        <item>ကိုယ်တိုင်လုပ်ပါ</item>
+        <item>ဘက်ထရီချွေတာသူ</item>
+    </string-array>
+    <string-array name="power_checker_group_prefix">
+        <item>ယခု</item>
+        <item>နောက်ခံ</item>
+        <item>မကြာမီက</item>
+    </string-array>
+    <string-array name="power_checker_running_group_titles">
+        <item>Blocking deep sleep mode</item>
+        <item>Blocking sleep mode</item>
+        <item>Wi-Fi ရှာဖွေနေ</item>
+        <item>GPS အသုံးပြုနေ</item>
+        <item>CPU အသုံးပြုနေ</item>
+        <item>စက်အား မကြာခဏနှိုးစေသည်</item>
+    </string-array>
+    <string-array name="power_checker_recent_group_titles">
+        <item>Kernel WakeLock</item>
+        <item>WakeLock</item>
+        <item>WIFI စကန်</item>
+        <item>GPS</item>
+        <item>CPU</item>
+        <item>နှိုးထ</item>
+    </string-array>
+    <string-array name="power_checker_group_suffix">
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>Default warm control mode</item>
+        <item>Performance first mode</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>The current temperature control mode, the temperature of experience is preferred</item>
+        <item>The current performance model, performance experience is preferred, temperatures could rise</item>
+    </string-array>
+</resources>
