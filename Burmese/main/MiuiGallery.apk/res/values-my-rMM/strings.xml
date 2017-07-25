@@ -588,7 +588,6 @@
     <string name="welcome_to_slim">အတွင်းသိုလှောင်မှုအား ချဲ့ထွင်</string>
     <string name="slim_introduce">ရီဆိုလူးရှင်းအပြည့်ရှိသောပုံအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု နေရာအများအပြား ချွေတာနိုင်ပါသည်။</string>
     <string name="slim_introduce_with_specific_size">ရီဆိုလူးရှင်းအပြည့်ရှိသောဖိုင်များအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု %1$s ချွေတာနိုင်ပါသည်။ဤသို့ပြုလုပ်ရန် (Mi အကောင့်လိုအပ်ပါသည်)</string>
-    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
     <string name="next">နောက်ထပ်</string>
     <string name="login_and_enable_service">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>

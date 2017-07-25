@@ -693,7 +693,6 @@
     <string name="miprofile_alertdialog_message">ကတ်များအား ဖလှယ်ရန်သင်မေးလိုက်စဉ် ဤအမည်အား ဆက်သွယ်မှုများသို့ ပြသပါ</string>
     <string name="miprofile_alertdialog_edit">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="miprofile_switch_off_alertdialog_message">သင်သည် လိပ်စာကတ်အား အခြားသူများနှင့် လဲလှယ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
-    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">ဖုန်းနံပါတ် ထည့်ပါ</string>
     <string name="miprofile_bind_account_alertdialog_message">ဤလုပ်ဆောင်ချက်အား အသုံးပြုရန် ဤစက်၏ဖုန်းနံပါတ်အား သင့်Miအကောင့်ထဲသို့ပေါင်းထည့်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="miprofile_bind_account_alertdialog_positive">နံပါတ်ထည့်မည်</string>
