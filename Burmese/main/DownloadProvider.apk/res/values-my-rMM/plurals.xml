@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="notif_summary_active">
-        <item quantity="other">ဖိုင်%dဖိုင် ဒေါင်းလုတ်လုပ်နေသည်</item>
-    </plurals>
-    <plurals name="notif_summary_waiting">
-        <item quantity="other">ဖိုင် %d ခု စောင့်နေပါသည်</item>
-    </plurals>
-</resources>
