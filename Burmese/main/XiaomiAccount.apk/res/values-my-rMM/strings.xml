@@ -387,4 +387,6 @@
     <string name="mipay_balance">လက်ကျန်</string>
     <string name="mipay_others">အခြားသော</string>
     <string name="mipay_identity">ID အတည်ပြုခြင်း</string>
+    <string name="mipay_indentity_done">done</string>
+    <string name="mipay_identitiy_no">no</string>
 </resources>

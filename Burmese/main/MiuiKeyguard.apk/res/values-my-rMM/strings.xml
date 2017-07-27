@@ -44,7 +44,6 @@
     <string name="unlock_string">သော့ဖွင့်ပါ</string>
     <string name="open_camera_hint_text">%s အားဖွင့်ရန် ဘယ်ဘက်သို့ဆွဲလိုက်ပါ</string>
     <string name="open_remote_center_hint_text">%s အားဖွင့်ရန် ညာဘက်သို့ဆွဲလိုက်ပါ</string>
-    <string name="left_action_default_hint_text">Mi ရီမု</string>
     <string name="click_to_enter_text">ကြည့်ရန် နှိပ်ပါ</string>
     <string name="fingerprint_try_again_text">ထပ်ကြိုးစား</string>
     <string name="fingerprint_try_again_msg">သင့်ဘက်ဗွေအား အတည်မပြုရသေးပါ၊ ထပ်မံကြိုးစားကြည့်ပါ</string>
@@ -100,4 +99,5 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
+    <string name="left_action_default_hint_text">Mi ရီမု</string>
 </resources>

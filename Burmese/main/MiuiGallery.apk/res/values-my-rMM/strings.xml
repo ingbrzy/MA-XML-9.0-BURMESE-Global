@@ -505,7 +505,7 @@
     <string name="publish_failed">ထုတ်ပြန်၍ မရနိုင်ပါ</string>
     <string name="unpublish_succeeded">အယ်လ်ဘမ်ကို ထုတ်ပြန်ခြင်းမှ ပြန်ရုပ်သိမ်းပြီးပါပြီ</string>
     <string name="unpublish_failed">ထုတ်ပြန်ထားခြင်းမှ ပြန်ရုပ်သိမ်း၍ မရနိုင်ပါ</string>
-    <string name="send_public_url">အယ်လ်ဘမ် URl ကို ပို့ပါ</string>
+    <string name="send_public_url">အယ်လ်ဘမ် URL ကို ပို့ပါ</string>
     <string name="public_url_descript">ဤ URL ကိုအသုံးပြုပြီး သင့်ရဲ့ အယ်လ်ဘမ်ကို လူတိုင်းကြည့်နိုင်သည်</string>
     <string name="share_public_url_text">ကျွန်ုပ်သည် အယ်လ်ဘမ် %1$s ကို သင်နှင့်အတူ မျှဝေထားသည်။ ၎င်းကို %2$s တွင်ကြည့်ပါ</string>
     <string name="unpublishing">ပယ်ဖျက်နေသည်…</string>
@@ -588,6 +588,7 @@
     <string name="welcome_to_slim">အတွင်းသိုလှောင်မှုအား ချဲ့ထွင်</string>
     <string name="slim_introduce">ရီဆိုလူးရှင်းအပြည့်ရှိသောပုံအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု နေရာအများအပြား ချွေတာနိုင်ပါသည်။</string>
     <string name="slim_introduce_with_specific_size">ရီဆိုလူးရှင်းအပြည့်ရှိသောဖိုင်များအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု %1$s ချွေတာနိုင်ပါသည်။ဤသို့ပြုလုပ်ရန် (Mi အကောင့်လိုအပ်ပါသည်)</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
     <string name="next">နောက်ထပ်</string>
     <string name="login_and_enable_service">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
@@ -664,6 +665,7 @@
     <string name="cloud_storage_ok_append_desc">ရရှိနိုင်သော %s</string>
     <string name="cloud_storage_warn_title">Mi ကလောက်သိုလှောင်မှု မလုံလောက်ပါ</string>
     <string name="cloud_storage_warn_desc">သိုလှောင်မှုပိုမိုရယူရန် ကလောက် VIP အားဝယ်ယူပါ</string>
+    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">Extend cloud space</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
@@ -760,6 +762,8 @@
     <string name="search_people_jump_failed">လူပုံပါသော ဓါတ်ပုံများ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ပြီးသည် အထိစောင့်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="search_album_jump_failed">အယ်လ်ဘမ်ကို Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ပြီးသည်အထိ စောင့်ပြီး ထပ်ကြိုးစားကြည့်ပါ</string>
     <string name="search_clear_histories">ရှင်းလင်း</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="grant_permission_title">အသုံးပြုဝင်ရောက်မှုအား ခွင့်ပြုပါ</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s

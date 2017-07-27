@@ -42,4 +42,10 @@
     <plurals name="dirty_blocklist_count">
         <item quantity="other">ပိတ်ဆို့စာရင်း ထည့်သွင်းမှု %d ခု</item>
     </plurals>
+    <plurals name="micloud_main_resume_sync_hour">
+        <item quantity="other">Resume sync after %d hours</item>
+    </plurals>
+    <plurals name="micloud_main_resume_sync_min">
+        <item quantity="other">Resume sync after %d minutes</item>
+    </plurals>
 </resources>

@@ -4,6 +4,7 @@
     <string name="loading">ခဏလောက်စောင့်…</string>
     <string name="app_name_which_call">အက်ပ်−%s</string>
     <string name="app_version_which_call">အက်ပ် ဗားရှင်း−%s</string>
+    <string name="pre_installed_apps">Pre-installed apps</string>
     <string name="policy_name">ပရိုတိုခေါ−%s</string>
     <string name="mibi_license">Mi ခရက်ဒစ်များ အသုံးပြုသူသဘောတူညီမှု</string>
     <string name="license_host_unreachable">"ကွန်ရက်သို့မချိတ်ဆက်နိုင်ခဲ့ပါ။ ဤအချက်အလက်ကိုယခု ကြည့်ရန် ၊

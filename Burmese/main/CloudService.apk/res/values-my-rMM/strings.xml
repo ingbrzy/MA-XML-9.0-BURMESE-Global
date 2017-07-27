@@ -237,6 +237,7 @@
     <string name="micloud_main_set_internet">ကွန်ရက်</string>
     <string name="micloud_main_sync_now">ယခုဆင့်ခ်လုပ်ပါ</string>
     <string name="micloud_main_sync_on">ဆင့်ခ်ပွင့်နေ</string>
+    <string name="micloud_main_master_sync_on">Sync on</string>
     <string name="micloud_main_network_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="micloud_main_sync_on_wifi">Wi-Fi အား စောင့်နေသည်</string>
     <string name="micloud_main_sync_setting">ဆင့်ခ်ဆက်တင်များ</string>
@@ -258,23 +259,33 @@
     <string name="micloud_main_space_low">နေရာလွတ် ကုန်ပါတော့မည်</string>
     <string name="micloud_main_update_space">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
     <string name="micloud_main_space_full_title">သိမ်းဆည်းရန် နေရာမလုံလောက်ပါ၊ ဆင့်ခ်လုပ်ခြင်း ခေတ္တရပ်ခဲ့သည်</string>
+    <string name="micloud_main_space_full_message">Upgrade to member will obtain more storage space</string>
     <string name="micloud_main_memory_low_title">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်မှု ပြည့်နေပြီ</string>
     <string name="micloud_main_memory_low_message">ဆင့်ခ်လုပ်ရန် သင်ကလောက်ထဲတွင် သိုလှောင်ထားသော နေရာမလုံလောက်ပါ</string>
     <string name="micloud_main_clear_now">ကြည်လင်သော</string>
     <string name="micloud_main_query_error_title">ဆင့်ခ်လုပ်စဉ်နှင့်ပတ်သတ်၍ အချက်အလက်မရရှိနိုင်ခဲ့ပါ</string>
     <string name="micloud_main_query_error_message">အချို့ဝန်ဆောင်မှုများအတွက် ဆင့်ခ်ပြီးမြောက်သွားပါက အတည်မပြုနိုင်ပါ</string>
     <string name="micloud_main_multi_user_error_title">Mi ကလောက်အမှား</string>
-    <string name="micloud_main_multi_user_error_message">"သင်ပထမနေရာတွင် ဤအကောင့်ဖြင့်ဆိုင်းအင်ဝင်ခဲ့ပြီး ၄င်းသည် Mi ကလောက် အမှားအား ဖြစ်ပေါ်စေခဲ့ပါသည်။အကယ်၍ဖိုင်များအား အရန်သိမ်းလိုပါက−
-
-၁။ အခြားမတူညီသည့်အကောင့်အား အသုံးပြုပါ။
-၂။ အိုင်တမ်များအား ပထမနေရာသို့ပြန်ထားပါ။"</string>
+    <string name="micloud_main_multi_user_error_message">"You signed in with the same account as in First space which caused a Mi Cloud error. 
+Use a different account."</string>
     <string name="micloud_main_cancel_sync">ဆင့်ခ်ဖျက်သိမ်းပါ</string>
+    <string name="micloud_main_query_again">Query</string>
+    <string name="micloud_main_wait_wlan">Waiting for Wi-Fi</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">Waiting for Wi-Fi, connecting charger and turn off screen</string>
+    <string name="micloud_main_wait_wlan_charge">Waiting for Wi-Fi, connecting charger</string>
+    <string name="micloud_main_wait_charge_sleep">Waiting for connecting charger and turn off screen</string>
+    <string name="micloud_main_wait_charge">Waiting for connecting charger</string>
+    <string name="micloud_main_resume_sync_soon">Resume sync soon</string>
+    <string name="micloud_main_button_set_internet">Setting</string>
+    <string name="micloud_main_button_activate">Activate</string>
+    <string name="micloud_main_button_authorize">Authorize</string>
     <string name="micloud_detail_syncing">ဆင့်ခ်လုပ်နေဆဲ</string>
     <string name="micloud_detail_upload_syncing">%s လုဒ်တင်နေ</string>
     <string name="micloud_detail_download_syncing">ဒေါင်းလုဒ်ဆွဲနေ %s</string>
     <string name="micloud_detail_pending">စောင့်နေသည်</string>
     <string name="micloud_detail_success">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="micloud_detail_fail">ဆင့်ခ်မလုပ်နိုင်ပါ</string>
+    <string name="micloud_detail_not_syncable">Not syncable</string>
     <string name="micloud_detail_lastest">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="micloud_detail_lastest_with_off">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="micloud_detail_not_synced">ဆင့်ခ်မလုပ်ခဲ့ပါ</string>
@@ -390,6 +401,10 @@
     <string name="micloud_main_title_sync_on_wifi">Wi-Fi ကို သုံးပါ</string>
     <string name="micloud_main_title_sync_off">ဆင့်ခ်ပိတ်ပါ</string>
     <string name="micloud_main_title_master_sync_off">အော်တို-ဆင့်ခ်လုပ်ခြင်း ပိတ်ထားသည်။</string>
+    <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
+    <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
+    <string name="micloud_main_error_activated_fail">Please activate Sim card.</string>
+    <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
     <string name="micloud_confusion_no">မဖွင့်</string>
     <string name="micloud_confusion_yes">ဟုတ်သည်</string>
     <string name="micloud_confusion_cancel">ပယ်ဖျက်</string>
@@ -519,7 +534,4 @@
     <string name="micloud_dialog_sync_now_message">ထပ်ဆောင်းမိုဘိုင်းဒေတာ စားရိတ်များ ရှောင်ရှားရန် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_dialog_sync_now_negative">ယခုမလုပ်သေး</string>
     <string name="micloud_dialog_sync_now_positive">မိုဘိုင်းဒေတာကို သုံးပါ</string>
-    <string name="micloud_main_sync_need_charge">သင့်စက်အား အားသွင်းပါ</string>
-    <string name="micloud_detail_query_error_title">ဆင့်ခ်လုပ်စဉ်နှင့်ပတ်သတ်၍ အချက်အလက်မရရှိနိုင်ခဲ့ပါ</string>
-    <string name="micloud_detail_query_error_detail">အချို့ဝန်ဆောင်မှုများအတွက် ဆင့်ခ်ပြီးမြောက်သွားကြောင်း အတည်မပြုနိုင်ပါ။ တုန့်ပြန်ခြင်း အက်ပ်အား အသုံးပြု၍ developer သို့ ဆက်သွယ်နိုင်ပါသည်။</string>
 </resources>
