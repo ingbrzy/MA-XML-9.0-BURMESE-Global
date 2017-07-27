@@ -1519,7 +1519,6 @@ Rolled over extra data"</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
     <string name="card_main_speeddetail_title">ချိတ်ဆက်မှု အမြန်နှုန်း</string>
     <string name="card_main_speeddetailt_summary">အက်ပ်တစ်ခုချင်းစီအတွက် ချိတ်ဆက်မှု အမြန်နှုန်းအား ကြည့်ပါ</string>
-    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>
