@@ -50,11 +50,4 @@
         <item>ဟိုပြေးဒီပြေး ဖုန်မှုန့်များ</item>
         <item>မြူ</item>
     </string-array>
-    <string-array name="editing_mode_entries">
-        <item>သင်းမ်များ</item>
-        <item>ဝစ်ဂတ်များ</item>
-        <item>နောက်ခံပုံ</item>
-        <item>အထူးဖန်တီးချက်များ</item>
-        <item>အပြင်အဆင်</item>
-    </string-array>
 </resources>
