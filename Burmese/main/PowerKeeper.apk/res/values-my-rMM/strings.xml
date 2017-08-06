@@ -122,13 +122,14 @@
     <string name="config_scenario_policies_title">Scenarios</string>
     <string name="scenario_policies_summary">Power saving according to scenario</string>
     <string name="sleep_config_enhance_title">Sleep saving modes</string>
-    <string name="sleep_config_enhance_description">Will improve standby power usage in night</string>
+    <string name="sleep_config_enhance_description">predict user sleep time by machine learning, whithin the sleep time, we may clear some background apps, restrict to use NFC, KeyGauard Notification, Sync, Bluetooth, GPS, mobile and wifi data, etc.</string>
     <string name="scenario_policies_warmcontrol">Warm control</string>
     <string name="warm_configure">Warm control configure</string>
+    <string name="important_warning">Warning</string>
+    <string name="confirm">Confirm</string>
+    <string name="warm_performance_tip">In high load scenarios, the cell phone temperature is higher than the default mode</string>
     <string name="vip_feedback">Vip Feedback</string>
     <string name="vip_feedback_enable">Enable Vip Auto Feedback</string>
-    <string name="vip_feedback_apply">Apply Vip Feedback</string>
-    <string name="vip_feedback_apply_msg">Please contact vip-feedback-system@xiaomi.com to apply Vip Feedback</string>
     <string name="power_config_mode_title">ပါဝါချွေတာမုဒ်</string>
     <string name="power_config_disable_title">ပိတ်ရန်</string>
     <string name="power_config_disable_description">MIUI သည်နောက်ခံလှုပ်ရှားမှုများအား ကန့်သတ်လိမ့်မည်မဟုတ်</string>

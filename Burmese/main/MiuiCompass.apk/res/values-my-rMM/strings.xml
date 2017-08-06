@@ -54,6 +54,6 @@
     <string name="altitude_uncalibrate_refresh">နောက်တစ်ခါထပ်ကြိုးစားပါ</string>
     <string name="altitude_uncalibrate_cancel">ပယ်ဖျက်ပါ</string>
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
-    <string name="app_description_title">About compass</string>
-    <string name="app_description_content">Compass is used for navigation and orientation and shows you direction. Make sure you can do without these features before you uninstall the app.</string>
+    <string name="app_description_title">သံလိုက်အိမ်မြှောင်အကြောင်း</string>
+    <string name="app_description_content">သံလိုက်အိမ်မြှောင်သည်သင့်အားလမ်းညွှန်နိုင်သည်။ ဤအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး အက်ပ်ကိုဖယ်ရှားပစ်ရန်သင်ဆုံးဖြတ်ခဲ့သည်။</string>
 </resources>

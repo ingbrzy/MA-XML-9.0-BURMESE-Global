@@ -8,7 +8,8 @@
     <string name="wifi_disabled_wifi_failure">WiFi ချိတ်ဆက်မှု မအောင်မြင်ပါ</string>
     <string name="wifi_disabled_password_failure">စစ်မှန်ကြောင်းအတည်ပြုရန်၌ ပြသနာရှိခြင်း</string>
     <string name="wifi_not_in_range">စက်ကွင်းထဲတွင် မဟုတ်ပါ</string>
-    <string name="wifi_no_internet">မည်သည့် အင်တာနက်မျှမရှိပါ၊ အလိုအလျောက် ပြန်လည်မချိတ်ဆက်ပါ။</string>
+    <string name="wifi_no_internet_no_reconnect">အင်တာနက်ချိတ်ဆက်မှု ရှာမတွေ့ပါ၊ အလိုအလျောက် ပြန်လည်ချိတ်ဆက်မည် မဟုတ်ပါ။</string>
+    <string name="wifi_no_internet">အင်တာနက် ချိတ်ဆက်မှု မရှိပါ။</string>
     <string name="saved_network">%1$s မှသိမ်းဆည်းခဲ့သည်</string>
     <string name="connected_via_wfa">ကြိုးမဲ့ကူညီသူမှတဆင့် ချိတ်ဆက်၏</string>
     <string name="connected_via_passpoint">%1$s မှတစ်ဆင့် ချိတ်ဆက်ထားသည်</string>
@@ -51,7 +52,7 @@
     <string name="bluetooth_hid_profile_summary_use_for">ထည့်သွင်းရန်အသုံးပြုသည်</string>
     <string name="bluetooth_pairing_accept">အတူတွဲပါ</string>
     <string name="bluetooth_pairing_accept_all_caps">ချိတ်တွဲရန်</string>
-    <string name="bluetooth_pairing_decline">မလုပ်တော့ပါ</string>
+    <string name="bluetooth_pairing_decline">မလုပ်တော့</string>
     <string name="bluetooth_pairing_will_share_phonebook">ချိတ်တွဲမှုက ချိတ်ဆက်ထားလျှင် သင်၏ အဆက်အသွယ်များ နှင့် ခေါ်ဆိုမှု မှတ်တမ်းကို ရယူခွင့် ပြုသည်။</string>
     <string name="bluetooth_pairing_error_message">%1$sနှင့် တွဲချိတ်မရပါ</string>
     <string name="bluetooth_pairing_pin_error_message">ပင်နံပါတ် သို့မဟုတ် ဖြတ်သန်းခွင့်ကီးမမှန်ကန်သောကြောင့်%1$sနှင့် တွဲချိတ်မရပါ။</string>
@@ -128,8 +129,8 @@
     <string name="oem_unlock_enable_summary">အစပြုခြင်းကိရိယာအား သော့ဖွင့်ရန် ခွင့်ပြုမည်</string>
     <string name="confirm_enable_oem_unlock_title">OEM သော့ဖွင့်ခြင်း ခွင့်ပြုမလား?</string>
     <string name="confirm_enable_oem_unlock_text">သတိပေးချက်: ဤချိန်ညှိချက်ဖွင့်ထားလျှင်၊ ဤစက်ပစ္စည်းပေါ်တွင် စက်ပစ္စည်းကာကွယ်သည့် အထူးပြုလုပ်ချက် အလုပ်လုပ်မည်မဟုတ်ပါ။</string>
-    <string name="mock_location_app">တည်နေရာအတုပြု အက်ပ် ရွေးရန်</string>
-    <string name="mock_location_app_not_set">တည်နေရာအတုပြ အက်ပ် သတ်မှတ်ထားခြင်းမရှိပါ</string>
+    <string name="mock_location_app">တည်နေရာအတုပြု အက်ပ်ရွေးရန်</string>
+    <string name="mock_location_app_not_set">တည်နေရာအတုပြ အက်ပ်သတ်မှတ်ထားခြင်းမရှိပါ</string>
     <string name="mock_location_app_set">တည်နေရာအတုပြ အက်ပ်- %1$s</string>
     <string name="debug_networking_category">ကွန်ရက်လုပ်ငန်း</string>
     <string name="wifi_display_certification">ကြိုးမဲ့ပြသမှု အသိအမှတ်ပြုလက်မှတ်</string>
@@ -144,12 +145,15 @@
     <string name="wifi_allow_scan_with_traffic_summary">မျက်နှာပြင်တွင် ဖော်ပြသည့် အချက်လက် အသွားအလာ ပမာဏပေါ်တွင် အခြေခံ၍ WIFI ရွမ်းရှာဖွေမှုအား ဖွင့်/ပိတ်မည်</string>
     <string name="select_logd_size_title">လော့ဂါး ဘာဖား ဆိုက်များ</string>
     <string name="select_logd_size_dialog_title">လော့ ဘာဖားတွက် လော့ဂါးဆိုက် ရွေး</string>
+    <string name="dev_logpersist_clear_warning_title">မှတ်တမ်းထိန်းသိမ်းပေးသည့် သိုလှောင်ခန်းကို ရှင်းလင်းမလား။</string>
+    <string name="dev_logpersist_clear_warning_message">အမြဲတမ်းမှတ်တမ်းတင်ခြင်းစနစ်ဖြင့် ကျွန်ုပ်တို့ကစောင့်ကြည့်ခြင်းမရှိတော့သည့်အခါ သင့်စက်ပစ္စည်းပေါ်ရှိ ဒေတာမှတ်တမ်းစနစ်ကို ကျွန်ုပ်တို့က ဖျက်ရပါလိမ့်မည်။</string>
+    <string name="select_logpersist_title">စက်တွင် မှတ်တမ်းအြမဲသိမ်းရန်</string>
+    <string name="select_logpersist_dialog_title">စက်ပစ္စည်းပေါ်တွင် ထိန်းသိမ်းသိုမှီးရန် မှတ်တမ်းလျာထားချက်များကို ရွေးပါ</string>
     <string name="select_usb_configuration_title">USB စီစဉ်ဖွဲ့စည်းမှု ရွေးရန်</string>
     <string name="select_usb_configuration_dialog_title">USB စီစဉ်ဖွဲ့စည်းမှု ရွေးရန်</string>
     <string name="allow_mock_location">ပုံစံတုတည်နေရာများကို ခွင့်ပြုရန်</string>
     <string name="allow_mock_location_summary">ပုံစံတုတည်နေရာများကို ခွင့်ပြုရန်</string>
     <string name="debug_view_attributes">အရည်အချင်းများ စူးစမ်းမှု မြင်ကွင်းကို ဖွင့်ပေးရန်</string>
-    <string name="legacy_dhcp_client_summary">Android DHCP ကလိုင်းယင့် အသစ် အစား Lollipop မှ DHCP ကလိုင်းယင့်အား သုံးပါ။</string>
     <string name="mobile_data_always_on_summary">ဝိုင်ဖိုင်ဖွင့်ထားလျှင်တောင် မိုဘိုင်းဒေတာအမြဲတမ်းဖွင့်မည် (မြန်ဆန်သည့် ကွန်ရက် ပြောင်းခြင်းအတွက်)။</string>
     <string name="adb_warning_title">USB ပြသနာရှာခြင်း ခွင့်ပြုပါမလား?</string>
     <string name="adb_warning_message">USBအမှားရှားခြင်းမှာ ဆော့ဝဲလ်ရေးသားရန်အတွက်သာ ရည်ရွယ်ပါသည်။ သင့်ကွန်ပြုတာနှင့်သင့်စက်ကြားတွင် ဒေတာများကိုကူးယူရန်၊ အကြောင်းမကြားပဲနှင့် သင့်စက်အတွင်းသို့ အပလီကေးရှင်းများထည့်သွင်းခြင်းနှင့် ဒေတာမှတ်တမ်းများဖတ်ရန်အတွက် အသုံးပြုပါ</string>
@@ -170,7 +174,7 @@
     <string name="select_application">အပလီကေးရှင်းရွေးချယ်ရန်</string>
     <string name="no_application">တခုမှမရှိ</string>
     <string name="wait_for_debugger">အပြစ်ရှာဖွေ ဖယ်ရှားချက်ကိုစောင့်ရန်</string>
-    <string name="wait_for_debugger_summary">အမှားပြင်ဆင်ရှာဖွေသည့် အပလီကေးရှင်းသည် လုပ်ငန်းမစမှီ တွဲဖက်ရန် အမှားရှာဖွေမည့်သူကို စောင့်နေသည်။</string>
+    <string name="wait_for_debugger_summary">အမှားပြင်ဆင်ရှာဖွေသည့် အပလီကေးရှင်းသည် လုပ်ငန်းမစမီ တွဲဖက်ရန် အမှားရှာဖွေမည့်သူကို စောင့်နေသည်။</string>
     <string name="debug_input_category">ထည့်သွင်းရန်</string>
     <string name="debug_drawing_category">ရေးဆွဲခြင်း</string>
     <string name="debug_hw_drawing_category">ဟာ့ဒ်ဝဲ အရှိန်မြှင့် ပုံဖော်ခြင်း</string>
@@ -183,11 +187,11 @@
     <string name="show_touches">တို့ခြင်းများကို ပြပါ</string>
     <string name="show_touches_summary">တို့ခြင်းများအတွက် အမြင်ဖြင့် တုံ့ပြန်မှုပြပါ</string>
     <string name="show_screen_updates">surface အဆင့်မြှင့်မှုများပြပါ</string>
-    <string name="show_screen_updates_summary">အဆင့်မြှင့်နေစဉ် ဝင်းဒိုးမျက်နှာတပြင်လုံးကို အချက်ပြရန်</string>
+    <string name="show_screen_updates_summary">အပ်ဒိတ်လုပ်စဉ် ဝင်းဒိုးမျက်နှာပြင်တွင် အချက်ပြရန်</string>
     <string name="show_hw_screen_updates">GPUမြင်ကွင်းအဆင့်မြှင့်ခြင်းများပြရန်</string>
     <string name="show_hw_screen_updates_summary">GPU နှင့်ဆွဲစဉ် ၀င်းဒိုးအတွင်းပိုင်း လျှပ်တပြက်မြင်ကွင်းများ</string>
     <string name="show_hw_layers_updates">ဟာ့ဒ်ဝဲအလွှာများအဆင်မြှင့်မှုကိုပြရန်</string>
-    <string name="show_hw_layers_updates_summary">အဆင့်မြှင်ချိန် ဟာ့ဒ်ဝဲအလွှာများကို အစိမ်းရောင်ဖြင့်အချက်ပြရန်</string>
+    <string name="show_hw_layers_updates_summary">အပ်ဒိတ်လုပ်ချိန် ဟာ့ဒ်ဝဲအလွှာများ အစိမ်းရောင်ပြပါ</string>
     <string name="debug_hw_overdraw">GPU ပိုသုံးစွဲမှုအမှားရှာဖွေပြင်ဆင်ရန်</string>
     <string name="disable_overlays">HWထပ်ဆင့်အရာများပိတ်ရန်</string>
     <string name="disable_overlays_summary">GPU ကိုမျက်နှာပြင်ခင်းကျင်းရာတွင် အမြဲသုံးပါ။</string>
@@ -199,8 +203,6 @@
     <string name="debug_layout_summary">ဖြတ်ပိုင်းအနားသတ်များ၊ အနားများ စသဖြင့် ပြပါ။</string>
     <string name="force_rtl_layout_all_locales">RTL ဖွဲ့စည်းပုံအညွှန်း မဖြစ်မနေလုပ်ပါ</string>
     <string name="force_rtl_layout_all_locales_summary">လိုကယ်လ်အားလုံးအတွက် မျက်နှာပြင် ဖွဲ့စည်းပုံအညွှန်း မဖြစ်မနေလုပ်ရန်</string>
-    <string name="show_cpu_usage">CPUအသုံးပြုမှုအား ပြသရန်</string>
-    <string name="show_cpu_usage_summary">လက်ရှိCPUအသုံးပြုမှုအားလုံး မျက်နှာပြင်တွင်ပြသမှု</string>
     <string name="force_hw_ui">GPUအား အတင်းအကျပ်ဖြစ်စေမည်</string>
     <string name="force_hw_ui_summary">GPUကို ၂ဖက်မြင်ပုံဆွဲခြင်းအတွက် မဖြစ်မနေအသုံးပြုစေရန်</string>
     <string name="force_msaa">တွန်းအား ၄× MSAA</string>
@@ -211,7 +213,7 @@
     <string name="transition_animation_scale_title">သက်ဝင်အသွင်ပြောင်းခြင်း</string>
     <string name="animator_duration_scale_title">လှုပ်ရှားမှုကြာချိန်စကေး</string>
     <string name="overlay_display_devices_title">ဆင့်ပွားမျက်နှာပြင်များအသွင်ဆောင်သည်</string>
-    <string name="debug_applications_category">အပလီကေးရှင်းများ</string>
+    <string name="debug_applications_category">အက်ပ်များ</string>
     <string name="immediately_destroy_activities">ဆောင်ရွက်မှုများကို မသိမ်းထားပါနှင့်</string>
     <string name="immediately_destroy_activities_summary">အသုံးပြုသူထွက်ခွါသွားသည်နှင့် လုပ်ဆောင်ချက်များကို ဖျက်ပစ်မည်</string>
     <string name="app_process_limit_title">နောက်ခံလုပ်ငန်းစဉ်ကန့်သတ်ခြင်း</string>
@@ -229,7 +231,7 @@
     <string name="local_backup_password_toast_success">အရန်သိမ်းဆည်းခြင်းအတွက် စကားဝှက်အသစ်ကို သတ်မှတ်ပြီးပြီ။</string>
     <string name="local_backup_password_toast_confirmation_mismatch">စကားဝှက်အသစ်နှင့် အတည်ပြုချက် ကွဲလွဲနေသည်။</string>
     <string name="local_backup_password_toast_validation_failure">အရန်သိမ်းဆည်းခြင်းအတွက် စကားဝှက်သတ်မှတ်ချက် မအောင်မြင်ပါ။</string>
-    <string name="inactive_apps_title">အလုပ်မလုပ်သော အက်ပ် များ</string>
+    <string name="inactive_apps_title">အလုပ်မလုပ်သော အက်ပ်များ</string>
     <string name="inactive_app_inactive_summary">ပွင့်မနေပါ။ ပြောင်းရန်တို့ပါ။</string>
     <string name="inactive_app_active_summary">ပွင့်နေသည်။ ပြောင်းရန်တို့ပါ။</string>
     <string name="runningservices_settings_title">အလုပ်လုပ်နေသောဝန်ဆောင်မှုများ</string>
@@ -246,7 +248,7 @@
     <string name="convert_to_fbe_warning">"အချက်အလက်အပိုင်းကို ဖိုင်အခြေပြုလုံခြုံအောင်ပြုလုပ်ခြင်းသို့ ပြောင်းပါ။
  !!သတိ!! ၎င်းသည်သင့် အချက်အလက်များအားလုံးကို ဖျက်ပါမည်။ 
  ဤလုပ်ဆောင်ချက်သည် ပထမအဆင့်တွင်သာ ရှိသေးပြီး မှန်ကန်စွာ လုပ်ဆောင်လိမ့်မည် မဟုတ်ပါ။
- ရှေ့ဆက်ရန် 'ရှင်းလင်းပြီး ပြောင်းလဲရန်…' ကိုနှိပ်ပါ။"</string>
+ ဆက်လုပ်ရန် 'ရှင်းလင်းပြီး ပြောင်းလဲရန်…' ကိုနှိပ်ပါ။"</string>
     <string name="button_convert_fbe">ရှင်းလင်းပြီး ပြောင်းလဲရန်…</string>
     <string name="picture_color_mode">ဓာတ်ပုံအရောင်မုဒ်</string>
     <string name="picture_color_mode_desc">sRGB ကို အသုံးပြုပါ</string>
@@ -295,6 +297,7 @@
     <string name="screen_zoom_summary_extremely_large">အကြီးဆုံး</string>
     <string name="screen_zoom_summary_custom">စိတ်ကြိုက် (%d)</string>
     <string name="help_feedback_label">အကူအညီနှင့် အကြံပြုချက်</string>
+    <string name="content_description_menu_button">မီနူး</string>
     <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
     <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
     <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
@@ -306,15 +309,16 @@
     <string name="abc_search_hint">ရှာဖွေပါ...</string>
     <string name="abc_searchview_description_query">ရှာစရာ အချက်အလက်နေရာ</string>
     <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်</string>
-    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို အတည်ပြုရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
     <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
-    <string name="abc_activitychooserview_choose_application">အက်ပ် တစ်ခုခုကို ရွေးချယ်ပါ</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုခုကို ရွေးချယ်ပါ</string>
     <string name="abc_activity_chooser_view_see_all">အားလုံးကို ကြည့်ရန်</string>
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="abc_capital_on">ဖွင့်</string>
     <string name="abc_capital_off">ပိတ်</string>
+    <string name="search_menu_title">ရှာဖွေပါ</string>
     <string name="app_label">အရေးပေါ်အချက်အလက်</string>
     <string name="edit_info">အရေးပေါ် အချက်အလက်များကို တည်းဖြတ်ပါ</string>
     <string name="tab_title_info">အချက်အလက်</string>
@@ -359,7 +363,7 @@
     <string name="medical_conditions_hint">ဥပမာ၊ ပန်းနာရင်ကျပ်ရောပါ</string>
     <string name="organ_donor">ကိုယ်လက်အင်္ဂါ အလှူရှင်</string>
     <string name="unknown_organ_donor">မသိ</string>
-    <string name="yes">ဟုတ်ပါသည်</string>
+    <string name="yes">Yes</string>
     <string name="no">No</string>
     <string name="emergency_contacts_title">အရေးပေါ်အခြေအနေတွင် ဆက်သွယ်ရမည့်သူများ</string>
     <string name="add_emergency_contact">အဆက်အသွယ် ထည့်ပါ</string>
@@ -371,9 +375,10 @@
     <string name="phone_type_and_phone_number">%1$s • %2$s</string>
     <string name="user_emergency_info_title">အရေးပေါ်အချက်အလက်</string>
     <string name="user_emergency_info_consent">ဤနေရာတွင် သင်ထည့်သွင်းထားသည့် အချက်အလက်များသည် အရေးပေါ်အခြေအနေတွင် ပထမတုံ့ပြန်သူကို အကူအညီပေးနိုင်ပါမည်။ ၎င်းကို သင့်စက်ပစ္စည်းထဲတွင်သာ သိမ်းဆည်းထားခြင်းဖြစ်ပြီး၊ သင့်ဖုန်းကို လော့ခ်ဖွင့်စရာမလိုဘဲ မည်သူမဆို အရေးပေါ်ခလုတ်မှ ဖတ်နိုင်ပါသည်။</string>
-    <string name="emergency_info_continue">ရှေ့ဆက်ပါ</string>
-    <string name="no_info_provided">အရေးပေါ်အချက်အလက်များ ပေးမထားပါ</string>
+    <string name="emergency_info_continue">ဆက်လုပ်ရန်</string>
+    <string name="no_info_provided">ဖုန်းပိုင်ရှင်နှင့် ပတ်သက်သည့် အချက်အလက်များ မရှိပါ</string>
+    <string name="tap_pencil">ဤအရာသည် သင့်ဖုန်းဖြစ်ပါက အရေးပေါ်ကိစ္စကြုံလာလျှင် ပြသမည့် အချက်အလက်များထည့်ရန် ခဲတံသင်္ကေတကို တို့ပါ</string>
     <string name="clear_all">အားလုံး ဖယ်ပါ</string>
-    <string name="clear">ဖယ်ရှားပါ</string>
+    <string name="clear">ရှင်းရန်</string>
     <string name="clear_all_message">အချက်အလက်များနှင့် အဆက်အသွယ်များအားလုံးကို ဖယ်ရှားမလား။</string>
 </resources>

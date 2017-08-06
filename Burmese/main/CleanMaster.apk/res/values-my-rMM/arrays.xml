@@ -45,11 +45,11 @@
     </string-array>
     <string-array name="apk_clean_menu">
         <item>ရှင်းလင်းပါ</item>
-        <item>ဤ apk အား ထည့်သွင်းပါ</item>
-        <item>ဖိုလ်ဒါထဲတွင်ကြည့်ပါ</item>
+        <item>ဤအက်ပ်အား ထည့်သွင်းတပ်ဆင်မည်။</item>
+        <item>ဖိုလ်ဒါထဲတွင်ကြည့်ရှုပါ။</item>
     </string-array>
     <string-array name="long_add_menu">
-        <item>ခြွင်းချက်များထဲသို့ ထည့်ပါ</item>
+        <item>ခြွင်းချက်သို့ပေါင်းထည့်မည်။</item>
     </string-array>
     <string-array name="long_add_app_menu">
         <item>ခြွင်းချက်များဆီသို့ အက်ပ်ပေါင်းထည့်ပါ</item>
@@ -62,10 +62,6 @@
         <item>၁၅ ရက်တိုင်း</item>
         <item>ရက် ၃၀ တိုင်း</item>
     </string-array>
-    <string-array name="scan_engine">
-        <item>ရှင်းလင်းရ​ေး မာစတာ</item>
-        <item>Tencent</item>
-    </string-array>
     <string-array name="wechat_menu_delete">
         <item>ရှင်းလင်း</item>
     </string-array>
@@ -75,5 +71,9 @@
     <string-array name="wechat_menu_delete_whitelist_view">
         <item>ရှင်းလင်း</item>
         <item>ကြည့်ရှု</item>
+    </string-array>
+    <string-array name="scan_engine">
+        <item>ရှင်းလင်းရ​ေး မာစတာ</item>
+        <item>Tencent</item>
     </string-array>
 </resources>

@@ -359,7 +359,7 @@
     <string name="gift_received_list_empty">မည်သည့်လက်ဆောင်များကိုမှ သင်မရခဲ့ပါ။</string>
     <string name="gift_received_notification_title">သင့်အား %s မှ သင်းမ်ပေးခဲ့သည်။</string>
     <string name="present_online_themes">အခမဲ့ သင်းမ်များများရယူပါ</string>
-    <string name="present_local_themes">ဒေါင်းလုဒ်လုပ်ထားသော</string>
+    <string name="present_local_themes">My resources</string>
     <string name="lockscreen_magazine_title">နောက်ခံပုံဝေါပေပါ ရွေးချယ်ရန်</string>
     <string name="lockscreen_magazine_summary">အမျိုးအစားအုပ်စုများ</string>
     <string name="lockscreen_magazine_subscribe">ထောက်ခံအားပေးသူများ %1$s ဦး</string>
@@ -425,4 +425,6 @@
     <string name="wallpaper_settings_lockscreen_text">သော့ခတ်မျက်နှာပြင်</string>
     <string name="wallpaper_settings_desktop_text">အိမ်မျက်နှာပြင်</string>
     <string name="wallpaper_settings_change_wallpaper">ပြောင်းလဲ</string>
+    <string name="online_precust_dreams">Dreams</string>
+    <string name="online_precust_midnight">Midnight</string>
 </resources>

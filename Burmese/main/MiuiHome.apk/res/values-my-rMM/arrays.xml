@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="transformation_entries">
-        <item>Slide</item>
-        <item>Crossfade</item>
+        <item>ဆလိုက်</item>
+        <item>မှေးမှိန်သောပုံစံ</item>
         <item>Tumble</item>
-        <item>Page</item>
-        <item>Cascade</item>
-        <item>Rotate</item>
-        <item>Cube</item>
+        <item>စာမျက်နှာပုံစံ</item>
+        <item>အလွှာပုံစံ</item>
+        <item>လှည့်ပတ်ပုံစံ</item>
+        <item>ကုဗတုံးပုံစံ</item>
     </string-array>
     <string-array name="wallpaper_scroll_entries">
         <item>သင်းမ် သတ်မှတ်ပုံစံ</item>
@@ -16,6 +16,10 @@
         <item>ညာ</item>
     </string-array>
     <string-array name="cell_layout_size_entries">
+        <item>၄x၄</item>
+        <item>၄x၅</item>
+    </string-array>
+    <string-array name="cell_layout_size_values">
         <item>၄x၄</item>
         <item>၄x၅</item>
     </string-array>
@@ -49,5 +53,10 @@
         <item>မိုးသီးကြွေခြင်း</item>
         <item>ဟိုပြေးဒီပြေး ဖုန်မှုန့်များ</item>
         <item>မြူ</item>
+    </string-array>
+    <string-array name="editing_mode_entries">
+        <item>နောက်ခံပုံ</item>
+        <item>ဝစ်ဂတ်များ</item>
+        <item>Setting</item>
     </string-array>
 </resources>

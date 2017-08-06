@@ -12,7 +12,7 @@
     <string name="find_device_error_server">ဆာဗာအမှား(%s)</string>
     <string name="find_device_error_account_sys_timeout">Mi အကောင့်အား မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
     <string name="find_device_error_account_unknown_error">Mi အကောင့်အမှား(%s)</string>
-    <string name="find_device_crash">Find Device closed unexpectedly.</string>
+    <string name="find_device_crash">မမျှော်လင့်ဘဲ စက်ပိတ်သွားသည်။</string>
     <string name="find_device_storage_corrupted">ပျက်စီးသွားသော စက်သိုလှောင်မှုအား ရှာဖွေပါ။ သင့်စက်သည်ယခုမလုံခြုံပါ။</string>
     <string name="find_device_telephony_fault">စက်ရှာဖွေပါ−တယ်လီဖုန်းဆိုင်ရာအမှား(%s)။</string>
     <string name="time_correction_success">အချိန်ပြုပြင်ခဲ့သည်</string>
@@ -77,6 +77,6 @@
     <string name="default_lock_msg_words_with_phone">Hi! ကျွန်ုပ်ဖုန်းပျေက်သွားလို့ပါ။ ကျေးဇူးပြုပြီး ကျွန်ုပ်ကို ဆက်သွယ်ပေးလို့ရမည်လား?ကျေးဇူးတင်ပါသည်!</string>
     <string name="default_lock_msg_words">ဤစက်မှာ ရှိပြီးသား Mi အကောင့်နှင့်ဆက်စပ်နေပါသည်။ လုံခြုံရေးအရ၊ စက်အားအတည်ပြုရန် စကားဝှက်အား ရိုက်ထည့်ရန် လိုအပ်ပါသည်</string>
     <string name="lock_msg_phone">ဆက်သွယ်ရန် အချက်အလက်−%s</string>
-    <string name="default_debt_msg_words">"This device is locked due to an overdue installment payment.
-Contact your sales agent for details."</string>
+    <string name="default_debt_msg_words">"အခကြေးငွေပေးချေရန် ရက်လွန်သွားသောကြောင့် ဖုန်းလော့ခ်ကျသွားသည်။
+အသေးစိတ်သိရန် သင့်အရောင်းအေးဂျင့်သို့ ဆက်သွယ်ပါ။"</string>
 </resources>

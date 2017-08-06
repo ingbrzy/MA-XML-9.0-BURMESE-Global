@@ -25,6 +25,7 @@
     <string name="selectTextMode">စာသား ရွေးရန်</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="fingerprint_icon_content_description">လက်ဗွေ အိုင်ကွန်</string>
+    <string name="candidates_style"><u>ရွေးချယ်ခံမည့်သူ</u></string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
@@ -187,6 +188,7 @@
     <string name="global_action_lock">ဖုန်းမျက်နှာပြင်အား သော့ချရန်</string>
     <string name="global_action_power_off">ပါဝါပိတ်ရန်</string>
     <string name="global_action_reboot">ပိတ်ပြီးပြန်စပါ</string>
+    <string name="global_action_emergency">အရေးပေါ်</string>
     <string name="global_action_bug_report">အမှားရှာဖွေပြင်ဆင်မှုမှတ်တမ်း</string>
     <string name="bugreport_title">အမှားရှာဖွေပြင်ဆင်မှုမှတ်တမ်းအား ယူရန်</string>
     <string name="bugreport_message">သင့်ရဲ့ လက်ရှိ စက်အခြေအနေ အချက်အလက်များကို အီးမေးလ် အနေဖြင့် ပေးပို့ရန် စုဆောင်းပါမည်။ အမှားရှာဖွေပြင်ဆင်မှုမှတ်တမ်းမှ ပေးပို့ရန် အသင့်ဖြစ်သည်အထိ အချိန် အနည်းငယ်ကြာမြင့်မှာ ဖြစ်သဖြင့် သည်းခံပြီး စောင့်ပါရန်</string>
@@ -237,7 +239,7 @@
     <string name="capability_title_canRequestFilterKeyEvents">ရိုက်သောစာများကို သေချာစွာ စစ်ဆေးပါ</string>
     <string name="capability_desc_canRequestFilterKeyEvents">အရေးကြီးသော ကိုယ်ရေးအချက်အလက်များဖြစ်တဲ့ ခရက်ဒစ်ကဒ်နံပါတ်များနှင့် စကားဝှက်များ ပါဝင်ပါတယ်.</string>
     <string name="capability_title_canControlMagnification">မျက်နှာပြင် ချဲ့ခြင်းကို ထိန်းချုပ်ပါ</string>
-    <string name="capability_desc_canControlMagnification">မျက်နှာပြင် ချဲ့ခြင်းနှင့် နေရာချထားခြင်းကို ထိန်းချုပ်ပါ</string>
+    <string name="capability_desc_canControlMagnification">မျက်နှာပြင် ဇူးမ်အရွယ်နှင့် နေရာချထားခြင်းကို ထိန်းချုပ်ပါ။</string>
     <string name="capability_title_canPerformGestures">လက်ဟန်များ အသုံးပြုပါ</string>
     <string name="capability_desc_canPerformGestures">တို့ခြင်း၊ ပွတ်ဆွဲခြင်း၊ နှင့် အခြား လက်ဟန်များကို အသုံးပြုနိုင်ပါသည်။</string>
     <string name="permlab_statusBar">အခြေအနေပြဘားအား အလုပ်မလုပ်ခိုင်းရန်သို့မဟုတ် မွမ်းမံရန်</string>
@@ -287,7 +289,7 @@
     <string name="permlab_receiveBootCompleted">အစတွင် လုပ်ဆောင်ရန်</string>
     <string name="permdesc_receiveBootCompleted">အက်ပ်အား စနစ်၏ စတင်မှု ပြီးဆုံးသည့်နှင့် မိမိကိုမိမိ စတင်ခွင့် ပြုသည်။ သို့ဖြစ်၍ ဖုန်း စတင်မှုမှာ အချိန် ပိုကြာနိုင်ပြီး အက်ပ်က တချိန်လုံး အလုပ်လုပ်နေခြင်းကြောင့် ဖုန်း၏ အလုပ် တစ်ခုလုံးကို နှေးကွေးလာစေနိုင်သည်။</string>
     <string name="permlab_broadcastSticky">ကြာရှည်ခံ ထုတ်လွှတ်မှု အားပေးပို့ခြင်း</string>
-    <string name="permdesc_broadcastSticky">အပလီကေးရှင်းအား ကြာရှည်ခံ ထုတ်လွှင့်မှု ပြုပါ။ ဒီထုတ်လွှင့်မှုများဟာ ထုတ်လွှင့်မှု ပြီးဆုံးပြီးသွားတည့်တိုင် ကျန်နေမည် ဖြစ်ပါသည်။ အလွန်အကျွံသုံးခြင်းကြောင့် မှတ်ဉာဏ်အသုံးများပြီး ဖုန်းနှေးခြင်း၊ မတည်ငြိမ်ခြင်း ဖြစ်နိုင်ပါသည်</string>
+    <string name="permdesc_broadcastSticky">အက်ပ်အား ကြာရှည်ခံ ထုတ်လွှင့်မှု ပြုပါ။ ဤထုတ်လွှင့်မှုများဟာ ထုတ်လွှင့်မှု ပြီးဆုံးပြီးသွားတည့်တိုင် ကျန်နေမည် ဖြစ်ပါသည်။ အလွန်အကျွံသုံးခြင်းကြောင့် မှတ်ဉာဏ်အသုံးများပြီး ဖုန်းနှေးခြင်း၊ မတည်ငြိမ်ခြင်း ဖြစ်နိုင်ပါသည်</string>
     <string name="permlab_readContacts">အဆက်အသွယ်များအား ဖတ်ခြင်း</string>
     <string name="permdesc_readContacts">အပလီကေးရှင်းအား ခေါ်ဆိုသော အကြိမ်ရေ၊ အီးမေးလ်အကြိမ်ရေ၊ တခြားဆက်သွယ်မှုများစသည်ကဲ့သို့ သင့်ဖုန်းမှာ သိမ်းဆည်းထားသော အဆက်အသွယ်များရဲ့ အချက်အလက်ကို ဖတ်ခွင့်ပြုပါ။ ဤသို့ခွင့်ပြုခြင်းအားဖြင့် အပလီကေးရှင်းများကို သင့် အဆက်အသွယ်၏ အချက်မလက်များကို သိမ်းဆည်းရန် ခွင့်ပြုပြီး အန္တရာယ်ရှိသော အပလီကေးရှင်းများမှ ထိုအချက်အလက်များ ကို သင် မသိစေပဲ ဖြန့်ဝေနိုင််မည် ဖြစ်ပါသည်။</string>
     <string name="permlab_writeContacts">အဆက်အသွယ်များအား ပြင်ဆင်ခြင်း</string>
@@ -301,7 +303,7 @@
     <string name="permlab_readCalendar">ပြက္ခဒိန်အဖြစ်အပျက်များနှင့် လှို့ဝှက်အချက်အလက်များအား ဖတ်ခြင်း</string>
     <string name="permdesc_readCalendar">အပလီကေးရှင်းအားဖုန်းထဲတွင် သိမ်းထားသော သူငယ်ချင်းနှင့် လုပ်ဖော်ကိုင်ဘက်များ၏ ပြက္ခဒိန် အဖြစ်အပျက်များအပါအဝင် အားလုံးကို ဖတ်ရှုခွင့်ပြုပါ။ ဒီခွင့်ပြုချက်ကြောင့် အပလီကေးရှင်းမှ ပြက္ခဒိန် အဖြစ်အပျက်များအား လျှို့ဝှက်မှု သို့ ဂရုပြုမှု ကို ထည့်သွင်းမစဉ်းစားပဲ သိမ်းဆည်းခြင်း၊ မျှဝေခြင်း ပြုလုပ်စေနိုင်ပါသည်</string>
     <string name="permlab_writeCalendar">ပြက္ခဒိန်အဖြစ်အပျက်များကို ထပ်ထည့်ရန် သို့မဟုတ် မွမ်းမံရန်နှင့် ပိုင်ရှင်၏အသိမပေးပဲ ဧည့်သည်များထံ အီးမေးလ်ပို့ရန်</string>
-    <string name="permdesc_writeCalendar">အပလီကေးရှင်းအား သင်၏ ဖုန်းတွင် သူငယ်ချင်း အလုပ်ဖော်များ အပါအဝင် သင်၏ ပြောင်းလဲအဖြစ်အပျက်များအား ထည့်ခြင်း၊ ထုတ်ခြင်းအား ခွင့်ပြုရန်။ ဤခွင့်ပြုချက်သည် အပလီကေးရှင်းအား သတင်းများပို့ခြင်းကို ပြက္ခဒိန်ပိုင်ရှင်ဆီမှ လာသလို အနေဖြင့် ပေးပို့ခြင်း သို့မဟုတ် အဖြစ်အပျက်များကို ပိုင်ရှင်မသိပဲ ပြင်ဆင်နိုင်ပါသည်။</string>
+    <string name="permdesc_writeCalendar">အက်ပ်အား သင်၏ ဖုန်းတွင် မိတ်ဆွေ အလုပ်ဖော်များ အပါအဝင် သင်၏ ပြောင်းလဲအဖြစ်အပျက်များအား ထည့်ခြင်း၊ ထုတ်ခြင်းအား ခွင့်ပြုရန်။ ဤခွင့်ပြုချက်သည် အက်ပ်အား သတင်းများပို့ခြင်းကို ပြက္ခဒိန်ပိုင်ရှင်ဆီမှ လာသလို အနေဖြင့် ပေးပို့ခြင်း သို့မဟုတ် အဖြစ်အပျက်များကို ပိုင်ရှင်မသိပဲ ပြင်ဆင်နိုင်ပါသည်။</string>
     <string name="permlab_accessLocationExtraCommands">တည်နေရာပံ့ပိုးမှုညွှန်ကြားချက်အပိုအား ဝင်ရောက်ကြည့်ခြင်း</string>
     <string name="permdesc_accessLocationExtraCommands">appအား တည်နေရာ စီမံပေးရေး ညွှန်ကြားချက် အပိုများကို ရယူခွင့်ပြုသည်။ သို့ဖြစ်၍ appသည် GPS သို့မဟုတ် အခြား တည်နေရာ ရင်းမြစ်ကို သုံးကြသူတို့၏ လုပ်ငန်းများကို ဝင်စွက်ခွင့် ပြုနိုင်သည်။</string>
     <string name="permlab_accessFineLocation">တည်နေရာ အတိအကျ (ဂျီပီအက်စ် နှင့် ကွန်ရက်အခြေခံ)</string>
@@ -437,7 +439,7 @@
     <string name="policylab_limitPassword">စကားဝှက်စည်းမျဥ်းကိုသတ်မှတ်ရန်</string>
     <string name="policydesc_limitPassword">မျက်နှာပြင်သော့ခတ်သည့် စကားဝှက်များနှင့် PINများရှိ ခွင့်ပြုထားသည့် စာလုံးအရေအတွက်နှင့် အက္ခရာများအား ထိန်းချုပ်ရန်။</string>
     <string name="policylab_watchLogin">မော်နီတာမျက်နှာပြင်ဖွင့်ရန် ကြိုးစားခွင့်များ</string>
-    <string name="policydesc_watchLogin">မျက်နှာပြင်ကို သော့ဖွင့်ရန် အတွက် စကားဝှက် မမှန်မကန် ထည့်သွင်းမှု အရေအတွက်ကို စောင့်ကြည့်လျက်၊ စကားဝှက် ရိုက်ထည့်မှု သိပ်များနေလျှင် ဖုန်းကို သော့ခတ်ရန် သို့မဟုတ် ဖုန်း ဒေတာ အားလုံးကို ဖျက်ပစ်ရန်။</string>
+    <string name="policydesc_watchLogin">မျက်နှာပြင်ကို သော့ဖွင့်ရန် အတွက် စကားဝှက် မမှန်မကန် ထည့်သွင်းမှု အရေအတွက်ကို စောင့်ကြည့်လျက်၊ စကားဝှက် ရိုက်ထည့်မှု သိပ်များနေလျှင် ဖုန်းကို သော့ခတ်ရန် သို့မဟုတ် ဖုန်း ဒေတာ အားလုံးကို ဖျက်ရန်။</string>
     <string name="policydesc_watchLogin_secondaryUser">ဖန်မျက်နှာပြင်အား သော့ဖွင့်စဉ် လျှို့ဝှက်ကုဒ်အမှားများ ရိုက်သွင်းမှုအား စောင့်ကြည့်ရန်နှင့်၊ လျှို့ဝှက်ကုဒ်အမှားများ များစွာ ရိုက်သွင်းပါက ဖုန်းအား သော့ချခြင်း သို့မဟုတ် ဖုန်း၏ အချက်အလက်များအား ဖျက်ပစ်ခြင်းများ ပြုလုပ်မည်။</string>
     <string name="policylab_resetPassword">မျက်နှာပြင်သော့ခတ်ခြင်းအား ပြောင်းမည်</string>
     <string name="policydesc_resetPassword">မျက်နှာပြင်သော့ခတ်ခြင်းအား ပြောင်းမည်။</string>
@@ -548,6 +550,7 @@
     <string name="lockscreen_pattern_correct">မှန်ပါသည်</string>
     <string name="lockscreen_pattern_wrong">ထပ် စမ်းပါ</string>
     <string name="lockscreen_password_wrong">ထပ် စမ်းပါ</string>
+    <string name="lockscreen_storage_locked">ဝန်ဆောင်မှုနှင့် ဒေတာအားလုံးအတွက် လော့ခ်ဖွင့်ပါ</string>
     <string name="faceunlock_multiple_failures">မျက်မှာမှတ် သော့ဖွင့်ခြင်း ခွင့်ပြုသော အကြိမ်ရေထက် ကျော်လွန်သွားပါပြီ</string>
     <string name="lockscreen_missing_sim_message_short">SIM ကတ် မရှိပါ</string>
     <string name="lockscreen_missing_sim_message">ဖုန်းထဲတွင် ဆင်းကဒ် မရှိပါ</string>
@@ -767,7 +770,7 @@
     <string name="whichSendApplicationLabel">မျှဝေပါ</string>
     <string name="whichSendToApplication">ကိုအသုံးပြု၍ ပို့ပါ</string>
     <string name="whichSendToApplicationNamed">%1$s ကိုအသုံးပြု၍ ပို့ပါ</string>
-    <string name="whichSendToApplicationLabel">ပို့ပါ</string>
+    <string name="whichSendToApplicationLabel">ပို့ရန်</string>
     <string name="whichHomeApplication">ပင်မ appကို ရွေးပါ</string>
     <string name="whichHomeApplicationNamed">%1$sကို ပင်မအဖြစ် သုံးပါ</string>
     <string name="whichHomeApplicationLabel">ဓာတ်ပုံရိုက်ပါ</string>
@@ -820,8 +823,9 @@
     <string name="android_upgrading_title">အန်ဒရွိုက်ကို မွမ်းမံနေ…</string>
     <string name="android_start_title">Android စတင်နေ…</string>
     <string name="android_upgrading_fstrim">သိုလှောင်မှုအား ပြုပြင်ခြင်း။</string>
-    <string name="android_upgrading_notification_title">Android ကိုအဆင့်မြှင့်တင်နေပါသည်</string>
+    <string name="android_upgrading_notification_title">Android အပ်ဒိတ်ကို အပြီးသတ်နေသည်…</string>
     <string name="android_upgrading_notification_body">အဆင့်မြှင့်တင်ခြင်း မပြီးဆုံးသေးသ၍ အချို့အက်ပ်များကို ကောင်းမွန်စွာအသုံးပြုနိုင်ဦးမည် မဟုတ်ပါ</string>
+    <string name="app_upgrading_toast">%1$s ကို အဆင့်မြှင့်တင်နေပါသည်…</string>
     <string name="android_upgrading_apk">%1$d ထဲက app%2$dကို ဆီလျော်အောင် လုပ်နေ</string>
     <string name="android_preparing_apk">%1$s အားပြင်ဆင်နေသည်။</string>
     <string name="android_upgrading_starting_apps">appများကို စတင်နေ</string>
@@ -863,6 +867,10 @@
     <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="wifi_no_internet">ဝိုင်-ဖို်ငတွင် အင်တာနက် ဝင်ရောက်သုံးခွင့် မရှိပါ</string>
     <string name="wifi_no_internet_detailed">ရွေးချယ်စရာများအတွက် ထိပါ</string>
+    <string name="network_switch_metered">%1$s သို့ ပြောင်းလိုက်ပြီ</string>
+    <string name="network_switch_metered_detail">စက်ပစ္စည်းသည် %2$s ဖြင့် အင်တာနက် အသုံးမပြုနိုင်သည့်အချိန်တွင် %1$s ကို သုံးပါသည်။ ဒေတာသုံးစွဲခ ကျသင့်နိုင်ပါသည်။</string>
+    <string name="network_switch_metered_toast">%1$s မှ %2$s သို့ ပြောင်းလိုက်ပြီ</string>
+    <string name="network_switch_type_name_unknown">အမည်မသိကွန်ရက်အမျိုးအစား</string>
     <string name="wifi_watchdog_network_disabled">ဝိုင်ဖိုင်ကိုချိတ်ဆက်မရပါ</string>
     <string name="wifi_watchdog_network_disabled_detailed">အင်တာနက် ဆက်သွယ်မှု ကောင်းကောင်းမရှိပါ</string>
     <string name="wifi_connect_alert_title">ချိတ်ဆက်မှုကို ခွင့်ပြုမလား?</string>
@@ -939,7 +947,6 @@
     <string name="select_keyboard_layout_notification_message">လက်ကွက် အပြင်အဆင်ရွေးရန် တို့ထိပါ</string>
     <string name="fast_scroll_alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
     <string name="fast_scroll_numeric_alphabet">0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
-    <string name="candidates_style"><u>ရွေးချယ်ခံမည့်သူ</u></string>
     <string name="ext_media_checking_notification_title">%s ပြင်ဆင်နေသည်</string>
     <string name="ext_media_checking_notification_message">အမှားအယွင်းများ စစ်ဆေးနေသည်</string>
     <string name="ext_media_new_notification_message">%s အသစ်တွေ့ရှိပါသည်</string>
@@ -1022,6 +1029,7 @@
     <string name="vpn_text_long">%s ကို ဆက်သွယ်ထားပါသည်။ကွန်ရက်ကို ထိန်းသိမ်းရန် တို့ထိပါ။</string>
     <string name="vpn_lockdown_connecting">အမြဲတမ်းဖွင့်ထား VPN ဆက်သွယ်နေစဉ်…</string>
     <string name="vpn_lockdown_connected">အမြဲတမ်းဖွင့်ထား VPN ဆက်သွယ်မှုရှိ</string>
+    <string name="vpn_lockdown_disconnected">အမြဲတမ်းဖွင့်ထားရသော VPN ပြတ်တောက်နေသည်</string>
     <string name="vpn_lockdown_error">အမြဲတမ်းဖွင့်ထား VPN အမှား</string>
     <string name="vpn_lockdown_config">ပြင်ဆင်ရန် ထိလိုက်ပါ</string>
     <string name="upload_file">ဖိုင်ရွေးချယ်ရန်</string>
@@ -1396,6 +1404,7 @@
     <string name="search_language_hint">ဘာသာစကားအမည် ထည့်ပါ</string>
     <string name="language_picker_section_suggested">အကြံပြုထားသော</string>
     <string name="language_picker_section_all">ဘာသာစကားများအားလုံး</string>
+    <string name="region_picker_section_all">ဒေသအားလုံး</string>
     <string name="locale_search_menu">ရှာဖွေရန်</string>
     <string name="work_mode_off_title">အလုပ်မုဒ် ပိတ်ထားသည်</string>
     <string name="work_mode_off_message">အက်ပ်များ၊ နောက်ခံစင့်ခ်လုပ်ခြင်း၊ နှင့်သက်ဆိုင်သည့်အင်္ဂါရပ်များကို ဆောင်ရွက်ရန် အလုပ်ပရိုဖိုင်ကိုခွင့်ပြုပါ။</string>
@@ -1413,12 +1422,21 @@
     <string name="unpin_target">ဖြုတ်ပါ</string>
     <string name="app_info">အက်ပ်အချက်အလက်</string>
     <string name="negative_duration">−%1$s</string>
+    <string name="reset_retail_demo_mode_title">စက်ပစ္စည်းကို ပြန်လည်သတ်မှတ်မလား။</string>
+    <string name="reset_retail_demo_mode_text">စက်ပစ္စည်းကို ပြန်လည်သတ်မှတ်ရန် တို့ပါ</string>
+    <string name="demo_starting_message">သရုပ်ပြချက်ကို စတင်နေသည်…</string>
+    <string name="demo_restarting_message">စက်ပစ္စည်းကို ပြန်လည်သတ်မှတ်နေသည်…</string>
+    <string name="demo_user_inactivity_timeout_title">စက်ပစ္စည်းကို ပြန်လည်သတ်မှတ်မလား။</string>
+    <string name="demo_user_inactivity_timeout_countdown">ပြောင်းလဲမှုများကို ဆုံးရှုံးသွားမည်ဖြစ်ပြီး သရုပ်ပြချက်သည် %1$s စက္ကန့်အတွင်း ပြန်လည်စတင်ပါမည်…</string>
+    <string name="demo_user_inactivity_timeout_left_button">မလုပ်တော့</string>
+    <string name="demo_user_inactivity_timeout_right_button">ယခုပြန်လည်သတ်မှတ်ပါ</string>
     <string name="audit_safemode_notification">ဤစက်ပစ္စည်းကို ကန့်သတ်ချက်များမပါဘဲ အသုံးပြုရန် စက်ရုံထုတ်ဆက်တင်အတိုင်း ပြန်လည်သတ်မှတ်ပါ</string>
     <string name="audit_safemode_notification_details">ပိုမိုလေ့လာရန် တို့ပါ။</string>
     <string name="suspended_widget_accessibility">ပိတ်ထားသည့် %1$s</string>
     <string name="China_Mobile">ချိုင်းနားမိုဘိုင်း</string>
     <string name="China_Unicom">ချိုင်းနားယူနီကွန်</string>
     <string name="China_Telecom">ချိုင်းနားတယ်လီကွန်</string>
+    <string name="conference_call">လူအမြောက်အမြားတပြိုင်နက် ခေါ်ဆိုမှု</string>
     <string name="lock_to_app_toast_accessible">ဤမျက်နှာပြင်နှင့် ပင်တွဲဖြုတ်ရန်၊ ပါဝါခလုတ်နှင့် ဟုမ်းခလုတ်တို့အား တပြိုင်နက်ထဲ ဖိနှိပ်လျက်ထားပါ။</string>
     <string name="lock_to_app_description">"မျက်နှာပြင် ပင်စိုက်ခြင်းသည် မြင်ကွင်းပြသမှုအား တစ်ခုတည်း အဖြစ်ပြသပါသည်။ 
 

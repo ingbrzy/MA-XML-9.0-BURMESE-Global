@@ -145,6 +145,21 @@
     <string name="package_delete_confirm_step_1">\"%s\" ကိုဖျက်မှာလား?</string>
     <string name="package_delete_confirm_step_2">ဤအက်ပ်အားဖျက်လိုက်ပါက သင့်စနစ်အား မတည်မငြိမ်ဖြစ်လာစေနိုင်ပါသည်</string>
     <string name="package_delete_confirm_step_3">ဖျက်ပြီးနောက်သင်သည် ဤအက်ပ်အား ဖွင့်၍ရတော့မည် မဟုတ်ပါ။</string>
+    <string name="silence_mode">အသံတိတ်မုဒ်</string>
+    <string name="standard">အသံတိတ်</string>
+    <string name="total">DND</string>
+    <string name="standard_title">Silent..</string>
+    <string name="total_title">DND..</string>
+    <string name="description_title">Silent mode</string>
+    <string name="standard_description">[Silent] Silence ringtones for incoming calls and notification</string>
+    <string name="total_description">[DND] Silence sounds and turn off vibration for all items except the Alarm clock</string>
+    <string name="close">Off</string>
+    <string name="always">Always</string>
+    <string name="onehour">30 minutes</string>
+    <string name="twohours">1 hour</string>
+    <string name="fourhours">2 hours</string>
+    <string name="eighthours">8 hours</string>
+    <string name="remain">Remaining:%s</string>
     <string name="configure_input_methods">ကီးဘုတ်များရွေးချယ်ပါ</string>
     <string name="miui_upgrading_notification_title">စနစ်လုဒ်လုပ်နေပါသည်၊ အချို့လုပ်ဆောင်ချက်များကို ကန့်သတ်ထားနိုင်ပါသည်</string>
 </resources>

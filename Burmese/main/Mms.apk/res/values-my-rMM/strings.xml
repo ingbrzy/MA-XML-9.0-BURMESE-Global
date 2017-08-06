@@ -54,7 +54,7 @@
     <string name="view">ကြည့်ပါ</string>
     <string name="replace">အစားထိုးပါ</string>
     <string name="remove">ဖယ်ရှားပါ</string>
-    <string name="fail_to_view_attachment">attachment is unavailable</string>
+    <string name="fail_to_view_attachment">ချိတ်တွဲဖိုင် မရနိုင်ပါ။</string>
     <string name="send">ပို့ပါ</string>
     <string name="mms">MMS</string>
     <string name="type_to_compose_text_enter_to_send">မက်ဆေ့ချ် ရိုက်ပါ</string>
@@ -293,7 +293,7 @@
     <string name="view_bookmark">မူရင်းမက်ဆေ့ချ်ကို ကြည့်ပါ</string>
     <string name="bookmark_confirm_delete_message">ရွေးချယ်ထားသော မက်ဆေ့ချ်များကို ကြယ်ပြထားခြင်းမှဖြုတ်မလား?</string>
     <string name="bookmark_empty">ကြပ်ပြထားသော မက်ဆေ့ချ်များမရှိပါ</string>
-    <string name="verification_code_list_title">Verification codes</string>
+    <string name="verification_code_list_title">အတည်ပြုကုဒ်</string>
     <string name="phrase_list_title">အမြန်တုန့်ပြန်ချက်များ</string>
     <string name="new_phrase">တုန့်ပြန်ချက် ထည့်ပါ</string>
     <string name="edit_phrase">အမြန်တုန့်ပြန်ချက်များကို တည်းဖြတ်မည်</string>
@@ -476,8 +476,8 @@
     <string name="pref_show_blocked_messages_summary">စကားပြောဆိုထားမှု စာရင်းထဲတွင် ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
     <string name="title_show_list_avatar">ပရိုဖိုင်ဓါတ်ပုံများကို ပြသပါ</string>
     <string name="pref_show_list_avatar_summary">ပရိုဖိုင်ပုံနှင့် အဆက်အသွယ်ပုံများကို အစဉ်လိုက်မြင်ကွင်းဖြင့် ပြပါ</string>
-    <string name="title_show_photo_word">Assign contact photos</string>
-    <string name="pref_show_photo_word_summary">Automatically assign a picture to contacts without one</string>
+    <string name="title_show_photo_word">အဆက်အသွယ်ဓာတ်ပုံ ထည့်သွင်းမည်။</string>
+    <string name="pref_show_photo_word_summary">ပုံတူမရှိသော အဆက်အသွယ်များအတွက် ပုံတစ်ပုံအလိုအလျောက်ထည့်သွင်းမည်။</string>
     <string name="sp_mark_as_read_menu_title">ဖတ်ပြီးသားအဖြစ်မှတ်ထားပါ</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_category_all">ဝန်ဆောင်မှု မက်ဆေ့ချ်အားလုံး</string>
@@ -508,7 +508,7 @@
     <string name="send_message_dlg_check_hint">ထပ်မပြပါနှင့်</string>
     <string name="send_message_dlg_mgs">CMCC notice: We need to register your device in our device management platform in order to provide free customer services and support. This CMCC platform manages mobile devices and allows you to change settings and upgrade software remotely. A free text message with the information about your device will be sent for registration. The message will only be sent once and will not contain your personal data. This message cannot be sent by customers from Hong Kong, Macao, Taiwan, and overseas. Select \"OK\" to agree and register your device. Select \"Cancel\" if you disagree with the terms. Services will not be provided to you in this case.</string>
     <string name="confirm_dlg_title">စက်ကို စီမံခန့်ခွဲမှု</string>
-    <string name="confirm_dlg__msg">CMCC notice: Free CMCC services and support will not be provided if you cancel. Cancel anyway?</string>
+    <string name="confirm_dlg__msg">CMCC မှအသိပေးစာ- သင်ပယ်ဖျက်လိုက်လျှင် CMCC မှ အခမဲ့ဝန်ဆောင်မှုများနှင့်ကူညီထောက်ပံ့မှုများ မရနိုင်တော့ပါ။ ပယ်ဖျက်မည်လား?</string>
     <string name="alert_dlg_ok_button">အိုကေ</string>
     <string name="alert_dlg_cancel_button">ပယ်ဖျက်ပါ</string>
     <string name="cloud_recommend_msg">Mi Cloud ဖြင့် မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ရန် ထိပါ။</string>
@@ -654,6 +654,6 @@
     <string name="today">ယနေ့</string>
     <string name="yesterday">မနေ့က</string>
     <string name="earlier">ပိုစောသော</string>
-    <string name="enabled">On</string>
-    <string name="disabled">Off</string>
+    <string name="enabled">ဖွင့်မည်</string>
+    <string name="disabled">ပိတ်မည်</string>
 </resources>

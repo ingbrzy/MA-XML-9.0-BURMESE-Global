@@ -199,7 +199,7 @@
     <string name="card_title_upgrade_video_call_timed_out">ဗီဒီယိုအား အသစ်မွမ်းမံမှု မပြုနိုင်ခဲ့</string>
     <string name="card_title_upgrade_video_call_rejected_by_remote">ဗီဒီယိုအား အသစ်မွမ်းမံမှု မပြုနိုင်ခဲ့</string>
     <string name="notification_incoming_video_call">အဝင်ဗီဒီယိုခေါ်ဆိုမှုများ</string>
-    <string name="onscreen_message_text">Messages</string>
+    <string name="onscreen_message_text">မက်ဆေ့ချ်များ</string>
     <string name="onscreen_close_preview_camera">ကင်မရာအားပိတ်</string>
     <string name="video_call_not_allowed_if_tty_enabled">TTY မုဒ်အား ဦးစွာပိတ်ပါ</string>
     <string name="upgrade_vt_prompt">ဗီဒီယိုခေါ်ဆိုမှုသို့ ပြောင်းလဲမည်လား?</string>

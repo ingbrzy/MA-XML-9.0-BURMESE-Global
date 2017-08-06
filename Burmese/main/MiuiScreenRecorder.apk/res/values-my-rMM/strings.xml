@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">မျက်နှာပြင်မှတ်တမ်းတင်ခြင်း</string>
+    <string name="app_name">Screen Recorder</string>
     <string name="app_info">မှတ်တမ်းတင်ခြင်း၊ရပ်ရန်ထိနှိပ်ပါ</string>
     <string name="app_notification_title">မျက်နှာပြင်ရီကော်တာ</string>
     <string name="screen_record_params">မှတ်တမ်းယူခြင်း ပါရာမီတာများ</string>

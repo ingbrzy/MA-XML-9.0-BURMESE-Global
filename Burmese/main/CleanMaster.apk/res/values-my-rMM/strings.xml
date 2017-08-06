@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="menu_clear">Clear</string>
-    <string name="menu_view">View in folder</string>
-    <string name="menu_install">Install this app</string>
-    <string name="menu_add_to_white_list">Add to exceptions</string>
+    <string name="menu_clear">ရှင်းပစ်ပါ။</string>
+    <string name="menu_view">ဖိုလ်ဒါထဲမှာကြည့်ရှုပါ။</string>
+    <string name="menu_install">ဤအက်ပ်အား ထည့်သွင်းတပ်ဆင်မည်။</string>
+    <string name="menu_add_to_white_list">ခြွင်းချက်သို့ပေါင်းထည့်မည်။</string>
     <string name="text_optimizer">ဖိုလ်ဒါအမည်များကို အပ်လုပ်တင်ပါ</string>
     <string name="summary_optimizer">ဒီလုပ်ဆောင်ချက်သည် Cheetah မိုဘိုင်း၏ အွန်လိုင်းဒေတာဘေ့စ်ကို အသစ်မွမ်းမံလုပ်ဖို့အတွက် ဖိုလ်ဒါအမည်များအား အပ်လုတ်တင်ခြင်းဖြစ်ပြီး၊ သင့်ကိရိယာ၏ ID ကိုလည်း လိုအပ်သည်။</string>
     <string name="button_optimizer">အိုကေ</string>
@@ -380,9 +380,9 @@
     <string name="hints_video_camera">ရိုက်ယူထားသော ဗီဒီယိုများ</string>
     <string name="summary_delete_video">ရွေးထားသော ဗီဒီယိုများအား အမြဲတမ်းဖျက်ပစ်မည်လား?</string>
     <string name="empty_title_video">ဖျက်ရန် ဗီဒီယိုများမရှိပါ</string>
-    <string name="information_setting">Recommendations</string>
-    <string name="load_only_under_wlan">Load using only Wi-Fi</string>
-    <string name="recommend_news">Receive recommendations</string>
+    <string name="information_setting">အကြံပြုချက်များ</string>
+    <string name="load_only_under_wlan">Wi-Fi ကိုသာသုံးပြီး လုဒ်တင်ပါ။</string>
+    <string name="recommend_news">အကြံပြုချက်များ လက်ခံရရှိသည်။</string>
     <string name="dialog_title_stop_scan">စကန်လုပ်ခြင်းရပ်ပါ</string>
     <string name="dialog_msg_stop_scan">နောက်လုပ်မည့် ရှင်းလင်းသည့် စကန်များအား ရပ်မည်လား?</string>
     <string name="dialog_title_esc_cleanmaster">သန့်ရှင်းသူမှ ထွက်ပါ</string>
@@ -459,8 +459,8 @@
     <string name="resutl_function_deep_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> ဖိုင်ပိုမို၍ ရှင်းလင်းနိုင်ပါသည်။ နေရာပိုမို၍ရှင်းလင်းပါ;</Data>" "</string>
     <string name="resutl_function_wechat_clean_summary">" "<Data>&lt;font color=#ff0000 >%1$s&lt;/font> WeChat ကက်ချီ။ နေရာပိုမို၍ရှင်းလင်းပါ။;</Data>" "</string>
     <string name="engine_tm">Tencent</string>
-    <string name="engine_cm">Clean Master</string>
-    <string name="app_description_title">About Cleaner</string>
+    <string name="engine_cm">ရှင်းလင်းရေးမာစတာ</string>
+    <string name="app_description_title">သန့်ရှင်းရေးစက်အကြောင်း</string>
     <string name="app_description_content">Cleaner finds trash on your device and frees up storage space. Make sure you can do without these features before you uninstall the app.</string>
     <string name="engine_init">Initializing...</string>
 </resources>

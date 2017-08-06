@@ -43,9 +43,9 @@
         <item quantity="other">ပိတ်ဆို့စာရင်း ထည့်သွင်းမှု %d ခု</item>
     </plurals>
     <plurals name="micloud_main_resume_sync_hour">
-        <item quantity="other">Resume sync after %d hours</item>
+        <item quantity="other">%d နာရီနောက် ဆင့်ခ်ပြန်လုပ်ပါ။</item>
     </plurals>
     <plurals name="micloud_main_resume_sync_min">
-        <item quantity="other">Resume sync after %d minutes</item>
+        <item quantity="other">%d မိနစ်နောက် ဆင့်ခ်ပြန်လုပ်ပါ။</item>
     </plurals>
 </resources>

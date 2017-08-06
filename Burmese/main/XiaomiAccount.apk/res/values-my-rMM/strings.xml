@@ -130,7 +130,6 @@
     <string name="passport_reg_failed">အကောင့် ပြုလုပ်လို့ မရပါ</string>
     <string name="passport_verification_failed">မှန်ကြောင်း အတည်ပြုရာတွင် မအောင်မြင်ပါ</string>
     <string name="passport_reset_fail_title">ပြန်မသတ်မှတ်နိုင်ခဲ့</string>
-    <string name="passport_identitfication_expired">အတည်ပြုခြင်းနံပါတ်　သက်တမ်းကုန်သွားပြီ၊　တဖန်ပြန်လုပ်ပါ</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_error_user_name">သင်ရိုက်သွင်းလိုက်သော အသုံးပြုသူအမည် ဘောင်မဝင်ပါ</string>
     <string name="passport_access_denied">ဝင်သုံးစွဲခွင့်ကို ငြင်းပယ်ထားသည်</string>
@@ -240,10 +239,10 @@
     <string name="account_bind_secure_email_title">အီးမေးလ်ပေါင်းထည့်ပါ</string>
     <string name="update_phone_number_notice_message">သင့်ဖုန်းနံပါတ်အား အသစ်မွမ်းမံခြင်းမပြုမီ မှန်ကန်ကြောင်းစစ်ဆေးခံရန် လိုအပ်ပါသည်</string>
     <string name="failed_dup_secure_phone_number">ဒီဖုန်းနံပါတ်က အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်</string>
-    <string name="confirm_phone_number_dialog_title">Confirm phone number</string>
-    <string name="confirm_bundled_phone_dialog_title">Confirm associated phone number</string>
-    <string name="confirm_phone_number_dialog_message">Verification code will be sent to %s.</string>
-    <string name="confirm_unbundled_phone_dialog_message">The phone number %1$s is associated with %2$s Mi Account. It will no longer be associated with Mi Account %3$s if you continue. Continue?</string>
+    <string name="confirm_phone_number_dialog_title">ဖုန်းနံပါတ် အတည်ပြုပါ။</string>
+    <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်တစ်ခု အတည်ပြုပါ။</string>
+    <string name="confirm_phone_number_dialog_message">%s သို့အတည်ပြုကုတ် ပေးပို့မည်။</string>
+    <string name="confirm_unbundled_phone_dialog_message">ဖုန်းနံပါတ် %1$s သည်Mi အကောင့် %2$s နှင့်ဆက်စပ်နေပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့်ဆက်စပ်တော့မည်မဟုတ်။ ဆက်လက်လုပ်ဆောင်မည်လား?</string>
     <string name="change_phone_number">ဖုန်းနံပါတ် ပြောင်းပါ</string>
     <string name="change_email_address">အီးမေးလ်လိပ်စာ ပြောင်းပါ</string>
     <string name="checking_phone_num_availible">ဖုန်းကို မှန်ကြောင်း အတည်ပြုနေဆဲ…</string>
@@ -258,7 +257,7 @@
     <string name="restart_action">ပြန်စ</string>
     <string name="error_dup_binded_email">ဒီအီးမေးလ်လိပ်စာသည် အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်။</string>
     <string name="error_invalid_bind_address">သင် ထည့်သွင်းသော အီးမေးလ်လိပ်စာက မမှန်ပါ။</string>
-    <string name="get_phone_bind_exceed_limit">"You can associate up to 3 Mi Accounts with a phone number. Can't add new accounts."</string>
+    <string name="get_phone_bind_exceed_limit">ဖုန်းနံပါတ်တစ်ခုဖြင့် Mi အကောင့်သုံးခုသာ ဆက်စပ်နိုင်ပါသည်။ အကောင့်အသစ် ထည့်သွင်းလို့မရတော့ပါ။</string>
     <string name="just_a_second">စက္ကန့်မျှသာ…</string>
     <string name="get_phone_verifycode_exceed_limit">အတည်ပြုကုဒ် အများအပြားကို ဒီနံပါတ်သို့ ပို့ထားသည်။ ၂၄ နာရီခန့် စောင့်ပြီးနောက်၊ ထပ်ကြိုးစားပါ။</string>
     <string name="mi_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
@@ -387,6 +386,7 @@
     <string name="mipay_balance">လက်ကျန်</string>
     <string name="mipay_others">အခြားသော</string>
     <string name="mipay_identity">ID အတည်ပြုခြင်း</string>
-    <string name="mipay_indentity_done">done</string>
-    <string name="mipay_identitiy_no">no</string>
+    <string name="mipay_indentity_done">ပြီးပါပြီ။</string>
+    <string name="mipay_identitiy_no">မရှိသေးပါ။</string>
+    <string name="passport_identitfication_expired">အတည်ပြုခြင်းနံပါတ်　သက်တမ်းကုန်သွားပြီ၊　တဖန်ပြန်လုပ်ပါ</string>
 </resources>

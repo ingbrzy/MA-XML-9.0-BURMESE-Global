@@ -3,6 +3,7 @@
     <string name="camera_setting">ကင်မရာ</string>
     <string name="path_settings">စနစ်အက်ပ်များ/ကင်မရာ/ဆက်တင်များ</string>
     <string name="search_settings">ကင်မရာဆက်တင်များ−အရည်အသွေး−ရုပ်ပုံအရည်အသွေး−ရုပ်ပုံတည်နေရာ−ပုံတည်နေရာ−မျက်နှာထောက်လှမ်းမှု−ကင်မရာအသံ</string>
+    <string name="hibernate_hint">ကင်မရာကို နှိုးရန် မျက်နှာပြင်ကို ထိလိုက်ပါ</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="cannot_connect_camera_once">ကင်မရာသို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="cannot_connect_camera_twice">ကင်မရာသို့ ချိန်ဆက်မရ ဖြစ်နေဆဲ။ သင့်ကိရိယာအား ပြန်စဖွင့်ခြင်းဖြင့် ကြိုးစားကြည့်ပါ။</string>
@@ -26,6 +27,8 @@
     <string name="pref_camera_sound_title">ကင်မရာအသံများ</string>
     <string name="pref_camera_proximity_lock_title">အိတ်မုတ်</string>
     <string name="pref_camera_proximity_lock_summary">အိတ်ထဲတွင် ထည့်ထားစဉ် ထိနှိပ်မှု လက်ဟုန်များအား သော့ချပါ</string>
+    <string name="screen_on_proximity_sensor_summary">နားကြပ်ဧရိယာကို မဖုံးအုပ်ပါနှင့်။</string>
+    <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
     <string name="pref_front_mirror_title">မှန်ပါအရှေ့ကင်မရာ</string>
     <string name="pref_video_quality_title">ဗီဒီယိုအရည်အသွေး</string>
     <string name="pref_video_quality_entry_4kuhd">၄k</string>
@@ -50,6 +53,7 @@
     <string name="pref_camcorder_settings_category">ကင်မရာ ဆက်တင်များ</string>
     <string name="pref_camera_picturesize_title_simple_mode">ကင်မရာဖရိန်</string>
     <string name="pref_camera_picturesize_entry_standard">စံပုံမှန် ၄:၃</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="pref_camera_picturesize_entry_fullscreen">မျက်နှာပြင်ပြည့် ၁၆:၉</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
@@ -179,6 +183,8 @@
     <string name="accessibility_review_thumbnail">များမကြာမီက ဓာတ်ပုံ</string>
     <string name="accessibility_camera_picker">ရှေ့နောက် ကင်မရာခလုတ်</string>
     <string name="accessibility_stereo_button">ကင်မရာနှစ်ခုတွဲမုဒ်</string>
+    <string name="accessibility_zoom_button">ချုံ့ချဲ့မုဒ်</string>
+    <string name="accessibility_portrait_button">ပေါ့ထရိတ်မုတ်</string>
     <string name="pref_camera_autoexposure_title">အော်တို အလင်းဖွင့်ချိန် ဆက်တင်များ</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">ဖရိန် ပုံမှန်စံနှုန်း</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">ဗဟိုရိုက်ကွက် အလင်းပိုးခြင်း</string>
@@ -217,6 +223,7 @@
     <string name="pref_video_captrue_ability_title">အသံဖမ်းယူနေစဉ် ပုံရိုက်ကူးပါ</string>
     <string name="see_qrcode_detals">QR ကုတ်အား အသေးစိတ်များအား ကြည့်ရှု့ပါ</string>
     <string name="pref_camera_watermark_title">ဓါတ်ပုံတွင် အချိန်အမှတ်အသား ပေါင်းထည့်ပါ</string>
+    <string name="pref_dualcamera_watermark_title">ကင်မရာနှစ်ခုတွဲ အမှတ်အသား</string>
     <string name="pref_camera_face_info_watermark_title">ဓါတ်ပုံတွင် အသက်အမှတ်အသား ပေါင်းထည့်ပါ</string>
     <string name="pref_scan_qrcode_title">QR ကုဒ်များအား စကန်ဖတ်ပါ</string>
     <string name="pref_manual_exposure_title">အလင်းဖွင့်ချိန်</string>
@@ -347,38 +354,6 @@
     <string name="dual_camera_lens_covered_toast">မှန်ဘီးလူးအား ကာထားပါသည်</string>
     <string name="dual_camera_use_hint">"စတီရီယိုမုဒ်မှာ နောက်ခံမှုံဝါးမှုအား ကူညီပေးပါသည်။
  အရာဝတ္ထုမှာ ၂မီတာထက် ပိုဝေး၍မရပါ။"</string>
-    <string name="pref_camera_square_mode_title">နှစ်ထပ်</string>
-    <string name="simple_mode_button_text_square">နှစ်ထပ်အား ပိတ်ပါ</string>
-    <string name="face_beauty_smart">စမတ်</string>
-    <string name="face_beauty_advanced">ပရို</string>
-    <string name="face_beauty_close">ပိတ်ပါ</string>
-    <string name="pref_skin_beautify_intelligent_title">စမတ်</string>
-    <string name="pref_skin_beautify_slim_title">သွယ်လျသော</string>
-    <string name="pref_skin_beautify_eye_title">မျက်လုံးများ</string>
-    <string name="pref_skin_beautify_smooth_title">အရေပြား</string>
-    <string name="pref_skin_beautify_color_title">အသံ</string>
-    <string name="pref_camera_beautify_entry_low">နိမ့်သော</string>
-    <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
-    <string name="pref_camera_beautify_entry_high">မြင့်သော</string>
-    <string name="camera_mode_options">Options</string>
-    <string name="button_front_camera_title">selfie တစ်ခုရိုက်ယူပါ</string>
-    <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်</string>
-    <string name="button_fisheye_camera_title">ငါးမျက်စိ</string>
-    <string name="pref_camera_groupshot_mode_title">အုပ်စုလိုက် ဆယ်ဖီများ</string>
-    <string name="simple_mode_button_text_groupshot">အုပ်စုလိုက် ဆယ်ဖီအားပိတ်ပါ</string>
-    <string name="pref_groupshot_with_primitive_title">အုပ်စုလိုက် ဆယ်ဖီမုတ်များတွင်လည်း မူရင်းပုံကို သိမ်းဆည်းပါ</string>
-    <string name="groupshot_mode_use_hint">"ကင်မရာသည် ပုံအများအပြား ရိုက်ပါလိမ့်မည်
- ပြီးနောက် လူတိုင်းအတွက် ကြည့်ကောင်းသော ပုံတစ်ခုကို ရယူနိုင်ပါသည်"</string>
-    <string name="title_snap_double_confirm">ထပ်မံအတည်ပြုပါ</string>
-    <string name="message_snap_double_confirm">အသံခလုတ်အား ကြာကြာနှိပ်ပြီး NFC အားယခုဖွင့်လိုက်ပါ။ ဤလုပ်ဆောင်ချက်အား အစားထိုးမည်လား?</string>
-    <string name="snap_confirmed">အစားထိုး</string>
-    <string name="snap_cancel">ဖျက်သိမ်း</string>
-    <string name="toast_saving">ဓာတ်ပုံကိုသိမ်းဆည်းနေသည်…</string>
-    <string name="cannot_connect_camera_volte_call">ဗီဒီယိုခေါ်ဆိုမှု လုပ်နေသည်၊ ကျေးဇူးပြု၍နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
-    <string name="hibernate_hint">ကင်မရာကို နှိုးရန် မျက်နှာပြင်ကို ထိလိုက်ပါ</string>
-    <string name="accessibility_zoom_button">ချုံ့ချဲ့မုဒ်</string>
-    <string name="accessibility_portrait_button">ပေါ့ထရိတ်မုတ်</string>
-    <string name="pref_dualcamera_watermark_title">Dual camera watermark</string>
     <string name="pref_camera_zoom_mode_title">မှန်ဘီလူး</string>
     <string name="pref_camera_zoom_mode_entry_wide">အကျယ်</string>
     <string name="pref_camera_zoom_mode_entry_tele">တယ်လီ</string>
@@ -393,7 +368,36 @@
     <string name="pref_camera_portrait_with_facebeauty_title">ပေါ့ထရိတ်မုဒ်တွင် အလှဆင်ပါ</string>
     <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
 with more clear main body and more beautiful portrait"</string>
-    <string name="install_confirmed">Install</string>
-    <string name="confirm_install_scanner_title">Install Scanner</string>
-    <string name="confirm_install_scanner_message">"Scanner allows you to scan QR codes, barcodes, and more. You don't have to connect to the internet to install it."</string>
+    <string name="pref_camera_square_mode_title">နှစ်ထပ်</string>
+    <string name="simple_mode_button_text_square">နှစ်ထပ်အား ပိတ်ပါ</string>
+    <string name="face_beauty_smart">စမတ်</string>
+    <string name="face_beauty_advanced">ပရို</string>
+    <string name="face_beauty_close">ပိတ်ပါ</string>
+    <string name="pref_skin_beautify_intelligent_title">စမတ်</string>
+    <string name="pref_skin_beautify_slim_title">သွယ်လျသော</string>
+    <string name="pref_skin_beautify_eye_title">မျက်လုံးများ</string>
+    <string name="pref_skin_beautify_smooth_title">အရေပြား</string>
+    <string name="pref_skin_beautify_color_title">အသံ</string>
+    <string name="pref_camera_beautify_entry_low">နိမ့်သော</string>
+    <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
+    <string name="pref_camera_beautify_entry_high">မြင့်သော</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
+    <string name="camera_mode_options">ရွေးချယ်မှုများ</string>
+    <string name="button_front_camera_title">selfie တစ်ခုရိုက်ယူပါ</string>
+    <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်</string>
+    <string name="button_fisheye_camera_title">ငါးမျက်စိ</string>
+    <string name="pref_camera_groupshot_mode_title">အုပ်စုလိုက် ဆယ်ဖီများ</string>
+    <string name="simple_mode_button_text_groupshot">အုပ်စုလိုက် ဆယ်ဖီအားပိတ်ပါ</string>
+    <string name="pref_groupshot_with_primitive_title">အုပ်စုလိုက် ဆယ်ဖီမုတ်များတွင်လည်း မူရင်းပုံကို သိမ်းဆည်းပါ</string>
+    <string name="groupshot_mode_use_hint">"ကင်မရာသည် ပုံအများအပြား ရိုက်ပါလိမ့်မည်
+ ပြီးနောက် လူတိုင်းအတွက် ကြည့်ကောင်းသော ပုံတစ်ခုကို ရယူနိုင်ပါသည်"</string>
+    <string name="title_snap_double_confirm">ထပ်မံအတည်ပြုပါ</string>
+    <string name="message_snap_double_confirm">အသံခလုတ်အား ကြာကြာနှိပ်ပြီး NFC အားယခုဖွင့်လိုက်ပါ။ ဤလုပ်ဆောင်ချက်အား အစားထိုးမည်လား?</string>
+    <string name="snap_confirmed">အစားထိုး</string>
+    <string name="snap_cancel">ဖျက်သိမ်း</string>
+    <string name="toast_saving">ဓာတ်ပုံကိုသိမ်းဆည်းနေသည်…</string>
+    <string name="cannot_connect_camera_volte_call">ဗီဒီယိုခေါ်ဆိုမှု လုပ်နေသည်၊ ကျေးဇူးပြု၍နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="install_confirmed">ထည့်သွင်းတပ်ဆင်</string>
+    <string name="confirm_install_scanner_title">စကန်နာ ထည့်သွင်းတပ်ဆင်မည်။</string>
+    <string name="confirm_install_scanner_message">စကန်နာဖြင့် QRကုဒ်၊ ဘားကုဒ်များအား စကန်ဖတ်နိုင်သည်။ စကန်နာထည့်သွင်းတပ်ဆင်ရန် အင်တာနက်မလိုပါ။</string>
 </resources>

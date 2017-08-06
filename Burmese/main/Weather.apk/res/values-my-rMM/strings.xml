@@ -29,6 +29,7 @@ Pull down to refresh or check the network settings"</string>
     <string name="act_weather_find_city_added">ပေါင်းထည့်ပြီးပြီ</string>
     <string name="activity_weathermain_locationg">တည်နေရာရှာဖွေနေဆဲ…</string>
     <string name="activity_weathermain_locationg_error">တည်နေရာရှာဖွေ၍မရပါ</string>
+    <string name="activity_minute_rain_location_fail_msg">Locating failed, default location of map is Beijing</string>
     <string name="view_forecast_item_yesterday">မနေ့က</string>
     <string name="view_indexes_item_today">ဒီနေ့</string>
     <string name="view_indexes_item_tommorrow">မနက်ဖြန်</string>
@@ -75,6 +76,9 @@ Pull down to refresh or check the network settings"</string>
     <string name="indices_title_restriction">လမ်းနေရာ</string>
     <string name="indices_title_Precip1hr">အနှစ်ချုပ်1hr</string>
     <string name="indices_no_restriction">မရှိ</string>
+    <string name="content_desc_activity_main_add_city">Add city</string>
+    <string name="content_desc_activity_main_add_city_manage">City management</string>
+    <string name="content_desc_activity_main_more_settings">More settings</string>
     <string name="daily_forcast_no_wind">၀</string>
     <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
     <string name="daily_forcast_whirl_wind">လေဝဲကလေး</string>
@@ -181,6 +185,17 @@ Tap the screen to manually add or reposition city"</string>
     <string name="set_land_mile">mph</string>
     <string name="set_kilometre">km/h</string>
     <string name="alert_warning">ရာသီဥတု သတိပေးချက်များ</string>
+    <string name="other_warning_settings">Other Warning Settings</string>
+    <string name="rainfall_settings_title">Rainfall Warning</string>
+    <string name="rainfall_settings_summary">Rainfall Settings</string>
+    <string name="night_not_disturb_settings_title">Do not disturb at night</string>
+    <string name="night_not_disturb_settings_summary">Will not receive all weather notices from 23:00 to 07:00 the next day after opening</string>
+    <string name="reminder_from_xiaomi_weather_app">Reminder From Xiaomi Weather APP</string>
+    <string name="it_is_going_to_rain">It is going to rain</string>
+    <string name="your_location">Your location</string>
+    <string name="update_setting_title_text">Update Settings</string>
+    <string name="update_night_setting_title_text">Update Automatically At Night</string>
+    <string name="update_night_setting_summary_text">Will not update automatically 23:00-07:00 after closed</string>
     <string name="unit">ယူနစ်</string>
     <string name="information_set">အခြားဆက်တင်များ</string>
     <string name="other">အခြား</string>

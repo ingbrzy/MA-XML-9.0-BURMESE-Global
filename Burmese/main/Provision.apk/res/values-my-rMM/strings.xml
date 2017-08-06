@@ -22,8 +22,6 @@
     <string name="other_settings_upload_debug_log_summary">ကျွန်ုပ်တို့ စုဆောင်းလိုက်သော အချက်အလက်များအား စနစ်ရှိ ပြဿနာအား စီစစ်ရှာဖွေဖြေရှင်းရန်အတွက် အသုံးပြုပါသည်။ ၄င်းတွင် သင့်ကိုယ်ရေးအချက်အလက်များပါဝင်နိုင်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာအား သိရှိရန် မည်သည့်ဒေတာကိုမျှ အသုံးပြုမည်မဟုတ်ပါ။</string>
     <string name="other_settings_auto_update">Install automatically</string>
     <string name="other_settings_auto_update_summary">MIUI will select the best moment to install updates.</string>
-    <string name="other_settings_mifg_online_content">နောက်ခံပုံ လှည့်ပြခြင်း</string>
-    <string name="other_settings_mifg_online_content_summary">ရုပ်ပုံအသစ်များ ဒေါင်းလုပ်လုပ်နိုင်ရန် ဝေါလ်ပေပါ ကာရိုဆယ်အား အင်တာနက်နှင့် ချိတ်ဆက်ရန် ခွင့်ပြုပေးပါ</string>
     <string name="back">နောက်သို့</string>
     <string name="next">နောက်ထပ်</string>
     <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
@@ -40,7 +38,7 @@
     <string name="terms_of_use">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
     <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, and Mi Account components will connect to the internet and acquire your location."</string>
+You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, MiSmartCards, and Mi Account components will connect to the internet and acquire your location."</string>
     <string name="user_agreement">ဝန်ဆောင်မှုသတ်မှတ်ချက်များ</string>
     <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="agree">သဘောတူသည်</string>
@@ -67,4 +65,7 @@ You must agree to our Terms of Service and Privacy Policy before you can use MIU
     <string name="enable_accessibility_dialog_negative_btn">ဖျက်သိမ်း</string>
     <string name="cm_terms_title">မိုဘိုင်းကွန်ရက် အော်ပရိတ်တာ သဘောတူညီချက်</string>
     <string name="cm_terms_content">သင့်ကိုထောက်ပံ့ထားသော ဝန်ဆောင်မှုများကို တိုးဆက်စေရန်၊သင်ရွေးလိုက်ရာ မိုဘိုင်းကွန်ရက် အော်ပရေတာသည် သင်၏ပုဂ္ဂိုလ်ရေးရာ ဒေတာများနှင့် ဤစက်၏ အချက်အလက်များကို ၄င်းဆာဗာသို့ Wi-Fi သို့မဟုတ် မိုဘိုင်းဒေတာအသုံးပြုပြီး လုတ်တင်ပါလိမ့်မည်။ ဤအချက်အချက်အလက်များကို ဝန်ဆောင်မှု အရည်အသွေးတိုးမြှင့်ရန်နှင့် သင့်အတွက် အသုံးဝင်သော ကြောင်းအရာများကို ပိုမိုထောင့်ပံ့ပေးနိုင်ရန်သာ အသုံးပြုမည်ဖြစ်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာကို သိရှိရန်နှင့် အခြား တစ်ဆင့်ခံများကို ဖော်ထုတ်ပြခြင်း လုံးဝမပြုလုပ်ပါ။</string>
+    <string name="two_dimensional_code_scan">QR code scan</string>
+    <string name="user_strayed_warning">The page is designed for factory test, Click back button to exit.</string>
+    <string name="fail_to_generate_qr_code">Fail to generate QR code, please reenter this page.</string>
 </resources>

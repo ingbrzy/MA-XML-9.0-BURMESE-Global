@@ -854,11 +854,16 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="talkback_download">ဒေါင်းလုတ်ဆွဲပါ</string>
     <string name="talkback_share">မျှဝေခြင်း</string>
     <string name="talkback_mode">အဖွင့်စာရင်းအား ပတ်လည်ဖွင့်ပါ</string>
+    <string name="talkback_mode_repeat_all">List loop mode</string>
+    <string name="talkback_mode_repeat_current">Single loop mode</string>
+    <string name="talkback_mode_repeat_shuffle">Random play mode</string>
     <string name="talkback_device">အခြားစက်များပေါ်တွင် ဖွင့်ပါ</string>
     <string name="talkback_more">မီနူးပိုမို၍</string>
     <string name="talkback_favorite">ဤသီးချင်းအား ကြိုက်သည်</string>
     <string name="talkback_progress">တိုးတက်မှု ဘား</string>
     <string name="talkback_back">နောက်ပြန်သွား</string>
+    <string name="talkback_nowplaying_circle">Play Circle</string>
+    <string name="talkback_nowplaying_bar">Play Bar</string>
     <string name="cloud_music">Mi ကလောက်ရှိ သီချင်းများ</string>
     <string name="backup_immediate">အရန်သိမ်းပါ</string>
     <string name="backup_song_title">အရန်သိမ်းရန် သီချင်းများ ရွေးပါ</string>
@@ -909,5 +914,5 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="online_service_title">အွန်လိုင်းဝန်ဆောင်မှုများ</string>
     <string name="online_service_open_tip">အွန်လိုင်းဂီတဝန်ဆောင်မှု ဖွင့်ထားသည်</string>
     <string name="online_play_tips">ဤသီချင်းကို အွန်လိုင်းတွင်သာရရှိနိုင်ပါသည်။၄င်းကို နားဆင်ရန် ဆက်တင်များထဲတွင် အွန်လိုင်းဝန်ဆောင်မှုများကို ဖွင့်ပါ။</string>
-    <string name="date_format_str">MM-dd-yyyy</string>
+    <string name="date_format_str">dd-MM-yyyy</string>
 </resources>

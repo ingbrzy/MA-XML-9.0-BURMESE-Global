@@ -16,22 +16,22 @@
         <item quantity="other">လူပုဂ္ဂိုလ် %1$s ဦး</item>
     </plurals>
     <plurals name="to_count">
-        <item quantity="other">%d recipients</item>
+        <item quantity="other">%d လက်ခံသူ</item>
     </plurals>
     <plurals name="send_to_count">
-        <item quantity="other">Sent %1$s messages</item>
+        <item quantity="other">မက်ဆေ့ခ်ျ %1$s ပေးပို့ခဲ့သည်။</item>
     </plurals>
     <plurals name="group_message_failed_title">
-        <item quantity="other">"Couldn't send to %d contacts"</item>
+        <item quantity="other">%d အဆက်အသွယ်များသို့ မပို့နိုင်ခဲ့ပါ။</item>
     </plurals>
     <plurals name="batch_delete_confirm_dialog_message">
         <item quantity="other">မက်ဆေ့ချ် %1$s ခုအား ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="timed_message_expired_title">
-        <item quantity="other">"%d timed messages haven't been sent"</item>
+        <item quantity="other">အချိန်ကိုက်မက်ဆေ့ချ် %d စောင် မပေးပို့နိုင်ခဲ့ပါ။</item>
     </plurals>
     <plurals name="timed_message_in_total">
-        <item quantity="other">(%d messages)</item>
+        <item quantity="other">(%d မက်ဆေ့ချ်)</item>
     </plurals>
     <plurals name="hint_search_sms">
         <item quantity="other">မက်ဆေ့ချ် %d စောင်</item>

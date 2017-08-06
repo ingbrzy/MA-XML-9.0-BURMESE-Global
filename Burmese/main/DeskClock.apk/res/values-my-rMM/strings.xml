@@ -107,7 +107,7 @@
     <string name="life_post_setting_open_subtitle">" 4:00 နာရီနှင့် 9:30 အကြားသင်နှိုးစက်များ ပိတ်ထားစဉ် ရာသီဥတုအချက်အလက်များအား လက်ခံရယူပါ"</string>
     <string name="life_post_setting_wake_up_list_title">နှိုးထသည့် သမိုင်း</string>
     <string name="percentage_sign">%</string>
-    <string name="life_post_setting_FBE_remind">Due to system restriction, weather info in morning report may not display correctly after reboot</string>
+    <string name="life_post_setting_FBE_remind">စနစ်၏ကန့်သတ်မှုကြောင့် စက်ပိတ်ပြီးပြန်စလျှင် နံနက်ခင်းမိုးလေဝသ သတင်းအချက်အလက်များ မှားနိုင်ချေရှိသည်။</string>
     <string name="install_weather_app_loading">တစ်စက္ကန့်မျှသာ…</string>
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
     <string name="app_label">နာရီ</string>

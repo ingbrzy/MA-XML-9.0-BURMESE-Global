@@ -32,7 +32,6 @@
     <string name="emergency_alert_settings_title">အရေးပေါ် သတိပေးချက် သတ်မှတ်ချက်များ</string>
     <string name="enable_emergency_alerts_title">အကြောင်းကြားမှုများ ဖွင့်ပါ</string>
     <string name="enable_emergency_alerts_summary">အရေးပေါ် သတိပေးရေး ထုတ်လွှင့်ချက်များကို ပြပါ</string>
-    <string name="alert_sound_duration_title">သတိပေးသံ ကြာရှည်မှု</string>
     <string name="alert_reminder_interval_title">သတိပေးနှုန်း</string>
     <string name="enable_alert_speech_title">စကားပြော သတိပေးချက် သတင်းတို</string>
     <string name="enable_alert_speech_summary">အရေးပေါ် သတိပေးရေး သတင်းများကို ပြောကြားရန် စာသား-မှ-စကားကို အသုံးပြုပါ</string>
@@ -92,4 +91,5 @@
     <string name="cmas_opt_out_dialog_text">သင်သည် လောလောဆယ်မှာ အရေးပေါ် သတိပေးချက်များကို ရရှိနေသည်။ သင်သည် အရေးပေါ် သတိပေးချက်များကို ဆက်ရလိုပါသလား?</string>
     <string name="cmas_opt_out_button_yes">လို</string>
     <string name="cmas_opt_out_button_no">မလို</string>
+    <string name="alert_sound_duration_title">သတိပေးသံ ကြာရှည်မှု</string>
 </resources>
