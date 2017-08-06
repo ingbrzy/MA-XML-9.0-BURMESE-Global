@@ -19,10 +19,6 @@
         <item>၄x၄</item>
         <item>၄x၅</item>
     </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>၄x၄</item>
-        <item>၄x၅</item>
-    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>သတ်မှတ်ပုံစံ</item>
         <item>ဂန္ထဝင်မိုး</item>
