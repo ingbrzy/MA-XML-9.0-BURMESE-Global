@@ -29,17 +29,17 @@
         <item>Temporarily avoiding poor connection</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
+        <item>ဘယ်တော့မှ မစစ်ဆေးပါ</item>
         <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>အမြဲတမ်းစစ်ဆေးပါ။</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>ဘယ်တော့မှ HDCP ဖြင့်မစစ်ဆေးပါ။</item>
+        <item>HDCP ဖြင့် DRM အကြောင်းအရာအတွက်သာ စစ်ဆေးမည်။</item>
+        <item>အမြဲတမ်း HDCP ဖြင့်စစ်ဆေးပါ။</item>
     </string-array>
     <string-array name="select_logd_size_titles">
-        <item>Off</item>
+        <item>ပိတ်မည်။</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
@@ -47,112 +47,123 @@
         <item>16M</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
-        <item>Off</item>
+        <item>ပိတ်မည်။</item>
         <item>64K</item>
         <item>256K</item>
         <item>1M</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
-        <item>Off</item>
-        <item>64K per log buffer</item>
-        <item>256K per log buffer</item>
-        <item>1M per log buffer</item>
-        <item>4M per log buffer</item>
-        <item>16M per log buffer</item>
+        <item>ပိတ်မည်။</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 64K</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 256K</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 1M</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 4M</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 16M</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
+        <item>အန်နီမေးရှင်းစကေး .5x</item>
+        <item>အန်နီမေးရှင်းစကေး 1x</item>
+        <item>အန်နီမေးရှင်းစကေး 1.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 2x</item>
+        <item>အန်နီမေးရှင်းစကေး 5x</item>
+        <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
+        <item>အန်နီမေးရှင်းစကေး .5x</item>
+        <item>အန်နီမေးရှင်းစကေး 1x</item>
+        <item>အန်နီမေးရှင်းစကေး 1.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 2x</item>
+        <item>အန်နီမေးရှင်းစကေး 5x</item>
+        <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
+        <item>အန်နီမေးရှင်းစကေး .5x</item>
+        <item>အန်နီမေးရှင်းစကေး 1x</item>
+        <item>အန်နီမေးရှင်းစကေး 1.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 2x</item>
+        <item>အန်နီမေးရှင်းစကေး 5x</item>
+        <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>မရှိ</item>
         <item>480p</item>
-        <item>480p (secure)</item>
+        <item>480p (လုံခြုံသော)</item>
         <item>720p</item>
-        <item>720p (secure)</item>
+        <item>720p (လုံခြုံသော)</item>
         <item>1080p</item>
-        <item>1080p (secure)</item>
+        <item>1080p (လုံခြုံသော)</item>
         <item>4K</item>
-        <item>4K (secure)</item>
-        <item>4K (upscaled)</item>
-        <item>4K (upscaled, secure)</item>
-        <item>720p, 1080p (dual screen)</item>
+        <item>4K (လုံခြုံသော)</item>
+        <item>4K (အရည်အသွေးကောင်းမွန်သော)</item>
+        <item>4K (အရည်အသွေးကောင်းမွန်သော၊ လုံခြုံသော)</item>
+        <item>720p, 1080p (နှစ်ခုပြိုင် မျက်နှာပြင်)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>မရှိ</item>
         <item>Logcat</item>
         <item>Systrace (Graphics)</item>
         <item>Call stack on glGetError</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
+        <item>ပိတ်</item>
         <item>Draw non-rectangular clip region in blue</item>
         <item>Highlight tested drawing commands in green</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
+        <item>ပိတ်</item>
         <item>On screen as bars</item>
         <item>In adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
-        <item>Off</item>
+        <item>ပိတ်</item>
         <item>Show overdraw areas</item>
         <item>Show areas for Deuteranomaly</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>စံ ကန့်သတ်ချက်</item>
+        <item>နောက်ခံဖြစ်စဥ် မရှိပါ။</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၁ ခု</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၂ ခု</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၃ ခု</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၄ ခု</item>
     </string-array>
     <string-array name="usb_configuration_titles">
-        <item>Charging</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
+        <item>အားသွင်းနေသည်</item>
+        <item>MTP (မီဒီယာလွှဲပြောင်းမှုသဘောတူညီချက်)</item>
+        <item>PTP (ရုပ်ပုံလွှဲပြောင်းမှုသဘောတူညီချက်)</item>
+        <item>RNDIS (USB အီသာနက်)</item>
         <item>Audio Source</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
-        <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
+        <item>အလွန် နှေးသည်</item>
+        <item>နှေးသည်</item>
+        <item>သာမန်</item>
+        <item>မြန်သည်</item>
+        <item>ပိုမြန်သော</item>
+        <item>အလွန်မြန်သော</item>
         <item>Rapid</item>
         <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (default)</item>
         <item>Natural</item>
-        <item>Standard</item>
+        <item>ပုံမှန်</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Enhanced colors</item>

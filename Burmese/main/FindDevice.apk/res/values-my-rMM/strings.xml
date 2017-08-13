@@ -6,13 +6,14 @@
     <string name="disable_find_device_success">စက်ကိုရှာပါကို ပိတ်ထားသည်</string>
     <string name="enable_find_device_error">\"စက်ကိုရှာပါကို ဖွင့်လို့မရပါ။\"%1$s</string>
     <string name="disable_find_device_error">\"စက်ကိုရှာပါကို ပိတ်လို့မရပါ။ %1$s</string>
+    <string name="find_device_error_access_denied">ဝင်ရောက်ချိတ်ဆက်ရန် ငြင်းဆိုသည်။</string>
     <string name="find_device_error_unknown">အမည်မသိအမှား(%s)</string>
     <string name="find_device_error_password_changed">အကောင့်စကားဝှက်အား လတ်တလောပြောင်းလဲခဲ့သည်။</string>
     <string name="find_device_error_network">ကွန်ရက်ချွတ်ယွင်းမှု</string>
     <string name="find_device_error_server">ဆာဗာအမှား(%s)</string>
     <string name="find_device_error_account_sys_timeout">Mi အကောင့်အား မချိတ်ဆက်နိုင်ခဲ့ပါ</string>
     <string name="find_device_error_account_unknown_error">Mi အကောင့်အမှား(%s)</string>
-    <string name="find_device_crash">မမျှော်လင့်ဘဲ စက်ပိတ်သွားသည်။</string>
+    <string name="find_device_crash">မမျှော်လင့်ဘဲ စက်ရှာဖွေခြင်းပိတ်သွားသည်။</string>
     <string name="find_device_storage_corrupted">ပျက်စီးသွားသော စက်သိုလှောင်မှုအား ရှာဖွေပါ။ သင့်စက်သည်ယခုမလုံခြုံပါ။</string>
     <string name="find_device_telephony_fault">စက်ရှာဖွေပါ−တယ်လီဖုန်းဆိုင်ရာအမှား(%s)။</string>
     <string name="time_correction_success">အချိန်ပြုပြင်ခဲ့သည်</string>
@@ -79,4 +80,8 @@
     <string name="lock_msg_phone">ဆက်သွယ်ရန် အချက်အလက်−%s</string>
     <string name="default_debt_msg_words">"အခကြေးငွေပေးချေရန် ရက်လွန်သွားသောကြောင့် ဖုန်းလော့ခ်ကျသွားသည်။
 အသေးစိတ်သိရန် သင့်အရောင်းအေးဂျင့်သို့ ဆက်သွယ်ပါ။"</string>
+    <string name="sys_notification_async_verify_title">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>
+    <string name="sys_notification_async_verify_content">ကျွန်ုပ်တို့၏ အပ်ဒိတ်လုပ်ထားသော လုံခြုံရေးပေါ်လစီကြောင့် စက်ရှာဖွေခြင်းကိုပြန်လည်အသက်သွင်းရန် လိုအပ်သည်။</string>
+    <string name="sys_notification_async_open_failed_title">စက်ရှာဖွေခြင်းအား ဖွင့်၍မရပါ။</string>
+    <string name="sys_notification_async_open_failed_content">ထပ်မံကြိုးစားပါ သို့မဟုတ် ပယ်ဖျက်ပါ။</string>
 </resources>

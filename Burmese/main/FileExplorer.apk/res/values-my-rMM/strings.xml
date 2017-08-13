@@ -113,8 +113,8 @@
     <string name="operation_compressing">ချုံ့ထည့်နေဆဲ…</string>
     <string name="operation_decompressing">ပြန်ထုတ်ယူနေဆဲ…</string>
     <string name="decompress_success">ထုတ်ယူခြင်းပြီးဆုံးပြီ</string>
-    <string name="decompress_fail">"Couldn't extract."</string>
-    <string name="decompress_corrupt">"Couldn't unpack files. Package is corrupted."</string>
+    <string name="decompress_fail">ထုတ်ယူ၍မရပါ။</string>
+    <string name="decompress_corrupt">ဖိုင်များ ဖြည်လို့မရပါ။ ပက်ကေ့ချ်ပျက်စီးနေသည်။</string>
     <string name="decompress_destination_error">ဤတည်နေရာသို့ ဖိုင်အား ထုတ်ယူ၍မရပါ</string>
     <string name="decompress_to_here">ဤတွင်းထုတ်ယူပါ</string>
     <string name="decompress_to">ဖိုင်များအားထုတ်ယူ…</string>
@@ -413,7 +413,7 @@
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="request_timeout">ကွန်ရက်ချိတ်ဆက်မှု အချိန် ကုန်သွားပါပြီ</string>
     <string name="login_expired">လော့အင်ဝင်ရောက်မှု သက်တမ်းကုန်ဆုံးပြီဖြစ်သောကြောင့် လော့အင်နောက်တစ်ကြိမ်လုပ်ပါ။</string>
-    <string name="error_contains_sharer_path">Unable to encrypt files in folder /MIUI/Gallery/cloud/sharer, move the file to another directory and try again</string>
+    <string name="error_contains_sharer_path">/MIUI/Gallery/cloud/sharerစသည့်ဖိုလ်ဒါ တွင်ရှိသော ဖိုင်များအား လျှို့ဝှက်၍မရပါ။ အခြားတစ်နေရာသို့ပြောင်းရွှေ့ပြီး ထပ်မံကြိုးစားကြည့်ပါ။</string>
     <string name="hottest_sticker_str">လူကြိုက်များသော</string>
     <string name="no_new_content_tip">အိုင်တမ်အားလုံးမှာ ရက်မှီသည်</string>
     <string name="share_title_1">စတေကာအလန်းတစ်ခု တွေ့ရှိခဲ့သည်</string>
@@ -789,7 +789,7 @@
     <string name="error_invalid_path">လမ်းကြောင်း မှားနေသည်။</string>
     <string name="error_create_dir">ဖိုလ်ဒါ ဖန်တီးလို့မရပါ။</string>
     <string name="error_create_file">ဖိုင် ဖန်တီးလို့မရပါ။</string>
-    <string name="error_not_support">မပံ့ပိုးထားပါ။</string>
+    <string name="error_not_support">ပံ့ပိုးမှုမပေးပါ။</string>
     <string name="error_delete_failed">ဖိုင် ဖျက်လို့မရပါ။</string>
     <string name="error_folder_already_exists">ဤဖိုင်ရှိပြီးဖြစ်သည်။</string>
     <string name="clock_in">… စစ်ဆေးနေသည်။</string>

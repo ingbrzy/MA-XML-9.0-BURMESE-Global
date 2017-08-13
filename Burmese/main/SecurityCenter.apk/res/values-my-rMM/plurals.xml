@@ -141,10 +141,10 @@
         <item quantity="other">ထရိုဂျန် %d ခု</item>
     </plurals>
     <plurals name="white_list_risk_app_header">
-        <item quantity="other">Dangerous apps: %d</item>
+        <item quantity="other">အန္တာရာယ်ရှိသော အက်ပ်- %d</item>
     </plurals>
     <plurals name="white_list_trojan_header">
-        <item quantity="other">Trojans: %d</item>
+        <item quantity="other">ထရိုဂျန်များ− %d</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d စက္ကန့်စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ</item>

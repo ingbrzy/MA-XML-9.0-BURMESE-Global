@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="passport_account_label">Mi အကောင့်</string>
-    <string name="passport_notification_title">%1$s အတွက် အကာင့်ထဲဝင်ရောက်မှု ချို့ယွင်းနေသည်</string>
+    <string name="passport_notification_title">Sign in error for %1$s</string>
     <string name="passport_login_prompt">Mi အကောင့်တစ်ခု။ Mi ဝန်ဆောင်မှုအားလုံး။</string>
     <string name="passport_login_using_other_ways"><u>ဆိုင်းအင်ဝင်ရန် အခြားနည်းလမ်းအား အသုံးပြုပါ</u></string>
     <string name="passport_login_title">သင်၏ Mi အကောင့်သို့ ဝင်ပါ။</string>
@@ -34,6 +34,8 @@
     <string name="passport_restart_register_title">Miအကောင့်တစ်ခု ဖန်တီး</string>
     <string name="passport_restart_register_prompt">အကောင့်ဖန်တီးရန် အတည်ပြုချက်မက်ဆေ့ချ်တစ်ခု ထပ်ပြီးလိုအပ်နိုင်ပါသည်</string>
     <string name="passport_wait_for_sms_prompt">ယခု ပြန်စမည်လား?အတည်ပြုစစ်ဆေးခြင်းကုဒ်အားပေးပို့ရန် သင့်ဖုန်းလိုင်းကွန်ရက်အတွင်း 10မိနစ်ခန့်အထိ ကြာနိုင်ပါသည်။</string>
+    <string name="passport_send_vcode_failed">Sent failed</string>
+    <string name="passport_sms_send_success">Sent</string>
     <string name="passport_recycle_account_prompt">သင်၏Miအက​ောင့်လား?</string>
     <string name="passport_confirm_recycle_account">ဟုတ်သည်</string>
     <string name="passport_reject_recycle_account">မဟုတ်</string>
@@ -117,6 +119,11 @@
     <string name="passport_pwd_generating">ထုတ်လုပ်နေ…</string>
     <string name="passport_setting">သတ်မှတ်နေ…</string>
     <string name="passport_trying_read_verify_code_sms">အတည်ပြုကုတ် ရယူနေ…</string>
+    <string name="passport_adding_account">Adding account…</string>
+    <string name="passport_sending_vcode">Sending code…</string>
+    <string name="passport_getting_activator_phone">Getting phone Sim Info…</string>
+    <string name="passport_verifying_activator_phone">Verifying phone security…</string>
+    <string name="passport_querying_phone_info">Querying phone user info…</string>
     <string name="passport_area_code_title">နိုင်ငံကုဒ်</string>
     <string name="passport_area_code_hot">ကြိမ်ဖန်များစွာအသုံးပြုသော</string>
     <string name="passport_user_agreement_p1">သဘောတူသည်</string>
@@ -130,6 +137,7 @@
     <string name="passport_reg_failed">အကောင့် ပြုလုပ်လို့ မရပါ</string>
     <string name="passport_verification_failed">မှန်ကြောင်း အတည်ပြုရာတွင် မအောင်မြင်ပါ</string>
     <string name="passport_reset_fail_title">ပြန်မသတ်မှတ်နိုင်ခဲ့</string>
+    <string name="passport_identification_expired">Verification code expired, start over</string>
     <string name="passport_bad_authentication">သုံးသူအမည် သို့မဟုတ် စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_error_user_name">သင်ရိုက်သွင်းလိုက်သော အသုံးပြုသူအမည် ဘောင်မဝင်ပါ</string>
     <string name="passport_access_denied">ဝင်သုံးစွဲခွင့်ကို ငြင်းပယ်ထားသည်</string>
@@ -143,6 +151,7 @@
     <string name="passport_error_ssl_hand_shake">ဆာဗာသို့ ဆက်သွယ်မရပါ</string>
     <string name="passport_error_server">ဆာဗာချို့ယွင်းမှု</string>
     <string name="passport_error_unknown">အကောင့်ထဲသို့ ဝင်မရပါ</string>
+    <string name="passport_error_auth_fail">Session expired, sign in again later</string>
     <string name="passport_imei_permission_denied_title">IMEI ခွင့်ပြုချက်တောင်းခံ</string>
     <string name="passport_imei_permission_denied_message">သင့်စက်၏ IMEI သို့ဝင်ရောက်ရန် ကျွန်ုပ်တို့မှ ခွင့်ပြုချက်တောင်းခံခြင်းဖြစ်ပါသည်။ Mi အကောင့်အား လုံခြုံစေရန်အတွက် Mi အကောင့်သည် သင့်မည်သည့်စက်ကို ဆိုင်းအင်ဝင်ရောက်သည်၊ ထွက်သည်အား သိရှိနိုင်ရန်အတွက် IMEI အား အသုံးပြုပါသည်။</string>
     <string name="passport_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
@@ -153,6 +162,24 @@
     <string name="passport_message_dialog_title">အတည်ပြုကုတ်များနှင့်အတူ SMS များ</string>
     <string name="passport_trust_device">စက်များအား အတည်ပြုရန် ဤစက်အား ပေါင်းထည့်ပါ</string>
     <string name="passport_barcode_add_account_prompt">အကောင့်တစ်ခုကို ချိတ်ဆက်ရန်၊ သင် ဆိုင်းအင်ဝင်ပြီးနောက်တွင် QR ကုဒ်ကို စကင်ဖတ်ပါ။</string>
+    <string name="passport_quick_register_notice"><u>"Don't have a Mi Account? Create one."</u></string>
+    <string name="passport_password_phone_login">Password sign in</string>
+    <string name="passport_login_other_account">sign in other account</string>
+    <string name="passport_reg_new_account">Create one new account</string>
+    <string name="passport_select_the_login_account">Select the one you sign in</string>
+    <string name="passport_select_the_register_phone">Select the one you create account</string>
+    <string name="passport_select_the_recycle_phone_login">choose the one belongs to you</string>
+    <string name="passport_recycle_login_other_account">Not mine, sign in other account</string>
+    <string name="passport_registered_phone_num">ဖုန်း-%s</string>
+    <string name="passport_quick_login">ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="passport_error_verify_activator_phone_title">手机号码校验出现问题</string>
+    <string name="passport_error_verify_activator_phone_message">手机号码出错,请确保SIM卡话费充足,网络通畅</string>
+    <string name="passport_error_no_password_user">您的帐号暂未绑定密码,请使用手机短信登录</string>
+    <string name="passport_phone_ticket_login">Phone code sign in</string>
+    <string name="passport_account_set_password">Set Password</string>
+    <string name="passport_account_set_password_title">Set Password</string>
+    <string name="passport_account_set_password_prompt">Please set password, for next sign in.</string>
+    <string name="passport_set">သတ်မှတ်ပါ။</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
     <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
@@ -388,5 +415,7 @@
     <string name="mipay_identity">ID အတည်ပြုခြင်း</string>
     <string name="mipay_indentity_done">ပြီးပါပြီ။</string>
     <string name="mipay_identitiy_no">မရှိသေးပါ။</string>
-    <string name="passport_identitfication_expired">အတည်ပြုခြင်းနံပါတ်　သက်တမ်းကုန်သွားပြီ၊　တဖန်ပြန်လုပ်ပါ</string>
+    <string name="account_token_expired_title">မှန်ကန်ကြောင်းအတည်ပြုခြင်း မအောင်မြင်ပါ။</string>
+    <string name="account_token_expired_msg">"အတည်ပြုကုတ်သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
+ သင်၏အကောင့်ID- %s"</string>
 </resources>

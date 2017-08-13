@@ -28,7 +28,7 @@
     <string name="pref_camera_proximity_lock_title">အိတ်မုတ်</string>
     <string name="pref_camera_proximity_lock_summary">အိတ်ထဲတွင် ထည့်ထားစဉ် ထိနှိပ်မှု လက်ဟုန်များအား သော့ချပါ</string>
     <string name="screen_on_proximity_sensor_summary">နားကြပ်ဧရိယာကို မဖုံးအုပ်ပါနှင့်။</string>
-    <string name="screen_on_proximity_sensor_hint">To turn this feature off, press the Volume up and Back buttons simultaneously.</string>
+    <string name="screen_on_proximity_sensor_hint">ဤအင်္ဂါရပ်ကိုပိတ်ရန် အသံချဲ့ခလုတ်နှင့်နောက်ပြန်ခလုတ်များအား တစ်ပြိုင်နက်တည်းဖိနှိပ်ပါ။</string>
     <string name="pref_front_mirror_title">မှန်ပါအရှေ့ကင်မရာ</string>
     <string name="pref_video_quality_title">ဗီဒီယိုအရည်အသွေး</string>
     <string name="pref_video_quality_entry_4kuhd">၄k</string>
@@ -53,6 +53,7 @@
     <string name="pref_camcorder_settings_category">ကင်မရာ ဆက်တင်များ</string>
     <string name="pref_camera_picturesize_title_simple_mode">ကင်မရာဖရိန်</string>
     <string name="pref_camera_picturesize_entry_standard">စံပုံမှန် ၄:၃</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="pref_camera_picturesize_entry_fullscreen">မျက်နှာပြင်ပြည့် ၁၆:၉</string>
     <string name="pref_camera_picturesize_entry_4208x3120">13M(4208x3120)</string>
     <string name="pref_camera_picturesize_entry_4208x2368">10M(4208x2368)</string>
@@ -365,8 +366,8 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_with_facebeauty_hint">ပေါ့ထရိတ်မုဒ်တွင် အလှဆင်ပါကို ယခုရရှိနိုင်ပါပြီ</string>
     <string name="pref_camera_portrait_with_facebeauty_title">ပေါ့ထရိတ်မုဒ်တွင် အလှဆင်ပါ</string>
-    <string name="portrait_mode_use_hint">"Portrait mode helps you blur the background
-with more clear main body and more beautiful portrait"</string>
+    <string name="portrait_mode_use_hint">"လူပုံမုဒ်သည် နောက်ခံကိုမှုန်ဝါးစေပြီး
+အဓိကလူပုံကို ပိုမိုရှင်းလင်း၍ပိုမိုလှပစေပါသည်။"</string>
     <string name="pref_camera_square_mode_title">နှစ်ထပ်</string>
     <string name="simple_mode_button_text_square">နှစ်ထပ်အား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -380,6 +381,7 @@ with more clear main body and more beautiful portrait"</string>
     <string name="pref_camera_beautify_entry_low">နိမ့်သော</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">မြင့်သော</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">ရွေးချယ်မှုများ</string>
     <string name="button_front_camera_title">selfie တစ်ခုရိုက်ယူပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်</string>

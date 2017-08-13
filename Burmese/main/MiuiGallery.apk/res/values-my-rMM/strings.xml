@@ -567,7 +567,7 @@
     <string name="gallery_setting">ဆက်တင်များ</string>
     <string name="cloud_settings">ပြခန်းအရန်သိမ်းများ</string>
     <string name="backup_sync_dialog_title">ဆင့်ခ် ပိတ်ထားသည်။</string>
-    <string name="backup_sync_dialog_tips">Turn on sync with Mi Cloud to change the settings for backups.</string>
+    <string name="backup_sync_dialog_tips">အရန်သိမ်းခြင်းဆက်တင်ကိုပြောင်းလဲရန် Mi Cloudဆင့်ခ်ဖွင့်ပါ။</string>
     <string name="backup_sync_dialog_confirm">ဖွင့်မည်။</string>
     <string name="backup_automatically_title">အလိုလိုအရန်သိမ်းပါ</string>
     <string name="backup_automatically_summary">စက်အားလုံးမှ ဓါတ်ပုံများနှင့် ဗီဒီယိုများ အား Mi Cloud သို့ အရန်သိမ်းပါ။ ထိုသို့ဖြင့်၊ သင်သည် သင်၏စက်အားလုံးပေါ်ရှိ ဓါတ်ပုံများ၊ ဗီဒီယိုများ အဆင်ပြေစွာ ရှာဖွေခြင်း၊ စီစဉ်ခြင်း၊ တည်းဖြတ်ခြင်းနှင့် ဝေမျှခြင်းများ ပြုလုပ်နိုင်မည်ဖြစ်ပါသည်</string>
@@ -594,6 +594,7 @@
     <string name="welcome_to_slim">အတွင်းသိုလှောင်မှုအား ချဲ့ထွင်</string>
     <string name="slim_introduce">ရီဆိုလူးရှင်းအပြည့်ရှိသောပုံအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု နေရာအများအပြား ချွေတာနိုင်ပါသည်။</string>
     <string name="slim_introduce_with_specific_size">ရီဆိုလူးရှင်းအပြည့်ရှိသောဖိုင်များအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု %1$s ချွေတာနိုင်ပါသည်။ဤသို့ပြုလုပ်ရန် (Mi အကောင့်လိုအပ်ပါသည်)</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
     <string name="next">နောက်ထပ်</string>
     <string name="login_and_enable_service">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
@@ -624,7 +625,7 @@
     <string name="backup_sync_off_desc">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အရန်သိမ်းရန် Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ</string>
     <string name="backup_sync_off_btn_text">ဖွင့်</string>
     <string name="backup_no_network_title">Mi Cloud သို့ ချိတ်ဆက်မရနိုင်ခဲ့ပါ</string>
-    <string name="backup_no_network_desc">Connect to the network to backing up items</string>
+    <string name="backup_no_network_desc">အိုင်တမ်းများကို အရန်သိမ်းရန် ကွန်ရက်သို့ ချိတ်ဆက်ပါ။</string>
     <string name="backup_no_network_btn_text">ဆက်တင်</string>
     <string name="backup_no_wifi_title">Wi-Fiသို့ ချိတ်ဆက်ရန် ထိနှိပ်ပါ</string>
     <string name="backup_no_wifi_desc">အိုင်တမ်များကို မိုဘိုင်းဒေတာသုံး၍လည်း အရန်သိမ်းနိုင်ပါသည်</string>
@@ -670,6 +671,7 @@
     <string name="cloud_storage_ok_append_desc">ရရှိနိုင်သော %s</string>
     <string name="cloud_storage_warn_title">Mi ကလောက်သိုလှောင်မှု မလုံလောက်ပါ</string>
     <string name="cloud_storage_warn_desc">သိုလှောင်မှုပိုမိုရယူရန် ကလောက် VIP အားဝယ်ယူပါ</string>
+    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">Extend cloud space</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
@@ -691,7 +693,7 @@
     <string name="secret_reason_too_large">ဖိုင် အရမ်းကြီးနေသည်</string>
     <string name="secret_reason_unknow_reasons">အမည်မသိ အမှား</string>
     <string name="alert_secret_album_title">ကွယ်ဝှက်အယ်လ်ဘမ်အား မည်သို့ကြည့်မည်နည်း</string>
-    <string name="alert_secret_album_message">Swipe down while in the Albums tab to view hidden album.</string>
+    <string name="alert_secret_album_message">အယ်လ်ဘမ်တက်ဘ်ထဲတွင် ဆွဲချပါက ဝှက်ထားသောအယ်လ်ဘမ်ကို ကြည့်ရှုနိုင်သည်။</string>
     <string name="alert_secret_album_message_lower_case"> swipe down while in the Albums tap to view hidden album.</string>
     <string name="alert_secret_album_enter">ရပြီ</string>
     <string name="all_items_synced">Mi ကလောက် သို့အယ်လ်ဘမ်အားလုံးအား အရန်သိမ်းပြီးပြီ</string>
@@ -722,7 +724,7 @@
     <string name="fast_share_auto_render">အလှဆင်မှု</string>
     <string name="fast_share_auto_render_finish">အလှဆင်ခဲ့သည်</string>
     <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareImgUI">WeChat</string>
-    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">WeChat Moments</string>
+    <string name="com.tencent.mm_com.tencent.mm.ui.tools.ShareToTimeLineUI">Wechat လှုပ်ရှားမှုများ</string>
     <string name="com.qzone_com.qzonex.module.operation.ui.QZonePublishMoodActivity">Qzone</string>
     <string name="com.tencent.mobileqq_com.tencent.mobileqq.activity.JumpActivity">QQ</string>
     <string name="com.sina.weibo_com.sina.weibo.composerinde.ComposerDispatchActivity">Weibo</string>
@@ -738,8 +740,8 @@
     <string name="cancel">ပယ်ဖျက်</string>
     <string name="ok">အိုကေ</string>
     <string name="album_name_recent_discovery">မကြာသေးမီက</string>
-    <string name="album_name_people">People</string>
-    <string name="album_name_locations">Locations</string>
+    <string name="album_name_people">လူ</string>
+    <string name="album_name_locations">တည်နေရာ</string>
     <string name="album_name_tags">တက်ဂ်များ</string>
     <string name="album_from_format">%s မှ</string>
     <string name="search_hint">ရုပ်ပုံများရှာပါ</string>
@@ -747,7 +749,7 @@
     <string name="search_backup_title">Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="search_backup_sub_title">ပုံများပိုမိုရှာဖွေရန် ဖွင့်ပါ</string>
     <string name="search_backup_full_screen">အရာဝတ္ထုများနှင့် လူများပိုမိုရှာဖွေရန် Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ</string>
-    <string name="search_syncing">Syncing data, come back in a while</string>
+    <string name="search_syncing">ဒေတာဆင့်ခ်လုပ်နေသည်၊ ခဏနေပြန်လာပါ။</string>
     <string name="search_backup_now">ဖွင့်</string>
     <string name="search_login_title">Mi အကောင့်</string>
     <string name="search_login_sub_title">ဓါတ်ပုံများ ပိုမိုရှာဖွေရန် ဆိုင်းအင်ဝင်ပါ</string>
@@ -769,13 +771,15 @@
     <string name="search_title_history">ရှာဖွေမှုသမိုင်း</string>
     <string name="search_title_album">အယ်လ်ဘမ်</string>
     <string name="search_clear_histories">ရှင်းလင်း</string>
-    <string name="search_net_error">A network error occurred. Connect to a different network and try again.</string>
-    <string name="search_select_network">Select network</string>
-    <string name="search_title_suggestion">Suggestions</string>
-    <string name="search_setting_title">Find photos in Gallery</string>
-    <string name="search_setting_sub_title">Improved image search</string>
-    <string name="search_setting_sub_title_open">Approved. Wait a while before you start.</string>
-    <string name="search_request_open">Join testing team</string>
+    <string name="search_net_error">ကွန်ရက်အမှားတစ်ခုဖြစ်ပေါ်နေသည်။ အခြားကွန်ရက်တစ်ခုသို့ ချိတ်ဆက်ပြီး ထပ်မံကြိုးစားကြည့်ပါ။</string>
+    <string name="search_select_network">ကွန်ရက် ရွေးချယ်သတ်မှတ်ပါ။</string>
+    <string name="search_title_suggestion">အကြံပြုချက်များ</string>
+    <string name="search_setting_title">ပြခန်းမှ ဓာတ်ပုံများ ရှာဖွေပါ။</string>
+    <string name="search_setting_sub_title">ရုပ်ပုံရှာ​ဖွေမှု တိုးတက်ကောင်းမွန်အောင်လုပ်ပြီး</string>
+    <string name="search_setting_sub_title_open">အတည်ပြုလိုက်ပြီ။ မစတင်မီ ခဏစောင့်ပါ။</string>
+    <string name="search_request_open">စမ်းသပ်မှုအဖွဲ့သို့ ဝင်ရောက်မည်။</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="grant_permission_title">အသုံးပြုဝင်ရောက်မှုအား ခွင့်ပြုပါ</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
@@ -790,10 +794,10 @@
     <string name="album_jump_failed">အယ်လ်ဘမ်များ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ပြီးသည် အထိစောင့်ပြီး ထပ်ကြိုးစားကြည့်ပါ</string>
     <string name="cloud_sync_card_title">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်းကို ဖွင့်ပါ</string>
     <string name="cloud_sync_card_description">ဓာတ်ပုံနှင့် ဗီဒီယိုများကို တစ်ခုထက်ပိုသော စက်ပစ္စည်းများမှ ဝင်ရောက်အသုံးပြုနိုင်ရန် ၎င်းတို့ကို Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
-    <string name="secret_album_card_title">Try hidden album</string>
+    <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
-    <string name="people_mark_mode_title">Select \"%s\"</string>
-    <string name="people_mark_mode_title_no_mark_name">Select a person</string>
+    <string name="people_mark_mode_title">ရွေးချယ်ပြီး \"%s\" သတ်မှတ်ပါ။</string>
+    <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="storage_no_space">နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="share_album">အယ်လ်ဘမ်ကို မျှဝေပါ</string>
     <string name="all_video_album_display_name">ဗီဒီယိုအားလုံး</string>

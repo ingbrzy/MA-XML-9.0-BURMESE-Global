@@ -262,17 +262,6 @@
     <string name="daltonizer_type_overridden">%1$s မှ ကျော်၍ လုပ်ထားသည်။</string>
     <string name="power_remaining_duration_only">ခန့်မှန်းခြေ %1$s ကျန်ပါသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သည်</string>
-    <string name="power_discharging_duration">%1$s - ခန့်မှန်းခြေ။ %2$s ကျန်ရှိနေ</string>
-    <string name="power_discharging_duration_short">%1$s - %2$s ကျန်သည်</string>
-    <string name="power_charging">%1$s - %2$s</string>
-    <string name="power_charging_duration">%1$s - %2$s အပြည့်အထိ</string>
-    <string name="power_charging_duration_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_ac">%1$s - %2$s လျှပ်စစ်ဖြင့် အပြည့်အထိ</string>
-    <string name="power_charging_duration_ac_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_usb">%1$s - %2$s USB ဖြင့် အပြည့်အထိ</string>
-    <string name="power_charging_duration_usb_short">%1$s - %2$s</string>
-    <string name="power_charging_duration_wireless">%1$s - %2$s ကြိုးမဲ့ဖြင့် အပြည့်အထိ</string>
-    <string name="power_charging_duration_wireless_short">%1$s - %2$s</string>
     <string name="battery_info_status_unknown">အကြောင်းအရာ မသိရှိ</string>
     <string name="battery_info_status_charging">အားသွင်းနေပါသည်</string>
     <string name="battery_info_status_charging_ac">လျှပ်စစ်ဖြင့် အားသွင်းနေ</string>

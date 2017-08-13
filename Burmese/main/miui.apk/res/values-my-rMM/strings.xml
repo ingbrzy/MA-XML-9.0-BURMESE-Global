@@ -584,9 +584,9 @@
     <string name="webview_reload">ထပ်ကြိုးစား</string>
     <string name="hybrid_provider">%1$sမှ ထောက်ပံ့ထားသော</string>
     <string name="xiaomi_mobile">Mi မိုဘိုင်း</string>
-    <string name="immersion_button_close_description">close</string>
-    <string name="search_input_description">search</string>
-    <string name="search_mode_button_back_description">back</string>
-    <string name="actionbar_immersion_button_more_description">more</string>
-    <string name="actionbar_button_up_description">back</string>
+    <string name="immersion_button_close_description">ပိတ်မည်</string>
+    <string name="search_input_description">ရှာဖွေခြင်း</string>
+    <string name="search_mode_button_back_description">နောက်သို့</string>
+    <string name="actionbar_immersion_button_more_description">နောက်ထပ်</string>
+    <string name="actionbar_button_up_description">နောက်သို့</string>
 </resources>

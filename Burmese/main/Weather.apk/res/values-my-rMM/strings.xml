@@ -18,7 +18,7 @@ Pull down to refresh or check the network settings"</string>
     <string name="menu_location">တည်နေရာများ</string>
     <string name="button_allow">အိုကေ</string>
     <string name="button_confirm">ခွင့်ပြု</string>
-    <string name="button_abandon">Discard changes</string>
+    <string name="button_abandon">ပြောင်းလဲမှုကိုဖယ်ထုတ်ရန်</string>
     <string name="button_exit">ထွက်ပါ</string>
     <string name="button_not_allow">ပယ်ဖျက်ပါ</string>
     <string name="act_weather_find_city_net_no_good">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။</string>
@@ -76,9 +76,9 @@ Pull down to refresh or check the network settings"</string>
     <string name="indices_title_restriction">လမ်းနေရာ</string>
     <string name="indices_title_Precip1hr">အနှစ်ချုပ်1hr</string>
     <string name="indices_no_restriction">မရှိ</string>
-    <string name="content_desc_activity_main_add_city">Add city</string>
+    <string name="content_desc_activity_main_add_city">မြို့ ပေါင်းထည့်ပါ။</string>
     <string name="content_desc_activity_main_add_city_manage">City management</string>
-    <string name="content_desc_activity_main_more_settings">More settings</string>
+    <string name="content_desc_activity_main_more_settings">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="daily_forcast_no_wind">၀</string>
     <string name="daily_forcast_no_wind_miles">&lt;19.3mph</string>
     <string name="daily_forcast_whirl_wind">လေဝဲကလေး</string>
@@ -188,11 +188,11 @@ Tap the screen to manually add or reposition city"</string>
     <string name="other_warning_settings">Other Warning Settings</string>
     <string name="rainfall_settings_title">Rainfall Warning</string>
     <string name="rainfall_settings_summary">Rainfall Settings</string>
-    <string name="night_not_disturb_settings_title">Do not disturb at night</string>
+    <string name="night_not_disturb_settings_title">ညတွင်မနှောင့်ယှက်ပါနှင့်</string>
     <string name="night_not_disturb_settings_summary">Will not receive all weather notices from 23:00 to 07:00 the next day after opening</string>
     <string name="reminder_from_xiaomi_weather_app">Reminder From Xiaomi Weather APP</string>
-    <string name="it_is_going_to_rain">It is going to rain</string>
-    <string name="your_location">Your location</string>
+    <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
+    <string name="your_location">သင်၏တည်နေရာ</string>
     <string name="update_setting_title_text">Update Settings</string>
     <string name="update_night_setting_title_text">Update Automatically At Night</string>
     <string name="update_night_setting_summary_text">Will not update automatically 23:00-07:00 after closed</string>
@@ -258,6 +258,6 @@ Tap the screen to manually add or reposition city"</string>
     <string name="particulate_matter_exceeded">မြင့်သော</string>
     <string name="particulate_matter_serious_exceeded">အလွန်မြင့်</string>
     <string name="city_exceeded_warning">မြို့ ၁၀ မြို့အထိပေါင်းထည့်နိုင်ပါသည်</string>
-    <string name="xiaomi_weather_description_title">About Weather</string>
-    <string name="xiaomi_weather_description_content">"Weather provides you with accurate weather info. Without this app, status bar and Home screen Weather widget won't work properly. Make sure you can do without these features before you uninstall the app."</string>
+    <string name="xiaomi_weather_description_title">မိုးလေဝသအကြောင်း</string>
+    <string name="xiaomi_weather_description_content">မိုးလေဝသသည် တိကျမှန်ကန်သောရာသီဥတုအချက်အလက်များအား သင့်ထံပေးပို့နိုင်ပါသည်။ ဤအက်ပ်မရှိပါက အခြေနေပြဘားနှင့်အိမ်မျက်နှာပြင်မိုးလေဝသဝစ်ဂတ်သည် စနစ်တကျအလုပ်လုပ်တော့မည်မဟုတ်ပေ။အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
 </resources>

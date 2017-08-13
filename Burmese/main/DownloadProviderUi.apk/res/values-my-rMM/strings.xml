@@ -411,8 +411,8 @@
     <string name="search_hot_tv">TV ရှိုးများ</string>
     <string name="search_hot_variety">ဖျော်ဖြေမှု</string>
     <string name="search_hot_anime">ကာတွန်းများ</string>
-    <string name="search_history_month">MM/dd</string>
-    <string name="search_history_year">MM/dd/yyyy</string>
+    <string name="search_history_month">dd/MM</string>
+    <string name="search_history_year">dd/MM/yyyy</string>
     <string name="no_share_file">ဤဖိုင်အား မမျှဝေနိုင်ခဲ့ပါ</string>
     <string name="no_share_file_content">သင်ရွေလိုက်သည် ဖိုင်အား ဖျက်လိုက်ပြီဖြစ်ပါသည်</string>
     <string name="no_share_files">ဖျက်ပြီးသားဖိုင်များအား မျှဝေ၍မရပါ</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="status_bar_accessibility_recent_apps">
-        <item quantity="other">%d recent apps</item>
+        <item quantity="other">မကြာသေးမီကအက်ပ် %d ခု</item>
     </plurals>
     <plurals name="accessibility_recent_task_enter">
         <item quantity="other">Opened Recents, available apps: %d.</item>

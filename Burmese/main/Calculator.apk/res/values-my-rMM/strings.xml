@@ -326,5 +326,5 @@
     <string name="preference_check_update_summary_current_version">လက်ရှိဗားရှင်း−%s</string>
     <string name="preference_check_update_summary_new_version">မွမ်းမံမှုရရှိနိုင်သော−%s</string>
     <string name="description_title">ဂဏန်းတွက်စက်အကြောင်း</string>
-    <string name="description_content">Besides its basic features, Calculator also works as a multifunctional converter, mortgage, and tax calculator. Make sure you can do without these features before you uninstall the app.</string>
+    <string name="description_content">ယင်း၏အခြေခံအင်္ဂါရပ်အပြင် ဂဏန်းတွက်စက်သည် ယူနစ်ပြောင်းလဲတွက်ချက်မှု၊ ပေါင်နှံတွက်ချက်မှုနှင့်အခွန်တွက်ချက်မှုအတွက် ဘက်စုံဂဏန်းတွက်စက်အဖြစ်လည်းအသုံးပြုနိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
 </resources>

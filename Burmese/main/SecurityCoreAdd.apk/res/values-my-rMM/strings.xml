@@ -251,6 +251,8 @@
     <string name="xspace_guide_title">%s အတွက် နှစ်ခုတွဲအက်ပ်ကို ဖန်တီးပါ</string>
     <string name="xspace_guide_des">အကောင့်နှစ်ခုအား ပြောင်းလဲခြင်းမလုပ်ဘဲ အသုံးပြုပါ</string>
     <string name="xpsace_guide_button">ဖန်တီး</string>
+    <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+    <string name="search_result_text">"Couldn't find any apps"</string>
     <string name="space_name_default">အလုပ်နေရာ</string>
     <string name="space_des_default">ကုတ်ဖွဲ့ထားသော ဒေတာနှင့်အတူ သီးခြားနေရာ</string>
     <string name="create_work_space">အလုပ်နေရာ ဖန်တီးပါ</string>
@@ -280,4 +282,5 @@
     <string name="can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Security services provided by Graphite</string>
+    <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
 </resources>

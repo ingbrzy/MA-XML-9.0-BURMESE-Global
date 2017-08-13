@@ -167,6 +167,7 @@
     <string name="color_picker_dialog_title">အရောင် ရွေးပါ</string>
     <string name="color_picker_hue">ပကတိအရောင်</string>
     <string name="color_picker_saturation">တောက်ပမှုပြင်းအား</string>
+    <string name="color_picker_value">အာနိသင်</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -200,7 +201,7 @@
     <string name="current_version_pad">Pad</string>
     <string name="current_version_pc">ဒက်စတော့</string>
     <string name="current_version_phone">ဖုန်း</string>
-    <string name="custom_head_card_text">Always believe that something wonderful is about to happen</string>
+    <string name="custom_head_card_text">အံ့သြဖွယ်ရာများဖြစ်ပေါ်လာမှာကို အမြဲယုံကြည်သည်။</string>
     <string name="custom_head_card_text_incognito">"သင်ရုပ်ဖျက်လိုက်ပြီ!
 သင်ကြည့်လိုက်သော စာမျက်နှာများသည် သမိုင်းတွင် ပေါ်လာလိမ့်မည်မဟုတ်ပါ"</string>
     <string name="data_traffic_prompt_change">ဗီဒီယိုများကို ကြည့်ရှုရန် မိုဘိုင်းဒေတာ ချိတ်ဆက်မှုအသုံးပြုခြင်းသည် ဒေတာအသုံးပြုမှု တိုးများလာပါလိမ့်မည်။ သင့် ဒေတာအသုံးပြုမှု ကန့်သတ်ချက်ကို ကျော်သွားလျှင် ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူမှ ထပ်ဆောင်း အဖိုးအခများကောက်ခံပါလိမ့်မည်။</string>

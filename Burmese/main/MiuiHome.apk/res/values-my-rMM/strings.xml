@@ -266,7 +266,7 @@
     <string name="notification_open_button">ဖွင့်</string>
     <string name="toast_screen_icons_misplaced">အခြားအရင်းအမြစ်မှပြန်ရယူခဲ့သော၊တစ်ချို့အိုင်ကွန်များ နေရာလွဲ နိုင်ပါသည်</string>
     <string name="screen_locked_toast">အိမ်မျက်နှာပြင်အပြင်အဆင်အား သော့ခတ်ထားသည်</string>
-    <string name="widget_quick_function">Quick function</string>
+    <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်</string>
     <string name="menu_trans_effect">Transition Effect</string>
     <string name="menu_cell_setting">Screen Setting</string>
     <string name="menu_auto_fill">Auto Fill</string>

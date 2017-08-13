@@ -551,7 +551,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="all_music">သီချင်းများအားလုံး</string>
     <string name="all_artist">အနုပညာရှင်အားလုံး</string>
     <string name="local_music">အော့ဖ်လိုင်း</string>
-    <string name="local_header_title">Local music</string>
+    <string name="local_header_title">စက်တွင်းတေးဂီတ</string>
     <string name="tab_track">သီချင်းများ</string>
     <string name="tab_artist">အနုပညာရှင်များ</string>
     <string name="tab_album">အယ်လ်ဘမ်များ</string>
@@ -661,9 +661,9 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="vip_renew_message">အရည်အသွေးမြင့်အော်ဒီယိုများအား နားဆင်နိုင်လိမ့်မည်မဟုတ်ပါ၊ သို့သော် သီချင်းတစ်ချို့ကိုတော့ ပုံမှန်အရည်အသွေးဖြင့် နားဆင်နိုင်ပါလိမ့်မည်။</string>
     <string name="vip_auto_renew_title">ပုံမှန်ကြေးသက်တမ်းတိုးခြင်း</string>
     <string name="vip_auto_renew_message">ဤညနေတွင် သင့်သီချင်းအတွက် ပုံမှန်ကြေးပေးချေမှုသည် အလိုအလျောက် သက်တမ်းတိုးပါလိမ့်မည်။ ဤပေးချေမှုအား ပြုလုပ်နိုင်ရန် သင့် အကောင့်ထဲတွင် Mi ခရက်ဒစ်အလုံအလောက်ရှိကြောင်း သေချာမှုရှိစေပါ။</string>
-    <string name="vip_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
-    <string name="vip_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically tomorrow evening. Make sure you have enough Mi Credits in your account to complete this payment.</string>
-    <string name="vip_after_tomorrow_renew_message">"You won't be able to stream high quality audio, but some songs will be available in regular quality."</string>
+    <string name="vip_tomorrow_renew_message">အရည်အသွေးမြင့်အော်ဒီယိုများအား နားဆင်နိုင်လိမ့်မည်မဟုတ်ပါ၊ သို့သော် သီချင်းတစ်ချို့ကိုပုံမှန်အရည်အသွေးဖြင့် နားဆင်နိုင်ပါလိမ့်မည်။</string>
+    <string name="vip_tomorrow_auto_renew_message">မနက်ဖြန်ညနေတွင် သင့်သီချင်းအတွက် ပုံမှန်ကြေးပေးချေမှုသည် အလိုအလျောက် သက်တမ်းတိုးပါလိမ့်မည်။ ဤပေးချေမှုအား ပြုလုပ်နိုင်ရန် သင့် အကောင့်ထဲတွင် Mi ခရက်ဒစ်အလုံအလောက်ရှိကြောင်း သေချာမှုရှိစေပါ။</string>
+    <string name="vip_after_tomorrow_renew_message">အရည်အသွေးမြင့်အော်ဒီယိုများအား နားဆင်နိုင်လိမ့်မည်မဟုတ်ပါ၊ သို့သော် သီချင်းတစ်ချို့ကိုပုံမှန်အရည်အသွေးဖြင့် နားဆင်နိုင်ပါလိမ့်မည်။</string>
     <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
     <string name="to_mi_pay">Mi ခရက်ဒစ်များ</string>
     <string name="confirm_to_renew">အသစ်လုပ်</string>

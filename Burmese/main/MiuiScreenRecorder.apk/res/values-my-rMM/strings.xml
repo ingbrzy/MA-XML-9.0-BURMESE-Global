@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Screen Recorder</string>
+    <string name="app_name">မျက်နှာပြင်ရီကော်တာ</string>
     <string name="app_info">မှတ်တမ်းတင်ခြင်း၊ရပ်ရန်ထိနှိပ်ပါ</string>
     <string name="app_notification_title">မျက်နှာပြင်ရီကော်တာ</string>
     <string name="screen_record_params">မှတ်တမ်းယူခြင်း ပါရာမီတာများ</string>
@@ -38,7 +38,7 @@
     <string name="battery_not_allowed">ဘက်ထရီအား 3%% ထက်နည်းပါက မှတ်တမ်းတင်၍ မရနိုင်ပါ။ ဘက်ထရီအားအနည်းဆုံး 20% ရှိကြောင်း သေချာစေပါ။</string>
     <string name="low_memory_title">သိုလှောင်ရန်နေရာမလုံလောက်ပါ</string>
     <string name="low_memory">သင့်တွင် သိုလှောင်မှု 200MB ထက်နည်းလာနေသည်။ ၅ မိနစ်အထိ မှတ်တမ်းတင်နိုင်ပါသည်။</string>
-    <string name="low_memory_dior">You have less than 500MB of available storage. You can record up to 12 minutes now.</string>
+    <string name="low_memory_dior">သင့်တွင် သိုလှောင်မှု 500MB ထက်နည်းနေသည်။ ၁၂ မိနစ်အထိသာ မှတ်တမ်းတင်နိုင်သည်။</string>
     <string name="memory_not_allowed">သိုလှောင်မှုနေရာ မရရှိနိုင်သော။ မှတ်တမ်းတင်ရန် သိုလှောင်ရန်နေရာ တစ်ချို့ ရှင်းလိုက်ပါ။</string>
     <string name="auto_stop_title">ဗီဒီယိုအား အောင်မြင်စွာ သိမ်းဆည်းခဲ့သည်</string>
     <string name="low_battery_warning">ဘက်ထရီအားနည်းလွန်းနေသည်။ မှတ်တမ်းတင်ခြင်းအား ရပ်ဆဲပြီး ဗီဒီယိုအား သိမ်းခဲ့သည်။</string>
@@ -61,7 +61,7 @@
     <string name="stop_by_second_space">နေရာများပြောင်းလဲခြင်းသည် မှတ်တမ်းတင်ခြင်းကို ရပ်လိုက်ပါလိမ့်မည်</string>
     <string name="cannot_change_parames">မှတ်တမ်းတင်နေစဉ် ပါရာမီတာများကို မပြောင်းလဲနိုင်ပါ</string>
     <string name="cannot_record">မှတ်တမ်းမတင်နိုင်ခဲ့ပါ၊ နောက်မှပြန်ကြိုးစားကြည့်ပါ</string>
-    <string name="frequently_click_toast">Service initializing, please wait a moment</string>
+    <string name="frequently_click_toast">ဝန်ဆောင်မှုစတင်နေသည်၊ ကျေးဇူးပြု၍ခဏစောင့်ပါ။</string>
     <string name="no_sound">အသံတိတ်</string>
     <string name="mic_sound">Mic</string>
     <string name="loopback_sound">စပီကာ</string>
