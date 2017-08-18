@@ -25,7 +25,7 @@
     <string name="default_close_channel_msg">Channel Closed</string>
     <string name="stk_dialog_accept">ဟုတ်သည်</string>
     <string name="stk_dialog_reject">မလုပ်</string>
-    <string name="no_sim_card_inserted">Please insert SIM to launch SIM Toolkit.</string>
+    <string name="no_sim_card_inserted">SIM တူးကစ်အား စတင်အသုံးပြုရန် ကျေးဇူးပြု၍ SIM ကဒ်ထည့်သွင်းပါ။</string>
     <string name="stk_intent_permission">Allow STK Intents</string>
     <string name="sim_type_sim_name">SIM တူးကစ်</string>
     <string name="sim_type_usim_name">USIM တူးကစ်</string>

@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Weibo အကောင့် သက်တမ်းကုန်သွားပြီ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ</string>
     <string name="sina_token_invalid_warning">Weiboအကောင့် ဘောင်မဝင်ပါ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ။</string>
     <string name="sina_share_fail_content_repeat">ဤအရာကို သင် ဝေမျှပြီးပြီ</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">မှတ်စုများ၊မီမို</string>
     <string name="search_path_notes">စနစ်အက်ပ်များ/မှတ်စုများ</string>
     <string name="dlg_move_message">ရွှေ့နေဆဲ…</string>
@@ -71,8 +72,8 @@
     <string name="dialog_share_as_pic">မှတ်စုကို ရုပ်ပုံအဖြစ်ဖြင့် မျှဝေပါ</string>
     <string name="note_description_title">မှတ်စုများအကြောင်း</string>
     <string name="note_description_content">မှတ်စုအက်ပ်သည် သင့်စိတ်ကူးများကို မှတ်တမ်းတင်ထားရန်အတွက် အကောင်းဆုံးအရာ ဖြစ်သည်။ ၎င်းတွင် မူလကတည်းက ထည့်သွင်းထားသော သတိပေးချက်ဝန်ဆောင်မှု ပါရှိပြီး သင်မှတ်ထားသော အရာများကို Mi Cloud ထဲတွင် ဆင့်ခ်လုပ်သည့်အတွက် ၎င်းတို့ကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက် အသုံးပြုနိုင်ပါသည်။ အက်ပ်ကို မဖျက်မီ သင်သည် ၎င်းဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
-    <string name="db_downgrade_clear_date_reminder">"Switching to a different version of MIUI requires clearing the app data for Notes. Before you do that, make sure you've backed up your notes to Mi Cloud."</string>
-    <string name="db_downgrade_clear_button">Clear app data</string>
+    <string name="db_downgrade_clear_date_reminder">MIUIဗားရှင်းအသစ် မသုံးခင် မှတ်စု ဒေတာများ ရှင်းလင်းရန် လိုအပ်သည်။ ဒေတာများ မရှင်းလင်းမီ သင်၏မှတ်ချက်များကို Mi Cloudသို့ အရန်သိမ်းခြင်းလုပ်ထားပါ။</string>
+    <string name="db_downgrade_clear_button">အက်ပ်ဒေတာ ရှင်းပစ်မည်</string>
     <string name="app_name">မှတ်ချက်များ</string>
     <string name="app_widget">မှတ်ချက်များ</string>
     <string name="widget_havenot_content">မှတ်စုတစ်ခုဖန်တီးရန် ထိနှိပ်ပါ။ အရွယ်အစားပြောင်းရန် ဝစ်ဂျက်အား ထိနှိပ်ထားပါ။</string>
@@ -194,6 +195,6 @@
     <string name="set_alarm_description">နှိုးစက်သတ်မှတ်</string>
     <string name="cancel_alarm_description">နှိုးစက်ရှင်းလင်း</string>
     <string name="edit_header_done_description">ပြီးပြီ</string>
-    <string name="refuse_to_share_as_pic_because_of_content">This note is too big to share.</string>
-    <string name="refuse_to_share_as_pic_because_of_loading">Wait until the note is loaded and try again.</string>
+    <string name="refuse_to_share_as_pic_because_of_content">ဤမှတ်ချက်သည် ကြီးလွန်းသဖြင့် မျှဝေ၍မရပါ။</string>
+    <string name="refuse_to_share_as_pic_because_of_loading">မှတ်ချက် လုဒ်တင်ပြီးအောင်စောင့်၍ ထပ်မံကြိုးစားပါ။</string>
 </resources>

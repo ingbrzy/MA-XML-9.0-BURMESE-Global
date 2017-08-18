@@ -10,21 +10,19 @@
     <string name="input_puk_code">ဖြည့်သွင်းချက် PUK</string>
     <string name="unlocking_sim_card">SIM ကတ် သော့ဖွင့်ခြင်း</string>
     <string name="input_pin_code">PIN ထည့်သွင်းပါ</string>
-    <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
-    <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
     <string name="incorrect_pukcode">မမှန်သော PUK ကုဒ်</string>
     <string name="incorrect_pincode">မမှန်သော PUK ကုဒ်</string>
     <string name="lock_screen_date">EEEE, d MMMM</string>
     <string name="lock_screen_date_12">EEEE, d MMMM</string>
     <string name="phone_locked_string">ဖုန်းကို သော့ခတ်ထားသည်</string>
-    <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
-    <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
     <string name="phone_locked_foget_password">စကားဝှက် မေ့နေလား?</string>
-    <string name="phone_locked_foget_password_header">စကားဝှက်ကိုမေ့သွားပါက ဘာလုပ်သင့်ပါသလဲ?</string>
-    <string name="phone_locked_foget_password_content">"i.mi.com သို့ စက်နှင့် ဆက်စပ်နေသည့် Mi အကောင့်သုံး၍ဝင်ရောက်ပြီး ဒေတာအားလုံးကို ရှင်းလင်းပါ။ သင့်စက်ပေါ်ရှိဒေတာအားလုံးကို ဖျက်လိုက်ပါလိမ့်မည်။ပြီးနောက်၊ စက်အားပိတ်၍ပြန်စပြီး အဆက်အသွယ်များ၊ မက်ဆေ့ချ်များ၊ ဓါတ်ပုံများနှင့် အခြား Mi ကလောက်ပေါ်ရှိ အိုင်တမ်များအား ပြန်လည်ရယူပါ။ 
-
-စက်ပေါ်တွင် Mi အကောင့်သုံး၍ ဆိုင်းအင်မဝင်ထားပါက ဤသို့လုပ်၍ရနိုင်မည်မဟုတ်ပါ။ စက်အားထပ်မံ flash လုပ်ရန်လိုအပ်ပါလိမ့်မည်။"</string>
-    <string name="phone_locked_foget_password_footer">အဆင့်များ−i.mi.com သို့ ဆိုင်းအင်ဝင်ပါ၊\"စက်ရှာဖွေပါ\"သို့သွားရောက်ပါ၊ စက်ကိုရွေးချယ်ပြီး \" စက်ရှင်းလင်း\" အားရွေးချယ်ပါ။</string>
+    <string name="phone_locked_foget_password_method">စကားဝှက် မေ့နေလား?</string>
+    <string name="phone_locked_foget_password_method_content"><Data>သင့်စက်တွင်ရှိသောဒေတာအားလုံး &lt;font color=#a5220e>ကိုဖျက်ရမည်&lt;/font> ဓာတ်ပုံများနှင့်အဆက်အသွယ်များအပါအဝင်၊ထို့နောက်သော့ခတ်မျက်နှာပြင် စကားဝှက်အသစ်တစ်ခု သတ်မှတ်ပါ။;</Data></string>
+    <string name="phone_locked_foget_password_mehod_back">နောက်သို့</string>
+    <string name="phone_locked_foget_password_method_next">ရှေ့သို့</string>
+    <string name="phone_locked_forget_password_suggesstions_title">ဒေတာကိုမည်သို့ဖျက်မည်နည်း?</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Power off your device, press and hold the &lt;font color=#a5220e>Power button &lt;/font> and the &lt;font color=#a5220e>Volume up button &lt;/font>simultaneously until you see ml.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_two_content"><Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်;</Data></string>
     <string name="phone_locked_foget_password_ok">ရပြီ</string>
     <string name="lockscreen_access_pattern_start">ပုံစံ စတင်ပြီးပြီ</string>
     <string name="lockscreen_access_pattern_cleared">ပုံစံ အမှားကင်းရှင်းသည်</string>
@@ -72,18 +70,9 @@
     <string name="keyguard_quickly_charging_info_charging_text">အမြန်အားသွင်းခြင်း…</string>
     <string name="keyguard_charging_info_finished_charging_text">အားပြည့်သွားပြီ</string>
     <string name="keyguard_charging_info_charging_text">အားသွင်းနေ</string>
-    <string name="keyguard_charging_info_charging_full_need_min_time__text">အားပြည့်ရန် %d မိနစ်ခန့် လိုသည်။​</string>
-    <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">အားပြည့်ရန် %d နာရီ %d မိနစ်ခန့် လိုသည်။​</string>
-    <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
-    <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
-    <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">မနေ့က %s</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
-    <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
-    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
-    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
     <string name="keyguard_charging_info_current_now_text">တိုက်ရိုက် စောင့်ကြည့်ခြင်း</string>
     <string name="keyguard_charging_info_charging_voltage_text">ဗို့အား</string>
     <string name="keyguard_charging_info_battery_temperature_text">ဘက်ထရီအပူချိန်</string>
@@ -104,4 +93,17 @@
     <string name="keyguard_left_remotecentral">Mi ရီမု</string>
     <string name="keyguard_left_bankcard">Mi Pay</string>
     <string name="keyguard_left_buscard">သယ်ယူပို့ဆောင်ရေးကတ်</string>
+    <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
+    <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
+    <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
+    <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
+    <string name="keyguard_charging_info_charging_full_need_min_time__text">အားပြည့်ရန် %d မိနစ်ခန့် လိုသည်။​</string>
+    <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
+    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">အားပြည့်ရန် %d နာရီ %d မိနစ်ခန့် လိုသည်။​</string>
+    <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
+    <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
+    <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
+    <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
+    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
+    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
 </resources>

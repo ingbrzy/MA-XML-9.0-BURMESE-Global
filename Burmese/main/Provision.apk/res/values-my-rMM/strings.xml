@@ -36,11 +36,12 @@
     <string name="ime_privacy_policy">ရွေးထားသော ကီးဘုတ်အတွက် ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="ime_privacy_policy_no_network">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ ဒီကီးဘုတ်အတွက်ကိုယ်ပိုင်ရေးရာမူဝါဒကို၊ %s ၌ ကြည့်ပါ</string>
     <string name="terms_of_use">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
-    <string name="terms_of_use_label">"Your privacy is very important to us. Please read our Terms of Service and Privacy Policy to understand what information we collect, how we use it, and what choices are available to you.
+    <string name="terms_of_use_label">"သင့်ကိုယ်ရေးအချက်အလက်လုံခြုံမှုသည် ကျွန်ုပ်တို့အတွက် အလွန်အရေးကြီးပါသည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုပေါ်လစီတို့ကို သေချာစွာဖတ်ရှုပြီး ကျွန်ုပ်တို့မှ မည်သည့်အချက်အလက်များရယူသည်၊ မည်သို့မည်ပုံအသုံးပြုသည်၊ မည်ကဲ့သို့သော ရွေးချယ်မှုများကို သင်ပြုလုပ်နိုင်သည်ကို သိရှိအောင်လုပ်ပါ။ 
 
-You must agree to our Terms of Service and Privacy Policy before you can use MIUI. During the activation, Mi services, Mi SIM activation services, Mi Cloud, Find device, Home screen modules, Game Service, MAB and MSA system components, Direct Service, Quick Card, statistic, MiSmartCards, and Mi Account components will connect to the internet and acquire your location."</string>
+ MIUI ကိုအသုံးမပြုမီ ကျွန်ုပ်တို့၏ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုပေါ်လစီကို သဘောတူရပါမည်။ အသက်သွင်းနေစဉ် Mi ဝန်ဆောင်မှုများ၊ Mi SIM အသက်သွင်းဝန်ဆောင်မှုများ၊ Mi Cloud၊ စက်ရှာဖွေခြင်း၊ အိမ်မျက်နှာပြင် မော်ဂျူးများ၊ ဂိမ်းဝန်ဆောင်မှုများ၊ MAB နှင့် MSA စနစ်အစိတ်အပိုင်းများ၊ တိုက်ရိုက်ဝန်ဆောင်မှုများ၊ စာရင်းဇယားများ၊ MiSmartကဒ် နှင့် Mi အကောင့်အစိတ်အပိုင်းများသည် အင်တာနက်သို့ချိတ်ဆက်ပြီး သင့်တည်နေရာကို ရယူပါလိမ့်မည်။"</string>
     <string name="user_agreement">ဝန်ဆောင်မှုသတ်မှတ်ချက်များ</string>
     <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
+    <string name="application_permissions">Application Permissions</string>
     <string name="agree">သဘောတူသည်</string>
     <string name="disagree">ပယ်ဖျက်သည်</string>
     <string name="setting_locale">ပင်ရင်းဒေသ သတ်မှတ်နေ…</string>

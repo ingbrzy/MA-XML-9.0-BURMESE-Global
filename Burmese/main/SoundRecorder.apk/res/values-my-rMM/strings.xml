@@ -112,7 +112,7 @@
     <string name="text_btn_wave">လှိုင်း</string>
     <string name="text_finish">အတည်ပြု</string>
     <string name="new_record_name">အသံဖမ်းမှုအသစ်</string>
-    <string name="export_to_note">မှတ်စုများသို့ တင်ပို့ပါ</string>
+    <string name="export_to_note">တင်ပို့</string>
     <string name="mark_point_list_title">အမှတ်များ</string>
     <string name="speech_recognition_running_tip">အလုပ်လုပ်နေ</string>
     <string name="speech_recognition_complete">ပြည့်စုံသော</string>

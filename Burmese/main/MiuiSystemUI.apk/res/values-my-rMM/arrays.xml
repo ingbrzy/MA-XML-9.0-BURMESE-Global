@@ -12,7 +12,7 @@
         <item>ဆက်သွယ်ခြင်းဖြတ်</item>
         <item>မအောင်မြင်သော</item>
         <item>ပိတ်ထားသော</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>ချိတ်ဆက်မှုမကောင်းသောကော်နက်ရှင်ကို ခေတ္တရှောင်ရှားသည်</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
@@ -26,11 +26,11 @@
         <item>ချိတ်ဆက်မှု ဖြတ်လိုက်သော</item>
         <item>မအောင်မြင်သော</item>
         <item>ဘလော့လုပ်ထားသော</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>ချိတ်ဆက်မှုမကောင်းသောကော်နက်ရှင်ကို ခေတ္တရှောင်ရှားသည်</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
         <item>ဘယ်တော့မှ မစစ်ဆေးပါ</item>
-        <item>Check for DRM content only</item>
+        <item>DRM အကြောင်းအရာကိုသာ စစ်ဆေးပါ</item>
         <item>အမြဲတမ်းစစ်ဆေးပါ။</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
@@ -104,8 +104,8 @@
     <string-array name="enable_opengl_traces_entries">
         <item>မရှိ</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (ဂရပ်ဖစ်)</item>
+        <item>glGetError မှ စုပုံခေါ်ဆိုမှု</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>ပိတ်</item>
@@ -148,6 +148,17 @@
         <item>Rapid</item>
         <item>Very rapid</item>
         <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrant (default)</item>

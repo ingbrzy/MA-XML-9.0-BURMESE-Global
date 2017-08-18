@@ -4,10 +4,10 @@
         <item quantity="other">မကြာသေးမီကအက်ပ် %d ခု</item>
     </plurals>
     <plurals name="accessibility_recent_task_enter">
-        <item quantity="other">Opened Recents, available apps: %d.</item>
+        <item quantity="other">လတ်တလောအရာများကို ဖွင့်ထားသည်၊ အက်ပ် %d ခု ရရှိနိုင်သည်။</item>
     </plurals>
     <plurals name="accessibility_recent_task_first_enter_tips">
-        <item quantity="other">Opened Recents, available apps: %d. Swipe up to remove, swipe down to lock.</item>
+        <item quantity="other">လတ်တလောအရာများကို ဖွင့်ထားသည်၊ အက်ပ် %dခု ရရှိနိုင်သည်။ ဖယ်ရှားရန် အပေါ်သို့ ဆွဲတင်ပါ၊ သော့ခတ်ရန် အောက်သို့ ဆွဲချပါ။</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
         <item quantity="other">%1$d toggles above this bar are active</item>
@@ -16,7 +16,7 @@
         <item quantity="other">အက်ပ်အသိပေးချက် %d ခုအား ကွယ်ဝှက်မည်လား?</item>
     </plurals>
     <plurals name="block_record_notification_more_text">
-        <item quantity="other">Hiding notifications from %1$s &amp; %2$d apps.</item>
+        <item quantity="other">%1$sအပါအဝင်အက်ပ် &amp; %2$d ခု၏အသိပေးချက်ကို ကွယ်ဝှက်ထားသည်။</item>
     </plurals>
     <plurals name="view_realtime_clear">
         <item quantity="other">နေသာ</item>

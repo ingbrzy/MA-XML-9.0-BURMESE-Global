@@ -6,8 +6,8 @@
     <string name="add_city">ထည့်ပါ</string>
     <string name="edit_city">မြို့တော်အားစီမံ</string>
     <string name="daily_forecast_detail">အသေးစိတ်များအား ကြိုတင်ခန့်မှန်းပါ</string>
-    <string name="daily_forecast_no_data">"Couldn't get weather info
-Pull down to refresh or check the network settings"</string>
+    <string name="daily_forecast_no_data">"မိုးလေဝသအချက်အလက်ရယူ၍ မရပါ
+အောက်သို့ဆွဲပြီး ပြန်လန်းဆန်းစေပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="network_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ.</string>
     <string name="connect_fail">ကွန်ရက်သို့မချိန်ဆက်နိုင်ခဲ့ပါ၊ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="act_find_city_hot_city_title">အထင်ကရမြို့တော်များ</string>
@@ -43,7 +43,7 @@ Pull down to refresh or check the network settings"</string>
     <string name="activity_find_city_dialog_message">ရာသီဥတုမှ သင့်တည်နေရာကိုကြည့်ပါစေ</string>
     <string name="activity_main_time_format">E</string>
     <string name="aqi_fifteen_dates_time_format">M/d</string>
-    <string name="first_start_network_msg">This app needs to connect to the internet and access your location to work normally.</string>
+    <string name="first_start_network_msg">ဤအက်ပ် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်ချိတ်ဆက်ခြင်းနှင့် တည်နေရာသို့ဝင်ရောက်ရန်လိုအပ်ပါသည်။</string>
     <string name="first_start_network_title">အင်တာနက်နှင့် တည်နေရာဝင်ရောက်နိုင်မှု</string>
     <string name="international_detail_menu_title">အသေးစိတ်အချက်လက်များ</string>
     <string name="share_menu_title">မျှဝေပါ</string>
@@ -133,8 +133,8 @@ Pull down to refresh or check the network settings"</string>
     <string name="menu_add_city">တည်နေရာများတည်းဖြတ်ရန်</string>
     <string name="menu_speeker">အသံလွှင့်ခြင်း</string>
     <string name="button_add_city">တည်နေရာပေါင်းထည့်</string>
-    <string name="locate_fail_detail_err">"Can't locate device
-Tap the screen to manually add or reposition city"</string>
+    <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
+ မြို့အား ပြန်လည်သတ်မှတ်ရန် သို့မဟုတ် ကိုယ်တိုင်ပေါင်းထည့်ရန် မျက်နှာပြင်ပေါ်တွင် ထိနှိပ်ပါ။"</string>
     <string name="video_dialog_title" />
     <string name="video_dialog_subtitle" />
     <string name="video_dialog_no_play" />

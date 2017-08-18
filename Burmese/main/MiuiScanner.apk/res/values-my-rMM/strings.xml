@@ -166,6 +166,7 @@
     <string name="document_color_picture_tip">အရောင်များသို့ ပြောင်းလဲနေ…</string>
     <string name="document_save_succeed_tip">ဖိုင်စုများအား %1$s သို့သိမ်းလိုက်သည်</string>
     <string name="document_recognize_fail_tip">ဖိုင်စုအား ဖတ်၍မရပါ</string>
+    <string name="document_recognize_null_tip">စာရွက်စာတမ်းရလဒ် မရှိပါ</string>
     <string name="recognition_error_download_title">သိရှိခြင်းအင်ဂျင် လိုအပ်ပါသည်</string>
     <string name="recognition_error_download_msg">ကတ်များအား စကန်ဖတ်ရန် သိရှိခြင်း အင်ဂျင်အား ဒေါင်းလုတ်လုပ်ပါ။ အရွယ်အစားမှာ 15MB မျှရှိပါသည်။</string>
     <string name="recognition_error_download_ok">ဒေါင်းလုတ်ဆွဲပါ</string>

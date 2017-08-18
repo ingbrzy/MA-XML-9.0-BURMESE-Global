@@ -100,6 +100,7 @@
     <string name="activate_feature_verify_mx_token">Mi အကောင့် အတည်ပြုခြင်း</string>
     <string name="activate_feature_live_talk">ငွေဖြည့်သွင်းသည့် ပက်ကေ့ချ်</string>
     <string name="activate_feature_remote_assist">လက်ထောက်အား ဖယ်ရှားပါ</string>
+    <string name="activate_feature_mi_roaming">Mi ရွန်းမင်း</string>
     <string name="activate_feature_default_name">Mi ဝန်ဆောင်မှုများ</string>
     <string name="activate_history_title">SIM ကတ်အသက်သွင်းခြင်း</string>
     <string name="activate_history_success_overview">SIM ကတ်အား အသက်သွင်းခြင်း အောင်မြင်သည်။ အသက်သွင်းခြင်းအား \"%1$s\" ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>

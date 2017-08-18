@@ -88,10 +88,10 @@
     <string name="dialog_text">ဂိမ်းအရှိန်မြှင့်တင်သူအတွက် အိမ်မျက်နှာပြင် ရှော့ကတ်အား ဖန်တီးပါ</string>
     <string name="anim_gamebooster_text">ခဏလောက်စောင့်…</string>
     <string name="intro_skip">ကျော်သွားရန်</string>
-    <string name="open_game">Open</string>
-    <string name="try_game">Try</string>
-    <string name="install_sucess">Installed %s successfully</string>
-    <string name="more_game">More games</string>
+    <string name="open_game">ဖွင့်မည်။</string>
+    <string name="try_game">ကြိုးစားပါ</string>
+    <string name="install_sucess">%s ကိုအောင်မြင်စွာထည့်ပြီးပါပြီ</string>
+    <string name="more_game">နောက်ထပ် ဂိမ်းများ</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
     <string name="application_item_disable">ကန့်သတ်ထားသော</string>

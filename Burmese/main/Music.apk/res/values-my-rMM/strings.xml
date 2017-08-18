@@ -570,18 +570,6 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="cp_info_first">"အွန်လိုင်း သီချင်းထုတ်လွှင့်ခြင်း ဝန်ဆောင်မှုအား
  Ultimate Inc မှလုပ်ဆောင်နေခြင်းဖြစ်ပါသည်"</string>
     <string name="cp_info_second">service1@ultimobi.com</string>
-    <string name="male_artist">အမျိုးသားအနုပညာရှင်</string>
-    <string name="female_artist">အမျိုးသမီးအနုပညာရှင်</string>
-    <string name="group_artist">လက်ပတ်များ</string>
-    <string name="chinese_male">အမျိုးသားအဆိုတော်(တရုတ်)</string>
-    <string name="chinese_female">အမျိုးသမီးအဆိုတော်(တရုတ်)</string>
-    <string name="chinese_group">ဆိုတော်အဖွဲ့(တရုတ်)</string>
-    <string name="japan_korea_male">အမျိုးသားအဆိုတော်(ဂျပန်/ကိုရီးယား)</string>
-    <string name="japan_korea_female">အမျိုးသမီးအဆိုတော်(ဂျပန်/ကိုရီးယား)</string>
-    <string name="japan_korea_group">အဆိုတော်အဖွဲ့(ဂျပန်/ကိုရီးယား)</string>
-    <string name="english_male">အမျိုးသားအဆိုတော်(US/ဥရောပ)</string>
-    <string name="english_female">အမျိုးသမီးအဆိုတော်(US/ဥရောပ)</string>
-    <string name="english_group">အဆိုတော်အဖွဲ့(US/ဥရောပ)</string>
     <string name="favorite_singer">နှစ်သက်ရာအနုပညာရှင်</string>
     <string name="nav_online_billboard">ပုံစံကားချပ်များ</string>
     <string name="nav_online_artist">အနုပညာရှင်များ</string>
@@ -664,7 +652,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="vip_tomorrow_renew_message">အရည်အသွေးမြင့်အော်ဒီယိုများအား နားဆင်နိုင်လိမ့်မည်မဟုတ်ပါ၊ သို့သော် သီချင်းတစ်ချို့ကိုပုံမှန်အရည်အသွေးဖြင့် နားဆင်နိုင်ပါလိမ့်မည်။</string>
     <string name="vip_tomorrow_auto_renew_message">မနက်ဖြန်ညနေတွင် သင့်သီချင်းအတွက် ပုံမှန်ကြေးပေးချေမှုသည် အလိုအလျောက် သက်တမ်းတိုးပါလိမ့်မည်။ ဤပေးချေမှုအား ပြုလုပ်နိုင်ရန် သင့် အကောင့်ထဲတွင် Mi ခရက်ဒစ်အလုံအလောက်ရှိကြောင်း သေချာမှုရှိစေပါ။</string>
     <string name="vip_after_tomorrow_renew_message">အရည်အသွေးမြင့်အော်ဒီယိုများအား နားဆင်နိုင်လိမ့်မည်မဟုတ်ပါ၊ သို့သော် သီချင်းတစ်ချို့ကိုပုံမှန်အရည်အသွေးဖြင့် နားဆင်နိုင်ပါလိမ့်မည်။</string>
-    <string name="vip_after_tomorrow_auto_renew_message">Your Music subscription will be renewed automatically the evening of day after tomorrow. Make sure you have enough Mi Credits in your account to complete this payment.</string>
+    <string name="vip_after_tomorrow_auto_renew_message">သဘက်ခါညနေတွင် သင့်သီချင်းအတွက် ပုံမှန်ကြေးပေးချေမှုသည် အလိုအလျောက် သက်တမ်းတိုးပါလိမ့်မည်။ ဤပေးချေမှုအား ပြုလုပ်နိုင်ရန် သင့် အကောင့်ထဲတွင် Mi ခရက်ဒစ်အလုံအလောက်ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="to_mi_pay">Mi ခရက်ဒစ်များ</string>
     <string name="confirm_to_renew">အသစ်လုပ်</string>
     <string name="create_order_fail">အော်ဒါမဖန်တီးနိုင်ခဲ့ပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -709,11 +697,6 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="download_cloud_error_retryable">Mi ကလောက်ဆာဗာ အမှား ၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="download_cloud_error_unknow">Mi Cloud သို့ ချိတ်ဆက်မရနိုင်ခဲ့ပါ</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုတ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
-    <string name="cloud_space_full">သိုလ်လှောင်မှုနေရာလွတ်မရှိတော့ပါ</string>
-    <string name="cloud_space_full_message">သင့် Mi ကလောက်အခန်းထဲတွင် သီချင်းထပ်ပေါင်းရန် နေရာလွတ် အလုံအလောက်မရှိတော့ပါ။ နေရာလွတ်ပိုမိုရရှိနိုင်ရန်၊ သင့် Mi အကောင့်အား အဆင့်မြှင့်တင်ပါ။</string>
-    <string name="do_not_remind_again">ထပ်မပြပါနှင့်</string>
-    <string name="not_now">ယခုမဟုတ်ပါ</string>
-    <string name="upgrade_membership">နေရာပိုမိုရယူပါ</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="current_version">လက်ရှိဗားရှင်း</string>
     <string name="music_traffic">သီချင်းဒေတာအစီအစဉ်</string>
