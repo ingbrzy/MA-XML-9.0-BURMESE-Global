@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -2083,7 +2081,6 @@
     <string name="battery_stats_wifi_running_label">ဝိုင်ဖိုင်</string>
     <string name="battery_stats_wake_lock_label">ဖွင့်ထားနေစေရန်</string>
     <string name="battery_stats_phone_signal_label">ဆယ်လူလာ ကွန်ရက် ထုတ်လွှင့်မှု အချက်ပြ</string>
-    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">စက်အား ဖွင့်မည့်အချိန်</string>
     <string name="wifi_on_time">အချိန်ကိုက်ဝိုင်ဖိုင်</string>
     <string name="bluetooth_on_time">အချိန်ကိုက်ဝိုင်ဖိုင်</string>
@@ -2105,7 +2102,6 @@
     <string name="usage_type_cpu">စုစုပေါင်းCPU</string>
     <string name="usage_type_cpu_foreground">CPUအနီးမြင်ကွင်း</string>
     <string name="usage_type_wake_lock">ဖွင့်လျှက်ထားရှိရန်</string>
-    <string name="usage_type_gps">@string/menu_stats_last_unplugged</string>
     <string name="usage_type_wifi_running">ဝိုင်ဖိုင် အလုပ်လုပ်နေသည်</string>
     <string name="usage_type_phone">ဖုန်း</string>
     <string name="usage_type_data_send">ပို့ထားသော မိုဘိုင်းလ် အချက်အလက်အစုအဖွဲ့များ</string>

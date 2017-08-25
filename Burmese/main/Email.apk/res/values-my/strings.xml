@@ -383,7 +383,6 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -398,7 +397,6 @@
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
-    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
     <string name="loading_conversation">ရယူနေသည်…</string>
