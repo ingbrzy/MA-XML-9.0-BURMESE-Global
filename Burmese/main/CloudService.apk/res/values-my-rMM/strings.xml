@@ -49,7 +49,7 @@
     <string name="sync_dspt">ဆင့်ခ်</string>
     <string name="sync_sub_dspt">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="sync_sub_int_dspt">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
-    <string name="access_denied">ဝင်သုံးစွဲခွင့်ကို ငြင်းပယ်ထားသည်</string>
+    <string name="access_denied">ဝင်သုံးခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="internet_access_dspt">ပုံမှန်အလုပ်လုပ်ဆောင်နိုင်ရန် ဤအက်ပ်ကို အင်တာနက်သို့ချိန်ဆက်ရန်လိုသည်။</string>
     <string name="sync_on">ဖွင့်</string>
     <string name="sync_off">ပိတ်</string>

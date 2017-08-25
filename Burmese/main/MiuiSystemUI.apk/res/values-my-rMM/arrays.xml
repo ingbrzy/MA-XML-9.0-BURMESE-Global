@@ -109,17 +109,17 @@
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>ပိတ်</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>စတုဂံမဟုတ်သောပိုင်းဖြတ်ဒေသကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
+        <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့်ဟိုက်လိုက်ပါ</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>ပိတ်</item>
-        <item>On screen as bars</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>မျက်နှာပြင်ပေါ်တွင် ဘားဂရပ်အဖြစ်</item>
+        <item>adb shell dumpsys gfxinfo တွင်</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>ပိတ်</item>
-        <item>Show overdraw areas</item>
+        <item>ကျော်လွန်ဧရိယာများ ပြရန်</item>
         <item>Show areas for Deuteranomaly</item>
     </string-array>
     <string-array name="app_process_limit_entries">
@@ -145,19 +145,30 @@
         <item>မြန်သည်</item>
         <item>ပိုမြန်သော</item>
         <item>အလွန်မြန်သော</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
+        <item>မြန်ဆန်သော</item>
+        <item>အလွန်မြန်ဆန်သော</item>
         <item>အမြန်ဆုံး</item>
     </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
     <string-array name="color_mode_names">
-        <item>Vibrant (default)</item>
-        <item>Natural</item>
+        <item>တောက်ပ (ပုံသေ)</item>
+        <item>သဘာဝ</item>
         <item>ပုံမှန်</item>
     </string-array>
     <string-array name="color_mode_descriptions">
-        <item>Enhanced colors</item>
-        <item>Natural colors as seen by the eye</item>
-        <item>Colors optimized for digital content</item>
+        <item>တိုးမြှင့်ထားသော အရောင်</item>
+        <item>မျက်စိဖြင့် မြင်ရသော သဘာဝအရောင်</item>
+        <item>ဒစ်ဂျစ်တယ်အတွက် အကောင်းဆုံးချိန်ထားသော အရောင်</item>
     </string-array>
     <string-array name="battery_labels">
         <item>0%</item>

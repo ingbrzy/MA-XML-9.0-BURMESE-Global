@@ -256,6 +256,7 @@
     <string name="vcard_export_will_start_message">%s ကို မကြာမီ ပို့သွင်းပါလိမ့်မည်။</string>
     <string name="vcard_export_request_rejected_message">vCard ပို့သွင်းမည်ဆိုသော တောင်းဆိုချက်ကို ပယ်ဖျက်ခဲ့သည်။ နောက်မှ ထပ်ကြိုးစားပါ။</string>
     <string name="vcard_unknown_filename">အဆက်အသွယ်</string>
+    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">အဆက်အသွယ်များကို ပို့သွင်းမလား။</string>
     <string name="confirm_export_message">သင့်အဆက်အသွယ်စာရင်းကို ဖိုင်သို့ ပို့သွင်းပါလိမ့်မည်: %s.</string>
     <string name="exporting_contact_failed_title">ပို့သွင်းလို့ မရပါ</string>
@@ -639,6 +640,7 @@
     <string name="miprofile_alertdialog_message">ကတ်များအား ဖလှယ်ရန်သင်မေးလိုက်စဉ် ဤအမည်အား ဆက်သွယ်မှုများသို့ ပြသပါ</string>
     <string name="miprofile_alertdialog_edit">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="miprofile_switch_off_alertdialog_message">သင်သည် လိပ်စာကတ်အား အခြားသူများနှင့် လဲလှယ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">ဖုန်းနံပါတ် ထည့်ပါ</string>
     <string name="miprofile_bind_account_alertdialog_message">ဤလုပ်ဆောင်ချက်အား အသုံးပြုရန် ဤစက်၏ဖုန်းနံပါတ်အား သင့်Miအကောင့်ထဲသို့ပေါင်းထည့်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="miprofile_bind_account_alertdialog_positive">နံပါတ်ထည့်မည်</string>
@@ -734,7 +736,8 @@
     <string name="zero_items_selected">အိုင်တမ်များရွေး</string>
     <string name="select_all">အားလုံးကိုရွေးချယ်ပါ</string>
     <string name="deselect_all">အားလုံးကို ရွေးချယ်ခြင်းမှ ဖြုတ်ပါ</string>
-    <string name="select_done">ရွ​ေးချယ်ရန် မရှိတော့ပါ</string>
+    <string name="select_exceed">Select no more than %1$d</string>
+    <string name="select_all_exceed">"Select no more than %1$d, can't select all"</string>
     <string name="select_none">တစ်ခုမှ ရွေးချယ်ထားခြင်းမရှိပါ</string>
     <string name="toast_finish_delete_call_log">ခေါ်ဆိုမှုမှတ်တမ်းအား ရှင်းလင်းခဲ့သော</string>
     <string name="toast_finish_delete_selected_call_log">ခေါ်ဆိုမှုမှတ်တမ်းအား ရှင်းလင်းခဲ့သော</string>
@@ -1013,6 +1016,7 @@
     <string name="device_import_local_account">ဒေသတွင်းအကောင့်</string>
     <string name="import_name">အမည်</string>
     <string name="import_percent">0%</string>
+    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">ပစ်မှတ်ဖုန်းကိုစစ်ဆေးပါ</string>
@@ -1062,8 +1066,6 @@
     <string name="confirm_delete_sim_entry_miui_title">ဖျက်ပစ်ပါ</string>
     <string name="importing_sim_contacts_miui_prepare">အဆက်အသွယ်များကို ပြင်ဆင်နေသည်…</string>
     <string name="deleting_sim_entry_miui_prepare">အဆက်အသွယ်များကို ပြင်ဆင်နေသည်…</string>
-    <string name="sim_contact_dropdown_menu_deselect_all_miui">အားလုံးဖြုတ်ပါ</string>
-    <string name="sim_contact_dropdown_menu_select_all_miui">အားလုံးရွေးပါ</string>
     <string name="delete_selected_sim_entry_miui">ရွေးချယ်ထားသော အဆက်အသွယ်များကို ဖျက်ပစ်ပါ</string>
     <string name="import_selected_sim_entries_miui">ရွေးချယ်ထားသော အဆက်အသွယ်များကို သွင်းပါ</string>
     <string name="add_blacklist_dialog_title">ဤနံပါတ်အား ဘလော့လုပ်မည်လား?</string>
@@ -1195,9 +1197,6 @@
     <string name="editContactNameExpandCloseDescription">အမည်အားဖျက်</string>
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="force_touch_miprofile">ဆက်သွယ်မှု ကတ်များ</string>
-    <string name="fraud_more_indemnity">ပိုမို၍</string>
-    <string name="telecom_fraud_insurance">Telecom လိမ်ညာ အာမခံကြေး</string>
-    <string name="telecom_fraud_insurance_description">အာမခံ 10,000 CNY| အထူးသီးသန့်Xiaomiကမ်းလှမ်းမှု| တစ်နှစ်လျှင် 9.9 CNY</string>
     <string name="yesterday">မနေ့က</string>
     <string name="tomorrow">မနက်ဖြန်</string>
     <string name="low_memory_toast">မှတ်ဉာဏ်နည်းနေသည့်အတွက် ဤလုပ်ဆောင်ချက်အား အသုံးပြု၍မရ နိုင်ပါ</string>

@@ -59,7 +59,7 @@
         <item>မကြာမီက</item>
     </string-array>
     <string-array name="power_checker_running_group_titles">
-        <item>Blocking deep sleep mode</item>
+        <item>နှစ်ခြိုက်စွာအိပ်ခြင်းမုဒ်အား ဘလော့လုပ်ထားသည်</item>
         <item>အိပ်စက်ခြင်းမုဒ်ကို ဘလော့လုပ်ထားသည်</item>
         <item>Wi-Fi ရှာဖွေနေ</item>
         <item>GPS အသုံးပြုနေ</item>
@@ -81,7 +81,7 @@
     </string-array>
     <string-array name="thermal_entries">
         <item>Default warm control mode</item>
-        <item>Performance first mode</item>
+        <item>စွမ်းဆောင်မှုဦးစားပေးမုဒ်</item>
     </string-array>
     <string-array name="thermal_summaries">
         <item>လက်ရှိသတ်မှတ်ထားသောမုဒ်</item>

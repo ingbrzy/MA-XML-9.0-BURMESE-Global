@@ -140,7 +140,7 @@
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
     <string name="lunar_calendar" />
-    <string name="data_provided_by">ဒေတာအား အောက်ပါမှ ထောက်ပံ့ပေးထားသော</string>
+    <string name="data_provided_by">ဒေတာ ထောက်ပံ့သော</string>
     <string name="ads_extension" />
     <string name="wind_direction_no_data">လေ</string>
     <string name="activity_main_one_alert" />

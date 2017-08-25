@@ -93,17 +93,4 @@
     <string name="keyguard_left_remotecentral">Mi ရီမု</string>
     <string name="keyguard_left_bankcard">Mi Pay</string>
     <string name="keyguard_left_buscard">သယ်ယူပို့ဆောင်ရေးကတ်</string>
-    <string name="incorrect_pukcode_remaining_attempts">Incorrect PUK code, %d attempts remaining</string>
-    <string name="incorrect_pincode_remaining_attempts">Incorrect PIN code, %d attempts remaining</string>
-    <string name="phone_locked_timeout_seconds_string">Try again in %d seconds</string>
-    <string name="phone_locked_timeout_minutes_string">Try again in %d minutes</string>
-    <string name="keyguard_charging_info_charging_full_need_min_time__text">အားပြည့်ရန် %d မိနစ်ခန့် လိုသည်။​</string>
-    <string name="keyguard_charging_info_charging_full_need_hour_time__text">About %d hr until full</string>
-    <string name="keyguard_charging_info_charging_full_need_time__text" formatted="false">အားပြည့်ရန် %d နာရီ %d မိနစ်ခန့် လိုသည်။​</string>
-    <string name="keyguard_charging_info_could_use_min_time_text">About %d min left</string>
-    <string name="keyguard_charging_info_could_use_hour_time_text">About %d hr left</string>
-    <string name="keyguard_charging_info_could_use_time_text" formatted="false">About %d hr %d min left</string>
-    <string name="keyguard_charging_info_drained_hour_time_format">%d hr</string>
-    <string name="keyguard_charging_info_drained_min_time_format">%d min</string>
-    <string name="keyguard_charging_info_drained_time_format" formatted="false">%d hr %d min</string>
 </resources>

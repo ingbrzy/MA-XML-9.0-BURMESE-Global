@@ -283,4 +283,10 @@
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
     <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
+    <string name="do_not_ask">不再询问</string>
+    <string name="gpg_message">双开游戏需要依赖谷歌游戏中心应用,是否同步双开谷歌游戏中心应用</string>
+    <string name="gpg_title">双开谷歌游戏中心</string>
+    <string name="gms_message">双开该应用需要依赖谷歌服务,是否同步双开谷歌服务</string>
+    <string name="gms_title">双开谷歌服务</string>
+    <string name="gms_open_button">开启</string>
 </resources>

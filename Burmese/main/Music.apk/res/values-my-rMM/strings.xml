@@ -837,9 +837,9 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="talkback_download">ဒေါင်းလုတ်ဆွဲပါ</string>
     <string name="talkback_share">မျှဝေခြင်း</string>
     <string name="talkback_mode">အဖွင့်စာရင်းအား ပတ်လည်ဖွင့်ပါ</string>
-    <string name="talkback_mode_repeat_all">List loop mode</string>
-    <string name="talkback_mode_repeat_current">Single loop mode</string>
-    <string name="talkback_mode_repeat_shuffle">Random play mode</string>
+    <string name="talkback_mode_repeat_all">စာရင်းလိုက်လည်ပတ်မုဒ်</string>
+    <string name="talkback_mode_repeat_current">တစ်ပုဒ်တည်းလည်ပတ်မုဒ်</string>
+    <string name="talkback_mode_repeat_shuffle">ကျပန်းထုတ်လွှင့်မုဒ်</string>
     <string name="talkback_device">အခြားစက်များပေါ်တွင် ဖွင့်ပါ</string>
     <string name="talkback_more">မီနူးပိုမို၍</string>
     <string name="talkback_favorite">ဤသီးချင်းအား ကြိုက်သည်</string>

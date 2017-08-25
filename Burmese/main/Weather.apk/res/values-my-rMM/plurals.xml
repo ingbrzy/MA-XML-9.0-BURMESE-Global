@@ -16,7 +16,7 @@
         <item quantity="other">ရှင်းလင်း</item>
     </plurals>
     <plurals name="total_voted_num_text">
-        <item quantity="other">"&lt;font color='#20a7ff'>%1$s&lt;/font> people have voted"</item>
+        <item quantity="other">"လူ &lt;font color='#20a7ff'>%1$s&lt;/font> ယောက် မဲပေးထားသည်"</item>
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s ဦး</item>

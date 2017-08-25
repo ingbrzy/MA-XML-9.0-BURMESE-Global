@@ -96,9 +96,6 @@
     <string name="notification_action_speaker">စပီကာ</string>
     <string name="notification_action_earpiece">နားကြပ်</string>
     <string name="notification_requesting_video_call">အဝင်ဗီဒီယိုခေါ်ဆိုမှု</string>
-    <string name="add_vm_number_str">နံပါတ်ထည့်မည်</string>
-    <string name="no_vm_number">အသံမေးလ်နံပါတ်ပျောက်နေပါသည်</string>
-    <string name="no_vm_number_msg">SIM ကတ်ထဲတွင် မည်သည့် အသံနံပါတ်မျှ သိမ်းမထားပါ</string>
     <string name="description_image_button_one">တစ်</string>
     <string name="description_image_button_two">နှစ်</string>
     <string name="description_image_button_three">သုံး</string>

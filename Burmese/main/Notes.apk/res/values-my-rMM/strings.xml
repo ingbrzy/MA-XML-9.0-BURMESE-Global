@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Weibo အကောင့် သက်တမ်းကုန်သွားပြီ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ</string>
     <string name="sina_token_invalid_warning">Weiboအကောင့် ဘောင်မဝင်ပါ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ။</string>
     <string name="sina_share_fail_content_repeat">ဤအရာကို သင် ဝေမျှပြီးပြီ</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">မှတ်စုများ၊မီမို</string>
     <string name="search_path_notes">စနစ်အက်ပ်များ/မှတ်စုများ</string>
     <string name="dlg_move_message">ရွှေ့နေဆဲ…</string>

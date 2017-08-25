@@ -8,9 +8,9 @@
     </string-array>
     <string-array name="imProtocols">
         <item>AIM</item>
-        <item>ဝင်းဒိုးစ် လိုက်ဖ်</item>
-        <item>ရာဟူး</item>
-        <item>စကိုက်ပ်</item>
+        <item>Windows Live</item>
+        <item>Yahoo</item>
+        <item>Skype</item>
         <item>QQ</item>
         <item>ဂူဂဲလ်တော့ခ်</item>
         <item>ICQ</item>

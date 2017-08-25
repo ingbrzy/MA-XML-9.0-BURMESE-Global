@@ -162,4 +162,9 @@
     <string name="remain">လက်ကျန်နေသော-%s</string>
     <string name="configure_input_methods">ကီးဘုတ်များရွေးချယ်ပါ</string>
     <string name="miui_upgrading_notification_title">စနစ်လုဒ်လုပ်နေပါသည်၊ အချို့လုပ်ဆောင်ချက်များကို ကန့်သတ်ထားနိုင်ပါသည်</string>
+    <string name="miui_screen_ratio_hint">Screen ratio issues</string>
+    <string name="miui_screen_ratio_hint_message">This app is allowed to run in the fullscreen mode which may cause it to be displayed incorrectly. You can change this in Settings > Advanced settings > Buttons.</string>
+    <string name="miui_screen_ratio_hint_dont_show_again">"Don't show again"</string>
+    <string name="miui_screen_ratio_hint_ok">OK</string>
+    <string name="miui_screen_ratio_hint_go_to_settings">Go to Settings</string>
 </resources>

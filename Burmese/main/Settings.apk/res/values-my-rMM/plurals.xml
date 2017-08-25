@@ -152,7 +152,7 @@
         <item quantity="other">%d apps are allowed to autostart</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</item>
+        <item quantity="other">PIN must be %d digits</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">ကွန်ရက် %dခုအား မျှဝေခဲ့သည်</item>
@@ -177,5 +177,20 @@
     </plurals>
     <plurals name="auto_disable_screenbuttons_disabled_header_title">
         <item quantity="other">အက်ပ် %dခုအတွက် ဘယ်တော့မှ မပိတ်ပါနှင့်</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_short">
+        <item quantity="other">PIN must be %d digits long</item>
+    </plurals>
+    <plurals name="lockpassword_pin_too_long">
+        <item quantity="other">PIN can contain up to %d digits</item>
+    </plurals>
+    <plurals name="lockpattern_recording_incorrect_too_short">
+        <item quantity="other">Connect at least %d dots. Try again.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts">
+        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
+    </plurals>
+    <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
+        <item quantity="other">Wait for %d seconds and try again.</item>
     </plurals>
 </resources>

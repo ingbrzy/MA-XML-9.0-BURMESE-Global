@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -59,7 +61,7 @@
     <string name="bluetooth_pan_user_profile_summary_connected">အင်တာနက်ဆက်သွယ်မှုရရန် စက်နှင်ချိတ်ဆက်မည်</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">စက်နှင့် ပုံမှန်အင်တာနက်ဆက်သွယ်မှုအား မျှဝေစေရန်</string>
     <string name="bluetooth_dun_profile_summary_connected">DUN ဆာဗာသို့ ချိတ်ဆက်ထားသော</string>
-    <string name="bluetooth_pan_profile_summary_use_for">Use for internet access</string>
+    <string name="bluetooth_pan_profile_summary_use_for">အင်တာနက်ဝင်ရောက်သုံးစွဲရန်အတွက် သုံးမည်</string>
     <string name="bluetooth_map_profile_summary_use_for">မြေပုံအတွက် အသုံးပြု</string>
     <string name="bluetooth_sap_profile_summary_use_for">SIMသို့ဝင်ရောက်ရန် သုံးသည်</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">မီဒီယာအော်ဒီယို အတွက် အသုံးပြုသည်</string>
@@ -121,13 +123,13 @@
     <string name="tts_engine_settings_button">အင်ဂျင်ဆက်တင်များကိုဖွင့်ခြင်း</string>
     <string name="tts_engine_preference_section_title">ဦးစားပေးအင်ဂျင်</string>
     <string name="tts_general_section_title">ယေဘုယျ</string>
-    <string name="tts_reset_speech_pitch_title">Reset speech pitch</string>
-    <string name="tts_reset_speech_pitch_summary">Reset the pitch at which the text is spoken to default.</string>
+    <string name="tts_reset_speech_pitch_title">စကားပြောသံအနိမ့်အမြင့်ကို ပြန်လည်သတ်မှတ်မည်</string>
+    <string name="tts_reset_speech_pitch_summary">စာသားမှပြောင်းလဲသော စကားပြောသံအနိမ့်အမြင့်ကို ပြန်လည်သတ်မှတ်မည်</string>
     <string name="choose_profile">ပရိုဖိုင်ရွေးရန်</string>
     <string name="category_personal">ကိုယ်ရေး</string>
     <string name="category_work">အလုပ်အကိုင်</string>
     <string name="development_settings_title">ဆော့ဝဲလ်ရေးသူ၏ ရွေးချယ်မှုများ</string>
-    <string name="development_settings_enable">Enable developer options</string>
+    <string name="development_settings_enable">ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများ ဖွင့်မည်</string>
     <string name="development_settings_summary">အပလီကေးရှင်းတိုးတက်မှုအတွက် ရွေးချယ်မှုကိုသတ်မှတ်သည်</string>
     <string name="development_settings_not_available">ဤသုံးစွဲသူအတွက် တည်ဆောက်သူ ရွေးချယ်ခွင့်များ မရနိုင်ပါ</string>
     <string name="vpn_settings_not_available">ဤ အသုံးပြုသူ အတွက် VPN ဆက်တင်များကို မရယူနိုင်</string>
@@ -155,7 +157,7 @@
     <string name="wifi_aggressive_handover">ထိရောက်သည့် Wi‑Fi မှ ဆယ်လူလာ လွှဲပြောင်းမှု</string>
     <string name="wifi_allow_scan_with_traffic">Wi‑Fi ရွမ်းရှာဖွေမှုကို အမြဲတမ်း ခွင့်ပြုမည်</string>
     <string name="mobile_data_always_on">ဆဲလ်လူလာဒေတာ အမြဲတမ်းဖွင့်ထားသည်</string>
-    <string name="bluetooth_disable_absolute_volume">Disable absolute volume</string>
+    <string name="bluetooth_disable_absolute_volume">အကြွင်းမဲ့အသံအတိုးအကျယ်ကို ပိတ်မည်</string>
     <string name="wifi_display_certification_summary">ကြိုးမဲ့ အခင်းအကျင်း အသိအမှတ်ပြုလက်မှတ်အတွက် ရွေးချယ်စရာများပြရန်</string>
     <string name="wifi_verbose_logging_summary">Wi‑Fi မှတ်တမ်းတင်ခြင်း နှုန်းအားမြင့်ကာ၊ Wi‑Fi ရွေးရာတွင် SSID RSSI ဖြင့်ပြပါ</string>
     <string name="wifi_aggressive_handover_summary">ဖွင့်ထားလျှင်၊ Wi‑Fi မှ ဆယ်လူလာသို့ အချက်လက် ချိတ်ဆက်မှုအား လွှဲပြောင်းရာ၌ ပိုမိုထိရောက်ပါသည်၊ WIFI အားနည်းနေချိန်တွင်</string>
@@ -236,8 +238,8 @@
     <string name="show_all_anrs">ANRsအားလုံးအား ပြသရန်</string>
     <string name="show_all_anrs_summary">နောက်ခံအပ်ပလီကေးရှင်းအတွက်တုံ့ပြန်မှုမရှိပြရန်</string>
     <string name="force_allow_on_external">Force allow apps ro write on external storage</string>
-    <string name="force_allow_on_external_summary">Makes any app eligible to be written to external storage, regardless of manifest values</string>
-    <string name="force_resizable_activities">Force activities to be resizable</string>
+    <string name="force_allow_on_external_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ အက်ပ်အားလုံးကို အပြင်သိုလှောင်ခန်းသို့ ရေးသားခွင့်ပေးမည်</string>
+    <string name="force_resizable_activities">လှုပ်ရှားမှုများကို အရွယ်အစားပြောင်းနိုင်အောင် မဖြစ်မနေလုပ်မည်</string>
     <string name="force_resizable_activities_summary">Make all activities resizable for multi-window, regardless of manifest values.</string>
     <string name="enable_freeform_support">Enable freeform windows</string>
     <string name="enable_freeform_support_summary">Enable support for experimental freeform windows.</string>
@@ -252,15 +254,15 @@
     <string name="inactive_app_active_summary">အလုပ်လုပ်နေ၏။ ခလုတ်ကို ထိပါ။</string>
     <string name="runningservices_settings_title">အလုပ်လုပ်နေသောဝန်ဆောင်မှုများ</string>
     <string name="runningservices_settings_summary">ယခုအလုပ်လုပ်နေသောဝန်ဆောင်မှုကို ကြည့်ခြင်းနှင့် ထိန်းသိမ်းခြင်းအား ပြုလုပ်မည်လား?</string>
-    <string name="enable_webview_multiprocess">Multiprocess WebView</string>
-    <string name="enable_webview_multiprocess_desc">Run WebView renderers separately</string>
-    <string name="select_webview_provider_title">WebView implementation</string>
-    <string name="select_webview_provider_dialog_title">Set WebView implementation</string>
-    <string name="select_webview_provider_toast_text">This choice is no longer valid. Try again.</string>
-    <string name="convert_to_file_encryption">Convert to file encryption</string>
-    <string name="convert_to_file_encryption_enabled">Convert…</string>
-    <string name="convert_to_file_encryption_done">Files are encrypted</string>
-    <string name="title_convert_fbe">Converting to file based encryption…</string>
+    <string name="enable_webview_multiprocess">ဘက်စုံလုပ်ငန်းစဉ် WebView</string>
+    <string name="enable_webview_multiprocess_desc">WebView ကို သီးခြားစီပြန်ဆို</string>
+    <string name="select_webview_provider_title">WebView အကောင်အထည်ဖော်မှု</string>
+    <string name="select_webview_provider_dialog_title">WebView အကောင်အထည်ဖော်မှု သတ်မှတ်မည်</string>
+    <string name="select_webview_provider_toast_text">ဤရွေးချယ်မှုသည် တရားမဝင်တော့ပါ။ ထပ်မံကြိုးစားကြည့်ပါ။</string>
+    <string name="convert_to_file_encryption">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသောအနေထားသို့ ပြောင်းပါ</string>
+    <string name="convert_to_file_encryption_enabled">ကူးပြောင်းမည်…</string>
+    <string name="convert_to_file_encryption_done">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသည်</string>
+    <string name="title_convert_fbe">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသောအနေထားသို့ ပြောင်းနေသည်</string>
     <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
  Warning: This will erase all your data.
  This feature is being developed, and may not work correctly.
@@ -835,10 +837,10 @@
     <string name="lock_profile_wipe_content">မှားယွင်းသည့် ကြိုးပမ်းမှု အလွန်များနေပါပြီ။ ဤစက်ပစ္စည်းမှ သင့်အလုပ်ပရိုဖိုင်နှင့် ဆက်စပ်ဒေတာများကို ဖယ်ရှားသွားပါမည်။</string>
     <string name="lock_profile_wipe_dismiss">ပယ်ပါ</string>
     <string name="lockpassword_password_too_short">စကားဝှက်နံပါတ်မှာ အနည်းဆုံး အက္ခရာ%dရှိရမည်</string>
-    <string name="lockpassword_pin_too_short">PIN မှာအလုံးရေ %d လုံး ဖြစ်ရပါမည်</string>
+    <string name="lockpassword_pin_too_short">ပင်နံပါတ်သည် အနည်းဆုံး ဂဏန်း %d လုံး ရှိရမည်။</string>
     <string name="lockpassword_continue_label">ဆက်ရန်</string>
     <string name="lockpassword_password_too_long">စကားဝှက်သည် %d စာလုံးရေထက် နည်းရမည်။</string>
-    <string name="lockpassword_pin_too_long">ပင်နံပါတ်သည် စကားလုံး %d လုံးထိပါဝင်နိုင်ပါသည်</string>
+    <string name="lockpassword_pin_too_long">ပင်နံပါတ်သည် ဂဏန်း %d လုံးအောက်ထက် နည်းရမည်။</string>
     <string name="lockpassword_pin_contains_non_digits">PIN တွင် နံပါတ်များသာပါနိုင်သည်</string>
     <string name="lockpassword_pin_recently_used">စက်အုပ်ချုပ်သူသည် PINသော့ဖြည်ရန် ခွင့်မပြုပါ</string>
     <string name="lockpassword_illegal_character">စကားဝှက်တွင် မကိုက်ညီသော စာလုံးတစ်လုံးပါနေသည်</string>
@@ -1647,7 +1649,7 @@
     <string name="lockpattern_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ−</string>
     <string name="lockpattern_recording_intro_footer">အကူအညီအတွက် မီနူးအား ထိနှိပ်ပါ</string>
     <string name="lockpattern_recording_inprogress">ပြီးဆုံးပါက သင့်လက်ချောင်းအား ဖယ်လိုက်ပါ</string>
-    <string name="lockpattern_recording_incorrect_too_short">အနည်းဆုံးအစက် %d စက်အား ပါအောင်ဆွဲပါ။ ပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="lockpattern_recording_incorrect_too_short">အနည်းဆုံး အစက် %d စက်ကိုဆက်ပါ။.ထပ်မံကြိုးစားပါဦး။</string>
     <string name="lockpattern_pattern_entered_header">ပုံစံကို မှတ်ထားပြီးပြီ</string>
     <string name="lockpattern_need_to_confirm">အတည်ပြုရန်သော့ဖွင့်ပုံစံကို တစ်ကြိမ်ထပ်ဆွဲပါ−</string>
     <string name="lockpattern_pattern_confirmed_header">သင့်သော့ဖွင့်ပုံစံအသစ်−</string>
@@ -1666,7 +1668,7 @@
     <string name="lockpattern_settings_choose_lock_pattern">သော့ဖွင့်ပုံစံကို သတ်မှတ်ပါ</string>
     <string name="lockpattern_settings_change_lock_pattern">သော့ဖွင့်ပုံစံပြောင်းပါ</string>
     <string name="lockpattern_settings_help_how_to_record">ပုံစံတစ်ခုအား မည်သို့မည်ပုံဆွဲမည်</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts">မမှန်ကန်သော ကြိုးစားမှုအလွန်များနေသည်။ %d စက္ကန့်အကြာမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="lockpattern_too_many_failed_confirmation_attempts">အလွန်များသည့် မမှန်ကန်သော ကြိုးစားမှုများရှိသည်။ %d စက္ကန့်မှ ထပ်မံကြိုးစားပါ။</string>
     <string name="activity_not_found">သင့်ဖုန်းတွင် အပလီကေးရှင်း မထည့်ထားပါ</string>
     <string name="lock_settings_profile_title">အလုပ် ပရိုဖိုင် လုံခြုံရေး</string>
     <string name="lock_settings_profile_screen_lock_title">အလုပ် ပရိုဖိုင် မျက်နှာပြင် သော့ခတ်</string>
@@ -2081,6 +2083,7 @@
     <string name="battery_stats_wifi_running_label">ဝိုင်ဖိုင်</string>
     <string name="battery_stats_wake_lock_label">ဖွင့်ထားနေစေရန်</string>
     <string name="battery_stats_phone_signal_label">ဆယ်လူလာ ကွန်ရက် ထုတ်လွှင့်မှု အချက်ပြ</string>
+    <string name="battery_stats_last_duration">@string/menu_stats_last_unplugged</string>
     <string name="awake">စက်အား ဖွင့်မည့်အချိန်</string>
     <string name="wifi_on_time">အချိန်ကိုက်ဝိုင်ဖိုင်</string>
     <string name="bluetooth_on_time">အချိန်ကိုက်ဝိုင်ဖိုင်</string>
@@ -2102,6 +2105,7 @@
     <string name="usage_type_cpu">စုစုပေါင်းCPU</string>
     <string name="usage_type_cpu_foreground">CPUအနီးမြင်ကွင်း</string>
     <string name="usage_type_wake_lock">ဖွင့်လျှက်ထားရှိရန်</string>
+    <string name="usage_type_gps">@string/menu_stats_last_unplugged</string>
     <string name="usage_type_wifi_running">ဝိုင်ဖိုင် အလုပ်လုပ်နေသည်</string>
     <string name="usage_type_phone">ဖုန်း</string>
     <string name="usage_type_data_send">ပို့ထားသော မိုဘိုင်းလ် အချက်အလက်အစုအဖွဲ့များ</string>
@@ -3601,7 +3605,7 @@
     <string name="user_experience_program_title">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="user_experience_program_summary">အမည်ဖော်မထားသော အသုံးပြမှုဒေတာ ပို့ခြင်းအားဖြင့် MIUI တိုးတက်ကောင်းမွန်စေအောင် ကူညီပါ</string>
     <string name="upload_debug_log_title">ချွင်းချက်ပြုပြင်ချက်များအား အလိုအလျောက်ပေးပို့ပါ</string>
-    <string name="upload_debug_log_summary">ကျွန်ုပ်တို့စုဆောင်းသော သတင်းအချက်အလက်များသည်သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များပါဝင်နိုင်သည်။ ဤအချက်လက်များသည် တည်နေရာရှာရန်နှင့် စနစ်ထဲရှိပြဿနာများခွဲခြားသုံးသပ်ရန်အတွက်သာဖြစ်သည်၊ ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များကို ဘယ်တော့မှ ဖော်ထုတ်မည်မဟုတ်ပါ။</string>
+    <string name="upload_debug_log_summary">ကျွန်ုပ်တို့စုဆောင်းသော သတင်းအချက်အလက်များသည် သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များ ပါဝင်နိုင်သည်။ ဤအချက်အလက်များသည် တည်နေရာရှာရန်နှင့် စနစ်ထဲရှိပြဿနာများကို ခွဲခြားသုံးသပ်ရန်အတွက်သာဖြစ်သည်၊ သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များကို ဘယ်တော့မှ ဖော်ထုတ်မည်မဟုတ်ပါ။</string>
     <string name="sound_vibrate_settings">အသံ &amp; တုန်ခါမှု</string>
     <string name="my_device">ကျွန်ုပ်စက်</string>
     <string name="device_miui_version">MIUI ဗားရှင်း</string>
@@ -3610,7 +3614,7 @@
     <string name="device_miui_more">နောက်ထပ် ကြည့်ပါ</string>
     <string name="device_share_loading">ဓာတ်ပုံဖန်တီးနေသည်…</string>
     <string name="device_actionbar_title">အချက်အလက်အားလုံး</string>
-    <string name="device_complete_parameters">ပြည့်စုံသော</string>
+    <string name="device_complete_parameters">Complete</string>
     <string name="menu_share">မျှဝေပါ</string>
     <string name="menu_check">အတွေ့အကြုံ</string>
     <string name="mi_shopping_mall">Mi စတိုး</string>
@@ -3647,7 +3651,7 @@
     <string name="device_cpu10_info">Hexa-core</string>
     <string name="max_cpu10_info">"Hexa-core Max "</string>
     <string name="instruction_title">လမ်းညွှန်ချက်များ</string>
-    <string name="approve_title">အတည်ပြုခြင်း</string>
+    <string name="approve_title">Verification</string>
     <string name="my_device_disclaimer">မှတ်ချက်− CPU အပါအဝင်၊ ဘက်ထရီစွမ်းရည်၊ မျက်နှာပြင်အရွယ်အစားနှင့် ရီဆိုလူးရှင်း စသည့် ဟာ့ဒ်ဝဲလ်အချက်အလက်နှင့် ကင်မရာကို Xiaomi labs၊ ဒီဇိုင်နာများနှင့် ပေးဝေသူများမှ ထောက်ပံ့ပေးထားပါသည်။</string>
     <string name="update_new_version">အပ်ဒိတ်ရရှိနိုင်ပါသည်</string>
     <string name="notification_update_new_version">အပ်ဒိတ်ရရှိနိုင်ပါသည်</string>
@@ -3999,7 +4003,7 @@
     <string name="virus_scan_app_continue">စကန်ဆက်ဖတ်မည်</string>
     <string name="virus_scan_app_uninstall">%d ကိုဖယ်ထုတ်မည်</string>
     <string name="virus_scan_app_force_stop">စကန်ဖတ်ခြင်းနား</string>
-    <string name="virus_scan_app_find_risk">%d အန္တရယ်များကို တွေ့ရပါသည်။</string>
+    <string name="virus_scan_app_find_risk">%d risks found</string>
     <string name="virus_scan_app_scan_finish">စကန်ဖတ်ခြင်းပြီး</string>
     <string name="virus_scan_app_no_risk">အန္တရာယ်မတွေ့ပါ</string>
     <string name="virus_scan_app_is_stop_scan">စကန်ဖတ်ခြင်းရပ်?</string>
@@ -4161,7 +4165,7 @@
     <string name="add_auto_startup_application">အလိုအလျောက်စတင်အက်ပ်စ်များကို ထည့်မည်</string>
     <string name="power_autorun_apps_empty">တစ်ခုမှမရှိပါ</string>
     <string name="power_autorun_empty">တစ်ခုမှမရှိပါ</string>
-    <string name="auto_startup_count">%d အက်ပ်စ်ကိုအလိုအလျောက်စတင်ခြင်းခွင့်မပြုထားပါ</string>
+    <string name="auto_startup_count">%d apps are allowed to autostart</string>
     <string name="man_add_application">အလိုအလျောက်စတင်အက်ပ်စ်များကို ထည့်မည်</string>
     <string name="application_item_disable">ငြင်းပယ်ပါ</string>
     <string name="application_item_permission">ခွင့်ပြုပါ</string>
@@ -4185,7 +4189,7 @@
     <string name="private_gallery_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
     <string name="private_gallery_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="unlock_disable_lock_pin_summary">PIN ပိတ်</string>
-    <string name="lockpassword_pin_fixed_length">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</string>
+    <string name="lockpassword_pin_fixed_length">PIN must be %d digits</string>
     <string name="lockpassword_confirm_for_second_user">ဒုတိယနေရာအတွက် စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="lockpassword_choose_for_second_user">ဒုတိယနေရာစကားဝှက်အား သတ်မှတ်ပါ</string>
     <string name="lockpassword_choose_your_password_second_space">"ဒုတိယနေရာအတွက် 
@@ -4250,7 +4254,7 @@
     <string name="wifi_share_summary2">MIUI အသုံးပြုသူများသည် ကွန်ရက်တစ်ခုကိုမျှဝေချိန်တွင် ယင်းကို လျို့ဝှက်စကားလုံးမသုံးဘဲ တိုက်ရိုက်ဆက်သွယ်နိုင်ပါသည်။</string>
     <string name="wifi_share_summary3">သင့် Wi-Fi ကွန်ရက်အား အခြား MIUI အသုံးပြုသူများနှင့် မျှဝေနိုင်ပါသည်</string>
     <string name="wifi_share_add">ကျွန်ုပ်၏အများသုံးကွန်ရက်ကို မျှဝေမည်</string>
-    <string name="wifi_share_count">ကွန်ရက် %dခုအား မျှဝေခဲ့သည်</string>
+    <string name="wifi_share_count">Shared %d networks</string>
     <string name="wifi_share_notification_summary">MIUI သည် သင့်ကို အများသုံးကွန်ရက်တစ်ခုဖြင့် ချိတ်ဆက်ထားပြီးပြီ</string>
     <string name="wifi_share_add_summary">"သင့်အများသုံးကွန်ရက်ကို
 မျှဝေချိန်တွင် အခြားသူများ၏ကွန်ရက်ကိုလည်းအသုံးပြုနိုင်ပါသည်"</string>
@@ -4404,8 +4408,16 @@
     <string name="need_reboot_now">အသစ်မွမ်းမံခြင်းကိုထည့်သွင်ရန်ရီဘုစ်လုပ်ပါ</string>
     <string name="welcome">ကြိုဆိုပါသည်</string>
     <string name="resolver_settings_label">မျိုးတူစုပါ</string>
+    <string name="status_bar_screen_button_key_force_immersive">ဆော့ဖ်ခလုတ်များ ကွယ်ဝှက်ပါ</string>
+    <string name="status_bar_screen_button_force_immersive_desc">ဆော့ဖ်ခလုတ်များကို ထုတ်ရန် မျက်နှာပြင်အောက်ခြေမှ ဆွဲတင်ပါ</string>
+    <string name="screen_max_aspect_ratio_title">မျက်နှာပြင်အပြည့် ဆက်တင်</string>
+    <string name="screen_max_aspect_ratio_desc">Whether app can show fullscreen</string>
     <string name="switch_screen_button_order">မှန်ခလုတ်များ</string>
     <string name="switch_screen_button_order_desc">မှန်နောက်နှင့် မီနူးခလုတ်</string>
+    <string name="unrestrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့် ထောက်ပံ့သည်</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့် သုံးရန်အကြံပြုသည်</string>
+    <string name="restrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့် မသုံးရန်အကြံပြုသည်</string>
+    <string name="max_aspect_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
     <string name="launching_pho">ဖုန်းအချက်လက်ကိုလွှတ်နေပါသည်။ ကျေးဇူးပြုပြီးစောင့်ပါ။</string>
     <string name="launching_cit">CIT ကိုလွှတ်တင်နေပါသည်။</string>
     <string name="launching_rep">အစီရင်ခံနေပါသည်…</string>
@@ -4467,7 +4479,7 @@
     <string name="bluetooth_unlock_state_too_far">မနီးစပ်ပါ</string>
     <string name="bluetooth_unlock_state_ok">သော့ဖြည်</string>
     <string name="miui_lab_settings">MIUIလပ်</string>
-    <string name="miui_lab_slogan">Learn. Explore. Discover.</string>
+    <string name="miui_lab_slogan">စူးစမ်းလေ့လာ၊ ရှာဖွေတွေ့ရှိ။</string>
     <string name="miui_lab_features">MIUI လပ်သွင်ပြင်များ</string>
     <string name="miui_lab_taplus_title">Trigger apps</string>
     <string name="miui_lab_taplus_desc">Press and hold to trigger shortcuts</string>
@@ -4510,7 +4522,7 @@
     <string name="alpha_build">" |အယ်လ်ဖာ"</string>
     <string name="developer_build">" | Beta"</string>
     <string name="stable_build">" |တည်ငြိမ်"</string>
-    <string name="location_agps_params_settings_title">AGPS အပြင်အဆင်များ</string>
+    <string name="location_agps_params_settings_title">AGPS ဆက်တင်များ</string>
     <string name="location_agps_supl_settings">SUPL အပြင်အဆင်များ</string>
     <string name="location_agps_supl_server_addr">ဆာဗာလိပ်စာ</string>
     <string name="location_agps_supl_server_port">ဆာဗာပေါ့စ်</string>
@@ -4528,8 +4540,8 @@
     <string name="location_agps_reset_type_choose_dialog_title">ပုံစံ သတ်မှတ်မည်</string>
     <string name="location_agps_pref_network_title">ပိုလိုလားသောကွန်ရက်</string>
     <string name="location_agps_register_network_type">ဝင်သုံးခြင်းကွန်ရက်ပုံစံ</string>
-    <string name="location_agps_register_network_type_dialog_summary">ကွန်ရက်တစ်ခုရွေးပါ</string>
-    <string name="location_agps_register_network_type_dialog_title">ကွန်ရက်ရွေးမည်</string>
+    <string name="location_agps_register_network_type_dialog_summary">Choose a network</string>
+    <string name="location_agps_register_network_type_dialog_title">Assisted GPS အားအသုံးပြုပါ</string>
     <string name="location_agps_roaming_help">ရွန်းမင်းလုပ်ထားချိန်တွင် ကွန်ရက်အားလုံးကိုရွေးခြင်းသည် သင့်ဒေတာသုံးခြင်းကိုပိုကုန်စေပါသည်။ သင့်အစီအစဉ်၏ဒေတာကန့်သတ်ချက်ကိုကျော်သွားပါက သင့်ကယ်ရီယာက အပိုအဖိုးအခကိုကောက်ခံမည်ဖြစ်ပါသည်။</string>
     <string name="supl_not_set">&lt;မသတ်မှတ်ထား></string>
     <string name="layout_size_small">XS</string>
@@ -4833,8 +4845,8 @@
     <string name="security_encryption_progress_dialog_open">ကုတ်ဖွဲ့နေ…</string>
     <string name="security_encryption_progress_dialog_close">ကုတ်ဖြည်နေ…</string>
     <string name="lock_secure_after_timeout_click_me_to_change_text">ပြောင်းလဲရန် ထိနှိပ်ပါ</string>
-    <string name="security_encryption_rejected_via_home_manager">"This feature isn't supported in the demo version."</string>
-    <string name="encryption_progress_summary">"Encrypting, don't reboot your device."</string>
+    <string name="security_encryption_rejected_via_home_manager">ဒီမိုဗားရှင်းသည် ဤအင်္ဂါရပ်ကို မထောက်ပံ့ပါ။</string>
+    <string name="encryption_progress_summary">ကုဒ်ဖွဲ့နေသည်၊ သင်၏စက်ကို ပိတ်၍ပြန်မစပါနှင့်။</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_skip">ကျော်</string>
     <string name="permission_settings_title">အက်ပ် ခွင့်ပြုချက်များ</string>
@@ -4879,7 +4891,7 @@
     <string name="reset_second_space_passwd_detail">ပထမနေရာတွင်သုံးသော Mi အကောင့်စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="reset_second_space_passwd_confirm">ဆက်လက်မည်</string>
     <string name="reset_second_space_passwd_cancel">ဖျက်သိမ်း</string>
-    <string name="edge_touch_volume">Adjust volume on the Edge Touch</string>
+    <string name="edge_touch_volume">အသံကို အစွန်ခလုတ်တွင် ချိန်ညှိပါ</string>
     <string name="keywords_bluetooth">ဘလူးတုသ်၊ဘလူးတုသ်၊ဘလူး တုသ်</string>
     <string name="keywords_airplane">လေယာဉ်ပျံ၊လေယာဉ်မုဒ်၊လေယာဉ်၊ လေယာဉ်မုတ်၊ဖလိုက်၊ပျံသန်းမှုမုဒ်</string>
     <string name="keywords_do_not_disturb">DND၊DND မုတ်၊မနှောင့်ယှက်ရ၊အိပ်စက်၊ည၊အလုပ်များ</string>
@@ -5120,16 +5132,6 @@
     <string name="dirac_mode_piston_youth">Mi ပစ္စတန်-အသေး</string>
     <string name="location_access_on">ဖွင့်</string>
     <string name="location_access_off">ပိတ်ရန်</string>
-    <string name="close_gesture">လက်ဟန်များအား ပိတ်ပါ</string>
-    <string name="got_it">ရပြီ</string>
-    <string name="hide_screen_button">မျက်နှာပြင် ခလုတ်များအားကွယ်ဝှက်ပါ</string>
-    <string name="hide">ကွယ်ဝှက်</string>
-    <string name="screen_button_tips">မျက်နှာပြင်ခလုတ်များအား ကွယ်ဝှက်ရန် ဆွဲချလိုက်ပါ</string>
-    <string name="screen_button">မျက်နှာပြင်ခလုတ်များ</string>
-    <string name="status_bar_screen_button_key_can_hide">မျက်နှာပြင်ခလုတ်အား ကွယ်ဝှက်ထား၍ရပါသည်</string>
-    <string name="status_bar_screen_button_desc">မျက်နှာပြင်ခလုတ်များအား ကွယ်ဝှက်ရန် ဆွဲချလိုက်ပါ</string>
-    <string name="suspension_ball_enable">အမြန်စက်လုံး ရှော့ကဒ်များ</string>
-    <string name="suspension_ball_enable_desc">ရှော့ကဒ်သုံး၍ အမြန်စက်လုံးအား အဖွင့်အပိတ်လုပ်ရန်</string>
     <string name="title_dolby_control">Dolby ဒီဂျစ်တယ်လ် Plus</string>
     <string name="dolby_mode_off">ပိတ်ရန်</string>
     <string name="dolby_mode_music">တေးဂီတ</string>
@@ -5154,7 +5156,7 @@
     <string name="internal_media_format_button_text">အတွင်းပိုင်းသိုလှောင်မှု ဖျက်မည်။</string>
     <string name="internal_media_format_title">အတွင်းပိုင်းသိုလှောင်မှု ဖျက်မည်။</string>
     <string name="internal_format">အတွင်းပိုင်းသိုလှောင်မှု ဖျက်မည်။</string>
-    <string name="internal_format_summary">"Erase all data on your device's internal storage"</string>
+    <string name="internal_format_summary">သင့်စက်၏ အတွင်းပိုင်းသိုလှောင်ခန်းမှ ဒေတာအားလုံးကို ဖျက်ပစ်မည်</string>
     <string name="screen_resolution_confirm">ပိတ်၍ပြန်ဖွင့်ပါ</string>
     <string name="enalbe_identify_iPhone">AP အမျိုးစားခွဲခြားခြင်း</string>
     <string name="block_list_qcom_dialog_content">ဤသို့လုပ်ဆောင်ချက်သည် “%s” ကို ဤစက်မှ ချိတ်ဆက်ခြင်းဖျက်လိုက်ပြီး ဘလော့စရင်းထဲသို့ ထည့်လိုက်လိမ့်မည်</string>
@@ -5162,7 +5164,6 @@
     <string name="input_password_hint_text">စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="miui_enable_service_title">ဝန်ဆောင်မှုသည် ထိုလုပ်ဆောင်ချက်များကို လုပ်ဆောင်ပါလိမ့်မည်။</string>
     <string name="crypt_keeper_encrypt_summary">သင့်ဖုန်းကိုသင်ဖွင့်တိုင်း ဒီခရစ်လိုပ်ရန် လျို့ဝှက်စကားလုံးလိုပါသည်</string>
-    <string name="lockpattern_too_many_failed_confirmation_attempts_footer">%d စက္ကန့်ကြာကြာစောင့်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="dndm_wristband_detailed2">အကယ်၍ Mi လက်ပတ်မှနေ၍ အစီစဉ်တစ်ခုခု၏စတင်ချိန်မတိုင်မှီ တစ်နာရီအတွင်း သင်အိပ်ပျော်နေသည်အား ထောက်လှမ်းမိပါက မနှောက်ယှက်ရအား ပိတ်ပါ။</string>
     <string name="virtual_sim_search_title">ဗာကျူရယ် SIM</string>
     <string name="privacy_mode_title">ကိုယ်ပိုင်သီးသန့် ဆက်တင်များ</string>

@@ -359,4 +359,8 @@
     <string name="can_not_dial_vt_while_voice_prompt">အသံခေါ်ဆိုမှု ပြုလုပ်နေစဉ် ဗီဒီယိုခေါ်ဆိုမှု ပြုလုပ်၍မရပါ</string>
     <string name="voice_dial_out">ရိုးရိုးအသံဖြင့်ခေါ်ဆို</string>
     <string name="notification_AllMissedCallTitle">လွတ်သွားသော ခေါ်ဆိုမှုအားလုံး</string>
+    <string name="close">Close</string>
+    <string name="callFailed_simError">SIM card error</string>
+    <string name="incall_error_supp_service_unknown">"This service isn't supported."</string>
+    <string name="incall_error_power_off">Turn off airplane mode to make a call.</string>
 </resources>

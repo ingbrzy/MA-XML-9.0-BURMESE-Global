@@ -229,6 +229,7 @@
     <string name="toast_problem_class_required">အမျိုးအစားရွေးချယ်ပါ</string>
     <string name="feedback_third_packagename_hint">မည်သည့် တတိယပါတီအက်ပ်မှ ပြဿနာ ဖြစ်စေပါသနည်း?</string>
     <string name="toast_third_packagename_required">အက်ပ်အမည်ရိုက်ထည့်ပါ</string>
+    <string name="feedback_contact_info_hint">Phone number/Email</string>
     <string name="feedback_status_commit_succ_title">ပေးပို့ခဲ့</string>
     <string name="feedback_status_commit_uploading_title">ပေးပို့နေ…</string>
     <string name="feedback_status_commit_failed_title">အစီရင်ခံစာကို ပို့လို့မရပါ</string>
@@ -290,6 +291,7 @@
     <string name="module_finance">ငွေကြေး &amp; Mi ပိုက်ဆံအိတ်</string>
     <string name="module_more">ပိုမို၍</string>
     <string name="module_search">ရှာပါ</string>
+    <string name="module_google_apps">Google apps</string>
     <string name="feedback_submit_hint">သင်ဖုန်းပြဿနာ ကြုံရပါက ကျွန်ုပ်တို့မှ အမြန်ဖြေရှင်းပေးနိုင်ရန် ပြဿနာအား တင်ပြပေးပါ</string>
     <string name="toast_post_deleted">ဤခေါင်းစဉ်ရှိမနေပါ၊ ဖျက်လိုက်သည် သို့မဟုတ် တည်းဖြတ်ခဲ့သည်</string>
     <string name="toast_log_not_exists">လိုအပ်သော လော့ဂ်အား ဖျက်လိုက်သည် သို့မဟုတ် မတည်ရှိပါ</string>

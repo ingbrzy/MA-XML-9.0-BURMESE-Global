@@ -484,11 +484,6 @@
     <string name="sp_category_bank">ဘဏ်မှ အသိပေးချက် မက်ဆေ့ချ်များ</string>
     <string name="refill_now">ယခုငွေဖြည့်မည်</string>
     <string name="action_firewall_setting">ဘလော့လုပ်ထားသောစာရင်း</string>
-    <string name="user_agreement1">ထပ်ဆောင်း ဆော့ဖ်ဝဲကို မထည့်သွင်းမီ (သို့) ဤထုတ်ကုန်ကို အသုံးမပြုမီ သက်ဆိုင်ရာ စည်းကမ်းချက်များကို ဂရုတစိုက် ဖတ်ရှုပေးပါ။</string>
-    <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
-    <string name="user_agreement3">" နှင့် "</string>
-    <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
-    <string name="user_agreement5">အိုကေကို ထိခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့်ကိုယ်ပိုင်ရေးရာမူဝါဒကို သဘောတူညီသည်။</string>
     <string name="menu_call">ဖုန်းခေါ်ရန်</string>
     <string name="menu_contact">အဆက်အသွယ်အချက်အလက်ကို ကြည့်ရန်</string>
     <string name="menu_new_contact">အဆက်အသွယ်အသစ်</string>
@@ -656,4 +651,9 @@
     <string name="earlier">ပိုစောသော</string>
     <string name="enabled">ဖွင့်မည်</string>
     <string name="disabled">ပိတ်မည်</string>
+    <string name="user_agreement1">ထပ်ဆောင်း ဆော့ဖ်ဝဲကို မထည့်သွင်းမီ (သို့) ဤထုတ်ကုန်ကို အသုံးမပြုမီ သက်ဆိုင်ရာ စည်းကမ်းချက်များကို ဂရုတစိုက် ဖတ်ရှုပေးပါ။</string>
+    <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
+    <string name="user_agreement3">" နှင့် "</string>
+    <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
+    <string name="user_agreement5">အိုကေကို ထိခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့်ကိုယ်ပိုင်ရေးရာမူဝါဒကို သဘောတူညီသည်။</string>
 </resources>

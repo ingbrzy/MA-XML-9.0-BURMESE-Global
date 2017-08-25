@@ -91,7 +91,7 @@
     <string name="sort_by_abc">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="encryption">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းခြင်း</string>
     <string name="failed_to_drop">ရွှေ့မရပါ</string>
-    <string name="failed_to_drop_widget_nospace">ဒီအိမ်မျက်နှာပြင်ပေါ်၌ နောက်ထပ် အခန်း မရှိတော့ပါ</string>
+    <string name="no_space_toast">No space</string>
     <string name="failed_to_drop_widget_invalid">ဝစ်ဂတ် မမှန်ပါ</string>
     <string name="failed_to_delete_temporary">ဖယ်ရှားလို့ မရပါ</string>
     <string name="confirm_btn_label">အိုကေ</string>
