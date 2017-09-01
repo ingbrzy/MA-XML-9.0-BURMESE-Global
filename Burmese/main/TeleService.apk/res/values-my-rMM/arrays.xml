@@ -181,11 +181,6 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
-    <string-array name="preferred_network_mode_values_world_mode">
-        <item>၁၀</item>
-        <item>8</item>
-        <item>9</item>
-    </string-array>
     <string-array name="clir_display_values">
         <item>ကွန်ရက် မူလသတ်မှတ်</item>
         <item>နံပါတ်ဖွက်ပါ</item>
@@ -225,15 +220,6 @@
         <item>တရုတ်</item>
         <item>ဟီဘရူး</item>
     </string-array>
-    <string-array name="list_language_values">
-        <item>၁</item>
-        <item>၂</item>
-        <item>၃</item>
-        <item>၄</item>
-        <item>၅</item>
-        <item>၆</item>
-        <item>၇</item>
-    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>အိမ်သီးသန့်</item>
         <item>အလိုအလျောက်</item>
@@ -241,10 +227,6 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
-    </string-array>
-    <string-array name="cdma_subscription_values">
-        <item>၀</item>
-        <item>၁</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY ပိတ်</item>
