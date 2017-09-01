@@ -549,13 +549,13 @@
     <string name="lockscreen_password_wrong">ထပ် စမ်းပါ</string>
     <string name="lockscreen_storage_locked">ဝန်ဆောင်မှုနှင့် ဒေတာအားလုံးအတွက် လော့ခ်ဖွင့်ပါ</string>
     <string name="faceunlock_multiple_failures">မျက်မှာမှတ် သော့ဖွင့်ခြင်း ခွင့်ပြုသော အကြိမ်ရေထက် ကျော်လွန်သွားပါပြီ</string>
-    <string name="lockscreen_missing_sim_message_short">SIM ကတ် မရှိပါ</string>
+    <string name="lockscreen_missing_sim_message_short">SIM ကဒ်မရှိပါ</string>
     <string name="lockscreen_missing_sim_message">ဖုန်းထဲတွင် ဆင်းကဒ် မရှိပါ</string>
-    <string name="lockscreen_missing_sim_instructions">SIM ကတ် ထည့်သွင်းပါ</string>
-    <string name="lockscreen_missing_sim_instructions_long">SIM ကတ် ပျောက်နေ သို့မဟုတ် ဖတ်မရပါ။ SIM ကတ်ထည့်ပါ။</string>
-    <string name="lockscreen_permanent_disabled_sim_message_short">သုံးမရသော SIM ကတ်</string>
-    <string name="lockscreen_permanent_disabled_sim_instructions">"သင့် SIM ကတ်အား ရာသက်ပန်ပိတ်လိုက်ပါပြီ။
- သင့် ကြိုးမဲ့ဆက်သွယ်ရေးသို့ အကြောင်းကြားပြီး အခြား SIM ကတ်တစ်ခု ရယူပါ။"</string>
+    <string name="lockscreen_missing_sim_instructions">SIM ကဒ် ထည့်သွင်းပါ</string>
+    <string name="lockscreen_missing_sim_instructions_long">SIM ကဒ် ပျောက်နေ သို့မဟုတ် ဖတ်မရပါ။ SIM ကဒ်ထည့်ပါ။</string>
+    <string name="lockscreen_permanent_disabled_sim_message_short">သုံးမရသော SIM ကဒ်</string>
+    <string name="lockscreen_permanent_disabled_sim_instructions">"သင့် SIM ကဒ်အား ရာသက်ပန်ပိတ်လိုက်ပါပြီ။
+ သင့် ကြိုးမဲ့ဆက်သွယ်ရေးသို့ အကြောင်းကြားပြီး အခြား SIM ကဒ်တစ်ခု ရယူပါ။"</string>
     <string name="lockscreen_transport_prev_description">ယခင် တစ်ပုဒ်</string>
     <string name="lockscreen_transport_next_description">နောက် တစ်ပုဒ်</string>
     <string name="lockscreen_transport_pause_description">ခဏရပ်ရန်</string>

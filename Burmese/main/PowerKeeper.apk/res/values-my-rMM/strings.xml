@@ -173,7 +173,7 @@
     <string name="ragment_sys_listempty">စနစ်အက်ပ်များမရှိပါ</string>
     <string name="fragment_nonesys_listempty">တပ်ဆင်ထားသော အက်ပ်များမရှိပါ</string>
     <string name="app_invisible_title">မမြင်နိုင်သောအက်ပ်</string>
-    <string name="google_base_app_install_choice">\"%s\" သည် ပုံမှန်အလုပ်လုပ်ရန် Google ဝန်ဆောင်မှု Framework အက်ပ်များ လိုအပ်ပါသည်။ ဒေါင်းလုတ်လုပ်ပြီး တပ်ဆင်မည်လား?</string>
+    <string name="google_base_app_install_choice">\"%s\" သည် ပုံမှန်အလုပ်လုပ်ရန် Google ဝန်ဆောင်မှု Framework အက်ပ်များ လိုအပ်ပါသည်။ ဒေါင်းလုဒ်လုပ်ပြီး တပ်ဆင်မည်လား?</string>
     <string name="power_checker_partial_wakelock_title">%1$s သည် MIUI အား အိပ်စက်ခြင်းမုတ်သို့သွားခြင်းအား တားဆီးနေသည်။</string>
     <string name="power_checker_wifi_scan_title">%1$s သည် Wi-Fi ကို မကြာခဏရှာဖွေပါသည်</string>
     <string name="power_checker_background_gps_title">%1$s တည်နေရာအချက်အလက်ကို မကြာခဏ ရယူပါသည်</string>

@@ -29,14 +29,14 @@
     <string name="error_data_in_transfer_title">Mi Cloud မရနိုင်ပါ</string>
     <string name="error_data_in_transfer">ဆင့်ခ်လုပ်ခြင်းသည် %s နာရီအတွင်း ပြီးပါလိမ့်မည်။</string>
     <string name="activate">အသက်သွင်းပါ</string>
-    <string name="no_sim">SIM ကတ်ကို ရှာမတွေ့ပါ</string>
+    <string name="no_sim">SIM ကဒ်ကို ရှာမတွေ့ပါ</string>
     <string name="find_device_status_ok">i.mi.com တွင် သင့်စက်ကို မည်သည့်နေရာမှမဆို ရှာဖွေပါ</string>
     <string name="find_device_status_ok_international">www.mi.com/micloud တွင် သင့်စက်ကို မည်သည့်နေရာမှမဆို ရှာဖွေပါ</string>
     <string name="account">အကောင့်</string>
     <string name="verify">မှန်ကြောင်း အတည်ပြုပါ</string>
     <string name="next">နောက်ထပ်</string>
     <string name="password">သင့် စကားဝှက်ကိုထည့်သွင်းပါ</string>
-    <string name="vcode">မှန်ကြောင်း အတည်ပြုကုဒ်</string>
+    <string name="vcode">အတည်ပြုကုဒ်</string>
     <string name="bad_authentication">အကောင့် (သို့မဟုတ်) စကားဝှက် မှားနေသည်</string>
     <string name="header_data_and_synchronization">ဒေတာနှင့် ဆင့်ခ်</string>
     <string name="header_cloud_backup_settings">အရန်သိမ်းနှင့် ပြန်လည်ရယူခြင်း</string>
@@ -61,7 +61,7 @@
     <string name="activate_number_change_dialog_message">VoIP ကိုသုံးပြီး ဖုန်းခေါ်ဆိုသည့်အခါ အခြားစက်များမှ မြင်နိုင်မည့် ဖုန်းနံပါတ်ကို ရွေးချယ်ပါ။</string>
     <string name="phone_number_may_required_dspt_provision">"ဤဝန်ဆောင်မှုသည် သင့်ဖုန်းနံပါတ်ကို လိုအပ်ကောင်း လိုအပ်နိုင်သည်။ "</string>
     <string name="phone_number_required_dspt_provision">"ဤဝန်ဆောင်မှုသည် သင့်ဖုန်းနံပါတ်ကိုလိုအပ်သည်။ "</string>
-    <string name="sync_resend_sms_dspt_provision">" အကယ်၍ SIM ကတ်လဲလိုက်ပါက ဤဝန်ဆောင်မှုကို ပြန်လည်အသက်သွင်းရန် ဖြစ်လာခဲ့ပါက ဖုန်းလိုင်းဝန်ဆောင်မှု ပေးသူသို့ ပြန်လည်အသက်သွင်းရန်မက်ဆေ့ချ်အတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။"</string>
+    <string name="sync_resend_sms_dspt_provision">" အကယ်၍ SIM ကဒ်လဲလိုက်ပါက ဤဝန်ဆောင်မှုကို ပြန်လည်အသက်သွင်းရန် ဖြစ်လာခဲ့ပါက ဖုန်းလိုင်းဝန်ဆောင်မှု ပေးသူသို့ ပြန်လည်အသက်သွင်းရန်မက်ဆေ့ချ်အတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။"</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">ဆင့်ခ်</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
@@ -81,10 +81,10 @@
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 ."</string>
-    <string name="find_device_dspt_provision_4">သင် SIM ကတ်များကို ဖလှယ်လိုက်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
+    <string name="find_device_dspt_provision_4">သင် SIM ကဒ်များကို ဖလှယ်လိုက်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
     <string name="find_device_send_sms_alert">"
 
-သင့် SIM ကတ်များကို ဖလှယ်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် အခြား SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။"</string>
+သင့် SIM ကဒ်များကို ဖလှယ်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် အခြား SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။"</string>
     <string name="mx_dspt_provision">"Mi မက်ဆေ့ချ်သည် သင်Wi-Fi သို့ချိတ်ဆက်လိုက်သည်နှင့် အခြား MIUI စက်များနှင့် မက်ဆေ့ချ်အခမဲ့ပေးပို့ ခွင့်ပေးပါသည်။ 
 
  သင်သည် ဆက်တင်များထဲတွင် ဤလုပ်ဆောင်ချက်အား အချိန်မရွေး ပိတ်ဖွင့်လုပ်နိုင်ပါသည်"</string>
@@ -96,7 +96,7 @@
     <string name="mx_dspt_provision_privacy_2_sim">"ဤလုပ်ဆောင်ချက်သည် သင့်ဖုန်းနံပါတ်လိုအပ်နိုင်ပါသည်။ ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ် ၂ ခု ပေးပို့ရနိုင်ပါသည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရနိုင်ပါသည်။
 
  ဤလုပ်ဆောင်ချက်သည်ကုတ်ဖွဲ့လိုက်ပြီး သင့်စက် ID အား Mi ဆာဗာများသို့း ပေးပို့လိုက်ပါလိမ့်မည်။"</string>
-    <string name="mx_dspt_provision_privacy_no_sim">"ဤလုပ်ဆောင်ချက်သည် သင့်ဖုန်းနံပါတ်လိုအပ်နိုင်ပါသည်။ SIM ကတ်ရှိပါက၊ ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်ခု ပေးပို့ရနိုင်ပါသည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရနိုင်ပါသည်။
+    <string name="mx_dspt_provision_privacy_no_sim">"ဤလုပ်ဆောင်ချက်သည် သင့်ဖုန်းနံပါတ်လိုအပ်နိုင်ပါသည်။ SIM ကဒ်ရှိပါက၊ ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်ခု ပေးပို့ရနိုင်ပါသည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရနိုင်ပါသည်။
 
  ဤလုပ်ဆောင်ချက်သည်ကုတ်ဖွဲ့လိုက်ပြီး သင့်စက် ID အား Mi ဆာဗာများသို့း ပေးပို့လိုက်ပါလိမ့်မည်။"</string>
     <string name="user_agreement_p5">"
@@ -122,7 +122,7 @@
     <string name="activate_find_device_success">စက်ရှာဖွေခြင်းကို အသက်သွင်းပြီးပါပြီ။</string>
     <string name="disable_find_device_success">စက်ကိုရှာပါကို ပိတ်ထားသည်</string>
     <string name="find_device_pref_alert_title">သင်၏Mi အကောင့်ID နှင့် စကားဝှက်ကိုမှတ်ထားပါ။</string>
-    <string name="find_device_pref_alert_content">စက်ရှာဖွေခြင်းသည် သင်၏Mi အကောင့်နှင့်တွဲထားသည်။ သင်သည်စကားဝှက်တစ်ခုသတ်မှတ်ရန် သို့မဟုတ် သင်သတ်မှတ်ထားသောစကားဝှက်ကိုရိုက်ထည့်ရန်လိုအပ်သည်။ သင်၏Mi အကောင့်ID နှင့် စကားဝှက်ကို အမြဲမှတ်ထားပါ။ ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင် ပေးပို့ရန် လိုအပ်ပါလိမ့်မည်။ ထိုအတွက် သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုမှ အခကြေးငွေ တောင်းခံနိုင်ပါသည်။ဆင်းမ်ကဒ်အသစ်ပြောင်းပါကဤဝန်ဆောင်မှုကိုတဖန်အသက်သွင်းရန် နောက်ထပ်မက်ဆေ့ခ်ျတစ်စောင် အလိုအလျှောက်ပေးပို့ပါလိမ့်မည်။</string>
+    <string name="find_device_pref_alert_content">စက်ရှာဖွေခြင်းသည် သင်၏Mi အကောင့်နှင့်တွဲထားသည်။ သင်သည်စကားဝှက်တစ်ခုသတ်မှတ်ရန် သို့မဟုတ် သင်သတ်မှတ်ထားသောစကားဝှက်ကိုရိုက်ထည့်ရန်လိုအပ်သည်။ သင်၏Mi အကောင့်ID နှင့် စကားဝှက်ကို အမြဲမှတ်ထားပါ။ ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင် ပေးပို့ရန် လိုအပ်ပါလိမ့်မည်။ ထိုအတွက် သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုမှ အခကြေးငွေ တောင်းခံနိုင်ပါသည်။ SIM ကဒ်အသစ်ပြောင်းပါက ဤဝန်ဆောင်မှုကိုတဖန်အသက်သွင်းရန် နောက်ထပ်မက်ဆေ့ခ်ျတစ်စောင် အလိုအလျှောက်ပေးပို့ပါလိမ့်မည်။</string>
     <string name="find_device_pref_alert_positive">အိုကေ</string>
     <string name="find_device_pref_alert_negtive">မလိုအပ်ပါ၊ ကျေးဇူးတင်ပါသည်။</string>
     <string name="enable_find_device_error">\"စက်ကိုရှာပါကို ဖွင့်လို့မရပါ။ %1$s</string>
@@ -135,7 +135,7 @@
     <string name="find_device_notice_p1">သို့သွားပါ</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
-သင် SIM ကတ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
+သင် SIM ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
     <string name="find_device_disabled_title">စက်ကိုရှာပါကို ပိတ်ထားသည်</string>
     <string name="find_device_disabled_notice">သင်သည် ဤအရာအား Mi ကလောက် ဆက်တင်များထဲတွင် အချိန်မရွေးဖွင့်နိုင်ပိတ်နိုင်ပါသည်။</string>
@@ -168,7 +168,7 @@
     <string name="deskclock_backup">နာရီများ အရန်သိမ်းဆည်းမှု</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
-    <string name="micloud_space_duokan_detail">Duokan အက်ပ်မှ ebooksများအား ​ဒေါင်းလုဒ်လုပ်ပါနှင့် စီမံခန့်ခွဲပါ။</string>
+    <string name="micloud_space_duokan_detail">Duokan အက်ပ်မှ ebooks များအား ​ဒေါင်းလုဒ်လုပ်ပြီး စီမံခန့်ခွဲပါ။</string>
     <string name="micloud_space_applist_title">အက်ပ်များကို စီမံပါ</string>
     <string name="micloud_space_applist_detail">သင်၏အိမ်မျက်နှာပြင်ပေါ်တွင် အက်ပ်များကို စီမံပါ</string>
     <string name="micloud_space_soundrecorder_title">အသံဖမ်းယူခြင်းများ</string>
@@ -216,12 +216,12 @@
     <string name="sync_sub_2_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်နှစ်ခု ပေးပို့ရန် လိုအပ်ပါလိမ့်မည်။ထိုအတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="sync_sub_2_intl_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်နှစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="sync_sub_1_sms_1_intl_sms">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်တစ်ခု နှင့် ပြည်တွင်း မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_1_sms">သင့်SIM ကတ်အား အသက်သွင်းရန်ပုံမှန် SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_1_intl_sms">သင့်SIM ကတ်အား အသက်သွင်းရန် နိုင်ငံတကာ SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_2_sms">သင့်SIM ကတ်အား အသက်သွင်းရန်ပုံမှန် SMS နှစ်ခုပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_2_intl_sms">သင့်SIM ကတ်အား အသက်သွင်းရန် အင်တာနေရှင်နယ် SMS နှစ်ခုပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_1_sms_1_intl_sms">သင့် SIM ကတ် အသက်သွင်းရန် စာသားမက်ဆေ့ချ်နှစ်ခု (ပုံမှန်နှင့် နိုင်ငံတကာ) တို့အား ပေးပို့လိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
-    <string name="micloud_all_sub_resend_sms">"'စက်ကိုရှာဖွေ'အား ပိတ်လိုက် ပါက၊ SIM ပြောင်းလဲလိုက်ပါက အသက်သွင်း SMS အား ပေးပို့ပေးလိမ့်မည်။"</string>
+    <string name="micloud_all_sub_1_sms">သင့်SIM ကဒ်အား အသက်သွင်းရန်ပုံမှန် SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
+    <string name="micloud_all_sub_1_intl_sms">သင့်SIM ကဒ်အား အသက်သွင်းရန် နိုင်ငံတကာ SMS ပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
+    <string name="micloud_all_sub_2_sms">သင့်SIM ကဒ်အား အသက်သွင်းရန်ပုံမှန် SMS နှစ်ခုပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
+    <string name="micloud_all_sub_2_intl_sms">သင့်SIM ကဒ်အား အသက်သွင်းရန် အင်တာနေရှင်နယ် SMS နှစ်ခုပေးပို့ပါလိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
+    <string name="micloud_all_sub_1_sms_1_intl_sms">သင့် SIM ကဒ် အသက်သွင်းရန် စာသားမက်ဆေ့ချ်နှစ်ခု (ပုံမှန်နှင့် နိုင်ငံတကာ) တို့အား ပေးပို့လိမ့်မည်။ ဖုန်းလိုင်းကုမ္ပဏီအား ဝန်ဆောင်ခပေးဆောင် ရနိုင်ပါသည်။</string>
+    <string name="micloud_all_sub_resend_sms">"'စက်ကိုရှာဖွေ'အား ပိတ်လိုက် ပါက၊ SIM ကဒ်ပြောင်းလဲလိုက်ပါက အသက်သွင်း SMS အား ပေးပို့ပေးလိမ့်မည်။"</string>
     <string name="micloud_sync_prompt_for_no_gallery_sync">အဆက်အသွယ်များ၊ ပြက္ခဒိန်နှင့်မှတ်စုများ အလိုအလျှောက် ဆင့်ခ်လုပ်ပြီးပါပြီ။ နောက်ထပ်အိုင်တမ်များကို ဆင့်ခ်လုပ်ရန် Mi Cloudဆက်တင်သို့သွားပါ။</string>
     <string name="sync_item_calllog_title">ဖုန်းခေါ်ဆိုမှုမှတ်တမ်းကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="sync_item_calllog_summary">ဤဖုန်းတွင် လက်ခံရရှိသောခေါ်ဆိုမှုများနှင့် ပြုလုပ်သောဖုန်းခေါ်ဆိုမှုများ၏ မှတ်တမ်းများကို ဆင့်ခ်လုပ်ပါ</string>
@@ -290,7 +290,7 @@
     <string name="micloud_main_button_authorize">ခွင့်ပြု</string>
     <string name="micloud_detail_syncing">ဆင့်ခ်လုပ်နေဆဲ</string>
     <string name="micloud_detail_upload_syncing">%s လုဒ်တင်နေ</string>
-    <string name="micloud_detail_download_syncing">ဒေါင်းလုဒ်ဆွဲနေ %s</string>
+    <string name="micloud_detail_download_syncing">ဒေါင်းလုဒ်လုပ်နေသည် %s</string>
     <string name="micloud_detail_pending">စောင့်နေသည်</string>
     <string name="micloud_detail_success">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="micloud_detail_fail">ဆင့်ခ်မလုပ်နိုင်ပါ</string>
@@ -313,10 +313,10 @@
     <string name="micloud_detail_pause">ဆင့်ခ် ခဏနားလိုက်သည်</string>
     <string name="micloud_detail_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ။</string>
     <string name="micloud_detail_battery_low">ဘက်ထရီအားနည်းနေပါသည်</string>
-    <string name="micloud_check_sim_title">"SIM ကတ်များကို ပြောင်းခဲ့ပုံ ရပါသည်။ Mi Cloud ကို ပြန်လည်အသက်သွင်းရန် သင့် Mi အကောင့်ထဲသို့ 
+    <string name="micloud_check_sim_title">"SIM ကဒ်များကို ပြောင်းခဲ့ပုံ ရပါသည်။ Mi Cloud ကို ပြန်လည်အသက်သွင်းရန် သင့် Mi အကောင့်ထဲသို့ 
  ဝင်ရောက်ပါ။"</string>
     <string name="micloud_check_sim_notify_title">Mi Cloud ကို အသက်ပြန်သွင်းပါ</string>
-    <string name="micloud_check_sim_notify_text">"SIM ကတ်များကို ပြောင်းခဲ့ပုံ ရပါသည်။ Mi Cloud ကို ပြန်လည်အသက်သွင်းရန် သင့် Mi အကောင့်ထဲသို့ 
+    <string name="micloud_check_sim_notify_text">"SIM ကဒ်များကို ပြောင်းခဲ့ပုံ ရပါသည်။ Mi Cloud ကို ပြန်လည်အသက်သွင်းရန် သင့် Mi အကောင့်ထဲသို့ 
  ဝင်ရောက်ပါ။."</string>
     <string name="micloud_setting_contact_summary">အဆက်အသွယ်များအချက်အလက် နှင့် ပရိုဖိုင်ဓာတ်ပုံများ</string>
     <string name="micloud_setting_sms_summary">SMS နှင့် MMS မက်ဆေ့ချ်များ</string>
@@ -364,8 +364,8 @@
     <string name="buy_space_expire">ဝယ်ယူထားသည့်နေရာလွတ်သည် %s အတွင်း သက်တမ်းကုန်ပါမည်</string>
     <string name="buy_space_expire_concat">%1$s မှ %2$s သို့</string>
     <string name="buy_more_space_b_class">"နောက်ထပ် နေရာလွတ် ရယူရန် mi.com/micloud တွင် အကောင့်ထဲသို့ ဝင်ရောက်ပါ။
-ထပ်ဆောင်း သိုလှောင်ခန်းနေရာလွတ်ကို ဝယ်ယူရန် ပင်မမြေ တရုတ်ဘဏ်ကတ်ကို လိုအပ်ပါသည်။"</string>
-    <string name="buy_more_space_c_class">"ဤအင်္ဂါရပ်သည် ပင်မမြေတရုတ်ဘဏ်ကတ်ကို လိုအပ်ပါသည်။
+ထပ်ဆောင်း သိုလှောင်ခန်းနေရာလွတ်ကို ဝယ်ယူရန် ပင်မမြေ တရုတ်ဘဏ်ကဒ်ကို လိုအပ်ပါသည်။"</string>
+    <string name="buy_more_space_c_class">"ဤအင်္ဂါရပ်သည် ပင်မမြေတရုတ်ဘဏ်ကဒ်ကို လိုအပ်ပါသည်။
 နောက်ထပ် သိုလှောင်ခန်းနေရာလွတ်ကို ရရှိရန် mi.com/micloud သို့သွားရောက်ကြည့်ရှုပါ။"</string>
     <string name="micloud_member_buy_title">မှာယူမှု အတည်ပြုပါ</string>
     <string name="micloud_member_buy_content" formatted="false">" %s-%s-%s အထိဘောင်ဝင် 
@@ -412,7 +412,7 @@
     <string name="micloud_main_title_master_sync_off">အော်တို-ဆင့်ခ်လုပ်ခြင်း ပိတ်ထားသည်။</string>
     <string name="micloud_main_message_master_sync_off">Auto sync setting is in notification bar.</string>
     <string name="micloud_main_error_network_disallowed">Please ensure the permission of accessing Internet.</string>
-    <string name="micloud_main_error_activated_fail">SIMကဒ် အသက်သွင်းပါ။</string>
+    <string name="micloud_main_error_activated_fail">SIM ကဒ် အသက်သွင်းပါ။</string>
     <string name="micloud_main_error_permission_limit">Please authorize access database permission for micloud.</string>
     <string name="micloud_confusion_no">မဖွင့်</string>
     <string name="micloud_confusion_yes">ဟုတ်သည်</string>
@@ -513,15 +513,15 @@
     <string name="micloud_find_device_close_alert_negtive">မည်သို့မဆို ပိတ်မည်။</string>
     <string name="activate_finddevice">စက်အား အသက်သွင်းရန် ကွန်ရက်သို့ချိတ်ဆက်ပါ</string>
     <string name="account_related">သင့်စက်သည် တည်ရှိနေပြီးသား Mi အကောင့်(%s) နှင့် ဆက်စပ်နေပါသည်။ စက်အား အတည်ပြုစစ်ဆေးရန် ကွန်ရက်ဖြင့် ဆက်သွယ်ပါ။</string>
-    <string name="connect_network">Wi-Fi သို့ချိတ်ဆက်ပါ သို့မဟုတ် SIM ကတ်တစ်ခု စိုက်ထည့်ပါ</string>
+    <string name="connect_network">Wi-Fi သို့ချိတ်ဆက်ပါ သို့မဟုတ် SIM ကဒ်တစ်ခု စိုက်ထည့်ပါ</string>
     <string name="trying_to_connect_to_network">ကွန်ရက်သို့ ချိတ်ဆက်နေသည်…</string>
-    <string name="detect_sim_card">SIM ကတ်အား ရှာဖွေပါ</string>
+    <string name="detect_sim_card">SIM ကဒ်အား ရှာဖွေပါ</string>
     <string name="connect_wlan">Wi-Fi နှင့်ချိတ်ဆက်ပါ</string>
     <string name="soundrecorder_sync_records">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="soundrecorder_sync_only_in_wifi">ဆင့်ခ်လုပ်လျှင်Wi-Fiကိုသာ သုံးပါ</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">ရီကော်ဒါသည် ဖမ်းယူထားသည့်အသံအပိုင်းများကို ဒေါင်းလုဒ်လုပ်ရန် (သို့) အပ်လုဒ်တင်ရန် မိုဘိုင်းဒေတာကို သုံးလိမ့်မည်မဟုတ်ပါ။</string>
     <string name="micloud_request_permission_title">Mi Cloud မှ ခွင့်ပြုချက်များ လိုအပ်ပါသည်</string>
-    <string name="micloud_request_permission_content">ဒေတာဆင့်ခ်လုပ်ရန် Mi Cloud မှ ခွင့်ပြုချက်များ လိုအပ်ပါသည်။Mi Cloud အား ပြက္ခဒိန်၊ အဆက်အသွယ်များ၊ Mi အကောင့်၊ SIM ကတ်အခြေအနေ၊ ခေါ်ဆိုမှု သမိုင်းနှင့် မက်ဆေ့ချ်များအား ဝင်ရောက်ခွင့်ပြုပါ။</string>
+    <string name="micloud_request_permission_content">ဒေတာဆင့်ခ်လုပ်ရန် Mi Cloud မှ ခွင့်ပြုချက်များ လိုအပ်ပါသည်။Mi Cloud အား ပြက္ခဒိန်၊ အဆက်အသွယ်များ၊ Mi အကောင့်၊ SIM ကဒ်အခြေအနေ၊ ခေါ်ဆိုမှု သမိုင်းနှင့် မက်ဆေ့ချ်များအား ဝင်ရောက်ခွင့်ပြုပါ။</string>
     <string name="micloud_request_permission_confirm">ရပြီ</string>
     <string name="short_cut_desc">အိမ်မျက်နှာပြင်တွင် Mi ကလောက်အိုင်ကွန်ထည့်မည်လား?</string>
     <string name="add_short_cut">ပေါင်းထည့်</string>
@@ -529,7 +529,7 @@
     <string name="find_device_service_title">စက်ကို ရှာပါ</string>
     <string name="find_device_service_summary">သင်စက်တည်နေရာအားသိရှိရန်နှင့် အဝေးမှ သော့ခတ်လိုက်နိုင်ရန် i.mi.com သို့ ဝင်ရောက်ပါ</string>
     <string name="find_device_service_summary_international">သင်စက်တည်နေရာအားသိရှိရန်နှင့် အဝေးမှ သော့ခတ်လိုက်နိုင်ရန် i.mi.com သို့ ဝင်ရောက်ပါ</string>
-    <string name="virtual_sim_desc">စက်အား SIM ကတ်မရှိဘဲ တည်နေရာသတ်မှတ်နိုင်ရန် Mi SIM အားဖွင့်လိုက်ပါ</string>
+    <string name="virtual_sim_desc">စက်အား SIM ကဒ်မရှိဘဲ တည်နေရာသတ်မှတ်နိုင်ရန် Mi SIM အားဖွင့်လိုက်ပါ</string>
     <string name="add_cloud_storage">သိုလှောင်မှုပေါင်းထည့်</string>
     <string name="other_sync_item">အခြားဆင့်ခ်အိုင်တမ်များ</string>
     <string name="network_unconnected">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရနိုင်ခဲ့ပါ</string>

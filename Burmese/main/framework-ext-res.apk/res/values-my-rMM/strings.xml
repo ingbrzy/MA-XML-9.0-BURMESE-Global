@@ -73,7 +73,7 @@
     <string name="screen_button_notification_title">လမ်ကြောင်းပြခလုတ်များ ပိတ်နေဆဲပါ</string>
     <string name="screen_button_notification_text">၄င်းတို့ကိုဖွင့်ရန် ပင်မခလုတ်နှင့်ပါဝါခလုတ်အား တပြိုင်နက် နှိပ်ပါ။</string>
     <string name="screen_paper_mode_enter_toast">စာဖတ်ခြင်းမုဒ်အား ဖွင့်ထားသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဆက်တင်များ>ပြသခြင်း>စာဖတ်ခြင်းမုဒ် သို့သွားရောက်ပါ</string>
-    <string name="sim_added_reboot_title">သင်၏စက်အား ပြန်လည်စဖွင့်ပြီးနောက် SIM ကတ် အသက်ဝင်ပါလိမ့်မည်။</string>
+    <string name="sim_added_reboot_title">သင်၏စက်အား ပြန်လည်စဖွင့်ပြီးနောက် SIM ကဒ် အသက်ဝင်ပါလိမ့်မည်။</string>
     <string name="sim_added_reboot_confirm">ပိတ်ပြီးတဖန်ပြန်စပါ</string>
     <string name="softap_notifif_title">ကြိုးမဲ့အင်တာနက်ဖြန့်ကျက်နေသည့်ခလုတ် \"%s\" ပွင့်နေသည်</string>
     <string name="softap_notifif_summary">%d ချိတ်ဆက်နေသည်</string>
@@ -151,7 +151,7 @@
     <string name="standard_title">အသံတိတ်..</string>
     <string name="total_title">DND..</string>
     <string name="description_title">အသံတိတ်မုဒ်</string>
-    <string name="standard_description">[Silent] အဝင်ခေါ်ဆိုမှုများနှင့်သတိပေးချက်အသံများ ပိတ်မည်</string>
+    <string name="standard_description">[အသံတိတ်] အဝင်ခေါ်ဆိုမှုများနှင့် သတိပေးချက်အတွက် ဖုန်းမြည်သံများ ပိတ်ထားမည်</string>
     <string name="total_description">[DND] Silence sounds and turn off vibration for all items except the Alarm clock</string>
     <string name="close">ပိတ်ပါ။</string>
     <string name="always">အမြဲတမ်း</string>
@@ -162,9 +162,12 @@
     <string name="remain">လက်ကျန်နေသော-%s</string>
     <string name="configure_input_methods">ကီးဘုတ်များရွေးချယ်ပါ</string>
     <string name="miui_upgrading_notification_title">စနစ်လုဒ်လုပ်နေပါသည်၊ အချို့လုပ်ဆောင်ချက်များကို ကန့်သတ်ထားနိုင်ပါသည်</string>
-    <string name="miui_screen_ratio_hint">Screen ratio issues</string>
+    <string name="miui_screen_ratio_hint">မျက်နှာပြင်အချိုးစား ဆိုင်ရာကိစ္စရပ်များ</string>
     <string name="miui_screen_ratio_hint_message">This app is allowed to run in the fullscreen mode which may cause it to be displayed incorrectly. You can change this in Settings > Advanced settings > Buttons.</string>
-    <string name="miui_screen_ratio_hint_dont_show_again">"Don't show again"</string>
-    <string name="miui_screen_ratio_hint_ok">OK</string>
-    <string name="miui_screen_ratio_hint_go_to_settings">Go to Settings</string>
+    <string name="miui_screen_ratio_hint_dont_show_again">နောက်ထပ် မပြပါနှင့်</string>
+    <string name="miui_screen_ratio_hint_ok">အိုကေ</string>
+    <string name="miui_screen_ratio_hint_go_to_settings">ဆက်တင်သို့ သွားပါ</string>
+    <string name="switching_tv">ပြောင်းနေသည်…</string>
+    <string name="switch_desc_tv">စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။</string>
+    <string name="switch_brand_desc_tv">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
 </resources>

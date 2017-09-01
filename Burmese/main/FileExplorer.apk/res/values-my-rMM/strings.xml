@@ -74,7 +74,7 @@
     <string name="error_info_cant_send_folder">ဒီလို ဖိုင်အမျိုးအစားကို ပို့လို့ မရပါ။</string>
     <string name="fail_to_create_folder_unknown">ဖိုလ်ဒါပြုလုပ်လို့ မရပါ</string>
     <string name="error_filename_too_long">သင်ထည့်သွင်းသော ဖိုင်အမည်က ရှည်လွန်းသည်။</string>
-    <string name="enable_sd_card">SD ကတ် ထည့်သွင်းပါ (သို့) USB ဒေတာအများအပြား သိုလှောင်ခန်းကို ပိတ်ပါ။</string>
+    <string name="enable_sd_card">SD ကဒ် ထည့်သွင်းပါ (သို့) USB ဒေတာအများအပြား သိုလှောင်ခန်းကို ပိတ်ပါ။.</string>
     <string name="enable_usb">USB ဖြင့်ချိတ်ဆက်ပါ</string>
     <string name="start_server">ဆာဗာကို စတင်ပါ</string>
     <string name="stop_server">ဆာဗာကို ရပ်ပါ</string>
@@ -149,7 +149,7 @@
     <string name="ftp_password_hint">စကားဝှက်</string>
     <string name="ftp_invalid_username_or_password">သင်ရိုက်ထည့်လိုက်သည် အသုံးပြုသူအမည်နှင့် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="storage_internal">အတွင်းပိုင်း သိုလှောင်ခန်း</string>
-    <string name="storage_sd_card">SD ကတ်</string>
+    <string name="storage_sd_card">SD ကဒ်</string>
     <string name="storage_usb">USB သိုလှောင်ခန်း</string>
     <string name="storage_cloned_app">dual အက်ပ်များအတွက် သိလှောင်ခန်း</string>
     <string name="name_empty">အမည်တစ်ခု သင် ထည့်သွင်းရမည်။</string>
@@ -295,14 +295,14 @@
 (GIFs can be added to Custom in WeChat Stickers)."</string>
     <string name="shared_sticker_page_no_file">ကွန်ရက်နှင့် မချိတ်ဆက်နိုင်ပါ။ သင့်ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="shared_sticker_network_permission_tip">ကွန်ရက်နှင့် မချိတ်ဆက်နိုင်ပါ။ သင့်ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
-    <string name="transfer_private_data">SD ကတ်မှကွယ်ထားသော ဖိုလ်ဒါများအား ရွေ့နေ...</string>
+    <string name="transfer_private_data">SD ကဒ်မှကွယ်ထားသော ဖိုလ်ဒါများအား ရွေ့နေ...</string>
     <string name="transfer_done">ဖိုင်များရွေ့ထားခြင်း အောင်မြင်ခဲ့ပြီ။</string>
     <string name="promot_enctypt_password">သင့်စက်ကို သော့ဖြည်ရန်သုံးသည့် စကားဝှက်ကို ရိုက်ထည့်ပါ</string>
     <string name="image_loading_error">ပုံကိုမရယူနိုင်ပါ</string>
     <string name="ui_main_toast_favorite_added">စိတ်ကြိုက်များသို့ ပေါင်းထည့်ပြီးပြီ</string>
     <string name="already_liked">ဤအိုင်တမ်အား သင်ကြယ်ပြပြီးပြီ။</string>
     <string name="user_guide_continue_use">အိုကေ</string>
-    <string name="downloading">ဒေါင်းလုတ်လုပ်နေသည်</string>
+    <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="send_sticker">စတစ်ကာ ပေးပို့</string>
     <string name="save_to_local">ဒေါင်းလုဒ်</string>
     <string name="send_to_weixin">WeChat သို့ ပို့ပါ</string>
@@ -378,8 +378,8 @@
     <string name="pick_file">ဖိုင်များအား ရွေးပါ</string>
     <string name="disk_available">ရရှိနိုင်သော−</string>
     <string name="disk_total">စုစုပေါင်း−</string>
-    <string name="click_to_switch_volume">အတွင်းသိုလှောင်မှုနှင့် SD ကတ်အကြား ပြောင်းလဲရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
-    <string name="click_to_switch_volume_pad">အတွင်းသိုလှောင်မှုနှင့် SD ကတ်အကြား ပြောင်းလဲရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
+    <string name="click_to_switch_volume">အတွင်းသိုလှောင်မှုနှင့် SD ကဒ်အကြား ပြောင်းလဲရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
+    <string name="click_to_switch_volume_pad">အတွင်းသိုလှောင်မှုနှင့် SD ကဒ်အကြား ပြောင်းလဲရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
     <string name="midrop_msg_1">Mi Drop အားအခြားစက်ပေါ်တွင်ဖွင့်ပါ</string>
     <string name="midrop_msg_2">Mi Drop ဖွင့်ထားစဉ်၊ အနီးနားရှိစက်များအား သင်ရှာဖွေနိုင်ပြီး ဖိုင်များ ပေးပို့နိုင်ပါသည်</string>
     <string name="decrypt_to">ကုဒ်ဖြည်ပြီးသိမ်းဆည်း …</string>
@@ -402,7 +402,7 @@
     <string name="connecting">ချိတ်ဆက်နေ…</string>
     <string name="ad_downloading">ခဏလောက်စောင့်…</string>
     <string name="install_fail">ထည့်သွင်း၍ မရပါ</string>
-    <string name="download_fail">ဒေါင်းလုတ်မဆွဲနိုင်ပါ</string>
+    <string name="download_fail">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="installing">ထည့်သွင်းနေ…</string>
     <string name="video_ad_download">ထည့်သွင်း</string>
     <string name="need_read_storage_permission">Explorer မှ စက်သိုလှောင်ခန်းသို့ ဝင်ရောက်ရန် ခွင့်ပြုချက်လိုအပ်သည်။</string>
@@ -486,8 +486,8 @@
     <string name="oauth_failed_tip">တရားဝင်ခွင့်ပြုချက် မရနိုင်ခဲ့ပါ</string>
     <string name="login_success_tip">အောင်မြင်စွာ ဆိုင်းအင်ဝင်ခဲ့သည်</string>
     <string name="login_failed_tip">ဆိုင်းအင်မဝင်နိုင်ခဲ့၊ နောက်မှပြန်လုပ်ပါ</string>
-    <string name="phone_code_err">ဖုန်းနံပါတ်သို့မဟုတ် အတည်ပြုခြင်းကုဒ် မမှန်ကန်ပါ</string>
-    <string name="get_verification_code_fail">အတည်ပြုခြင်းကုဒ်မရနိုင်ခဲ့ပါ</string>
+    <string name="phone_code_err">ဖုန်းနံပါတ်သို့မဟုတ် အတည်ပြုကုဒ် မမှန်ကန်ပါ</string>
+    <string name="get_verification_code_fail">အတည်ပြုကုဒ် မရနိုင်ခဲ့ပါ</string>
     <string name="delete_video_dialog_title">ဗီဒီယိုအား ဖျက်ပါ</string>
     <string name="delete_video_dialog_tip">သင်ဖျက်ပြီးနောက် ဗီဒီယိုအား ပြန်ရယူ၍ရနိုင်လိမ့်မည် မဟုတ်ပါ</string>
     <string name="delete_video_success">အောင်မြင်စွာဖျက်ခဲ့သည်</string>
@@ -603,7 +603,7 @@
     <string name="like_toast_2">သင့်ပရိုဖိုင်ထဲတွင် သင်ကြိုက်သည့် ဗီဒီယိုများအား ကြည့်ပါ</string>
     <string name="like_toast_3">သင့်ပရိုဖိုင်ထဲတွင် သင်ကြိုက်သည့် ဗီဒီယိုများအား ကြည့်ရန် ဆိုင်းအင်ဝင်ပါ</string>
     <string name="select_volume">သိုလှောင်သည့်Volume အားရွေး</string>
-    <string name="download">ဒေါင်းလုတ်ဆွဲပါ</string>
+    <string name="download">ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="open_app">ဖွင့်</string>
     <string name="recent_show">မကြာသေးမီက</string>
     <string name="setting_message_notify">အကြောင်းကြားစာများ</string>
@@ -793,7 +793,7 @@
     <string name="error_delete_failed">ဖိုင် ဖျက်လို့မရပါ။</string>
     <string name="error_folder_already_exists">ဤဖိုင်ရှိပြီးဖြစ်သည်။</string>
     <string name="clock_in">… စစ်ဆေးနေသည်။</string>
-    <string name="unknown_error">အမည်မသိမှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်နေပါသည်။ တစ်မိနစ်၊ နှစ်မိနစ်ခန့်စောင့်ဆိုင်းပြီး နောက်တစ်ဖန်ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="unknown_error">အမည်မသိမှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်နေပါသည်။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="permission_denial">ဖိုင် ဖွင့်မရပါ။ ဆက်တင်သို့ဝင်၍ Explorerကိုဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="permission_required">ဖိုင် ဖွင့်မရပါ။ ဆက်တင်သို့ဝင်၍ Explorerကိုဖိုင်သုံးခွင့်ပေးပါ။</string>
     <string name="pad">စက်အတွင်းပိုင်း သိုလှောင်ခန်း</string>

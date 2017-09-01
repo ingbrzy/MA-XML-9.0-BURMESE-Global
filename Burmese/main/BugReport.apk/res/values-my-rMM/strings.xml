@@ -125,7 +125,7 @@
     <string name="section_err_type">ချွတ်ယွင်းမှု အမျိုးအစား</string>
     <string name="title_system_app">MIUI အက်ပ်များ</string>
     <string name="title_nonsystem_app">အခြားအက်ပ်များ</string>
-    <string name="non_system_app_select">ဒေါင်းလုတ်လုပ်ထာသော အက်ပ်များ</string>
+    <string name="non_system_app_select">ဒေါင်းလုဒ်လုပ်ထာသော အက်ပ်များ</string>
     <string name="system_app_select">အပြီးတပ်ဆင်ထားသော အက်ပ်များ</string>
     <string name="section_description">ဖော်ပြချက်</string>
     <string name="section_screenshot">မျက်နှာပြင်ပုံ</string>
@@ -153,7 +153,7 @@
     <string name="network_err">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။</string>
     <string name="refresh">ပြန်လန်းဆန်း</string>
     <string name="announcement">သတိပြုပါ</string>
-    <string name="app_empty">မည်သည့်အက်ပ်ကိုမှ သင် ဒေါင်းလုတ်မလုပ်ရသေးပါ။</string>
+    <string name="app_empty">မည်သည့်အက်ပ်ကိုမှ သင် ဒေါင်းလုဒ်မလုပ်ရသေးပါ။</string>
     <string name="screen_lock">မျက်နှာပြင်သော့</string>
     <string name="systemui">အကြောင်းကြားစာရှိတ်</string>
     <string name="cta_dialog_title">အင်တာနက်ချိတ်ဆက်မှု</string>
@@ -162,7 +162,7 @@
     <string name="cta_cancel">ပယ်ဖျက်ပါ</string>
     <string name="cta_confirm">အိုကေ</string>
     <string name="submit_dialog_title">အစီရင်ခံစာပေးပို့</string>
-    <string name="submit_dialog_content">သင်တုန့်ပြန်​ပေးပို့လိုက်သော ပူးတွဲဖိုင်များနှင့်မှတ်တမ်းများကို MIUIဆာဗာသို့ ပေးပို့လိမ့်မည်။ ဤအရာများသည် သင်၏ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
+    <string name="submit_dialog_content">သင်တုန့်ပြန်​ပေးပို့လိုက်သော ပူးတွဲဖိုင်များနှင့် မှတ်တမ်းများကို MIUIဆာဗာသို့ ပေးပို့လိမ့်မည်။ ဤအရာများသည် သင်၏ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
     <string name="submit_dialog_cancel">ပယ်ဖျက်ပါ</string>
     <string name="submit_dialog_confirm">ပေးပို့</string>
     <string name="mobile_data_note_dialog_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
@@ -210,7 +210,9 @@
     <string name="feedback_title">ခေါင်းစဉ်</string>
     <string name="feedback_description">ဖော်ပြချက်</string>
     <string name="feedback_select_images">ပုံများပေါင်းထည့်ပါ</string>
+    <string name="feedback_delete_images">ပုံများကို ဖျက်ပစ်ပါ</string>
     <string name="feedback_select_upload_log">လော့များပေါင်းထည့်</string>
+    <string name="feedback_select_modem_log">modem မှတ်တမ်းများ ပေါင်းထည့်မည်</string>
     <string name="feedback_select_suggestion">အကြံပြုချက်များ</string>
     <string name="feedback_select_problem">ပြဿနာများ</string>
     <string name="feedback_choose_module">အိုင်တမ်များရွေး</string>
@@ -229,7 +231,7 @@
     <string name="toast_problem_class_required">အမျိုးအစားရွေးချယ်ပါ</string>
     <string name="feedback_third_packagename_hint">မည်သည့် တတိယပါတီအက်ပ်မှ ပြဿနာ ဖြစ်စေပါသနည်း?</string>
     <string name="toast_third_packagename_required">အက်ပ်အမည်ရိုက်ထည့်ပါ</string>
-    <string name="feedback_contact_info_hint">Phone number/Email</string>
+    <string name="feedback_contact_info_hint">ဖုန်းနံပါတ်/အီးမေးလ်</string>
     <string name="feedback_status_commit_succ_title">ပေးပို့ခဲ့</string>
     <string name="feedback_status_commit_uploading_title">ပေးပို့နေ…</string>
     <string name="feedback_status_commit_failed_title">အစီရင်ခံစာကို ပို့လို့မရပါ</string>
@@ -291,11 +293,13 @@
     <string name="module_finance">ငွေကြေး &amp; Mi ပိုက်ဆံအိတ်</string>
     <string name="module_more">ပိုမို၍</string>
     <string name="module_search">ရှာပါ</string>
-    <string name="module_google_apps">Google apps</string>
+    <string name="module_google_apps">Google အက်ပ်များ</string>
     <string name="feedback_submit_hint">သင်ဖုန်းပြဿနာ ကြုံရပါက ကျွန်ုပ်တို့မှ အမြန်ဖြေရှင်းပေးနိုင်ရန် ပြဿနာအား တင်ပြပေးပါ</string>
+    <string name="feedback_submit_hint_gone">မက်ဆေ့ချ်ကို ဖျောက်ထားပါ</string>
     <string name="toast_post_deleted">ဤခေါင်းစဉ်ရှိမနေပါ၊ ဖျက်လိုက်သည် သို့မဟုတ် တည်းဖြတ်ခဲ့သည်</string>
     <string name="toast_log_not_exists">လိုအပ်သော လော့ဂ်အား ဖျက်လိုက်သည် သို့မဟုတ် မတည်ရှိပါ</string>
     <string name="toast_pic_not_exists">ယာယီရုပ်ပုံအား ဖျက်ခဲ့သည်</string>
+    <string name="toast_screenshot_too_large">10MB ထက်ကြီးသော ဖိုင်များကို တင်၍မရပါ။</string>
     <string name="title_bbs_feedback_main">Mi ဖုန်းအကြောင်း ပိုမိုလေ့လာပါ</string>
     <string name="title_customer_service">သုံးစွဲသူဝန်ဆောင်မှု</string>
 </resources>

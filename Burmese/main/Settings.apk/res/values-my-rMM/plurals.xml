@@ -149,10 +149,10 @@
         <item quantity="other">အန္တရာယ် %d ခုတွေ့ရှိခဲ့သည်</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">%d apps are allowed to autostart</item>
+        <item quantity="other">အက်ပ် %d ခုကို အော်တိုစခွင့်ပြုမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN must be %d digits</item>
+        <item quantity="other">PIN နံပါတ်တွင် ဂဏန်း %d လုံး ပါရမည်</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">ကွန်ရက် %dခုအား မျှဝေခဲ့သည်</item>
@@ -161,7 +161,7 @@
         <item quantity="other">စက်%d ခု</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
-        <item quantity="other">%1$d people connected</item>
+        <item quantity="other">လူ %1$d ဦး ချိတ်ဆက်ထားသည်</item>
     </plurals>
     <plurals name="show_pho_countdown">
         <item quantity="other">ဖုန်းအချက်လက်ကိုဝင်ရောက်ခြင်းမှ %1$d ဆင့်လိုသေးသည်</item>
@@ -179,18 +179,18 @@
         <item quantity="other">အက်ပ် %dခုအတွက် ဘယ်တော့မှ မပိတ်ပါနှင့်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN must be %d digits long</item>
+        <item quantity="other">PIN နံပါတ်တွင် အနည်းဆုံး ဂဏန်း %d လုံး ပါရမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN can contain up to %d digits</item>
+        <item quantity="other">PIN နံပါတ်တွင် ဂဏန်း%d ထက် မပိုရပါ။</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">Connect at least %d dots. Try again.</item>
+        <item quantity="other">အနည်းဆုံး အစက် %d စက်ကို ဆက်ပါ။ ပြန်လည်ကြိုးစားကြည့်ပါ။</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
-        <item quantity="other">Too many incorrect attempts. Try again in %d seconds.</item>
+        <item quantity="other">မမှန်ကန်သော ကြိုးစားမှု အလွန်များနေသည်။ %d စက္ကန့်အကြာတွင် ပြန်ကြိုးစားကြည့်ပါ။</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
-        <item quantity="other">Wait for %d seconds and try again.</item>
+        <item quantity="other">%d စက္ကန့်စောင့်ပြီး ပြန်လည်ကြိုးစားကြည့်ပါ။</item>
     </plurals>
 </resources>

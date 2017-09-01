@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Weibo အကောင့် သက်တမ်းကုန်သွားပြီ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ</string>
     <string name="sina_token_invalid_warning">Weiboအကောင့် ဘောင်မဝင်ပါ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ။</string>
     <string name="sina_share_fail_content_repeat">ဤအရာကို သင် ဝေမျှပြီးပြီ</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">မှတ်စုများ၊မီမို</string>
     <string name="search_path_notes">စနစ်အက်ပ်များ/မှတ်စုများ</string>
     <string name="dlg_move_message">ရွှေ့နေဆဲ…</string>
@@ -100,7 +101,7 @@
     <string name="menu_send_weibo">Weibo သို့ ပို့ပါ</string>
     <string name="info_note_enter_desktop">အိမ်မျက်နှာပြင်သို့ ပေါင်းထည့်ထားသည်</string>
     <string name="all_terms">%1$s နှင့် %2$s</string>
-    <string name="alert_title_delete">မှတ်စုအားဖျက်?</string>
+    <string name="alert_title_delete">မှတ်စုကို ဖျက်ပစ်ပါ</string>
     <string name="alert_message_delete">%1$s အားဖျက်မည်လား?</string>
     <string name="alert_message_delete_note">ဒီမှတ်ချက်ကို ဖျက်ပစ်မလား။</string>
     <string name="format_move_notes_to_folder">%1$s ကို %2$s သို့ ရွှေ့ထားသည်</string>
@@ -196,4 +197,5 @@
     <string name="edit_header_done_description">ပြီးပြီ</string>
     <string name="refuse_to_share_as_pic_because_of_content">ဤမှတ်ချက်သည် ကြီးလွန်းသဖြင့် မျှဝေ၍မရပါ။</string>
     <string name="refuse_to_share_as_pic_because_of_loading">မှတ်ချက် လုဒ်တင်ပြီးအောင်စောင့်၍ ထပ်မံကြိုးစားပါ။</string>
+    <string name="toast_reach_text_limit_checkbox">မှတ်ချက်သည် ရှည်လွန်းသောကြောင့် ၎င်းကို checkbox အဖြစ် ပေါင်းထည့်၍မရပါ</string>
 </resources>

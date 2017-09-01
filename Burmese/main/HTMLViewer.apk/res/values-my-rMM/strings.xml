@@ -23,4 +23,5 @@
     <string name="ad_service">ကြော်ငြာဝန်ဆောင်မှု</string>
     <string name="settings_ad_loading">ခဏလောက်စောင့်…</string>
     <string name="settings_ad_loading_unavailable">အချက်အလက်ကို လုဒ်မတင်နိုင်ခဲ့ပါ</string>
+    <string name="autoconnect">AutoConnect</string>
 </resources>

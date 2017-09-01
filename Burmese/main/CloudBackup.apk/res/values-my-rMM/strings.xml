@@ -68,7 +68,7 @@
     <string name="backup_size">အရွယ်အစား: %s</string>
     <string name="device_delete_prompt">အရန်သိမ်းခြင်း၏ %s ကို ဖျက်ပစ်မလား။</string>
     <string name="desktop_waiting">စောင့်နေဆဲ</string>
-    <string name="desktop_downloading">ဒေါင်းလုတ်လုပ်နေဆဲ</string>
+    <string name="desktop_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="desktop_installing">တပ်ဆင်နေဆဲ</string>
     <string name="desktop_recovering">နဂိုနေရာပြန်ထားနေဆဲ</string>
     <string name="desktop_wait_wifi">စောင့်နေဆဲ</string>
@@ -78,13 +78,13 @@
     <string name="open_wifi_description">အက်ပ်ကို နဂိုနေရာပြန်ထားရန် Wi-Fiကွန်ရက်တစ်ခုသို့ ချိတ်ဆက်ပါ</string>
     <string name="open_wifi_setting">Wi-Fi ဆက်တင်များ</string>
     <string name="name_model">%1$s ၏ %2$s</string>
-    <string name="download_settings">ပင်မဖုန်းမျက်နှာပြင် ဆက်တင်များအား ဒေါင်းလုဒ်လုပ်န​ေ− %s%%</string>
+    <string name="download_settings">ပင်မဖုန်းမျက်နှာပြင်ဆက်တင်− %s%% ကို ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="cloud_back_up_date_format">HH:mm MM/dd/yyyy</string>
     <string name="recover_home_settings">အိမ်မျက်နှာပြင် ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="cancel_recover_settings"><u>ပယ်ဖျက်</u></string>
     <string name="recover_settings_description">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="recover_miui_settings">စနစ်ဆက်တင်များအား ပြန်ရယူပါ</string>
-    <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုတ်လုပ်နေ</string>
+    <string name="wait_icon_download">အက်ပ်အိုင်ကွန်အား ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="download_settings_fail">ပင်မဖုန်းမျက်နှာပြင်ဆက်တင်များအား ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="backup_fail">အရန်သိမ်းမလုပ်နိုင်ခဲ့ပါ</string>
     <string name="backup_success">အောင်မြင်စွာ အရန်သိမ်းလုပ်ပြီးပြီ</string>
@@ -107,7 +107,7 @@
     <string name="query_restore_description">အိမ်မျက်နှာပြင်အက်ပ်များနှင့် ဆက်တင်များအား ဤအရန်သိမ်းအားအသုံးပြုပြီး ပြန်လည်ရယူပါ။ ဤသို့လုပ်ဆောင်ခြင်းသည် လက်ရှိရှိပြီးသားအက်ပ်များအား အရန်သိမ်းနှင့် တူညီမှု ရှိပါက အစားထိုးလိုက်လိမ့်မည်။ ဤအရန်သိမ်းတွင် မပါဝင်သော အက်ပ်များအား နောက်မျက်နှာပြင် တစ်ခုသို့ ရွေ့လိုက်လိမ့်မည်။</string>
     <string name="restore_from_this_device">ဤအရန်သိမ်းခြင်းအား သုံးပြီး ပြန်လည်ရယူပါ</string>
     <string name="confirm_restore_title">ပြန်လည်ရယူ</string>
-    <string name="confirm_restore_summary">Wi-Fi သို့ချိတ်ဆက်လိုက်စဉ်တွင် အိမ်မျက်နှာပြင်သည် ပြန်လည်စတင်ပြီး အက်ပ်များအား အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိုက်လိမ့်မည်။</string>
+    <string name="confirm_restore_summary">Wi-Fi သို့ချိတ်ဆက်လိုက်စဉ်တွင် အိမ်မျက်နှာပြင်သည် ပြန်လည်စတင်ပြီး အက်ပ်များအား အလိုအလျောက် ဒေါင်းလုဒ်လုပ်လိမ့်မည်။</string>
     <string name="confirm_restore">ပြန်လည်ရယူ</string>
     <string name="cloud_backup_have_data">Mi ကလောက်ထဲတွင် အရန်သိမ်းတစ်ခု တွေ့ရှိခဲ့သည်</string>
     <string name="cloud_backup_select_recover">Mi ကလောက်မှ အရန်သိမ်းရွေးချယ်ပါ</string>

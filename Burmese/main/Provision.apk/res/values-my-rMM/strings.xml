@@ -7,11 +7,11 @@
     <string name="provision_inputmethod_policy_description">"
 ရွေးထားသော ကီးဘုတ်၏ ကိုယ်ရေးမူဝါဒအား ကြည့်ပါ"</string>
     <string name="provision_inputmethod_policy_description1">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
-    <string name="multisim_settings_title">SIM ကတ် ၂ ခု ရှာတွေ့ပြီးပြီ</string>
-    <string name="multisim_settings_category">SIM ကတ် ဆက်တင်များ</string>
-    <string name="sim_card_detection">SIM ကတ် ထည့်သွင်းပါ</string>
-    <string name="sim_card_detecting_title">SIM ကတ်ကို စစ်ဆေးပါ</string>
-    <string name="sim_card_detection_info">သင်၏ SIM ကတ်ကို ထည့်သွင်းရန်၊ သင့်ကိရိယာနှင့်အတူ ပါလာသော ညွှန်ကြားချက်များကို ဖတ်ပါ။</string>
+    <string name="multisim_settings_title">SIM ကဒ် ၂ ခု ရှာတွေ့သည်</string>
+    <string name="multisim_settings_category">SIM ကဒ် ဆက်တင်များ</string>
+    <string name="sim_card_detection">SIM ကဒ် ထည့်သွင်းပါ</string>
+    <string name="sim_card_detecting_title">SIM ကဒ်ကို စစ်ဆေးပါ</string>
+    <string name="sim_card_detection_info">သင်၏ SIM ကဒ်ကို ထည့်သွင်းရန် သင့်ကိရိယာနှင့်အတူ ပါလာသော ညွှန်ကြားချက်များကို ဖတ်ပါ။</string>
     <string name="sim_card_detecting">SIM ကတ်ကို စစ်ဆေးနေဆဲ…</string>
     <string name="other_settings">နောက်ထပ် ဆက်တင်များ</string>
     <string name="other_settings_location">တည်နေရာ</string>
@@ -30,8 +30,8 @@
     <string name="sim_redetection">ထပ်မံ စစ်ဆေးပါ</string>
     <string name="congratulation_title">သတ်မှတ်မှု ပြီးပြည့်စုံပြီ</string>
     <string name="congratulation_label">သင်စတင်ရန် အသင့်ဖြစ်နေပြီ!</string>
-    <string name="pref_title_voice_slot">အသံ SIM ကတ်ကို ပိုနှစ်ခြိုက်သည်</string>
-    <string name="pref_title_data_slot">ဒေတာ SIM ကတ်ကို ပိုနှစ်ခြိုက်သည်</string>
+    <string name="pref_title_voice_slot">အသံ SIM ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
+    <string name="pref_title_data_slot">ဒေတာ SIM ကဒ်ကို ပိုနှစ်ခြိုက်သည်</string>
     <string name="summary_not_set">မသတ်မှတ်ထား</string>
     <string name="ime_privacy_policy">ရွေးထားသော ကီးဘုတ်အတွက် ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="ime_privacy_policy_no_network">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ ဒီကီးဘုတ်အတွက်ကိုယ်ပိုင်ရေးရာမူဝါဒကို၊ %s ၌ ကြည့်ပါ</string>

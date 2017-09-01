@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="record_downloading_complete_count">
-        <item quantity="other">ဖမ်းယူထားသည့်အသံအပိုင်း %d ခုကို ဒေါင်းလုတ်လုပ်ပြီးပြီ</item>
+        <item quantity="other">ဖမ်းယူထားသည့်အသံအပိုင်း %d ခုကို ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</item>
     </plurals>
     <plurals name="local_records_count">
         <item quantity="other">%d အိုင်တမ်</item>

@@ -24,7 +24,7 @@
     <string name="find_device_notice_p1">သို့သွားပါ</string>
     <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
-သင် SIM ကတ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
+သင် SIM ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
     <string name="unlock_error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="unlock_error_device_id">စက်အိုင်ဒီ မရနိုင်ခဲ့ပါ</string>
@@ -58,17 +58,17 @@
     <string name="change_find_device_status_failed">သော့ဖြေ၍မရနိုင်ခဲ့ပါ။%s</string>
     <string name="unlock_help_title">သော့ဖြည်အကူအညီ−</string>
     <string name="unlock_help">"ကွန်ရက်နှင့်ချိတ်ဆက်လျက်ရှိနေပါ
-သင့်တွင် ကောင်းမွန်သည့် SIM ကတ်ရှိနေကြောင်းနှင့် ဆိုးဝါးသော Wi-Fi နှင့် မချိတ်ဆက်ထားကြောင်း သေချာစေပါ။ 
+သင့်တွင် ကောင်းမွန်သည့် SIM ကဒ်ရှိနေကြောင်းနှင့် ဆိုးဝါးသော Wi-Fi နှင့် မချိတ်ဆက်ထားကြောင်း သေချာစေပါ။ 
 
  စကားဝှက်မေ့သွားပါသလား?
  စကားဝှက်အား ပြန်သတ်မှတ်ရန် id.mi.com သို့သွားရောက်ပါ။
 
  အခြားကြောင်းပြချက်များ
  i.mi.com သို့ဆိုင်းအင်ဝင်ရောက်ပြီး အဲဒီမှသင့်စက်အား သော့ဖြည်ရန် ကြိုးစားကြည့်ပါ။"</string>
-    <string name="passport_vcode_prompt_long">မှန်ကြောင်း အတည်ပြုကုဒ်ကို ထည့်သွင်းပါ</string>
+    <string name="passport_vcode_prompt_long">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_trust_device">ဤစက်ကို ယုံကြည်ပါ</string>
     <string name="passport_verify">မှန်ကြောင်း အတည်ပြုပါ</string>
-    <string name="passport_error_empty_vcode">မှန်ကြောင်း အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
+    <string name="passport_error_empty_vcode">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_checking_vcode">စကားဝှက် စစ်ဆေးနေဆဲ…</string>
     <string name="unlock_error_wrong_vcode">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_notification_processing">လုပ်ဆောင်နေသည်…</string>

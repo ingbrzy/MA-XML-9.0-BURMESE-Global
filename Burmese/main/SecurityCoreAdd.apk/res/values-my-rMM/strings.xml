@@ -260,9 +260,9 @@
     <string name="confirm_airspace_password">စကားဝှက် %s ကို အတည်ပြုပါ</string>
     <string name="air_space_created">အလုပ်နေရာဖန်တီးမှု အောင်မြင်</string>
     <string name="enter_air_space">အလုပ်နေရာ သို့သွားပါ</string>
-    <string name="invalid_qr_code">ဘောင်မဝင်သော QR ကုတ်</string>
+    <string name="invalid_qr_code">ဘောင်မဝင်သော QR ကုဒ်</string>
     <string name="need_network_when_create">အလုပ်နေရာ မဖန်တီးမီ ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
-    <string name="downloading_space">ဒေါင်းလုတ်လုပ်နေ…</string>
+    <string name="downloading_space">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="air_space_deleted">အလုပ်နေရာအား ဖျက်လိုက်ပြီ</string>
     <string name="need_reset_passwd">အလုပ်နေရာကို မဝင်ရောက်မီ အလုပ်နေရာစကားဝှက်အား ပြန်သတ်မှတ်ပါ</string>
     <string name="reset_passwd_success">စကားဝှက်အား ပြန်သတ်မှတ်ပြီးပါပြီ</string>
@@ -271,7 +271,7 @@
     <string name="other">အခြား</string>
     <string name="airspace_users_full">အလုပ်နေရာပိုမို၍ မဖန်တီးနိုင်ပါ</string>
     <string name="same_qr_code_title">%s ရှိပြီးသားဖြစ်ပါသည်</string>
-    <string name="same_qr_code_des">ဤအလုပ်နေရာ ရှိပြီးသားဖြစ်ပုံရသည်။ အိမ်မျက်နှာပြင်နှင့် အသိပေးချက်ရှိတ်ရှော့ကတ်များကို သုံး၍ထိုနေရာသို့သွားနိုင်ပါသည်။ ယခုသွားမည်လား?</string>
+    <string name="same_qr_code_des">ဤအလုပ်နေရာ ရှိပြီးသားဖြစ်ပုံရသည်။ အိမ်မျက်နှာပြင်နှင့် အသိပေးချက်ရှိတ်ရှော့ကဒ်များကို သုံး၍ထိုနေရာသို့သွားနိုင်ပါသည်။ ယခုသွားမည်လား?</string>
     <string name="same_qr_code_enter_space">အလုပ်နေရာ သို့သွားပါ</string>
     <string name="same_qr_code_create_space">အခြားတစ်ခုဖန်တီးပါ</string>
     <string name="not_support_air_space">ဤအင်္ဂါရပ်ကို သင့်ဖုန်းတွင် မပံ့ပိုးပေးထားသေးပါ</string>
@@ -282,11 +282,11 @@
     <string name="can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
-    <string name="sdcardfs_dialog_message">进入分身前需要在开发者选项中关闭”模拟SD卡优化“</string>
-    <string name="do_not_ask">不再询问</string>
-    <string name="gpg_message">双开游戏需要依赖谷歌游戏中心应用,是否同步双开谷歌游戏中心应用</string>
-    <string name="gpg_title">双开谷歌游戏中心</string>
-    <string name="gms_message">双开该应用需要依赖谷歌服务,是否同步双开谷歌服务</string>
-    <string name="gms_title">双开谷歌服务</string>
-    <string name="gms_open_button">开启</string>
+    <string name="sdcardfs_dialog_message">ကိုယ်ပွားသို့ မဝင်မီ ပြုစုပျိုးထောင်သူ ရွေးချယ်မှုများမှ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
+    <string name="do_not_ask">ထပ်မမေးပါနှင့်</string>
+    <string name="gpg_message">ဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google Playဂိမ်းများ လိုအပ်ပါသည်။ Google Playဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
+    <string name="gpg_title">Google Play ဂိမ်းများအတွက် ပွားထားသော အက်ပ်</string>
+    <string name="gms_message">နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google ဝန်ဆောင်မှုများ လိုအပ်ပါသည်။ Google ဝန်ဆောင်မှုများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
+    <string name="gms_title">Googleဝန်ဆောင်မှုများကို ဖွင့်မည်</string>
+    <string name="gms_open_button">ဖွင့်မည်</string>
 </resources>

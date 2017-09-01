@@ -20,11 +20,11 @@
     <string name="no_network">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="preparing_sd">အတွင်းသိုလှောင်မှုအား ပြင်ဆင်နေ…</string>
     <string name="spaceIsLow_content">အတွင်းသိုလှောင်မှု နေရာမလုံလောက်ပါ။ နေရာတစ်ချို့အား ရှင်းလိုက်ပါ</string>
-    <string name="module_title_code">QR ကုတ်</string>
+    <string name="module_title_code">QR ကုဒ်</string>
     <string name="module_title_shopping">ဈေးဝယ်</string>
     <string name="module_title_translation">ဘာသာပြန်ဆို</string>
     <string name="module_title_study">စာသင်</string>
-    <string name="module_title_namecard">လိပ်စာကတ်</string>
+    <string name="module_title_namecard">လိပ်စာကဒ်</string>
     <string name="module_title_document">စာရွက်စာတမ်း</string>
     <string name="flash_lable">ဖလက်ရှ်</string>
     <string name="picker_lable">ဓာတ်ပုံ</string>
@@ -65,7 +65,7 @@
     <string name="recognize_fail">ကုဒ်ဖတ်လို့ မရပါ</string>
     <string name="place_barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
     <string name="barcode_into_rectangle">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
-    <string name="drag_barcode_into_frame">ကုတ်ကို ခွင်ကျစေရန် ဘောင်ကို ဆွဲလိုက်ပါ</string>
+    <string name="drag_barcode_into_frame">ကုဒ်ကို ခွင်ကျစေရန် ဘောင်ကို ဆွဲလိုက်ပါ</string>
     <string name="scan_fail">ကုဒ်ကို စကန်ဖတ်လို့ မရပါ</string>
     <string name="scan_result">ရလဒ်</string>
     <string name="url_is_safety">ဤဝက်ဘ်ဆိုက်က လုံခြုံစိတ်ချရသည်။</string>
@@ -146,8 +146,8 @@
     <string name="study_report_title">အစီရင်ခံပါ</string>
     <string name="view_study_report">အစီရင်ခံစာကြည့်ပါ</string>
     <string name="study_rotate_picture">ဓါတ်ပုံအား လုပ်ဆောင်နေသည်</string>
-    <string name="namecard_title">ကုဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
-    <string name="namecard_recognize_failed_tip">ကတ်အား မဖတ်နိုင်ခဲ့ပါ</string>
+    <string name="namecard_title">ကဒ်အား ဖရိန်အတွင်းဝင် ထားပါ</string>
+    <string name="namecard_recognize_failed_tip">ကဒ်အား မဖတ်နိုင်ခဲ့ပါ</string>
     <string name="namecard_recognizing">ဖတ်နေဆဲ…</string>
     <string name="namecard_vendor_info">CamCard မှ အားဖြည့်ပေးထားသည်</string>
     <string name="document_title">ဖိုင်စု၏ ပုံတစ်ပုံရိုက်ထည့်ပါ</string>
@@ -168,15 +168,15 @@
     <string name="document_recognize_fail_tip">ဖိုင်စုအား ဖတ်၍မရပါ</string>
     <string name="document_recognize_null_tip">စာရွက်စာတမ်းရလဒ် မရှိပါ</string>
     <string name="recognition_error_download_title">သိရှိခြင်းအင်ဂျင် လိုအပ်ပါသည်</string>
-    <string name="recognition_error_download_msg">ကတ်များအား စကန်ဖတ်ရန် သိရှိခြင်း အင်ဂျင်အား ဒေါင်းလုတ်လုပ်ပါ။ အရွယ်အစားမှာ 15MB မျှရှိပါသည်။</string>
-    <string name="recognition_error_download_ok">ဒေါင်းလုတ်ဆွဲပါ</string>
+    <string name="recognition_error_download_msg">ကဒ်များအား စကန်ဖတ်ရန် သိရှိခြင်း အင်ဂျင်အား ဒေါင်းလုဒ်လုပ်ပါ။ အရွယ်အစားမှာ 15MB မျှရှိပါသည်။</string>
+    <string name="recognition_error_download_ok">ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="recognition_error_download_cancel">နောက်မှ</string>
-    <string name="recognition_error_download_no_network">ဒေါင်းလုတ်မလုပ်နိုင်ခဲ့ပါ။ သင်ကွန်ရက်သို့ချိတ်ဆက်ထားကြောင်း သေချာစေပါ။</string>
-    <string name="recognition_error_downloading">သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုတ်လုပ်နေပါသည်…</string>
-    <string name="recognition_error_download_data_msg">ကတ်များအား စကန်ဖတ်ရန် သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုတ်လုပ်ပါ။ 15MB မျှရှိပါသည်။ ဒေါင်းလုတ်လုပ်ရန် မိုဘိုင်းဒေတာအား အသုံးပြုမည်လား?</string>
-    <string name="recognition_error_download_success">အောင်မြင်စွာ ဒေါင်းလုတ်လုပ်ခဲ့သည်</string>
-    <string name="recognition_error_download_fail">သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုတ်မလုပ်နိုင်ခဲ့ပါ</string>
+    <string name="recognition_error_download_no_network">ဒေါင်းလုဒ်လုပ်၍မရပါ။ ကွန်ရက်သို့ချိတ်ဆက်ထားခြင်း ရှိမရှိ စစ်ဆေးပါ။</string>
+    <string name="recognition_error_downloading">သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုဒ်လုပ်နေသည်…</string>
+    <string name="recognition_error_download_data_msg">ကဒ်များအား စကန်ဖတ်ရန် သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုဒ်လုပ်ပါ။ 15MB မျှရှိပါသည်။ ဒေါင်းလုဒ်လုပ်ရန် မိုဘိုင်းဒေတာအား အသုံးပြုမည်လား?</string>
+    <string name="recognition_error_download_success">အောင်မြင်စွာ ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ</string>
+    <string name="recognition_error_download_fail">သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုဒ်လုပ်၍မရပါ</string>
     <string name="low_version_tip">MIUIဗားရှင်း ဟောင်းလွန်းနေသည်။ စကန်နားကို အသုံးပြုရန် MIUI အသစ်မွမ်းမံလိုက်ပါ။</string>
     <string name="app_description_title">စကန်နာအကြောင်း</string>
-    <string name="app_description_content">စကန်နာသည် QR ကုဒ်များ၊ လိပ်စာကတ်များနှင့် စာရွက်စာတမ်းများကို စကန်ဖတ်နိုင်သည်။ အက်ပ်ကို မဖျက်မီ ဤဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
+    <string name="app_description_content">QRကုဒ်ဖတ်ခြင်း၊ ဘာသာပြန်ဆိုခြင်း၊ မေးခွန်းများအားဖြေရှင်းခြင်းနှင့် စီးပွားရေးလိပ်စာကဒ်အားအသိအမှတ်ပြုခြင်းတို့ကိုစကန်နာဖြင့် စကန်ဖတ်နိုင်ပါသည်။ ဤအက်ပ်မှ အဆိုပါအင်္ဂါရပ်နှင့် ဝန်ဆောင်မှုအကြောင်းကောင်းစွာနားလည်သိရှိစေချင်ပါသည်။</string>
 </resources>

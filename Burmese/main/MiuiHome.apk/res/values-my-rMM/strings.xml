@@ -8,7 +8,7 @@
     <string name="cancel_action">ပယ်ဖျက်ပါ</string>
     <string name="bad_wallpaper_source_prompt">နောက်ခံပုံကို ဆွဲချလို့ မရပါ</string>
     <string name="apply_action">သတ်မှတ်</string>
-    <string name="download_action">ဒေါင်းလုတ်လုပ်ပါ</string>
+    <string name="download_action">ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="lock_screen_failed_message">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံအား အသုံးချ၍မရပါ</string>
     <string name="lock_screen_success_message">သော့အိမ်မျက်နှာပြင်ကို အသုံးချထားသည်</string>
     <string name="wallpaper_failed_message">နောက်ခံပုံသတ်မှတ်၍မရနိုင်ပါ</string>
@@ -46,7 +46,7 @@
     <string name="permlab_write_settings">အိမ်မျက်နှာပြင်ဆက်တင်များနှင့် ရှော့ကတ်များကို တည်းဖြတ်ပါ</string>
     <string name="permdesc_write_settings">အက်ပ်တစ်ခုကို ဆက်တင်များနှင့် ကြားဖြတ်များအား ပင်မနေရာ၌ ပြောင်းလဲရန် ခွင့်ပြုပါ။</string>
     <string name="status_pending">စောင့်နေသည်</string>
-    <string name="status_downloading">ဒေါင်းလုဒ်လုပ်နေ</string>
+    <string name="status_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="status_paused">တန့်ရပ်ထားသည်</string>
     <string name="status_downloaded">ဒေါင်းလုဒ်လုပ်ထားသော</string>
     <string name="status_installing">တပ်ဆင်နေဆဲ</string>
@@ -91,7 +91,7 @@
     <string name="sort_by_abc">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="encryption">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းခြင်း</string>
     <string name="failed_to_drop">ရွှေ့မရပါ</string>
-    <string name="no_space_toast">No space</string>
+    <string name="no_space_toast">နေရာလွတ် မရှိပါ</string>
     <string name="failed_to_drop_widget_invalid">ဝစ်ဂတ် မမှန်ပါ</string>
     <string name="failed_to_delete_temporary">ဖယ်ရှားလို့ မရပါ</string>
     <string name="confirm_btn_label">အိုကေ</string>
@@ -111,7 +111,7 @@
     <string name="wallpaper">နောက်ခံပုံ</string>
     <string name="mi_wallpaper">MIUI သင်းမ်စတိုး</string>
     <string name="show_all">အားလုံး ပြပါ</string>
-    <string name="local_wallpaper">ဒေါင်းလုတ်လုပ်ထားသည်</string>
+    <string name="local_wallpaper">ဒေါင်းလုဒ်လုပ်ထားသည်</string>
     <string name="setting_wallpaper_tip">ချိန်ညှိရန် လက်ချောင်းများဖြင့် ညှပ်ပါ (သို့) ပွတ်ဆွဲပါ</string>
     <string name="apply_as_wallpaper">အိမ်မျက်နှာပြင်အဖြစ်သတ်မှတ်ပါ</string>
     <string name="apply_as_lock_screen">သော့ခတ်မျက်နှာပြင်အဖြစ်သတ်မှတ်ပါ</string>
@@ -181,13 +181,13 @@
     <string name="gadget_weather_title">မိုးလေဝသ</string>
     <string name="gadget_weather_title_24">မိုးလေဝသ</string>
     <string name="gadget_weather_title_14">မိုးလေဝသ</string>
-    <string name="gadget_weather_app_not_installed">MIUI ၏ မိုးလေဝသအက်ပ်ကို ဒေါင်းလုတ်လုပ်ရန် တို့ထိပါ</string>
+    <string name="gadget_weather_app_not_installed">MIUI ၏ မိုးလေဝသအက်ပ်ကို ဒေါင်းလုဒ်လုပ်ရန် တို့ထိပါ</string>
     <string name="gadget_weather_time_format">EEEE, d MMMM</string>
     <string name="gadget_weather_theme_type">ဂတ်ဂျက်အမျိုးအစား</string>
-    <string name="gadget_weather_download_title">ဒေါင်းလုတ်လုပ်ပါ</string>
-    <string name="gadget_weather_download_message">အက်ပ်၌ပါသော အကြောင်းအရာ: %1$s (%2$s) ကို သင် ဒေါင်းလုတ်လုပ်ရန် လိုအပ်သည်။ ဒေါင်းလုတ်ပြီးလျှင် အက်ပ်ကို ပြန်စတင်ပါ။</string>
-    <string name="gadget_weather_download_start">ဒေါင်းလုတ်လုပ်ပါ</string>
-    <string name="gadget_weather_downloading">အက်ပ်၌ပါသော အကြောင်းအရာကို ဒေါင်းလုတ်လုပ်နေပါသည်။ ဒေါင်းလုတ်ပြီးလျှင် အက်ပ်ကို ပြန်စတင်ပါ။</string>
+    <string name="gadget_weather_download_title">ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="gadget_weather_download_message">အက်ပ်၌ပါသော အကြောင်းအရာ: %1$s (%2$s) ကို သင် ဒေါင်းလုဒ်လုပ်ရန် လိုအပ်သည်။ ဒေါင်းလုဒ်ပြီးလျှင် အက်ပ်ကို ပြန်စတင်ပါ။</string>
+    <string name="gadget_weather_download_start">ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="gadget_weather_downloading">အက်ပ်၌ပါသော အကြောင်းအရာကို ဒေါင်းလုဒ်လုပ်နေပါသည်။ ဒေါင်းလုဒ်ပြီးလျှင် အက်ပ်ကို ပြန်စတင်ပါ။</string>
     <string name="gadget_weather_low_temp">နိမ့်သော အပူချိန်ဒီဂရီ</string>
     <string name="gadget_weather_aqi_title">"လေ အရည်အသွေး: "</string>
     <string name="aqi_quality_index_good">ကောင်း</string>
@@ -268,8 +268,10 @@
     <string name="screen_locked_toast">အိမ်မျက်နှာပြင်အပြင်အဆင်အား သော့ခတ်ထားသည်</string>
     <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်</string>
     <string name="menu_trans_effect">Transition Effect</string>
+    <string name="menu_default_screen_preview">Default screen Setting</string>
     <string name="menu_cell_setting">Screen Setting</string>
     <string name="menu_auto_fill">Auto Fill</string>
     <string name="menu_lock">Lock Screen</string>
     <string name="menu_more">ပိုမို၍</string>
+    <string name="default_screen_preview_title">နဂိုမူလ မျက်နှာပြင်ဆက်တင်</string>
 </resources>

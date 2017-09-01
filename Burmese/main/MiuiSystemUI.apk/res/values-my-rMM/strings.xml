@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -164,12 +166,12 @@
     <string name="select_logd_size_dialog_title">ကြားခံမှတ်တမ်းများအတွက် အရွယ်အစားကို ရွေးချယ်ပါ</string>
     <string name="select_usb_configuration_title">USB ဖွဲ့စည်းပုံအား ရွေးချယ်ပါ</string>
     <string name="select_usb_configuration_dialog_title">USB ဖွဲ့စည်းပုံအား ရွေးချယ်ပါ</string>
-    <string name="allow_mock_location">အကြောင်းကြားစာများ ခွင့်ပြုပါ</string>
-    <string name="allow_mock_location_summary">အကြောင်းကြားစာများ ခွင့်ပြုပါ</string>
+    <string name="allow_mock_location">တုပထားသောတည်နေရာအား ခွင့်ပြုပါ</string>
+    <string name="allow_mock_location_summary">တုပထားသောတည်နေရာအား ခွင့်ပြုပါ</string>
     <string name="debug_view_attributes">Enable viewing attributes</string>
     <string name="legacy_dhcp_client_summary">အန်းဒရွိုက် DHCP အသုံးပြုသူအသစ် အစား Lollipop မှ DHCPအသုံးပြုသူ ကိုသုံးပါ။</string>
     <string name="mobile_data_always_on_summary">Wi‑Fi သုံးနေလျှင်လည်း မိုဘိုင်းဒေတာကွန်ရက်ကို အမြဲဖွင့်ထားပါ (မြန်ဆန်သောကွန်ယက်သို့ ပြောင်းနိုင်ရန်အတွက်) ။</string>
-    <string name="adb_warning_title">USB ချွတ်ယွင်းချက်ရှာဖွေဖယ်ရှာခြင်းကို ခွင့်ပြုမလား?</string>
+    <string name="adb_warning_title">USB ချွတ်ယွင်းချက်ရှာဖွေခြင်းကို ခွင့်ပြုမလား?</string>
     <string name="adb_warning_message">USB ခြွင်းချက်ရှာခြင်းသည် ပြုစုပျိုးထောင်မှုအတွက်သာ ဖြစ်သည်။ သင့်ကွန်ပျူတာနှင့် စက်အကြား ဒေတာကော်ပီကူးခြင်း၊ သင့်စက်တွင် အက်ပ်များထည့်သွင်းတပ်ဆင်ခြင်းတို့ကို သတိပေးချက် ပေးပို့ခြင်းနှင့် မှတ်တမ်းဒေတာဖတ်ယူခြင်း မရှိဘဲ အသုံးပြုနိုင်သည်။</string>
     <string name="adb_keys_warning_message">ယခင်ကခွင့်ပြုထားသော ကွန်ပျူတာအားလုံးမှ USB အမှားရှာပြင်ခွင့်ကို ပြန်ရုပ်သိမ်းမည်လား?</string>
     <string name="dev_settings_warning_title">ပြုစုပျိုးထောင်မှုဆက်တင် ခွင့်ပြုမည်လား?</string>
@@ -238,11 +240,11 @@
     <string name="force_allow_on_external">Force allow apps ro write on external storage</string>
     <string name="force_allow_on_external_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ အက်ပ်အားလုံးကို အပြင်သိုလှောင်ခန်းသို့ ရေးသားခွင့်ပေးမည်</string>
     <string name="force_resizable_activities">လှုပ်ရှားမှုများကို အရွယ်အစားပြောင်းနိုင်အောင် မဖြစ်မနေလုပ်မည်</string>
-    <string name="force_resizable_activities_summary">Make all activities resizable for multi-window, regardless of manifest values.</string>
-    <string name="enable_freeform_support">Enable freeform windows</string>
-    <string name="enable_freeform_support_summary">Enable support for experimental freeform windows.</string>
+    <string name="force_resizable_activities_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ လှုပ်ရှားမှုများအားလုံးကို မာလ်တီဝင်းဒိုးတွင် အရွယ်အစားပြောင်းနိုင်အောင် လုပ်မည်။</string>
+    <string name="enable_freeform_support">လွတ်လပ်စွာချိန်ညှိနိုင်သော ဝင်းဒိုးကို သုံးမည်</string>
+    <string name="enable_freeform_support_summary">လွတ်လပ်စွာချိန်ညှိနိုင်သော စမ်းသပ်ဆဲဝင်းဒိုးကို ဖွင့်မည်။</string>
     <string name="local_backup_password_title">စက်မျက်နှာပြင် အရန်စကားဝှက်</string>
-    <string name="local_backup_password_summary_none">Desktop full backups aren’t currently protected</string>
+    <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
     <string name="local_backup_password_summary_change">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက်ကို ပြောင်းလဲရန် သို့မဟုတ် ဖယ်ရှားရန် ထိနှိပ်ပါ</string>
     <string name="local_backup_password_toast_success">အရန်စကားဝှက်အသစ် သတ်မှတ်ပြီးပြီ</string>
     <string name="local_backup_password_toast_confirmation_mismatch">စကားဝှက် မ’ကိုက်ညီပါ</string>
@@ -261,10 +263,10 @@
     <string name="convert_to_file_encryption_enabled">ကူးပြောင်းမည်…</string>
     <string name="convert_to_file_encryption_done">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသည်</string>
     <string name="title_convert_fbe">ဖိုင်များကို လျှို့ဝှက်ကုဒ်ခံထားသောအနေထားသို့ ပြောင်းနေသည်</string>
-    <string name="convert_to_fbe_warning">"Convert data partition to file based encryption.
- Warning: This will erase all your data.
- This feature is being developed, and may not work correctly.
- Press 'Wipe and convert…' to continue."</string>
+    <string name="convert_to_fbe_warning">"ဒေတာပိုင်ခြားခြင်းမှ လျှို့ဝှက်ကုဒ်ခံဖိုင်သို့ ပြောင်းမည်။
+ သတိပေးချက်-ဤလုပ်ဆောင်ချက်သည် သင်၏ဒေတာအားလုံးကို ဖျက်ပစ်လိမ့်မည်။
+ ဤအင်္ဂါရပ်သည် စမ်းသပ်နေဆဲဖြစ်သောကြောင့် မှန်ကန်စွာအလုပ်လုပ်မည်မဟုတ်ပါ။
+ ဆက်လက်လုပ်ဆောင်ရန် 'ဖျက်ပစ်ပြီးပြောင်းလဲမည်…'ကို ထိနှိပ်ပါ။"</string>
     <string name="button_convert_fbe">ရှင်းလင်းပြောင်းလဲမည်…</string>
     <string name="picture_color_mode">ပုံအရောင်မုဒ်</string>
     <string name="picture_color_mode_desc">sRGB သုံးမည်</string>
@@ -274,8 +276,8 @@
     <string name="daltonizer_mode_protanomaly">Protanomaly (red-green)</string>
     <string name="daltonizer_mode_tritanomaly">Tritanomaly (blue-yellow)</string>
     <string name="accessibility_display_daltonizer_preference_title">အရောင် ချိတ်ဆက်ခြင်း</string>
-    <string name="accessibility_display_daltonizer_preference_subtitle">This feature is experimental and may affect performance.</string>
-    <string name="daltonizer_type_overridden">Overridden by %1$s</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">ဤအင်္ဂါရပ်သည် စမ်းသပ်နေဆဲဖြစ်သောကြောင့် စွမ်းဆောင်ရည် ကျစေနိုင်သည်။</string>
+    <string name="daltonizer_type_overridden">%1$s မှ ဖုံးအုပ်ပြီး</string>
     <string name="power_remaining_duration_only">Approx. %1$s left</string>
     <string name="power_remaining_duration_only_short">%1$s left</string>
     <string name="battery_info_status_unknown">အမည်မသိ</string>
@@ -478,9 +480,10 @@ d MMMM"</string>
     <string name="user_guide_for_toggle">အထိန်းခလုတ်စာရင်းကို အလျားလိုက် ထက်အောက်ရွှေ့နိုင်သည်</string>
     <string name="user_guide_for_toggle_list">အထိန်းခလုတ်များ စီမံပါ</string>
     <string name="activate_usb_title">USB သက်ဝင်ခလုတ်ဖွင့်ပါ</string>
-    <string name="activate_usb_message">ဒီအင်္ဂါရပ်ကို သက်ဝင်ခလုတ်ဖွင့်ရန်၊ သင်၏ SIM ကတ်ကို ထည့်သွင်းပါ။</string>
+    <string name="activate_usb_message">ဒီအင်္ဂါရပ်ကို သက်ဝင်ခလုတ်ဖွင့်ရန်၊ သင်၏ SIM ကဒ်ကို ထည့်သွင်းပါ။</string>
     <string name="usb_function_charging_text">အားသွင်းသုံးနည်းပုံစံထဲတွင် ချိတ်ဆက်ထားသည်</string>
     <string name="return_to_incall_screen">ဖုန်းခေါ်ရန် ပြန်သွားပါ</string>
+    <string name="call_status_holding">ကိုင်ထားသည်</string>
     <string name="call_status_dialing">ဖုန်းခေါ်နေဆဲ</string>
     <string name="call_status_ringing">ဖုန်းဝင်သောမြည်သံ</string>
     <string name="reject_call">ခေါ်ဖုန်းပယ်ချသည်</string>

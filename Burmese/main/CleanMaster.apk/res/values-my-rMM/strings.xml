@@ -142,7 +142,7 @@
     <string name="toast_garbage_list_empty">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေသည်!</string>
     <string name="hints_quick_cleanning">သန့်ရှင်းရေးလုပ်နေဆဲ…</string>
     <string name="hints_quick_prepare">ပြင်ဆင်နေ…</string>
-    <string name="start_downloading_app">စတင်ဒေါင်းလုတ်လုပ်နေ−%1$s</string>
+    <string name="start_downloading_app">ဒေါင်းလုဒ်စလုပ်နေသည်−%1$s</string>
     <string name="hints_finish_quick_scan">စကန်လုပ်ခြင်း ပြီးသွားပါပြီ</string>
     <string name="hints_finish_quick_cleanup">ပြီးပါပြီ</string>
     <string name="hints_finish_quick_cleanup_title">%s အမှိုက် သန့်ရှင်းရေးလုပ်ပါ</string>
@@ -188,7 +188,7 @@
     <string name="notification_summary_of_garbage_cleanup">သင့်အမှိုက်က %s ထက် ကျော်နေသည်။</string>
     <string name="notification_summary_after_auto_cleanup">%s ကို ရှင်းပစ်ထားသည်။</string>
     <string name="toast_uninstall_success">ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
-    <string name="toast_app_no_residual_on_sdcard">အက်ပ်သည် မည်သည့်ဖိုင်များကိုမှ သင်၏ SD ကတ်၌ သိုလှောင်ထားခြင်း မရှိပါ</string>
+    <string name="toast_app_no_residual_on_sdcard">အက်ပ်သည် မည်သည့်ဖိုင်များကိုမှ သင်၏ SD ကဒ်၌ သိုလှောင်ထားခြင်း မရှိပါ</string>
     <string name="last_check_canceled">ယခင် စကင်ကို ပယ်ဖျက်ခဲ့သည်</string>
     <string name="default_cache_type">ဒေတာဖိုင်များ</string>
     <string name="deepclean_normal_title">အလိုလို ရှင်းပစ်ပါ</string>
@@ -294,7 +294,7 @@
     <string name="installed">ထည့်သွင်းပြီး</string>
     <string name="install_sucess">%s ကိုအောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="open_app">ဖွင့်</string>
-    <string name="downloading">ဒေါင်းလုဒ်လုပ်နေ</string>
+    <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
     <string name="empty">" "</string>
@@ -350,7 +350,7 @@
     <string name="deepclean_list_item_from_download">ဒေါင်းလုဒ်များ</string>
     <string name="deepclean_list_item_from_music">တေးဂီတ</string>
     <string name="deepclean_list_item_from_miui">MIUI</string>
-    <string name="deepclean_list_item_from_sdcard">SD ကတ်</string>
+    <string name="deepclean_list_item_from_sdcard">SD ကဒ်</string>
     <string name="deepclean_size_summary_less">ဤစက်တွင် နေရာလွတ်နည်းလာနေပြီ</string>
     <string name="deepclean_size_summary_not_enough">နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="deepclean_size_summary_normal">သိုလ်လှောင်နေရာရရှိနိုင်သော</string>
@@ -376,7 +376,7 @@
     <string name="activity_title_video">ဗီဒီယိုအားဖျက်မည်လား</string>
     <string name="deepclean_video_content">ကြည့်ပြီးသား သို့မဟုတ် မလိုအပ်သော ဗီဒီယိုများအား ဖျက်ပစ်ပါ</string>
     <string name="deepclean_video_summary_empty">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေသည်</string>
-    <string name="hints_video_download">ဒေါင်းလုဒ်လုပ်ထားသောဗီဒီယိုများ</string>
+    <string name="hints_video_download">ဒေါင်းလုဒ်လုပ်ထားသော ဗီဒီယိုများ</string>
     <string name="hints_video_camera">ရိုက်ယူထားသော ဗီဒီယိုများ</string>
     <string name="summary_delete_video">ရွေးထားသော ဗီဒီယိုများအား အမြဲတမ်းဖျက်ပစ်မည်လား?</string>
     <string name="empty_title_video">ဖျက်ရန် ဗီဒီယိုများမရှိပါ</string>

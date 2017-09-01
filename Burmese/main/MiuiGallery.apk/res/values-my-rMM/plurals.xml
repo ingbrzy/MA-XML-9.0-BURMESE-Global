@@ -25,31 +25,31 @@
         <item quantity="other">လူ%d သို့ ဝေမျှခဲ့သည်</item>
     </plurals>
     <plurals name="picker_all_image_need_download">
-        <item quantity="other">ရွေးထားသော ဓါတ်ပုံမှာ ဤစက်ပေါ်တွင် မရှိပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုတ်လုပ်မည်လား?</item>
+        <item quantity="other">ရွေးထားသော ဓါတ်ပုံမှာ ဤစက်ပေါ်တွင် မရှိပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုဒ်လုပ်မည်လား?</item>
     </plurals>
     <plurals name="picker_all_origin_need_download">
-        <item quantity="other">ရွေးထားသော ဓါတ်ပုံ၏(%dMB) မှာစက်ပေါ်တွင် မရှိပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုတ်လုပ်မည်လား?</item>
+        <item quantity="other">ရွေးထားသော ဓါတ်ပုံ၏(%dMB) မှာစက်ပေါ်တွင် မရှိပါ။ မိုဘိုင်းဒေတာအား အသုံးပြုပြီး ဒေါင်းလုဒ်လုပ်မည်လား?</item>
     </plurals>
     <plurals name="picker_all_image_will_download">
-        <item quantity="other">ရွေးထားသော ပုံမှာ စက်ပေါ်တွင် ရှိမနေပါ။ ၄င်းအား ဒေါင်းလုတ်လုပ်လိုက်လိမ့်မည်။</item>
+        <item quantity="other">ရွေးထားသော ပုံမှာ စက်ပေါ်တွင် ရှိမနေပါ။ ၄င်းအား ဒေါင်းလုဒ်လုပ်လိုက်လိမ့်မည်။</item>
     </plurals>
     <plurals name="picker_skip_unavailable_images">
         <item quantity="other">စက်ပေါ်တွင် မရှိသော ဓါတ်ပုံ %d ပုံအား ကျော်သွားခဲ့သည်</item>
     </plurals>
     <plurals name="picker_retry_image_confirm_message">
-        <item quantity="other">ဓါတ်ပုံ %1$d ပုံအား ဒေါင်းလုတ်လုပ်၍မရခဲ့ပါ၊ ပြန်လုပ်ကြည့်မည်လား?</item>
+        <item quantity="other">ဓါတ်ပုံ %1$d ပုံအား ဒေါင်းလုဒ်လုပ်၍မရပါ၊ ပြန်လုပ်ကြည့်မည်လား?</item>
     </plurals>
     <plurals name="picker_no_network_retry_image_confirm_message">
-        <item quantity="other">ဓါတ်ပုံ %1$dပုံအား ဒေါင်းလုတ်မလုပ်နိုင်ခဲ့ပါ၊ ကွန်ရက်သို့ချက်ဆက်ပြီး ထပ်လုပ်ကြည့်ပါ</item>
+        <item quantity="other">ဓါတ်ပုံ %1$dပုံအား ဒေါင်းလုဒ်လုပ်၍မရပါ၊ ကွန်ရက်သို့ချက်ဆက်ပြီး ထပ်လုပ်ကြည့်ပါ</item>
     </plurals>
     <plurals name="picker_retry_origin_confirm_message">
-        <item quantity="other">ဓါတ်ပုံ %1$d ပုံအား ဒေါင်းလုတ်လုပ်၍မရပါ(%2$dMB)၊ ပြန်လုပ်ကြည့်မည်လား?</item>
+        <item quantity="other">ဓါတ်ပုံ %1$d ပုံအား ဒေါင်းလုဒ်လုပ်၍မရပါ(%2$dMB)၊ ပြန်လုပ်ကြည့်မည်လား?</item>
     </plurals>
     <plurals name="picker_no_network_retry_origin_confirm_message">
-        <item quantity="other">ဓါတ်ပုံ %1$d ပုံ(%2$dMB) ဒေါင်းလုတ်မလုပ်နိုင်ခဲ့ပါ၊ ကွန်ရက်သို့ချိတ်ဆက်ပြီး ထပ်ကြိုးစားကြည့်ပါ</item>
+        <item quantity="other">ဓါတ်ပုံ %1$d ပုံ(%2$dMB) ဒေါင်းလုဒ်လုပ်၍မရပါ၊ ကွန်ရက်သို့ချိတ်ဆက်ပြီး ထပ်ကြိုးစားကြည့်ပါ</item>
     </plurals>
     <plurals name="picker_cancel_confirm_message">
-        <item quantity="other">ကျန်ရှိနေသော ဓါတ်ပုံ%d ပုံဒေါင်းလုတ်လုပ်ခြင်းအား ဖျက်သိမ်းမည်လား?</item>
+        <item quantity="other">ကျန်ရှိနေသော ဓါတ်ပုံ %d ပုံဒေါင်းလုဒ်လုပ်ခြင်းအား ပယ်ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">ကလောက်ပုံ %d ပုံပေါင်းထည့်ခဲ့သည်၊ ကြည့်ရန်အတွက် \"ဖုန်းတွင်းဓါတ်ပုံများကိုသာ ပြပါ\"အား ပိတ်လိုက်ပါ။</item>
@@ -121,10 +121,10 @@
         <item quantity="other">အိုင်တမ် %1$d ခုအရန်သိမ်းနေ…</item>
     </plurals>
     <plurals name="download_error">
-        <item quantity="other">ဖိုင် %1$d ခုဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ</item>
+        <item quantity="other">ဖိုင် %1$d ခု ဒေါင်းလုဒ်မလုပ်နိုင်ခဲ့ပါ</item>
     </plurals>
     <plurals name="download_retry_message">
-        <item quantity="other">ဖိုင် %1$d အားဒေါင်းလုတ်မလုပ်နိုင်ခဲ့ပါ၊ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးကြည့်ပြီး ပြန်လုပ်ကြည့်ပါ</item>
+        <item quantity="other">ဖိုင် %1$d ခု ဒေါင်းလုဒ်လုပ်၍မရပါ၊ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးကြည့်ပြီး ပြန်လုပ်ကြည့်ပါ</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">အိုင်တမ် %dခုရွေးချယ်ထားသော</item>

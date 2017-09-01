@@ -45,7 +45,7 @@
         <item quantity="other">အက်ပ် %d ခုကို တွေ့ရှိခဲ့သည်</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
-        <item quantity="other">အက်ပ် %d ခု ကောင်းမွန်စွာအလုပ်မလုပ်သဖြင့် ဘက်ထရီအားမခံပါ</item>
+        <item quantity="other">အက်ပ် %d ခု ပုံမှန်အလုပ်မလုပ်သဖြင့် ဘက်ထရီအားမခံပါ</item>
     </plurals>
     <plurals name="power_center_battery_day">
         <item quantity="other">"%d ရက် "</item>
@@ -72,10 +72,10 @@
         <item quantity="other">ဘက်ထရီပြဿနာ %dခု တွေ့ရှိခဲ့</item>
     </plurals>
     <plurals name="people">
-        <item quantity="other">လူ%1$d မှ ဒေါင်းလုတ်လုပ်ထားသော</item>
+        <item quantity="other">လူ %1$d ယောက်မှ ဒေါင်းလုဒ်လုပ်ထားသည်</item>
     </plurals>
     <plurals name="people_million">
-        <item quantity="other">လူ%1$d မှ ဒေါင်းလုတ်လုပ်ထားသော</item>
+        <item quantity="other">လူ %1$d ယောက်မှ ဒေါင်းလုဒ်လုပ်ထားသည်</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">ကြည့်ရှု့မှု %1$d ခု</item>
@@ -105,7 +105,7 @@
         <item quantity="other">အက်ပ် %d ခုအား ကာကွယ်ထား</item>
     </plurals>
     <plurals name="title_virus_clean">
-        <item quantity="other">Cleared %d viruses</item>
+        <item quantity="other">ဗိုင်းရပ်စ် %d ခု ရှင်းလင်းလိုက်သည်</item>
     </plurals>
     <plurals name="hints_auto_start_enable_title">
         <item quantity="other">%d အက်ပ်စ်သည် အလိုအလျောက်စတင်နိုင်ပါသည်</item>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုတ်လုပ်ခဲ့သည်</item>
+        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်ခဲ့သည်</item>
     </plurals>
     <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုတ်လုပ်လုပ်နေ</item>
+        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်နေသည်</item>
     </plurals>
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">အိုင်တမ် %d ခုကို ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">ဒေါင်းလုတ် %d ခုအား ဖယ်ရှားခဲ့သည်</item>
+        <item quantity="other">ဒေါင်းလုဒ် %d ခုအား ဖယ်ရှားခဲ့သည်</item>
     </plurals>
     <plurals name="Ntracks_search_result">
         <item quantity="other">သီချင်း %d ပုဒ်ရှာတွေ့ခဲ့သည်</item>

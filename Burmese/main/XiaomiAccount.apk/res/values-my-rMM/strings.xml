@@ -82,16 +82,16 @@
     <string name="passport_quick_login_dialog_title">စကားဝှက် မှန်ကြောင်း အတည်ပြုပါ</string>
     <string name="passport_quick_login_dialog_step2_title">မှန်ကြောင်းအတည်ပြုခြင်း ၂-ဆင့်</string>
     <string name="passport_delete_account">ထွက်ပါ</string>
-    <string name="passport_vcode_notification_title">သင်၏အကောင့်ထဲသို့ဝင်သည့်မှန်ကြောင်း အတည်ပြုကုဒ် မပြည့်စုံပါ</string>
+    <string name="passport_vcode_notification_title">သင်၏အကောင့်သို့ဝင်ရန် အတည်ပြုကုဒ် မပြည့်စုံပါ</string>
     <string name="passport_account_name">အကောင့်- %1$s</string>
     <string name="passport_account_hint_text">အီးမေးလ်လိပ်စာ၊ ဖုန်းနံပါတ် သို့မဟုတ် Mi အကောင့် ID</string>
     <string name="passport_email_or_id_hint_text">အီးမေးလ်လိပ်စာ သို့မဟုတ် Mi အကောင့် ID</string>
     <string name="passport_phone_num_hint_text">ဖုန်းနံပါတ်</string>
     <string name="passport_input_password_hint">စကားဝှက် ထည့်သွင်းပါ</string>
-    <string name="passport_input_captcha_hint">ကုဒ် ထည့်သွင်းပါ</string>
-    <string name="passport_input_vcode_hint">မှန်ကြောင်း အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
+    <string name="passport_input_captcha_hint">ကုဒ် ရိုက်ထည့်ပါ</string>
+    <string name="passport_input_vcode_hint">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_email">အီးမေးလ်လိပ်စာ</string>
-    <string name="passport_vcode_prompt_long">မှန်ကြောင်း အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
+    <string name="passport_vcode_prompt_long">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_input_phone_hint">ဖုန်းနံပါတ်ထည့်သွင်းပါ</string>
     <string name="passport_error_empty_username">သင့်အကောင့်ID အားရိုက်ထည့်ပါ</string>
     <string name="passport_error_invalid_phone_num">ဖုန်းနံပါတ် မမှန်ကန်ပါ</string>
@@ -102,7 +102,7 @@
     <string name="passport_error_empty_pwd">သင့် စကားဝှက်ကိုထည့်သွင်းပါ</string>
     <string name="passport_error_illegal_pwd">စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_error_empty_captcha_code">ရုပ်ပုံကုဒ် ရိုက်ထည့်ပါ</string>
-    <string name="passport_error_empty_vcode">မှန်ကြောင်း အတည်ပြုကုဒ် ထည့်သွင်းပါ</string>
+    <string name="passport_error_empty_vcode">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_i_know">ရပြီ</string>
     <string name="passport_retry">ထပ်ကြိုးစား</string>
     <string name="passport_back">နောက်သို့</string>
@@ -118,7 +118,7 @@
     <string name="passport_activing_account">အသက်သွင်းနေသည်…</string>
     <string name="passport_pwd_generating">ထုတ်လုပ်နေ…</string>
     <string name="passport_setting">သတ်မှတ်နေ…</string>
-    <string name="passport_trying_read_verify_code_sms">အတည်ပြုကုတ် ရယူနေ…</string>
+    <string name="passport_trying_read_verify_code_sms">အတည်ပြုကုဒ် ရယူနေ…</string>
     <string name="passport_adding_account">အကောင့် ပေါင်းထည့်နေသည်…</string>
     <string name="passport_sending_vcode">ကုဒ် ပေးပို့နေသည်…</string>
     <string name="passport_getting_activator_phone">SIMအချက်အလက် ရယူနေသည်…</string>
@@ -146,7 +146,7 @@
     <string name="passport_error_device_id">စက်ရဲ့ id မရရှိနိုင်ပါ</string>
     <string name="passport_error_invalid_dev_id">သင့်စက် ID ဘောင်မဝင်ပါ</string>
     <string name="passport_error_phone_error">ဖုန်းနံပါတ် မမှန်ကန်ပါ</string>
-    <string name="passport_error_sim_not_ready">SIM ကတ် ရှာမတွေ့ပါ</string>
+    <string name="passport_error_sim_not_ready">SIM ကဒ် ရှာမတွေ့ပါ</string>
     <string name="passport_error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="passport_error_ssl_hand_shake">ဆာဗာသို့ ဆက်သွယ်မရပါ</string>
     <string name="passport_error_server">ဆာဗာချို့ယွင်းမှု</string>
@@ -158,8 +158,8 @@
     <string name="passport_error_login">အကောင့်ထဲ ဝင်၍မရနိုင်ပါ</string>
     <string name="passport_relogin_notice">သင် အကောင့်ထဲသို့ ထပ်ဝင်ရန်လိုသည်</string>
     <string name="passport_copy_message_text_success">အောင်မြင်စွာကော်ပီကူးခဲ့သည်</string>
-    <string name="passport_copy_message_vcode">ကုတ်အား ကော်ပီကူး</string>
-    <string name="passport_message_dialog_title">အတည်ပြုကုတ်များနှင့်အတူ SMS များ</string>
+    <string name="passport_copy_message_vcode">ကုဒ်အား ကော်ပီကူး</string>
+    <string name="passport_message_dialog_title">အတည်ပြုကုဒ်များ ပါသော SMS</string>
     <string name="passport_trust_device">စက်များအား အတည်ပြုရန် ဤစက်အား ပေါင်းထည့်ပါ</string>
     <string name="passport_barcode_add_account_prompt">အကောင့်တစ်ခုကို ချိတ်ဆက်ရန်၊ သင် ဆိုင်းအင်ဝင်ပြီးနောက်တွင် QR ကုဒ်ကို စကင်ဖတ်ပါ။</string>
     <string name="passport_quick_register_notice"><u>Mi အကောင့် မရှိသေးဘူးလား? အကောင့်တစ်ခု ဖန်တီးလိုက်ပါ။</u></string>
@@ -268,7 +268,7 @@
     <string name="failed_dup_secure_phone_number">ဒီဖုန်းနံပါတ်က အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်</string>
     <string name="confirm_phone_number_dialog_title">ဖုန်းနံပါတ် အတည်ပြုပါ။</string>
     <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်တစ်ခု အတည်ပြုပါ။</string>
-    <string name="confirm_phone_number_dialog_message">%s သို့အတည်ပြုကုတ် ပေးပို့မည်။</string>
+    <string name="confirm_phone_number_dialog_message">%s သို့အတည်ပြုကုဒ် ပေးပို့မည်။</string>
     <string name="confirm_unbundled_phone_dialog_message">ဖုန်းနံပါတ် %1$s သည်Mi အကောင့် %2$s နှင့်ဆက်စပ်နေပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့်ဆက်စပ်တော့မည်မဟုတ်။ ဆက်လက်လုပ်ဆောင်မည်လား?</string>
     <string name="change_phone_number">ဖုန်းနံပါတ် ပြောင်းပါ</string>
     <string name="change_email_address">အီးမေးလ်လိပ်စာ ပြောင်းပါ</string>
@@ -324,7 +324,7 @@
     <string name="delete_device_notice">ကိရိယာကို ဖယ်ရှားပြီးနောက်တွင်၊ ၎င်းက သင်၏ Mi အကောင့်ကနေ အလိုလို ဆိုင်းအောက်ထွက်ပါလိမ့်မည်။ သင့်အနေနှင့် ဓာတ်ပုံများ၊ မက်ဆေ့ခ်ျများ (သို့) သင့်အကောင့်၌ သိမ်းထားသော အခြား အကြောင်းအရာကို ဝင်ကြည့်ဖို့၊ ဒီကိရိယာအား သုံးနိုင်တော့မည်မဟုတ်ပါ။</string>
     <string name="delete_device_btn">ဖယ်ရှားပါ</string>
     <string name="phone_activated">%s အတွက် သက်ဝင်ခလုတ်ဖွင့်ပြီးပြီ</string>
-    <string name="no_sim_card_or_unactivated">SIM ကတ်မတပ်ဆင်ထားပါ သို့မဟုတ် အသက်ဝင်မနေပါ</string>
+    <string name="no_sim_card_or_unactivated">SIM ကဒ်မတပ်ဆင်ထားပါ သို့မဟုတ် အသက်ဝင်မနေပါ</string>
     <string name="remove_device_success_notice">ဒီကိရိယာကို သင်ယုံကြည်ရသော ကိရိယာများမှ ဖယ်ရှားပါက၊ သင် ဆိုင်းအင်ဝင်သောအခါ မှန်ကြောင်း အတည်ပြုလုပ်ငန်းစဉ်ကို ထပ်မံလုပ်ဖို့ လိုအပ်နိုင်သည်။</string>
     <string name="device_delete_success_title">ဆိုင်းအောက်ထွက်ထားသည်</string>
     <string name="device_delete_success_message">အကယ်၍ ဒီကိရိယာပေါ်၌ သင် ဆိုင်းအင်မဝင်ခဲ့ပါက၊ သင့်စကားဝှက်ကို ချက်ချင်း ပြောင်းပါ။</string>
@@ -398,7 +398,7 @@
     <string name="push_notification_title">အမည်မသိစက်တစ်ခုတွင် သင့်Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ခဲ့ပါသည်</string>
     <string name="push_notification_content">အတည်ပြုကုဒ် ရယူပါ</string>
     <string name="push_notify_dialog_title">အကောင့်အတည်ပြုခြင်း</string>
-    <string name="push_notify_dialog_message">သင့်Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ရန် အမည်မသိစက်တစ်လုံးကို သုံးခဲ့သည်။ ဤအတည်ပြုခြင်း ကုတ်အား စက်ပေါ်တွင် ရိုက်ထည့်ပါ။ အကယ်၍သင်မဟုတ်ပါ၊ သင့်Mi အကောင့်စကားဝှက်အား ချက်ခြင်း ရှင်းပြစ်ပါ။ အတည်ပြုခြင်းကုတ်အား အခြားသူများကို မပြပါနှင့်။</string>
+    <string name="push_notify_dialog_message">သင့်Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ရန် အမည်မသိစက်တစ်လုံးကို သုံးခဲ့သည်။ ဤအတည်ပြုကုဒ်အား စက်ပေါ်တွင် ရိုက်ထည့်ပါ။ အကယ်၍သင်မဟုတ်ပါ၊ သင့်Mi အကောင့်စကားဝှက်အား ချက်ခြင်း ပြောင်းပါ။ အခြားသူများကို အတည်ပြုကုဒ် မပြပါနှင့်။</string>
     <string name="account_secure_info_pref_title">အကောင့်အချက်အလက်</string>
     <string name="account_user_email">အီးမေးလ်</string>
     <string name="account_user_phone">ဖုန်း</string>
@@ -411,14 +411,14 @@
     <string name="account_protection_off">ပိတ်ပါ</string>
     <string name="logout_account">ဆိုင်းအောက်ထွက်</string>
     <string name="mipay">Pay</string>
-    <string name="mipay_bank_card">ဘဏ်ကတ်</string>
-    <string name="mipay_transit_card">သယ်ယူပို့ဆောင်ရေးကတ်</string>
+    <string name="mipay_bank_card">ဘဏ်ကဒ်</string>
+    <string name="mipay_transit_card">သယ်ယူပို့ဆောင်ရေးကဒ်</string>
     <string name="mipay_balance">လက်ကျန်</string>
     <string name="mipay_others">အခြားသော</string>
     <string name="mipay_identity">ID အတည်ပြုခြင်း</string>
     <string name="mipay_indentity_done">ပြီးပါပြီ။</string>
     <string name="mipay_identitiy_no">မရှိသေးပါ။</string>
     <string name="account_token_expired_title">မှန်ကန်ကြောင်းအတည်ပြုခြင်း မအောင်မြင်ပါ။</string>
-    <string name="account_token_expired_msg">"အတည်ပြုကုတ်သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
+    <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
 </resources>

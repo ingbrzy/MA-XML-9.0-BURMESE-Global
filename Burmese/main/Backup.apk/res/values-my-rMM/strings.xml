@@ -9,7 +9,7 @@
     <string name="xiaomi_bytes_unit">%1$sB</string>
     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုတ်မစတင်နိုင်ခဲ့ပါ။ဒေါင်းလုတ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်နေကြောင်း စစ်ဆေးပါ။</string>
+    <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_home_title">စက်အတွင်းတွင် အရန်သိမ်းပါ</string>
@@ -21,7 +21,7 @@
     <string name="backup_items_sysdata_tailer">" စက်စနစ် ဒေတာဖိုင်များ၊"</string>
     <string name="backup_items_app_tailer">" အက်ပ် ဒေတာဖိုင်များ"</string>
     <string name="backup_failed">အရန်မသိမ်းနိုင်ခဲ့ပါ</string>
-    <string name="sdcard_unmounted">SD ကတ် ယခု ထည့်သွင်းပါ</string>
+    <string name="sdcard_unmounted">SD ကဒ်ကို ယခု ထည့်သွင်းမည်</string>
     <string name="backup_progress">အရန်သိမ်းဆည်းနေ…</string>
     <string name="button_ok">အိုကေ</string>
     <string name="button_continue">ဆက်လုပ်ရန်</string>
@@ -95,7 +95,7 @@
     <string name="task_restore_none">နဂိုနေရာပြန်ထားဖို့ ဘာမှမရှိပါ</string>
     <string name="task_stopped_exception">နဂိုနေရာပြန်ထားရန် ပယ်ဖျက်ခဲ့သည်</string>
     <string name="sdcard_no_enough_space">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
-    <string name="sdcard_no_enough_space_message">သင်၏ SD ကတ်၌ နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
+    <string name="sdcard_no_enough_space_message">သင်၏ SD ကဒ်၌ နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="data_no_enough_space_message">သင့်ကိရိယာ၏ အတွင်းပိုင်းမှတ်ဉာဏ် နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="task_running_hint">ဤလုပ်ငန်းစဉ်က နောက်ခံတွင် အလုပ်လုပ်နေပြီးသား ဖြစ်သည်</string>
     <string name="task_running_dialog">အရန်သိမ်းခြင်းနှင့် နဂိုနေရာပြန်ထားခြင်းတို့က လုပ်ဆောင်ဆဲ ဖြစ်သည်</string>
@@ -136,7 +136,7 @@
     <string name="local_select_sysdata">စက်စနစ်</string>
     <string name="local_select_userapp">အက်ပ်များ</string>
     <string name="local_select_account_contact">အကောင့်များနှင့် &amp; အဆက်အသွယ်များ</string>
-    <string name="local_select_files">SD ကတ်</string>
+    <string name="local_select_files">SD ကဒ်</string>
     <string name="local_select_image">ရုပ်ပုံများ</string>
     <string name="local_select_audio">အသံဖိုင်များ</string>
     <string name="local_select_video">ဗီဒီယိုများ</string>
@@ -164,7 +164,7 @@
     <string name="cloud_search">ရှာဖွေနေဆဲ…</string>
     <string name="cloud_no_backup">အရန်သိမ်းခြင်းများ မရှိပါ</string>
     <string name="current_account">ဟိုင်း %s</string>
-    <string name="current_sim">လက်ရှိ SIM ကတ်</string>
+    <string name="current_sim">လက်ရှိ SIM ကဒ်</string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
@@ -176,7 +176,7 @@
     <string name="cloud_item_info_summary">" (ဒေသခံကွန်ရက်: %1$s | Mi Cloud: %2$s)"</string>
     <string name="total_num">%d အမယ်များ၊</string>
     <string name="cloud_restore_guide">%s အတွက် သုံးသူဒေတာကို နဂိုနေရာပြန်ထားရန်၊ နဂိုနေရာပြန်ထားပါကို တို့ထိပါ</string>
-    <string name="import_from_xiaomi_account_hint1">"၁။\u0009Mi Talk အက်ပ်ကို ဒေါင်းလုတ်လုပ်ပြီး၊ ဆိုင်းအင်ဝင်ပါ။
+    <string name="import_from_xiaomi_account_hint1">"၁။\u0009Mi Talk အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပြီး၊ ဆိုင်းအင်ဝင်ပါ။
 \u0009http://www.miliao.com
 
 ၂။\u0009Mi Talk ဆက်တင်များသို့ သွား၍၊ “အဆက်အသွယ်များကို Mi အကောင့်သို့ အရန်သိမ်းခြင်းလုပ်ပါ” ကို ရွေးပါ"</string>
@@ -208,11 +208,11 @@
     <string name="system_backup_info">စက်စနစ်ဆက်တင်များနှင့် အိမ်မျက်နှာပြင် အဆင်အပြင်</string>
     <string name="software_backup_info">အက်ပ်ဒေတာ</string>
     <string name="account_contact_backup_info">Google အကောင့်၊ Mi အကောင့်နှင့် အဆက်အသွယ်များ ဒေတာ</string>
-    <string name="files_backup_info">SD ကတ်ထဲရှိဖိုင်အားလုံး(ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်ဖြင့်)</string>
+    <string name="files_backup_info">SD ကဒ်ထဲရှိဖိုင်အားလုံး(ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်ဖြင့်)</string>
     <string name="select_backup_item">အမယ်များ ရွေးပါ</string>
     <string name="restore_data">အမယ်များကို နဂိုနေရာပြန်ထားရန် ရွေးပါ</string>
     <string name="backup_data">အမယ်များကို အရန်သိမ်းခြင်းလုပ်ရန် ရွေးပါ</string>
-    <string name="sd_not_available">SD ကတ် ယခု ထည့်သွင်းပါ</string>
+    <string name="sd_not_available">SD ကဒ် ယခု ထည့်သွင်းပါ</string>
     <string name="never">လုံးဝမလုပ်</string>
     <string name="every_day">နေ့တိုင်း</string>
     <string name="select_storage_location">အရန်သိမ်းခြင်းတည်နေရာ ရွေးပါ</string>
@@ -226,6 +226,7 @@
     <string name="file_uploading">အပ်လုတ်တင်နေဆဲ…</string>
     <string name="new_backup">အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">စက္ကန့်မျှသာ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -297,8 +298,8 @@
     <string name="trans_progress_subdescript_transing_receiver">လက်ခံနေ%1$s၊ %2$s ပြီးမြောက်ခဲ့</string>
     <string name="trans_progress_subdescript_transingsd_sender">ဖိုင်များပေးပို့နေ၊ %s ပြီးမြောက်ခဲ့</string>
     <string name="trans_progress_subdescript_transingsd_receiver">ဖိုင်များလက်ခံရယူနေ−%s ပြီးမြောက်ခဲ့</string>
-    <string name="trans_progress_subdescript_transingsddata_sender">SD ကတ်ဖိုင် %1$s ခုပေးပို့နေသည်၊ %2$s ခု ပြီးမြောက်ခဲ့ပြီ</string>
-    <string name="trans_progress_subdescript_transingsddata_receiver">SD ကတ်ဖိုင် %1$s ခုလက်ခံနေသည်၊ %2$s ခု ပြီးမြောက်ခဲ့ပြီ</string>
+    <string name="trans_progress_subdescript_transingsddata_sender">SD ကဒ်ဖိုင် %1$s ခုပေးပို့နေသည်၊ %2$s ခု ပြီးမြောက်ခဲ့ပြီ</string>
+    <string name="trans_progress_subdescript_transingsddata_receiver">SD ကဒ်ဖိုင် %1$s ခုလက်ခံနေသည်၊ %2$s ခု ပြီးမြောက်ခဲ့ပြီ</string>
     <string name="trans_progress_subdescript_br_sender">အရန်သိမ်းနေ %1$s၊ %2$s ပြီးမြောက်ခဲ့</string>
     <string name="trans_progress_subdescript_br_receiver">ပြန်ရယူနေ %1$s၊ %2$s ပြီးမြောက်ခဲ့</string>
     <string name="trans_progress_subdescript_waiting">လက်ခံရရှိရန်စောင့်နေ%s</string>
@@ -312,7 +313,7 @@
     <string name="trans_generate_qr_code_failed">QR ကုဒ်ဖန်တီး၍မရပါ</string>
     <string name="trans_scan_invalid_qrcode">QR ကုဒ်မမှန်ကန်သော</string>
     <string name="trans_scan_qr_code_tips">QR ကုဒ်အား စက်အသစ်တစ်ခုသုံးပြီး စကန်ဖတ်ပါ</string>
-    <string name="trans_show_qr_code_label">စက်အဟ​ောင်းသို့ ချိတ်ဆက်ပါ</string>
+    <string name="trans_show_qr_code_label">စက်အဟောင်းသို့ ချိတ်ဆက်ပါ</string>
     <string name="trans_show_qr_code_tips">QR ကုဒ်အား စက်အဟောင်းသုံးပြီး စကန်ဖတ်ပါ</string>
     <string name="trans_operate_new_phone_tips">QR ကုဒ်တစ်ခုဖန်တီးရန် ဆက်တင်များ>ထပ်ဆောင်းဆက်တင်များ>Mi Mover သို့သွားရောက်၍ [ကျွန်ုပ်သည်လက်ခံသူ]အား ထိနှိပ်ပါ</string>
     <string name="trans_operate_func_one">နည်းလမ်း A</string>
@@ -348,4 +349,9 @@
     <string name="user_notice_message">အချို့လုပ်ဆောင်မှုများသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်ချိတ်ဆက်မှုလိုအပ်ပါသည်</string>
     <string name="user_notice_declaration_ignore">နောက်ထပ်မပြပါနှင့်</string>
     <string name="total_size">၊ %s</string>
+    <string name="btn_got_it">နားလည်ပါပြီ</string>
+    <string name="backup_security_tips_title">အရန်သိမ်းခြင်း အလုပ်မလုပ်ပါ</string>
+    <string name="backup_security_tips_message">အချို့အက်ပ်များသည် အရန်သိမ်းဆည်းခြင်းနှင့် ပြန်လည်ရယူခြင်း လုပ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
+    <string name="trans_security_tips_title">Mi Mover လိုက်ဖက်မှု</string>
+    <string name="trans_security_tips_message">အချို့အက်ပ်များသည် Mi Moverအား မပံ့ပိုးပါ။</string>
 </resources>
