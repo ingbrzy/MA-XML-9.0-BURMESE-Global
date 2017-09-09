@@ -127,14 +127,6 @@
         <item>အများဆုံးလုပ်ငန်းစဉ်(၃)ခု</item>
         <item>အများဆုံးလုပ်ငန်းစဉ်(၄)ခု</item>
     </string-array>
-    <string-array name="usb_configuration_titles">
-        <item>@string/usb_use_charging_only</item>
-        <item>MTP (Media Transfer Protocol)</item>
-        <item>PTP (Picture Transfer Protocol)</item>
-        <item>RNDIS (USB Ethernet)</item>
-        <item>အော်ဒီယိုအရင်းမြစ်</item>
-        <item>MIDI</item>
-    </string-array>
     <string-array name="tts_rate_entries">
         <item>အလွန်နှေးသည်</item>
         <item>နှေးသည်</item>
@@ -145,17 +137,6 @@
         <item>သွက်သွက်</item>
         <item>အရမ်းသွက်စွာ</item>
         <item>အမြန်ဆုံး</item>
-    </string-array>
-    <string-array name="tts_rate_values">
-        <item>60</item>
-        <item>80</item>
-        <item>100</item>
-        <item>150</item>
-        <item>200</item>
-        <item>250</item>
-        <item>300</item>
-        <item>350</item>
-        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>တောက်ပ (ပုံသေ)</item>
@@ -180,11 +161,6 @@
         <item>သော့ခတ်မျက်နှာပြင်ပေါ်နှင့် အသိပေးချက်ရှိတ်တွင်သာ ပြပါ</item>
         <item>ဖုန်းလိုင်းဝန်ဆောင်မှုအမည်ကို အမြဲပြပါ</item>
         <item>ဖုန်းလိုင်းဝန်ဆောင်မှုအမည်ကို ဘယ်တော့မှ မပြပါနှင့်</item>
-    </string-array>
-    <string-array name="status_bar_show_carrier_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>အမေရိကား</item>
@@ -231,17 +207,6 @@
         <item>အကြီးစား</item>
         <item>ဧရာမ</item>
     </string-array>
-    <string-array name="wifi_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-        <item>@string/wifi_security_eap</item>
-    </string-array>
-    <string-array name="wifi_security_no_eap">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_wep</item>
-        <item>@string/wifi_security_psk_generic</item>
-    </string-array>
     <string-array name="wifi_ap_security">
         <item>@string/wifi_security_none</item>
         <item>@string/wifi_security_eap</item>
@@ -260,13 +225,6 @@
         <item>TLS</item>
         <item>TTLS</item>
         <item>PWD</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_full">
-        <item>@string/wifi_ap_choose_2G</item>
-        <item>@string/wifi_ap_choose_5G</item>
-    </string-array>
-    <string-array name="wifi_ap_band_config_2G_only">
-        <item>@string/wifi_ap_choose_2G</item>
     </string-array>
     <string-array name="wifi_p2p_wps_setup">
         <item>နှိပ်ရန်ခလုတ်</item>
@@ -302,11 +260,6 @@
         <item>ကြိုးဖြင့်ဆက်ထားသည့်အခါသာ</item>
         <item>မည်သည့်အခါမှ</item>
     </string-array>
-    <string-array name="wifi_sleep_policy_values">
-        <item>2</item>
-        <item>1</item>
-        <item>0</item>
-    </string-array>
     <string-array name="data_usage_data_range">
         <item>နောက်ဆုံး ရက် ၃၀</item>
         <item>သုံးစွဲမှု စက်ဝန်း သတ်မှတ်ရန်...</item>
@@ -315,11 +268,6 @@
         <item>အလိုအလျောက်</item>
         <item>၅ GHzသာ</item>
         <item>၂.၄ GHz သာ</item>
-    </string-array>
-    <string-array name="wifi_frequency_band_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="usage_stats_display_order_types">
         <item>အသုံးပြုကြာချိန်</item>
@@ -612,18 +560,9 @@
         <item>ဆယ်လူလာအား ပိုနှစ်သက်သော</item>
         <item>ကြိုးမဲ့အင်တာနက် သာလျှင်</item>
     </string-array>
-    <string-array name="wifi_calling_mode_values">
-        <item>၂</item>
-        <item>၁</item>
-        <item>၀</item>
-    </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Wi-Fi ကိုပိုနှစ်စက်သည်</item>
         <item>ဆယ်လ်လူလာကို ပိုနှစ်သက်သည်</item>
-    </string-array>
-    <string-array name="wifi_calling_mode_values_without_wifi_only">
-        <item>၂</item>
-        <item>၁</item>
     </string-array>
     <string-array name="haptic_feedback_level_texts">
         <item>ပိတ်ရန်</item>
@@ -740,14 +679,6 @@
         <item>@string/msd_install_retry_connect</item>
         <item>MiPhoneManager ကို ပြန်တပ်ဆင်ပါ။</item>
     </string-array>
-    <string-array name="msd_pc_system_retry_vista">
-        <item>@string/msd_install_retry_connect</item>
-    </string-array>
-    <string-array name="msd_pc_system_retry_mac">
-        <item>@string/msd_install_retry_reinstall_mac</item>
-        <item>@string/msd_install_retry_connect</item>
-        <item>@string/msd_install_retry_reinstall</item>
-    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
         <item>အညွှန်းဖိုလ်ဒါတစ်ခု ဖန်တီးပါ: အညွှန်းဖိုလ်ဒါလုပ်ခြင်း /မီဒီယာ/ပုံလွှဲပြောင်းမှုပရိုတိုကော</item>
@@ -808,19 +739,10 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>comtible mode</item>
         <item>high mode</item>
     </string-array>
-    <string-array name="connect_mode_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="traffic_balance_entries">
         <item>ပိတ်ပါ</item>
         <item>သာမန်မုဒ်</item>
         <item>အစွန်းရောက်မုဒ်</item>
-    </string-array>
-    <string-array name="traffic_balance_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="preferred_app_entries">
         <item>အစပျိုးစက်</item>
@@ -855,16 +777,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>အလတ်</item>
         <item>မြင့်</item>
     </string-array>
-    <string-array name="whetstone_level_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-    </string-array>
-    <string-array name="agps_network_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_network_entries">
         <item>ပင်မကွန်ရက်</item>
         <item>ကွန်ရက်အားလုံး</item>
@@ -873,18 +785,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
-    <string-array name="agps_apn_values">
-        <item>0</item>
-        <item>1</item>
-    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
-    </string-array>
-    <string-array name="agps_reset_type_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>ပူသောအချိန်</item>
@@ -895,11 +798,6 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>၄.၅ လက်မ</item>
         <item>၄.၀ လက်မ</item>
         <item>၃.၅ လက်မ</item>
-    </string-array>
-    <string-array name="handy_mode_size_value_entries">
-        <item>4.5</item>
-        <item>4.0</item>
-        <item>3.5</item>
     </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>ချက်ချင်း</item>
@@ -997,11 +895,6 @@ Note: Only for Ubuntu 8.04!"</item>
     <string-array name="screen_button_style">
         <item>ဘယ်လက်သုံးပုံစံ</item>
         <item>ညာလက်သုံးပုံစံ</item>
-    </string-array>
-    <string-array name="screen_resolution_format">
-        <item>@string/screen_resolution_ultrahigh_format</item>
-        <item>@string/screen_resolution_high_format</item>
-        <item>@string/screen_resolution_normal_format</item>
     </string-array>
     <string-array name="edge_touch_volume_action">
         <item>Click adjust - Double click trigger</item>
@@ -1300,170 +1193,12 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ပါရာမာရီဘို</item>
         <item>ကွီတို</item>
     </string-array>
-    <string-array name="silent_entries">
-        <item>@string/standard</item>
-        <item>@string/total</item>
-    </string-array>
-    <string-array name="silent_values">
-        <item>1</item>
-        <item>3</item>
-    </string-array>
     <string-array name="silent_mode_duration_text">
         <item>အမြဲတမ်း</item>
         <item>၃၀ မိနစ်</item>
         <item>၁ နာရီ</item>
         <item>၂ နာရီ</item>
         <item>၈ နာရီ</item>
-    </string-array>
-    <string-array name="silent_mode_duration_value">
-        <item>0</item>
-        <item>30</item>
-        <item>60</item>
-        <item>120</item>
-        <item>480</item>
-    </string-array>
-    <string-array name="click_bottom">
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom02</item>
-        <item>\@drawable/clickbottom03</item>
-        <item>\@drawable/clickbottom04</item>
-        <item>\@drawable/clickbottom05</item>
-        <item>\@drawable/clickbottom06</item>
-        <item>\@drawable/clickbottom07</item>
-        <item>\@drawable/clickbottom08</item>
-        <item>\@drawable/clickbottom03</item>
-        <item>\@drawable/clickbottom02</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-        <item>\@drawable/clickbottom01</item>
-    </string-array>
-    <string-array name="long_press">
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom02</item>
-        <item>\@drawable/longpressbottom03</item>
-        <item>\@drawable/longpressbottom04</item>
-        <item>\@drawable/longpressbottom05</item>
-        <item>\@drawable/longpressbottom06</item>
-        <item>\@drawable/longpressbottom07</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom08</item>
-        <item>\@drawable/longpressbottom09</item>
-        <item>\@drawable/longpressbottom10</item>
-        <item>\@drawable/longpressbottom11</item>
-        <item>\@drawable/longpressbottom04</item>
-        <item>\@drawable/longpressbottom03</item>
-        <item>\@drawable/longpressbottom02</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-        <item>\@drawable/longpressbottom01</item>
-    </string-array>
-    <string-array name="power_click">
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick02</item>
-        <item>\@drawable/powerclick03</item>
-        <item>\@drawable/powerclick04</item>
-        <item>\@drawable/powerclick05</item>
-        <item>\@drawable/powerclick06</item>
-        <item>\@drawable/powerclick07</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-    </string-array>
-    <string-array name="power_double_click">
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick02</item>
-        <item>\@drawable/powerclick03</item>
-        <item>\@drawable/powerclick04</item>
-        <item>\@drawable/powerclick05</item>
-        <item>\@drawable/powerclick06</item>
-        <item>\@drawable/powerclick07</item>
-        <item>\@drawable/powerclick02</item>
-        <item>\@drawable/powerclick03</item>
-        <item>\@drawable/powerclick04</item>
-        <item>\@drawable/powerclick05</item>
-        <item>\@drawable/powerclick06</item>
-        <item>\@drawable/powerclick07</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-        <item>\@drawable/powerclick01</item>
-    </string-array>
-    <string-array name="three_drop">
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop01</item>
-        <item>\@drawable/threedrop02</item>
-        <item>\@drawable/threedrop03</item>
-        <item>\@drawable/threedrop04</item>
-        <item>\@drawable/threedrop05</item>
-        <item>\@drawable/threedrop06</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
-        <item>\@drawable/threedrop07</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>နေ့တိုင်း</item>
@@ -1508,12 +1243,5 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ပုံမှန်</item>
         <item>မြင့်မားခြင်း</item>
         <item>အလွန်မြင့်မားခြင်း</item>
-    </string-array>
-    <string-array name="tts_pitch_values">
-        <item>50</item>
-        <item>80</item>
-        <item>100</item>
-        <item>120</item>
-        <item>150</item>
     </string-array>
 </resources>
