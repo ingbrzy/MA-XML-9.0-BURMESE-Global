@@ -25,8 +25,8 @@
         <item>1GB</item>
     </string-array>
     <string-array name="auto_process_mode">
-        <item>အသိပေးချက်ဖြင့် ချက်ချင်းမေးပါ။</item>
-        <item>Clean in background</item>
-        <item>Show notification after clean</item>
+        <item>အသိပေးပါ</item>
+        <item>ရှင်းပစ်ပါ</item>
+        <item>ရှင်းလင်းပြီး အသိပေးပါ</item>
     </string-array>
 </resources>

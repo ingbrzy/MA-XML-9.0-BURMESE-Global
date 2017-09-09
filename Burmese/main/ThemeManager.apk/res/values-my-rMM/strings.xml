@@ -3,10 +3,10 @@
     <string name="resource_app_name">အရင်းအမြစ်ဘရောက်ဇာ</string>
     <string name="resource_delete">ဖျက်ပစ်ပါ</string>
     <string name="resource_price_free">အခမဲ့</string>
-    <string name="resource_price_unit"> Mi အကြ​ွေးဝယ်ကတ်များ</string>
+    <string name="resource_price_unit"> Mi ငွေဝယ်ကဒ်များ</string>
     <string name="resource_price_format">(%1$s)</string>
-    <string name="sdcard_not_mounted_dialog_title">မည်သည့် SD ကတ်ကိုမှ ရှာမတွေ့ပါ</string>
-    <string name="sdcard_not_mounted_dialog_message">"SD ကတ် ယခု ထည့်သွင်းပါ။
+    <string name="sdcard_not_mounted_dialog_title">မည်သည့် SD ကဒ်ကိုမှ ရှာမတွေ့ပါ</string>
+    <string name="sdcard_not_mounted_dialog_message">"SD ကဒ် ယခု ထည့်သွင်းပါ။
 "</string>
     <string name="resource_mute">မရှိ</string>
     <string name="resource_default">မူလသတ်မှတ် ဖုန်းမြည်သံ</string>

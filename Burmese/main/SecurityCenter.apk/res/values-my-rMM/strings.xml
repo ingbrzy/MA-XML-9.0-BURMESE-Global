@@ -1133,6 +1133,7 @@ Rolled over extra data"</string>
     <string name="button_text_update_now">အပ်ဒိတ်လုပ်ရန်</string>
     <string name="button_text_fix_now">ပြုပြင်ရန်</string>
     <string name="button_text_open_now">ဖွင့်ရန်</string>
+    <string name="button_text_forbid_now">Forbid</string>
     <string name="button_text_disconnect_now">ချိတ်ဆက်မှုဖြုတ်ရန်</string>
     <string name="apps_item_sms_reset_button_text">မူလဆက်တင်အတိုင်း ပြန်လည်သတ်မှတ်ရန်</string>
     <string name="apps_item_sms_title">မက်ဆေ့ချ်ပို့ခြင်း မူလဆက်တင်များ</string>
@@ -1562,6 +1563,11 @@ Rolled over extra data"</string>
     <string name="virus_auto_update_engine">Auto updates：%s</string>
     <string name="hints_scan_danger_result">Risk found, fix now</string>
     <string name="ss_activity_main_support_text">%s ဖြင့်ပံ့ပိုးထားသည်</string>
+    <string name="hints_virus_app_summary">%s (အက်ပ်)</string>
+    <string name="hints_virus_apk_summary">%s (apk)</string>
+    <string name="hints_risk_name_title">အန္တရာယ်-</string>
+    <string name="hints_risk_descx_title">ဖော်ပြချက်-</string>
+    <string name="button_text_clear">ရှင်းပစ်မည်</string>
     <string name="toast_removed_from_virus_white_list">ခြွင်းချက်များမှ ဖယ်ရှားခဲ့သည်။ အိုင်တမ်အား နောက်မှ စကန်ဖတ်လိမ့်မည်။</string>
     <string name="long_click_dialog_title">ဂရုစိုက်ခြင်း</string>
     <string name="long_click_dialog_summary">ခြွင်းချက်များသို့ပေါင်းထည့်ရန် စာရင်းထဲရှိ ရလဒ်များအား ထားထားပါ</string>
@@ -1620,6 +1626,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ရှင်းလင်း</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>
@@ -1999,8 +2006,8 @@ Rolled over extra data"</string>
     <string name="net_booster_overdue_notification">ကွန်ရက်အရှိန်မြှင့်တင်မှု သက်တမ်းကုန်ဆုံးတော့မည်</string>
     <string name="net_booster_overdue_notification_tip">ကွန်ရက်အရှိန်မြှင့်တင်မှု သက်တမ်း မကြာမီကုန်ဆုံးတော့မည်ဖြစ်သည်။ ဆက်လက် သုံးစွဲမည်လား?</string>
     <string name="net_booster_expire_notification">ကွန်ရက်အရှိန်မြှင့်တင်မှု သက်တမ်းကုန်ဆုံးတော့မည်</string>
-    <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
     <string name="xunyou_pay_webview">Xunyou ဝန်ဆောင်မှုများ</string>
+    <string name="net_booster_expire_notification_tip">%d d remaining before Network speed boost session ends. Renew the session to avoid network speed problems.</string>
     <string name="power_center_consume_rank">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="power_center_custom_title">ဘက်ထရီ ပရိုဖိုင်များ</string>
     <string name="power_center_auto_shutdown_summary_default">သင့်ကိရိယာကို စီစဥ်ထားသော အချိန်အတိုင်း ပါဝါ ဖွင့်ပါ (သို့) ပိတ်ပါ။</string>

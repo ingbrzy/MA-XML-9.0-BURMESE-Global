@@ -318,7 +318,7 @@
     <string name="change_default_dialer_dialog_title">%s အား မူလသတ်မှတ်ထားသော ဖုန်းအက်ပ်အဖြစ် အသုံးပြုမည်လား?</string>
     <string name="change_default_dialer_dialog_affirmative">Set Default</string>
     <string name="change_default_dialer_dialog_negative">ပယ်ဖျက်မည်။</string>
-    <string name="change_default_dialer_warning_message">%s သည် ဖုန်းခေါ်ဆိုမှုနှင့်ထိန်းချုပ်မှုအားလုံးကို လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။ သင်ယုံကြည်စိတ်ချရသော အက်ပ်ကိုသာ မူလဖုန်းအက်ပ်အဖြစ် သတ်မှတ်ပါ။</string>
+    <string name="change_default_dialer_warning_message">%s သည် ဖုန်းခေါ်ဆိုမှုနှင့်ထိန်းချုပ်မှုအားလုံးကို လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။ သင်ယုံကြည်စိတ်ချရသော အက်ပ်ကိုသာ ပုံသေဖုန်းအက်ပ်အဖြစ် သတ်မှတ်ပါ။</string>
     <string name="blocked_numbers">ဘလော့လုပ်ထားသောနံပါတ်များ</string>
     <string name="blocked_numbers_msg">"You won't receive calls or texts from blocked numbers."</string>
     <string name="block_number">နံပါတ်တစ်ခု ထည့်မည်</string>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_insufficient_space_on_external">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ SD ကတ်တွင် နေရာအလုံအလောက်မရှိပါ။</string>
+    <string name="dialog_insufficient_space_on_external">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ SDကဒ်တွင် နေရာအလုံအလောက်မရှိပါ။</string>
     <string name="dialog_insufficient_space_on_cache">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ အတွင်းပိုင်းသိုလှောင်ခန်းနေရာ အလုံအလောက်မရှိပါ။</string>
     <string name="auto_restart_under_wifi">Wi-Fi နှင့် ချိတ်ဆက်မိပါက ဖိုင်အား ဒေါင်းလုဒ်လုပ်ပါလိမ့်မည်</string>
     <string name="task_already_exist">လုပ်ငန်းစဉ်ရှိပြီး</string>
@@ -210,7 +210,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="playback_failed_no_title_by_bad_file">ဤသီချင်းပုံစံကို မထောက်ပံ့ပါ သို့မဟုတ် ဖိုင်မရှိပါ။</string>
     <string name="streamloadingtext">%s သို့ချိတ်ဆက်နေပါသည်</string>
     <string name="toast_new_playlist_name_too_long">သီချင်းစာရင်း အမည် ရှည်လွန်းနေသည်</string>
-    <string name="toast_new_playlist_name_no_enter">"'Enter'ကီးကို ဖျက်ပစ်လိုက်ပြီ"</string>
+    <string name="toast_new_playlist_name_no_enter">စာပိုဒ်သစ်တစ်ခု မစတင်နိုင်ပါ</string>
     <string name="error_title">Mi စာရင်း ဖြင့် ဆင်းမ် လုပ်မရပါ</string>
     <string name="error_unauthorized">ဝင်ရောက်ခြင်းအကြိမ်များလွန်းသဖြင့် ဆင်းမ်ကို ပိတ်ထားခံပါသည်။</string>
     <string name="error_forbidden">သင့် Mi အကောင့်တွင် ပြဿနာရှိနေသောကြောင့် ဆင့်ခ်လုပ်ခြင်းကို ပိတ်ထားသည်။</string>
@@ -847,8 +847,8 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="talkback_favorite">ဤသီးချင်းအား ကြိုက်သည်</string>
     <string name="talkback_progress">တိုးတက်မှု ဘား</string>
     <string name="talkback_back">နောက်ပြန်သွား</string>
-    <string name="talkback_nowplaying_circle">Play Circle</string>
-    <string name="talkback_nowplaying_bar">Play Bar</string>
+    <string name="talkback_nowplaying_circle">Play circle</string>
+    <string name="talkback_nowplaying_bar">Play bar</string>
     <string name="cloud_music">Mi ကလောက်ရှိ သီချင်းများ</string>
     <string name="backup_immediate">အရန်သိမ်းပါ</string>
     <string name="backup_song_title">အရန်သိမ်းရန် သီချင်းများ ရွေးပါ</string>

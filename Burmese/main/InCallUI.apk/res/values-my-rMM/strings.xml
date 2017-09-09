@@ -67,7 +67,7 @@
     <string name="card_title_threeway_call">သုံးဖက် ခေါ်ဆိုခြင်း</string>
     <string name="card_title_incoming_call">အဝင်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_answering">ဖုန်းဖြေဆိုနေသည်</string>
-    <string name="card_title_answering_fail">ဖုန်းဖြေဆို၍မရပါ၊ ထပ်မံကြိုးစားပါ။</string>
+    <string name="card_title_answering_time_out">"Couldn't answer call, try again."</string>
     <string name="card_title_call_ended">"ခေါ်ဆိုခြင်းပြီးပြီ "</string>
     <string name="card_title_on_hold">"ကိုင်ထား "</string>
     <string name="card_title_hanging_up">"ချလိုက် "</string>
@@ -180,11 +180,7 @@
     <string name="do_not_ask">နောက်ထပ်မပြပါနှင့်</string>
     <string name="time_left_livetalk">(%dS)</string>
     <string name="can_not_call_oneself">အမည်မသိသောနံပါတ်ကို ခေါ်ဆိုလို့မရပါ</string>
-    <string name="jeejen_answer_call_text">ဖုန်းဖြေမည်</string>
-    <string name="jeejen_reject_call_text">ဖုန်းချမည်</string>
-    <string name="jeejen_end_call_text">ဖုန်းနားမည်</string>
-    <string name="jeejen_toggle_dialpad_text">ဖုန်းခေါ်ဆိုသည့်နေရာ</string>
-    <string name="miprofile_stranger_card">သူစိမ်းကတ်</string>
+    <string name="miprofile_stranger_card">သူစိမ်းကဒ်</string>
     <string name="card_title_video_call_paused">ဗီဒီယိုခေတ္တရပ်တန့်ခဲ့</string>
     <string name="card_title_incoming_conference_call">အဝင်ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
     <string name="video_switch_to_voice_call_prompt">အသံဖြင့်ခေါ်ဆိုမှုသို့ ပြောင်းလဲပါ</string>
@@ -239,10 +235,10 @@
     <string name="alert_dialog_dismiss">ဖယ်ပစ်ပါ</string>
     <string name="contactPhoto">အဆက်အသွယ်ဓာတ်ပုံ</string>
     <string name="call_record_button_label">မှတ်တမ်းတင်နေ %s</string>
-    <string name="livetalk_left_minute">%s မိနစ်ကျန်သေးသည်</string>
     <string name="call_self">မိမိနံပါတ်ကို မိမိပြန်ခေါ်၍မရနိုင်ပါ</string>
     <string name="cancel_call">ချလိုက်</string>
     <string name="dial_with_gsm_phone">ပုံမှန်ခေါ်ဆိုမှု</string>
+    <string name="livetalk_left_minute">%s မိနစ်ကျန်သေးသည်</string>
     <string name="purchase_now">ငွေဖြည့်</string>
     <string name="onscreen_rcs_text">မက်ဆေ့ချ်များ</string>
 </resources>

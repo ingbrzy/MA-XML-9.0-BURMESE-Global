@@ -61,11 +61,15 @@
     <string name="cancel_button">ဖျက်သိမ်း</string>
     <string name="list_empty_text">မရှိသော</string>
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
+    <string name="xspace_setting_label">双开设置</string>
+    <string name="xspace_account">双开帐号</string>
     <string name="declare_dialog_title">နှစ်ခုတွဲအက်ပ်အကြောင်း</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_introduce">အကြံပြုထားသော</string>
-    <string name="xspace_description">သီးခြားအသုံးပြုရန် dual အက်ပ်များ ဖန်တီးပါ။ Dual အက်ပ်များသည် အိမ်မျက်နှာပြင် အိုင်တမ်သီးခြား ရှိပါလိမ့်မည်။</string>
+    <string name="xspace_description">"双开应用将在桌面生成一个全新的应用副本，两者可同时运行互不影响。
+
+部分应用需要谷歌服务框架支持，双开这部分应用时会同步双开谷歌服务以保障体验。"</string>
     <string name="xspace_chocie">နှစ်ခုတွဲအက်ပ် အထောက်အပံ့</string>
     <string name="xspace_creating">နှစ်ခုတွဲအက်ပ် ဖန်တီးနေ…</string>
     <string name="xspace_installing">ထည့်သွင်းနေ…</string>
@@ -289,4 +293,24 @@
     <string name="gms_message">နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google ဝန်ဆောင်မှုများ လိုအပ်ပါသည်။ Google ဝန်ဆောင်မှုများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
     <string name="gms_title">Googleဝန်ဆောင်မှုများကို ဖွင့်မည်</string>
     <string name="gms_open_button">ဖွင့်မည်</string>
+    <string name="create_second_space">အောင်မြင်စွာ ဖန်တီးပြီးပါပြီ</string>
+    <string name="set_space_password">စကားဝှက် သတ်မှတ်ပါ</string>
+    <string name="set_space_finger">လက်ဗွေ သတ်မှတ်ပါ</string>
+    <string name="guide_start_text">စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။</string>
+    <string name="guide_start_ads_text">အသစ်တိုးမြှင့်ထားသော လုံခြုံရေးအဆင့်</string>
+    <string name="skip">ကျော်သွားပါ</string>
+    <string name="input_space_password">ယခု သတ်မှတ်မည်</string>
+    <string name="input_space_finger">ယခု သတ်မှတ်မည်</string>
+    <string name="space_finger_sub_text">လျင်မြန်စွာ ကူးပြောင်းရန် ဒုတိယအာကာသအတွက် လက်ဗွေသတ်မှတ်ပါ</string>
+    <string name="set_space_finger_sub_text_suc">လက်ဗွေကို အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ</string>
+    <string name="show_noti_from_owner">အခြားအာကာသမှ အသိပေးချက်များ</string>
+    <string name="show_noti_from_owner_detail">Receive notifications in the current space when they come to the other one</string>
+    <string name="show_noti_quick_switch_icon">အသိပေးချက်ရှိတ် ရှော့ကဒ်</string>
+    <string name="show_noti_quick_switch_icon_detail">အာကာသအကြား ကူးပြောင်းရန် အသိပေးချက်ရှိတ်တွင် ရှော့ကဒ်တစ်ခု ပြပါ</string>
+    <string name="show_decktop_quick_switch_icon">ပင်မမျက်နှာပြင် ရှော့ကဒ်</string>
+    <string name="show_decktop_quick_switch_icon_detail">အာကာသအကြား ကူးပြောင်းရန် ပထမအာကာသ၏ပင်မမျက်နှာပြင်တွင် ရှော့ကဒ်တစ်ခု ပြပါ</string>
+    <string name="has_created_second_space">"You can open Second space now.
+One device. Two spaces."</string>
+    <string name="privacy_password_fingerprint_dialog_title">သင့်လက်ဗွေအား စကန်ဖတ်ပါ</string>
+    <string name="privacy_password_fingerprint_dialog_message">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ပါ</string>
 </resources>

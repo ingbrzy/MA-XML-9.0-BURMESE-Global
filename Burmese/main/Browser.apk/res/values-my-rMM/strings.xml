@@ -167,6 +167,7 @@
     <string name="color_picker_dialog_title">အရောင် ရွေးပါ</string>
     <string name="color_picker_hue">ပကတိအရောင်</string>
     <string name="color_picker_saturation">တောက်ပမှုပြင်းအား</string>
+    <string name="color_picker_value">အာနိသင်</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -180,6 +181,7 @@
     <string name="contextmenu_dial_dot">ခေါ်ဆို…</string>
     <string name="contextmenu_download_image">ပုံသိမ်း</string>
     <string name="contextmenu_download_image_as">ပုံသိမ်း</string>
+    <string name="contextmenu_manually_block_ad">ကြော်ငြာအဖြစ်မှတ်ထားပါ</string>
     <string name="contextmenu_map">မြေပုံ</string>
     <string name="contextmenu_openlink">ဖွင့်</string>
     <string name="contextmenu_openlink_newwindow">တက်ဘ်အသစ်တွင် ဖွင့်ပါ</string>
@@ -267,13 +269,13 @@
     <string name="download_memory_info_avai">" ရရှိနိုင်သော%s|"</string>
     <string name="download_memory_info_total">" စုစုပေါင်း%s"</string>
     <string name="download_no_application_title">ဖိုင်အား မတွေ့ပါ။ ၄င်းအား သင် ပြောင်းရွှေ့ သို့မဟုတ် ဖျက်လိုက်ပါသလား?</string>
-    <string name="download_no_sdcard_dlg_msg">%sအား ဒေါင်းလုဒ်လုပ်ရန် SD ကတ်လိုအပ်ပါသည်</string>
-    <string name="download_no_sdcard_dlg_title">SD မရှိပါ</string>
+    <string name="download_no_sdcard_dlg_msg">%sအား ဒေါင်းလုဒ်လုပ်ရန် SD ကဒ်လိုအပ်ပါသည်</string>
+    <string name="download_no_sdcard_dlg_title">SD ကဒ်မရှိပါ</string>
     <string name="download_pending">ဒေါင်းလုဒ်စလုပ်နေသည်…</string>
     <string name="download_phone_tip">ဖုန်း</string>
     <string name="download_router_tip">Mi Router ထဲသို့ ဒေါင်းလုဒ်လုပ်ပါ</string>
-    <string name="download_sdcard_busy_dlg_msg">USB သိမ်းဆည်းမှုအလုပ်များ နေသည်။ ​ဒေါင်းလုဒ်လုပ်ရန် အသိပေးအချက်ပြချက်ဘားတွင် USB သိမ်းဆည်းမှုကို ပိတ်လိုက်ပါ။</string>
-    <string name="download_sdcard_busy_dlg_title">SIM ကတ် ရှိမနေပါ။</string>
+    <string name="download_sdcard_busy_dlg_msg">SD ကဒ် အလုပ်များ နေသည်။ ​ဒေါင်းလုဒ်လုပ်ရန် အသိပေးအချက်ပြချက်ဘားတွင် USB သိမ်းဆည်းမှုကို ပိတ်လိုက်ပါ။</string>
+    <string name="download_sdcard_busy_dlg_title">SIM ကဒ် ရှိမနေပါ။</string>
     <string name="download_status_failed">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="download_status_pending">စောင့်နေသည်</string>
     <string name="download_success">ပြီးမြောက်ပါပြီ</string>
@@ -505,7 +507,7 @@
     <string name="miuishare_title_share">မျှဝေခြင်း</string>
     <string name="miuishare_wechat_timeline_title">WeChat တိုင်းမ်လိုင်း</string>
     <string name="miuishare_weibo_title">Weibo</string>
-    <string name="modify_download_path_no_sdcard_dlg_msg">ဤလမ်းကြောင်းကို ပြုပြင်မွမ်းမံရန် SD ကတ်ကို လိုအပ်သည်</string>
+    <string name="modify_download_path_no_sdcard_dlg_msg">ဤလမ်းကြောင်းကို ပြုပြင်မွမ်းမံရန် SD ကဒ်ကို လိုအပ်သည်</string>
     <string name="month_picker_dialog_title">လ သတ်မှတ်ပါ</string>
     <string name="more_description">မီနူး</string>
     <string name="more_option">နောက်ထပ် ရွေးစရာများ</string>
@@ -558,8 +560,10 @@
     <string name="pref_accessibility_url_shortcut_enter_title">URL အမြန်ထည့်သွင်းမှု</string>
     <string name="pref_adblock_counts">%d ကိုဘလော့လုပ်သည်</string>
     <string name="pref_adblock_title">ကြော်ငြာ ဘလော့လုပ်သည့်အရာ</string>
+    <string name="pref_advert_null">Unmarked advertising,You can press the label on the page</string>
     <string name="pref_auto_update_under_wifi">Wi-Fi အား အသစ်မွမ်းမံနေသည်</string>
     <string name="pref_automatic_matching_searchengines_title">မကြာခဏ အသုံးများသော ရှာဖွေရေးအင်ဂျင်သို့ ပြောင်းလိုက်ပါ</string>
+    <string name="pref_cancel_screen">Cancel screen</string>
     <string name="pref_category_hint">အမျိုးအစားအုပ်စု</string>
     <string name="pref_check_security_url_summary">ဝဘ်ဆိုက် URL သည် လုံခြုံမှုရှိမရှိ စစ်ဆေးရန် ၎င်းကို Mi ဆာဗာသို့ ပို့ပါ</string>
     <string name="pref_check_security_url_summary_international">ပိုမိုသင့်လျော်သော အကြံပြုချက်များရရှိနိုင်ရန် ဘရောက်ဇာကို သင်လည်ပတ်ခဲ့သော ဝက်ဘ်ဆိုက်များမှ URL များကို ဝင်ရောက်ခွင့်ပြုပါ။</string>
@@ -603,6 +607,7 @@
     <string name="pref_force_userscalable_summary">ဝက်ဘ်မှချုံ့ချဲ့ခြင်းရာ တောင်ဆိုမှုများအား ပယ်ချပါ</string>
     <string name="pref_general_title">အထွေထွေ</string>
     <string name="pref_key_gesture_title">ခလုတ်များ &amp; လက်ဟန်များ</string>
+    <string name="pref_label_advert_manager">Manager labelled ads</string>
     <string name="pref_nav_mode_summary_pad">Pad</string>
     <string name="pref_nav_mode_summary_phone">ဖုန်း</string>
     <string name="pref_nav_mode_title">ဘရောက်ဇာမုဒ်</string>
@@ -726,7 +731,7 @@
     <string name="save_to_camera_success">ပြခန်းသို့ သိမ်းပါ</string>
     <string name="scanner_uninstalled_text">ဆက်လုပ်ရန် စကန်နာတပ်ဆင်ပါ</string>
     <string name="scanner_uninstalled_title">စကန်နာကို တပ်ဆင်ပြီးပြီ</string>
-    <string name="sdcard_error">သင့် SD ကတ်ကို စစ်ဆေးပါ</string>
+    <string name="sdcard_error">သင့် SD ကဒ်ကို စစ်ဆေးပါ</string>
     <string name="search">ရှာ​ဖွေ</string>
     <string name="search_baidu">Baidu</string>
     <string name="search_bing">Bing</string>
@@ -789,7 +794,7 @@
     <string name="start_save_page_capture">မျက်နှာပြင်ရိုက်ချက်သိမ်းနေ…</string>
     <string name="storage_internal">အတွင်းသိုလှောင်ခန်း</string>
     <string name="storage_permission_request_toast">ဒေါင်းလုဒ်သည် သင့်စက်၏သိုလှောင်မှုသို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်</string>
-    <string name="storage_sd_card">SD ကတ်</string>
+    <string name="storage_sd_card">SD ကဒ်</string>
     <string name="storage_usb">USB သိုလှောင်ခန်း</string>
     <string name="suggest_access_appstore">Mi အက်ပ်စတိုး</string>
     <string name="suggest_access_btn_install">ထည့်သွင်း</string>
@@ -908,11 +913,14 @@
     <string name="view_certificate">ထောက်ခံချက်လက်မှတ်အား ကြည့်ရှု</string>
     <string name="view_document_downloaded_files">ဒေါင်းလုဒ်ဖိုင်များကို ဒေါင်းလုဒ်တွင် ကြည့်ရှုပါ</string>
     <string name="voice_check_network">သင့်ကွန်ရက်ဆက်တင်များကို စစ်ဆေးပြီး ထပ်မံ ကြိုးစားကြည့်ပါ။</string>
+    <string name="voice_close_description">ပိတ်ပါ</string>
     <string name="voice_connect_network">ကွန်ရက်သို့ ချိတ်ဆက်မရနိုင်ခဲ့ပါ။</string>
     <string name="voice_description">အသံရှာ​ဖွေမည်</string>
     <string name="voice_network_connection">အသံဖြင့်ရှာဖွေခြင်းသည် ပုံမှန်အလုပ်လုပ်ရန် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်</string>
     <string name="voice_search_permission">အသံဖြင့် ရှာဖွေမှုသည် ပုံမှန်အလုပ်လုပ်ရန် Mic သို့ ချိတ်ဆက်ရန် လိုအပ်ပါသည်။</string>
     <string name="voice_semantic_analysis">ချိတ်ဆက်ခြင်းကို ခွင့််ပြုပြီးနောက် ဘရောက်ဇာသည် semantics များကို ခွဲခြမ်းစိတ်ဖြာ နိုင်ပါလိမ့်မည်။</string>
+    <string name="voice_start_description">စတင်ပါ</string>
+    <string name="voice_stop_description">ရပ်တန့်ပါ</string>
     <string name="voice_sub_title">ဘာပြောရမှန်း မသိဘူးလား? \"mi.com ကို ဖွင့်ပါ!\" ဟုကြိုးစားပြောကြည့်ပါ။</string>
     <string name="voice_title">သင့်အမိန့်ပေးချက်အားပြောပါ...</string>
     <string name="voice_title_distinguish">လုပ်ဆောင်နေ...</string>

@@ -21,7 +21,7 @@
     <string name="phone_locked_foget_password_mehod_back">နောက်သို့</string>
     <string name="phone_locked_foget_password_method_next">ရှေ့သို့</string>
     <string name="phone_locked_forget_password_suggesstions_title">ဒေတာကိုမည်သို့ဖျက်မည်နည်း?</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Power off your device, press and hold the &lt;font color=#a5220e>Power button &lt;/font> and the &lt;font color=#a5220e>Volume up button &lt;/font>simultaneously until you see ml.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Power off your device, press and hold the &lt;font color=#a5220e>Power button &lt;/font> and the &lt;font color=#a5220e>Volume up button &lt;/font>simultaneously until you see the Mi logo.</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်;</Data></string>
     <string name="phone_locked_foget_password_ok">ရပြီ</string>
     <string name="lockscreen_access_pattern_start">ပုံစံ စတင်ပြီးပြီ</string>
@@ -41,7 +41,7 @@
     <string name="invalid_confirm_pin_hint">PINs မကိုက်ညီပါ</string>
     <string name="unlock_string">သော့ဖွင့်ပါ</string>
     <string name="open_camera_hint_text">ကင်မရာဖွင့်ရန် ဘယ်ဘက်သို့ ပွတ်ဆွဲပါ။</string>
-    <string name="open_remote_center_hint_text">Swipe right to open mi remote</string>
+    <string name="open_remote_center_hint_text">Mi ရီမုကို ဖွင့်ရန် ညာဘက်သို့ ပွတ်ဆွဲပါ</string>
     <string name="click_to_enter_text">ကြည့်ရန် နှိပ်ပါ</string>
     <string name="fingerprint_try_again_text">ထပ်ကြိုးစား</string>
     <string name="fingerprint_try_again_msg">သင့်ဘက်ဗွေအား အတည်မပြုရသေးပါ၊ ထပ်မံကြိုးစားကြည့်ပါ</string>
@@ -57,7 +57,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
-    <string name="input_password_handle_sdcard_fs">进入分身前需要在开发者选项中关闭“模拟SD卡优化”</string>
+    <string name="input_password_handle_sdcard_fs">Turn off \"Emulated SD card optimization\" before entering Second space.</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>

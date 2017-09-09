@@ -7,6 +7,7 @@
     <string name="passport_login_title">သင်၏ Mi အကောင့်သို့ ဝင်ပါ။</string>
     <string name="passport_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_relogin">ထပ်မံ ဝင်ပါ</string>
+    <string name="passport_instant_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_skip_login">ကျော်</string>
     <string name="passport_skip_setup_account_title">သတ်မှတ်ဖွဲ့စည်းမှုကို ကျော်ပါ</string>
     <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
@@ -180,6 +181,11 @@
     <string name="passport_account_set_password_title">စကားဝှက်သတ်မှတ်ပါ</string>
     <string name="passport_account_set_password_prompt">နောက်တစ်ကြိမ် ဆိုင်းအင်ဝင်ရန် သင့်အကောင့်အတွက် စကားဝှက်တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="passport_set">သတ်မှတ်ပါ။</string>
+    <string name="passport_user_reg_region">နိုင်ငံ/ဒေသ</string>
+    <string name="passport_user_id_notice">您的小米ID是: %s</string>
+    <string name="passport_user_reg_region_warning">အကောင့်အား ဖန်တီးပြီးနောက် သင်၏နိုင်ငံ/ဒေသကို ပြောင်းလဲ၍ ရနိုင်လိမ့်မည်မဟုတ်ပါ</string>
+    <string name="passport_sync_account_data">正在同步您的帐号数据</string>
+    <string name="passport_sync_account_data_failed_warning">您的帐号数据有延迟,将只能使用小米ID登录。若使用邮箱/手机登录,请稍等几分钟</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
     <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
@@ -201,7 +207,7 @@
     <string name="no_response_retry">တုံ့ပြန်မှု မရှိပါ၊ ကျေးဇူးပြု၍ ထပ်ကြိုးစားပါ။</string>
     <string name="removing_account">ဆိုင်းအောက်ထွက်ပါ…</string>
     <string name="delete_bank_card_title">သင့်ဘဏ်ကတ်အား ဖျက်နေသည်</string>
-    <string name="delete_bank_card_message">လုံခြုံရေးကြောင့် သင်ဆိုင်းအောက်ထွက်လိုက်သည်နှင့် ဘဏ်ကတ်အချက်အလက်များအား ဖျက်ပစ်လိုက်လိမ့်မည်။</string>
+    <string name="delete_bank_card_message">လုံခြုံရေးအကြောင်းကြောင့် ဆိုင်းအောက်ထွက်လိုက်သည်နှင့် သင့်ဘဏ်ကဒ်အချက်အလက်များအား ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="bind_settings">အကောင့်များ</string>
     <string name="sina_weibo">စီနားဝေဘို</string>
     <string name="bind_sina_weibo">Sina Weibo အကောင့်ကို ချိတ်ဆက်ပါ</string>
@@ -306,8 +312,9 @@
     <string name="account_xiaomi_service">ဝန်ဆောင်မှုများ</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>
-    <string name="vip_more_info">VIP အချက်အလက် ပိုမို၍</string>
     <string name="xiao_mi_vip">Mi VIP</string>
+    <string name="mi_vip_info">查看我的特权</string>
+    <string name="vip_settings_info">我的数据中心</string>
     <string name="loading_micloud_sync_data">ခဏလောက်စောင့်…</string>
     <string name="activity_not_found_notice">အပလီကေးရှင်းအား ရှာဖွေ၍မရနိုင်ပါ</string>
     <string name="scan_barcode_title">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန်၊ QR ကုဒ်ကို စကင်ဖတ်ပါ။</string>
@@ -421,4 +428,5 @@
     <string name="account_token_expired_title">မှန်ကန်ကြောင်းအတည်ပြုခြင်း မအောင်မြင်ပါ။</string>
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
+    <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် ဆိုင်းအင်ဝင်ရန် လုံခြုံရေးဖုန်းတစ်ခု ပေါင်းထည့်ပါ</string>
 </resources>

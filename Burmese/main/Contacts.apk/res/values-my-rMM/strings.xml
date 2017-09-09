@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="contacts_setting_title">အဆက်အသွယ် ဆက်တင်များ</string>
-    <string name="search_contacts_setting">အဆက်အသွယ် ဆက်တင်များ၊ ဓာတ်ပုံများပြသခြင်းနှင့်အချက်အလက်၊ အဆက်အသွယ် ဓာတ်ပုံများသတ်မှတ်ခြင်း၊တင်သွင်းနှင့်တင်ပို့၊မျှဝေခြင်း၊ SD ကတ်မှတင်သွင်း၊SIM ကတ်မှတင်သွင်း၊အခြားဖုန်းမှတင်သွင်း၊SD ကတ်မှတင်ပို့၊SIM ကတ်မှတင်ပို့၊အဆက်အသွယ်များမျှဝေခြင်း၊ ပြသစိတ်ကြိုက်များ၊မပြည့်စုံသောနံပါတ်များအား ကွယ်ဝှက်၊SIMအဆက်အသွယ်များပြသ၊အဆက်အသွယ် စာရင်းအားစီမံ၊စမတ် အုပ်စုများ၊အဆက်အသွယ်များအား စီမံခန့်ခွဲ၊ ပွားယူထားသောအဆက်အသွယ်များအား ပေါင်းစပ်ပါ၊အစုလိုက်ဖယ်ရှားပါ၊ဒေတာအားရှင်းပစ်ပါ၊အညွှန်းကိန်းဒေတာအား ပြန်တည်ဆောက်၊ SIM ကတ်များ၊SIM ကတ်သိုလှောင်ခန်း၊အဆက်အသွယ်များပြန်ရယူမှု မိတ်ဆက်၊အဆက်အသွယ် ဓာတ်ပုံများ</string>
+    <string name="search_contacts_setting">အဆက်အသွယ် ဆက်တင်များ၊ ဓာတ်ပုံများပြသခြင်းနှင့်အချက်အလက်၊ အဆက်အသွယ် ဓာတ်ပုံများသတ်မှတ်ခြင်း၊တင်သွင်းနှင့်တင်ပို့၊မျှဝေခြင်း၊ SD ကဒ်မှတင်သွင်း၊SIM ကဒ်မှတင်သွင်း၊အခြားဖုန်းမှတင်သွင်း၊SD ကဒ်မှတင်ပို့၊SIM ကဒ်မှတင်ပို့၊အဆက်အသွယ်များမျှဝေခြင်း၊ ပြသစိတ်ကြိုက်များ၊မပြည့်စုံသောနံပါတ်များအား ကွယ်ဝှက်၊SIMအဆက်အသွယ်များပြသ၊အဆက်အသွယ် စာရင်းအားစီမံ၊စမတ် အုပ်စုများ၊အဆက်အသွယ်များအား စီမံခန့်ခွဲ၊ ပွားယူထားသောအဆက်အသွယ်များအား ပေါင်းစပ်ပါ၊အစုလိုက်ဖယ်ရှားပါ၊ဒေတာအားရှင်းပစ်ပါ၊အညွှန်းကိန်းဒေတာအား ပြန်တည်ဆောက်၊ SIM ကဒ်များ၊SIM ကဒ်သိုလှောင်ခန်း၊အဆက်အသွယ်များပြန်ရယူမှု မိတ်ဆက်၊အဆက်အသွယ် ဓာတ်ပုံများ</string>
     <string name="path_contacts_setting">စနစ်အက်ပ်များ/အဆက်အသွယ်များ</string>
     <string name="path_simple_mode">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ဓါတ်ပုံများနှင့် အချက်အလက်များ ပြသခြင်း</string>
     <string name="search_simple_mode">ပြသင်ခြင်း−အချက်အလက်−ဓါတ်ပုံများ−အဆက်အသွယ်များ</string>
@@ -11,14 +11,14 @@
     <string name="search_import_export">တင်သွင်း−တင်ပို့−ဝေမျှ</string>
     <string name="path_import_from_sdcard">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/သိမ်းဆည်းထားသော အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
     <string name="search_import_from_sdcard">အဆက်အသွယ်များ−တင်ပို့−သိုလှောင်ခန်း</string>
-    <string name="path_import_from_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/SIM ကတ်မှ အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
-    <string name="search_import_from_sim">အဆက်အသွယ်များ−တင်သွင်း−SIM ကတ်</string>
+    <string name="path_import_from_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/SIM ကဒ်မှ အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
+    <string name="search_import_from_sim">အဆက်အသွယ်များ−တင်သွင်း−SIM ကဒ်</string>
     <string name="path_import_from_other_phone">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အခြားဖုန်းမှ အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
     <string name="search_import_from_other_phone">အဆက်အသွယ်များ−တင်ပို့−အခြားဖုန်း</string>
     <string name="path_export_to_sdcard">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/တင်သွင်း/တင်ပို့ သိမ်းဆည်းထားသော အဆက်အသွယ်များ တင်ပို့/သိုလှောင်မှုမှ တင်ပို့</string>
     <string name="search_export_to_sdcard">အဆက်အသွယ်များ−တင်ပို့−သိုလှောင်ခန်း</string>
-    <string name="path_export_to_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/တင်သွင်း/တင်ပို့ SIM ကတ်မှ အဆက်အသွယ်များ တင်ပို့</string>
-    <string name="search_export_to_sim">အဆက်အသွယ်များ−တင်ပို့−SIM ကတ်</string>
+    <string name="path_export_to_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/တင်သွင်း/တင်ပို့ SIM ကဒ်မှ အဆက်အသွယ်များ တင်ပို့</string>
+    <string name="search_export_to_sim">အဆက်အသွယ်များ−တင်ပို့−SIM ကဒ်</string>
     <string name="path_share_visible_contacts">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ အဆက်အသွယ်များ တင်သွင်း/တင်ပို့/ဝေမျှထားသော အဆက်အသွယ်များ</string>
     <string name="search_share_visible_contacts">အဆက်အသွယ်များ−ဝေမျှ−မြင်နိုင်သော</string>
     <string name="path_contacts_display">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များ ပြသ</string>
@@ -237,7 +237,7 @@
     <string name="fail_reason_low_memory_during_import">မှတ်ဉာဏ် မလုံလောက်ပါ။ ဖိုင်က အလွန်ကြီးနေနိုင်သည်။</string>
     <string name="fail_reason_vcard_parse_error">မမျှော်လင့်သော အကြောင်းရင်းတစ်ခုကြောင့် vCard ကို ရုပ်တွက်လို့ မရပါ။</string>
     <string name="fail_reason_not_supported">ဖော်မတ်ပုံစံကို မပံ့ပိုးပေးပါ။</string>
-    <string name="vcard_import_failed">လိပ်စာကဒ် %s အား တင်သွင်းခြင်းမအောင်မြင်ခဲ့ပါ။</string>
+    <string name="vcard_import_failed">vCard %s အား တင်သွင်းခြင်းမအောင်မြင်ခဲ့ပါ။</string>
     <string name="import_failure_no_vcard_file">vCard ဖိုင်ကို သိုလှောင်ခန်း၌ ရှာမတွေ့ပါ။</string>
     <string name="fail_reason_failed_to_collect_vcard_meta_info">vCard ဖိုင်များ၏ မီဒီယာအင်ဖိုကို စုဆောင်းလို့ မရပါ။</string>
     <string name="fail_reason_failed_to_read_files">တစ်ခု (သို့) ၎င်းထက်ကျော်သော ဖိုင်များကို တင်သွင်းလို့ မရနိုင်ပါ (%s)။</string>
@@ -256,6 +256,7 @@
     <string name="vcard_export_will_start_message">%s ကို မကြာမီ ပို့သွင်းပါလိမ့်မည်။</string>
     <string name="vcard_export_request_rejected_message">vCard ပို့သွင်းမည်ဆိုသော တောင်းဆိုချက်ကို ပယ်ဖျက်ခဲ့သည်။ နောက်မှ ထပ်ကြိုးစားပါ။</string>
     <string name="vcard_unknown_filename">အဆက်အသွယ်</string>
+    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">အဆက်အသွယ်များကို ပို့သွင်းမလား။</string>
     <string name="confirm_export_message">သင့်အဆက်အသွယ်စာရင်းကို ဖိုင်သို့ ပို့သွင်းပါလိမ့်မည်: %s.</string>
     <string name="exporting_contact_failed_title">ပို့သွင်းလို့ မရပါ</string>
@@ -574,6 +575,7 @@
     <string name="sim_contacts">SIM ကဒ် အဆက်အသွယ်များ</string>
     <string name="export_sim_contact_finish">အဆက်အသွယ်များ ပို့ပြီးပါပြီ</string>
     <string name="sim_export_loading">UIM ကဒ်ကို ဖတ်နေဆဲ…</string>
+    <string name="sim_export_error">SIM အဆင်သင့်မဖြစ်သေးပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="sim_capacity">SIM ကဒ်နေရာလွတ်ကို ကြည့်ပါ</string>
     <string name="sim_error_not_ready">SIM အဆက်အသွယ်များကို ရယူနေသည်…</string>
     <string name="sim_contact_existing">အဆက်အသွယ် ရှိပြီးသားဖြစ်သည်</string>
@@ -591,27 +593,27 @@
     <string name="sim_account_name">SIM</string>
     <string name="miprofile_name">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
-    <string name="miprofile_account_type">ဆက်သွယ်မှု ကတ်များ</string>
-    <string name="contact_detail_miprofile_request">ဆက်အသွယ်ကတ်များ ဖလှယ်ပါ</string>
+    <string name="miprofile_account_type">ဆက်သွယ်မှု ကဒ်များ</string>
+    <string name="contact_detail_miprofile_request">ဆက်အသွယ်ကဒ်များ ဖလှယ်ပါ</string>
     <string name="contact_detail_miprofile_request_subtitle">ဤအဆက်အသွယ်၏အချက်အလက်အား အလိုအလျောက် အသစ်မွမ်းမံ</string>
     <string name="contact_detail_miprofile_request_success_toast">တောင်းခံမှုပေးပို့ပြီးပြီ</string>
     <string name="contact_detail_miprofile_request_fail_toast">တောင်းခံမှုအားမပေးပို့နိုင်ခဲ့ပါ</string>
-    <string name="contact_detail_miprofile_save">အဆက်သွယ်ကတ်အား ရရန်ထိနှိပ်ပါ</string>
-    <string name="contact_detail_miprofile_save_success_toast">ရရှိထားသော အဆက်အသွယ်ကတ်များ</string>
-    <string name="contact_detail_miprofile_save_fail_toast">အဆက်သွယ်ကတ်မရနိုင်ခဲ့ပါ</string>
-    <string name="contact_detail_miprofile_accept">ဆက်သွယ်ကတ်များ ဖလှယ်ပါ</string>
-    <string name="contact_detail_miprofile_accept_success_toast">ဖလှယ်ထားသော ဆက်သွယ်ကတ်များ။</string>
-    <string name="contact_detail_miprofile_accept_fail_toast">အဆက်သွယ်ကတ်များအား ဖလှယ်မှုမပြုလုပ်နိုင်ခဲ့ပါ</string>
+    <string name="contact_detail_miprofile_save">အဆက်သွယ်ကဒ်အား ရရန်ထိနှိပ်ပါ</string>
+    <string name="contact_detail_miprofile_save_success_toast">ရရှိထားသော အဆက်အသွယ်ကဒ်များ</string>
+    <string name="contact_detail_miprofile_save_fail_toast">အဆက်သွယ်ကဒ်မရနိုင်ခဲ့ပါ</string>
+    <string name="contact_detail_miprofile_accept">ဆက်သွယ်ကဒ်များ ဖလှယ်ပါ</string>
+    <string name="contact_detail_miprofile_accept_success_toast">ဖလှယ်ထားသော ဆက်သွယ်ကဒ်များ။</string>
+    <string name="contact_detail_miprofile_accept_fail_toast">အဆက်သွယ်ကဒ်များအား ဖလှယ်မှုမပြုလုပ်နိုင်ခဲ့ပါ</string>
     <string name="add_incall_show_entry">ဗီဒီယို ထည့်ပါ</string>
     <string name="preview_incall_show_entry">ဗီဒီယိုအားကြိုတင်ကြည့်ရှု့ပါ</string>
     <string name="play_incall_show_entry">ဗီဒီယိုပြသ</string>
     <string name="add_display_photo_entry">ဖရိုဖိုင်ပုံပေါင်းထည့်</string>
     <string name="play_add_incall_show_entry">ဗီဒီယိုပေါင်းပါ သို့မဟုတ် စကားပါ</string>
     <string name="contact_detail_profile_switch_on">အဆက်သွယ်ပရိုဖိုပုံအား ကြည့်ရှု့</string>
-    <string name="contact_detail_profile_switch_on_subtitle">အဆက်သွယ်ကတ်များအား ဖွင့်ရန်ထိနှိပ်ပါ</string>
-    <string name="contact_detail_profile_switch_off">အဆက်သွယ်ကတ်များအား ပိတ်ပါ</string>
-    <string name="contact_detail_profile_switch_on_success_toast">အဆက်သွယ်ကတ်ဖွင့်</string>
-    <string name="contact_detail_profile_switch_on_fail_toast">အဆက်သွယ်ကတ်အား မဖွင့်နိုင်ခဲ့ပါ။</string>
+    <string name="contact_detail_profile_switch_on_subtitle">အဆက်သွယ်ကဒ်များအား ဖွင့်ရန်ထိနှိပ်ပါ</string>
+    <string name="contact_detail_profile_switch_off">အဆက်သွယ်ကဒ်များအား ပိတ်ပါ</string>
+    <string name="contact_detail_profile_switch_on_success_toast">အဆက်သွယ်ကဒ်ဖွင့်</string>
+    <string name="contact_detail_profile_switch_on_fail_toast">အဆက်သွယ်ကဒ်အား မဖွင့်နိုင်ခဲ့ပါ။</string>
     <string name="contact_detail_profile_switch_fail_toast">ကျွန်ုပ်တို့၏ ဆာဗာတွင် တစ်ခုခု မှားယွင်းမှု ဖြစ်ပွားခဲ့သည်။</string>
     <string name="contact_detail_profile_switch_off_success_toast">အဆက်သွယ်ကဒ်ပိတ်ထားသည်</string>
     <string name="contact_detail_profile_switch_off_fail_toast">အဆက်သွယ်ကဒ်အား မပိတ်နိုင်ခဲ့ပါ</string>
@@ -638,7 +640,8 @@
     <string name="miprofile_alertdialog_title">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="miprofile_alertdialog_message">ကဒ်များအား ဖလှယ်ရန်သင်မေးလိုက်စဉ် ဤအမည်အား ဆက်သွယ်မှုများသို့ ပြသပါ</string>
     <string name="miprofile_alertdialog_edit">အမည်ကိုထည့်သွင်းပါ</string>
-    <string name="miprofile_switch_off_alertdialog_message">သင်သည် လိပ်စာကဒ်အား အခြားသူများနှင့် လဲလှယ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
+    <string name="miprofile_switch_off_alertdialog_message">လိပ်စာကဒ်အား အခြားသူများနှင့် လဲလှယ်နိုင်မည် မဟုတ်ပါ။</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">ဖုန်းနံပါတ် ထည့်ပါ</string>
     <string name="miprofile_bind_account_alertdialog_message">ဤလုပ်ဆောင်ချက်အား အသုံးပြုရန် ဤစက်၏ဖုန်းနံပါတ်အား သင့်Miအကောင့်ထဲသို့ပေါင်းထည့်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="miprofile_bind_account_alertdialog_positive">နံပါတ်ထည့်မည်</string>
@@ -812,8 +815,8 @@
     <string name="preference_import_export">သွင်း/ပို့</string>
     <string name="preference_import_export_title">အဆက်အသွယ်များကို သွင်း/ပို့ပါ</string>
     <string name="import_vcard_description">သင့်ဖုန်း၏ စက်တွင်းသိုလှောင်ခန်းမှ အဆက်အသွယ်များကို သွင်းပါ</string>
-    <string name="export_vcard_description">ဖုန်း၏စက်တွင်းသိုလှောင်ခန်းထဲသို့ vကဒ် ကိုပို့ပါ</string>
-    <string name="import_vcard_dialog_message">vကဒ် အားတင်သွင်းမည်လား?</string>
+    <string name="export_vcard_description">ဖုန်း၏စက်တွင်းသိုလှောင်ခန်းထဲသို့ vCard ကိုပို့ပါ</string>
+    <string name="import_vcard_dialog_message">vCard အား တင်သွင်းမည်လား?</string>
     <string name="export_to_sim_prepare_title">ပြင်ဆင်နေ…</string>
     <string name="export_sim_contact_finish_msg">%1$d လွှဲပြောင်းခဲ့ | %2$d ပွားယူခဲ့ | %4$sမှ %3$d ကျန်ရှိနေ</string>
     <string name="pref_title_account_import">အဆက်အသွယ်ကိုသွင်းပါ</string>
@@ -1012,6 +1015,7 @@
     <string name="device_import_local_account">ဒေသတွင်းအကောင့်</string>
     <string name="import_name">အမည်</string>
     <string name="import_percent">0%</string>
+    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">ပစ်မှတ်ဖုန်းကိုစစ်ဆေးပါ</string>
@@ -1054,6 +1058,7 @@
     <string name="profile_name_photo">ဓာတ်ပုံ</string>
     <string name="toast_copying">ကော်ပီကူးနေဆဲ…</string>
     <string name="toast_copy_done">ပြီးပါပြီ</string>
+    <string name="toast_start_intent_failed">ကိုင်တွယ်ဖြေရှင်းရန် အက်ပ်မတွေ့ပါ</string>
     <string name="group_name">ကျွန်ုပ်အုပ်စုများ</string>
     <string name="import_all_sim_entries_miui">အဆက်အသွယ်များအားလုံးသွင်းပါ</string>
     <string name="import_sim_entry_miui">သွင်းပါ</string>

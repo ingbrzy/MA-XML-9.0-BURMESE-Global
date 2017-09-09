@@ -7,7 +7,7 @@
         <item quantity="other">အက်ပ် %d ခုမှအသိပေးချက်များ ဖော်ပြနိုင်သည်။</item>
     </plurals>
     <plurals name="settings_toggle_position_divider_page">
-        <item quantity="other">အပေါ်ဘားမှအထိန်းခလုတ် %1$d ခု သက်ဝင်လှုပ်ရှားနေသည်။</item>
+        <item quantity="other">အသိပေးချက်ရှိတ်တွင် အထိန်းခလုတ် %1$d ခု ပေါ်လာလိမ့်မည်</item>
     </plurals>
     <plurals name="show_dev_countdown">
         <item quantity="other">သင်သည် ယခု ဆောဖ့်ဝဲရေးသားသူထံမှ %1$d အဆင့်အကွာအဝေးတွင် ရှိနေပါသည်။</item>

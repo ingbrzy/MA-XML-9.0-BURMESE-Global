@@ -6,7 +6,7 @@
     <string name="impunity_declaration_positive_text">ခွင့်ပြု</string>
     <string name="impunity_declaration_negative_text">ထွက်</string>
     <string name="accessibility_shutter_button">ရှတ္တာ</string>
-    <string name="access_sd_fail">SD ကတ်ကို ရယူသုံးစွဲ၍ မရပါ။</string>
+    <string name="access_sd_fail">SD ကဒ်ကို ရယူသုံးစွဲ၍ မရပါ။</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="dialog_dismiss">ဖယ်ပစ်ပါ</string>
     <string name="dialog_report">အစီရင်ခံပါ</string>

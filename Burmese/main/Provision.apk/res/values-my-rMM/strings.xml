@@ -12,7 +12,7 @@
     <string name="sim_card_detection">SIM ကဒ် ထည့်သွင်းပါ</string>
     <string name="sim_card_detecting_title">SIM ကဒ်ကို စစ်ဆေးပါ</string>
     <string name="sim_card_detection_info">သင်၏ SIM ကဒ်ကို ထည့်သွင်းရန် သင့်ကိရိယာနှင့်အတူ ပါလာသော ညွှန်ကြားချက်များကို ဖတ်ပါ။</string>
-    <string name="sim_card_detecting">SIM ကတ်ကို စစ်ဆေးနေဆဲ…</string>
+    <string name="sim_card_detecting">SIM ကဒ်ကို စစ်ဆေးနေသည်…</string>
     <string name="other_settings">နောက်ထပ် ဆက်တင်များ</string>
     <string name="other_settings_location">တည်နေရာ</string>
     <string name="other_settings_location_summary">သင့်တည်နေရာကို ဝင်ရောက်ရန် အက်ပ်ကို ခွင့်ပြုပါ</string>

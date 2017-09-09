@@ -91,7 +91,7 @@
     <string name="sort_by_abc">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="encryption">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းခြင်း</string>
     <string name="failed_to_drop">ရွှေ့မရပါ</string>
-    <string name="no_space_toast">နေရာလွတ် မရှိပါ</string>
+    <string name="no_space_toast">နေရာလွတ် အလုံအလောက် မရှိပါ။</string>
     <string name="failed_to_drop_widget_invalid">ဝစ်ဂတ် မမှန်ပါ</string>
     <string name="failed_to_delete_temporary">ဖယ်ရှားလို့ မရပါ</string>
     <string name="confirm_btn_label">အိုကေ</string>
@@ -140,7 +140,7 @@
     <string name="transformation_type_leftpage">စာမျက်နှာ</string>
     <string name="transformation_type_stack">အဆင့်ဆင့်</string>
     <string name="transformation_type_rotate">လည်ပတ်</string>
-    <string name="pref_screen_transformation_type_title">မျက်နှာပြင် အကူးအပြောင် အထူးဖန်တီးချက်</string>
+    <string name="pref_screen_transformation_type_title">မျက်နှာပြင် အကူးအပြောင်း အထူးဖန်တီးချက်</string>
     <string name="pref_wallpaper_scroll_type_title">နောက်ခံပုံ အတန်းညှိခြင်း</string>
     <string name="configure_wallpaper">ဆက်တင်များ</string>
     <string name="pref_cell_layout_size">အက်ပ်အိုင်ကွန် အဆင်အပြင်</string>
@@ -266,12 +266,12 @@
     <string name="notification_open_button">ဖွင့်</string>
     <string name="toast_screen_icons_misplaced">အခြားအရင်းအမြစ်မှပြန်ရယူခဲ့သော၊တစ်ချို့အိုင်ကွန်များ နေရာလွဲ နိုင်ပါသည်</string>
     <string name="screen_locked_toast">အိမ်မျက်နှာပြင်အပြင်အဆင်အား သော့ခတ်ထားသည်</string>
-    <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်</string>
-    <string name="menu_trans_effect">Transition Effect</string>
-    <string name="menu_default_screen_preview">Default screen Setting</string>
-    <string name="menu_cell_setting">Screen Setting</string>
-    <string name="menu_auto_fill">Auto Fill</string>
-    <string name="menu_lock">Lock Screen</string>
+    <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်များ</string>
+    <string name="menu_trans_effect">အကူးအပြောင်း</string>
+    <string name="menu_default_screen_preview">ပုံသေမျက်နှာပြင် သတ်မှတ်မည်</string>
+    <string name="menu_cell_setting">အိမ်မျက်နှာပြင်ဖွဲ့စည်းပုံ</string>
+    <string name="menu_auto_fill">လွတ်နေသောဆဲလ်များအား ဖြည့်ပါ</string>
+    <string name="menu_lock">အိမ်မျက်နှာပြင်ဖွဲ့စည်းပုံအား သော့ခတ်ပါ</string>
     <string name="menu_more">ပိုမို၍</string>
-    <string name="default_screen_preview_title">နဂိုမူလ မျက်နှာပြင်ဆက်တင်</string>
+    <string name="default_screen_preview_title">ပုံသေမျက်နှာပြင် သတ်မှတ်ရန် ထိနှိပ်ပါ</string>
 </resources>
