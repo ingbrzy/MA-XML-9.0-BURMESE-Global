@@ -122,9 +122,9 @@
     <string name="config_scenario_policies_title">မြင်ကွင်း စီစဉ်ဖွဲ့စည်းမှု</string>
     <string name="scenario_policies_summary">ပါဝါခြွေတာမှုသည် မြင်ကွင်း စီစဉ်ဖွဲ့စည်းမှုအပေါ်မူတည်သည်</string>
     <string name="sleep_config_enhance_title">ပါဝါချွေတာမုဒ်</string>
-    <string name="sleep_config_enhance_description">predict user sleep time by machine learning, whithin the sleep time, we may clear some background apps, restrict to use NFC, KeyGauard Notification, Sync, Bluetooth, GPS, mobile and wifi data, etc.</string>
-    <string name="scenario_policies_warmcontrol">Warm control</string>
-    <string name="warm_configure">Warm control configure</string>
+    <string name="sleep_config_enhance_description">စက်ဖြင့် သုံးစွဲသူ အိပ်ချိန်ကို ကြိုတင်ခန့်မှန်းပြီး အိပ်ချိန်တွင် အချို့နောက်ခံအက်ပ်များကို ရှင်းပစ်ခြင်း၊ NFCသုံးစွဲမှုကို ကန့်သတ်ခြင်း၊ ဆင့်ခ်လုပ်ခြင်းနှင့် အသိပေးချက်များ၊ ဘလူးတုသ်၊ GPS၊ မိုဘိုင်း၊ WiFi ဒေတာစသည်တို့အား ပိတ်ခြင်းများကို လုပ်ဆောင်ပါမည်။</string>
+    <string name="scenario_policies_warmcontrol">အပူထိန်း</string>
+    <string name="warm_configure">အပူထိန်း စီစဉ်သတ်မှတ်မှု</string>
     <string name="important_warning">သတိပေးချက်</string>
     <string name="confirm">အတည်ပြုသည်</string>
     <string name="warm_performance_tip">မြင့်မားသောမြင်ကွင်းစီစဉ်ဖွဲ့စည်းမှုအခြေအနေတွင် ဖုန်း၏အပူချိန်သည် မူလသတ်မှတ်ပုံအနေအထား ထက်ပိုမြင့်လိမ့်မည်</string>
@@ -142,7 +142,7 @@
     <string name="power_config_ultimate_unlock_already">အိုင်တမ်အား လုံးအား သော့ဖြည်ခဲ့သည်</string>
     <string name="extreme_power_config_mode_category">အကြီးမားဆုံးဘက်ထရီချွေတာသူ</string>
     <string name="extreme_power_config_mode_title">အကြီးမားဆုံးဘက်ထရီချွေတာသူမုဒ်</string>
-    <string name="extreme_power_config_mode_desc">Enable this function will disable sync, bluetooth, GPS, NFC, double tapping, button lights, wake lock screen for notifications, pluse notification light etc, and battery saver mode is set to be ultimate</string>
+    <string name="extreme_power_config_mode_desc">ဘက်ထရီအလွန်ချွေတာခြင်းမုဒ်ကို ဖွင့်ထားပါက ဆင့်ခ်လုပ်ခြင်း၊ GPS၊ NFC၊ နှစ်ကြိမ်ထိ၍နှိုးခြင်း၊ ခလုတ်မီးများ၊ အသိပေးချက်အလင်းများ စသည်တို့ကို ပိတ်လိမ့်မည်</string>
     <string name="empty_title_apps_container_list">အက်ပ်များ မရှိပါ</string>
     <string name="hints_loading_text">ခဏလောက်စောင့်…</string>
     <string name="config_mode_title">နောက်ခံဆက်တင်များ</string>
@@ -151,7 +151,7 @@
     <string name="config_no_restrict_title">ကန့်သတ်ချက်များမရှိ</string>
     <string name="config_restrict_function_title">နောက်ခံအက်ပ်များအား ကန့်သတ်</string>
     <string name="config_restrict_running_title">နောက်ခံလုပ်ဆောင်ချက်များအား ကန့်သတ်</string>
-    <string name="config_restrict_running_warning">App will be closed when it is background, maybe it cannot work normally</string>
+    <string name="config_restrict_running_warning">နောက်ခံသို့ ရောက်သွားပါက ဤအက်ပ်သည် ပိတ်ပြီး ပုံမှန် အလုပ်လုပ်နိုင်မည် မဟုတ်တော့ပါ</string>
     <string name="location_mode_title">နောက်ခံတည်နေရာ</string>
     <string name="location_enable_title">ခွင့်ပြု</string>
     <string name="location_disable_title">ကန့်သတ်</string>

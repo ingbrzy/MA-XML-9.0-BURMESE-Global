@@ -7,18 +7,19 @@
     <string name="abc_action_menu_overflow_description">ပိုမိုရွေးချယ်စရာများ</string>
     <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
     <string name="abc_activity_chooser_view_see_all">အားလုံးကို ကြည့်ရန်</string>
-    <string name="abc_activitychooserview_choose_application">အပလီကေးရှင်း တစ်ခုခုကို ရွေးချယ်ပါ</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုခုကို ရွေးချယ်ပါ</string>
     <string name="abc_capital_off">ပိတ်</string>
     <string name="abc_capital_on">ဖွင့်</string>
     <string name="abc_search_hint">ရှာဖွေပါ...</string>
-    <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ရှင်းလင်းရန်</string>
+    <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်</string>
     <string name="abc_searchview_description_query">ရှာစရာ အချက်အလက်နေရာ</string>
     <string name="abc_searchview_description_search">ရှာဖွေရန်</string>
-    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို အတည်ပြုရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
     <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
     <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
+    <string name="search_menu_title">ရှာဖွေပါ</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="ac_gree">Gree AC</string>
     <string name="ac_mode_auto">အော်တို</string>
@@ -30,7 +31,7 @@
     <string name="activity_stb_list_title">set-top box အား ရွေးချယ်ပါ</string>
     <string name="actor_intro_title_text">ထုတ်လွှင့်</string>
     <string name="add">ထည့်ပါ</string>
-    <string name="add_control">IR remote</string>
+    <string name="add_control">IR ရီမုဒ်</string>
     <string name="add_control_frame">%1$s ရီမုဒ် ပေါင်းထည့်</string>
     <string name="add_device">စက်ပေါင်းထည့်</string>
     <string name="add_device_match_desc_bottom">3. %1$s အားရွေးချယ်၍ ချိတ်ဆက်မှုအား အတည်ပြုပါ</string>
@@ -41,7 +42,7 @@
     <string name="add_new_control">ရီမုဒ်ပေါင်းထည့်</string>
     <string name="add_new_stb">set-top box ပေါင်းထည့်ပါ</string>
     <string name="add_new_tv">TV ပေါင်းထည့်…</string>
-    <string name="agree">သဘောတူ</string>
+    <string name="agree">သဘောတူပါသည်</string>
     <string name="airkan_disconnect">စက်မချိတ်ဆက်ထား</string>
     <string name="airkan_disconnect_display_name">စက်မချိတ်ဆက်ထား</string>
     <string name="airrc_device_not_connected">ချိတ်ဆက်မထားပါ</string>
@@ -51,7 +52,7 @@
     <string name="already_muted">အသံပိတ်ခဲ့သည်</string>
     <string name="anion">Ionizer</string>
     <string name="app_clear">ဒေတာရှင်းပါ</string>
-    <string name="app_detail_comments">Comments</string>
+    <string name="app_detail_comments">မှတ်ချက်များ</string>
     <string name="app_detail_info">အသေးစိတ်ကြည့်ရှု</string>
     <string name="app_detail_no_comments">သုံးသပ်ချက်များ မရှိပါ။</string>
     <string name="app_detail_title_info">အနှစ်ချုပ်</string>
@@ -62,6 +63,13 @@
     <string name="app_frequency_normal">တစ်ခါတစ်ရံ</string>
     <string name="app_install">Mi TV တွင် ထည့်သွင်းပါ</string>
     <string name="app_install_count">%1$s ကို ထည့်သွင်းပြီးပါပြီ</string>
+    <string name="app_install_dialog_install_complete">အောင်မြင်စွာ ထည့်သွင်းခဲ့သည်</string>
+    <string name="app_install_dialog_install_failed">မတပ်ဆင်နိုင်ခဲ့ပါ</string>
+    <string name="app_install_dialog_installing">ထည့်သွင်းနေ…</string>
+    <string name="app_install_dialog_negative_text">ပယ်ဖျက်</string>
+    <string name="app_install_dialog_positive_text">တပ်ဆင်</string>
+    <string name="app_install_dialog_search_failed">အက်ပ်များရှာမတွေ့ပါ</string>
+    <string name="app_install_dialog_searching">အက်ပ်များရှာဖွေနေ…</string>
     <string name="app_installing">ထည့်သွင်းန​ေ…</string>
     <string name="app_manager_get_data_failed">အက်ပ်အချက်အလက်ကို ရယူ၍ မရပါ</string>
     <string name="app_manager_no_data">မည်သည့်အက်ပ်မျှ မတွေ့ရှိ</string>
@@ -84,7 +92,7 @@
     <string name="bind_stb">set-top box အား ဆက်လက်တွဲချိတ်ပါ</string>
     <string name="bind_stb_dlg">လိုင်းများပြောင်းရန် set-top box သို့ချိတ်တွဲပါ</string>
     <string name="bind_stb_dlg_agree">ချိတ်တွဲ</string>
-    <string name="brand_device">%1$s %2$s</string>
+    <string name="brand_device">%1$s%2$s</string>
     <string name="brand_search_box_hint">ထုတ်လုပ်သူကို ရွေးချယ်ပါ</string>
     <string name="brand_title_all">အားလုံး</string>
     <string name="brand_title_hot">လူကြိုက်များသော</string>
@@ -96,7 +104,7 @@
     <string name="by">"မှ ပံ့ပိုးပေးထားသည် "</string>
     <string name="by_position">တည်နေရာဖြင့်</string>
     <string name="camera_shoot">ရှက်တာ</string>
-    <string name="cancel">ပယ်ဖျက်</string>
+    <string name="cancel">ထွက်ရန်</string>
     <string name="cancel_select_all">မရွေး</string>
     <string name="cancel_share">မျှဝေခြင်းအား ရပ်တန့်</string>
     <string name="cancel_share_done">မျှဝေခြင်း ရပ်တန့်ခဲ့</string>
@@ -133,8 +141,9 @@
     <string name="cool_mode">အေးမြသော</string>
     <string name="create_shortcut">ရှော့ကဒ်ပေါင်းထည့်ပါ</string>
     <string name="create_shortcut_cancel">မလုပ်ပါ ကျေးဇူးတင်ပါတယ်</string>
-    <string name="create_shortcut_confirm">ဖန်တီး</string>
-    <string name="create_shortcut_done">အောင်မြင်စွာ ဖန်တီးခဲ့သည်</string>
+    <string name="create_shortcut_confirm">ပေါင်းထည့်</string>
+    <string name="create_shortcut_done">အောင်မြင်စွာပေါင်းထည့်ပြီးပြီ</string>
+    <string name="create_shortcut_failed">ဖြတ်လမ်းဝစ်ဂျတ်ကို ထည့်မရပါ။ Mi ရီမုတ်ကို လိုအပ်သော ခွင့်ပြုချက်များ ပေးထားကြောင်း သေချာပါစေ။</string>
     <string name="current_place">"လက်ရှိတည်နေရာ− "</string>
     <string name="current_play">ယခုပြသနေ−</string>
     <string name="current_stb">"လက်ရှိ− "</string>
@@ -154,6 +163,19 @@
     <string name="device_model">မော်ဒယ်</string>
     <string name="device_responsed">စက်မှတုန့်ပြန်ခဲ့သည်</string>
     <string name="device_type">အမျိုးအစား</string>
+    <string name="devicetype1">TV</string>
+    <string name="devicetype10">ပရိုဂျက်တာ</string>
+    <string name="devicetype10001">Mi TV/Mi Box</string>
+    <string name="devicetype11">ဂြိုလ်တုTV</string>
+    <string name="devicetype12">Box</string>
+    <string name="devicetype13">DSLR</string>
+    <string name="devicetype14">မီးလုံး</string>
+    <string name="devicetype2">Set-top ဘောက်စ်</string>
+    <string name="devicetype3">AC</string>
+    <string name="devicetype4">DVD</string>
+    <string name="devicetype5">IPTV</string>
+    <string name="devicetype6">ပန်ကာ</string>
+    <string name="devicetype8">A/V လက်ခံသူ</string>
     <string name="diagnose">ရီမုဒ်အားစမ်းသပ်</string>
     <string name="diagnosis_intro">ချိတ်ဆက်မှုဆိုင်ရာများအတွက် ကွန်ရက်အား စမ်းသပ်ပါ</string>
     <string name="dialog_install_assistant_content">သင့် Mi TV နှင့် Mi Box တို့ဖြင့် အကောင်းဆုံးလုပ်ဆောင်နိုင်ရန် Mi screen cast အား ထည့်သွင်းပါ</string>
@@ -214,17 +236,24 @@
     <string name="fan_speed">အရှိန်</string>
     <string name="faq">FAQ</string>
     <string name="fav">ကြယ်ပြ</string>
-    <string name="favorite_channel">Recent channels</string>
+    <string name="favorite_channel">လက်တလော ချန်နယ်များ</string>
     <string name="feedback">တုန့်ပြန်မှုပို့</string>
+    <string name="feedback_desc_default">တချို့ခလုတ်များ အလုပ်မလုပ်ပါ</string>
+    <string name="feedback_desc_hint">ပြဿနာကို ဖော်ပြပါ</string>
     <string name="feedback_error">အမှားများအား တင်ပြပါ</string>
     <string name="feedback_error_success_tip">အောင်မြင်စွာ တင်သွင်းခဲ့</string>
     <string name="feedback_error_tips">ရီမုဒ်သုံးခြင်းနှင့်ပတ်သတ်ပြီး ပြဿနာရှိနေ သလား? ပြဿနာအား တင်ပြရန် ထိနှိပ်လိုက်ပါ။</string>
+    <string name="feedback_input_desc">ပြဿနာကို ဤနေရာတွင် ဖော်ပြပါ။</string>
+    <string name="feedback_issue_desc">ပြဿနာကို ဖော်ပြပါ</string>
+    <string name="feedback_keys">တုန့်ပြန်မှုပို့</string>
+    <string name="feedback_keys_success">သင်၏တုန့်ပြန်မှုပေးပို့ခြင်းအတွက် ကျေးဇူးတင်ရှိပါသည်</string>
+    <string name="feedback_keys_tips">ခလုတ်များ အလုပ်မလုပ်ပါက တုန့်ပြန်မှုပေးပို့ပါ</string>
     <string name="find_adb_frame">ADB စက် %1$d ခုထောက်လှမ်းမိခဲ့</string>
     <string name="find_milink_frame">Mi စက် %1$d ခုထောက်လှမ်းမိခဲ့</string>
     <string name="fix_keys">ပြုပြင်ခလုတ်များ</string>
     <string name="fix_keys_success">ပြင်ဆင်မှုအောင်မြင်ခဲ့သည်</string>
     <string name="fix_keys_tips">အချို့ခလုတ်များ အလုပ်မလုပ်ပါက သင်ပြုပြင်ကြည့်နိုင်ပါသည်</string>
-    <string name="from_share">အခြားသူများမှ မျှဝေလိုက်သော</string>
+    <string name="from_share">%1$s မှ မျှဝေသည်</string>
     <string name="gamepad">Gamepad</string>
     <string name="gamepad_rule">Gamepad မုဒ်တွင် အလျားလိုက်အနေအထားအား အသုံးပြု၍မနိုင်ပါ</string>
     <string name="gesture_pad_first_line_tips">အသံချိန်ညှိရန် သင့်စက်ပေါ်ရှိအသံခလုတ်များအား အသုံးပြုပါ</string>
@@ -236,13 +265,16 @@
     <string name="get_data_fail_tips">ဒေတာမရနိုင်ခဲ့ပါ။ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="get_info_failed">အချက်အလက်ကို မရယူနိုင်ပါ</string>
     <string name="get_location_fail_tip">တည်နေရာမသတ်မှတ်နိုင်၊ မြို့တစ်မြို့ရွေးချယ်ပါ</string>
-    <string name="guid_one">. box/TV set-top အား သင့်ဖုန်းနှင့် တူညီသော Wi-Fi ကွန်ရက်သို့ချိတ်ဆက်ပါ။</string>
-    <string name="guid_three">· အကယ်၍သင့် TV သို့မဟုတ် set-top box သည် Android အား မထောက်ပံ့ပါက ထိန်းချုပ်မှုအား ရနိုင်လိမ့်မည် မဟုတ်ပါ။</string>
-    <string name="guid_two">. စက်များအား ထောက်လှမ်းပြီး ဤနေရာတွင်ပြသပါလိမ့်မည်</string>
-    <string name="guid_zero">သင့်စက်သည် IR စက်များအား သုံး၍မရပါ သို့သော် Wi-Fi ရီမုဒ်များအား သုံး၍ရပါသည်</string>
+    <string name="guid_one">set-top box/TV အား သင့်ဖုန်းနှင့် တူညီသော Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်ပါ။</string>
+    <string name="guid_three">အကယ်၍သင့် TV သို့မဟုတ် set-top box သည် Android အား မထောက်ပံ့ပါက အချို့ထိန်းချုပ်မှုများ လုပ်ဆောင်၍ ရနိုင်မည်မဟုတ်ပါ။</string>
+    <string name="guid_two">စက်များအား ရှာဖွေပြီး ဤစာမျက်နှာပေါ်တွင် ပြသပါလိမ့်မည်။</string>
+    <string name="guid_zero">သင့်စက်သည် IR စက်များအား သုံး၍မရပါ။ သို့သော် Wi-Fi ရီမုဒ်များ သုံး၍ရသည်။</string>
     <string name="guide">ဂိုက်</string>
+    <string name="guide_title_one">သင်၏ဖုန်းသည် IR စက်များကို ထိန်းချုပ်၍ မရပါ</string>
+    <string name="guide_title_three">သုံးစွဲမှု</string>
+    <string name="guide_title_two">သင်၏Mi TV/Mi Box ကို Wi-Fiဖြင့် ထိန်းချုပ်နိုင်သည်</string>
     <string name="has_installed">ထည့်သွင်းပြီး</string>
-    <string name="hd_channel_preferred">HD ဗီဒီယိုအား ကြိုက်နှစ်သက်</string>
+    <string name="hd_channel_preferred">HD set-top box အသံဖမ်းစက်</string>
     <string name="help">အကူအညီ</string>
     <string name="history_none">သင်မည်သည့်ဗီဒီယိုကိုမှ မကြည့်ရသေးပါ။</string>
     <string name="history_title">မှတ်တမ်း</string>
@@ -259,10 +291,10 @@
     <string name="input_complete">အိုကေ</string>
     <string name="input_source">အဝင်အရင်းအမြစ်</string>
     <string name="input_speech_button">ထိပြီးထားပြီး &amp; ၊ ပြီးနောက် သင့်အမိန့်ကို ပြောပါ</string>
-    <string name="install">Install</string>
+    <string name="install">တပ်ဆင်ရန်</string>
     <string name="install_failed">%s ကိုထည့်သွင်း၍ မရပါ</string>
-    <string name="install_peel_content">Install Peel Mi Remote to use the TV guide</string>
-    <string name="install_peel_title">Install Peel Mi Remote</string>
+    <string name="install_peel_content">TV လမ်းညွှန်ကို အသုံးပြုရန် Peel Mi ရီမုကို တပ်ဆင်ပါ</string>
+    <string name="install_peel_title">Peel Mi ရီမုကို တပ်ဆင်ပါ</string>
     <string name="install_succed">%s ကိုအောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
     <string name="installing">ထည့်သွင်းနေ…</string>
     <string name="ir_ac">" AC"</string>
@@ -291,6 +323,7 @@
     <string name="ir_device_sound">စပီကာများ</string>
     <string name="ir_device_stb">Set-top box</string>
     <string name="ir_device_tv">TV</string>
+    <string name="ir_device_water_heater">ရေပူစက်</string>
     <string name="ir_device_wifi">Wi-Fi ရီမုဒ်</string>
     <string name="ir_not_supported_devices">* Mi TV 3/Mi TV Bar/Mi Box 3/Mi Box တွင် IR သုံး၍မရပါ။ Wi-Fi ရီမုဒ်အားသုံးပြီး စမ်းကြည့်ပါ။</string>
     <string name="jump_to_mivideo">မိုလ်ဘိုင်းစက်ပေါ်တွင် ကြည့်ပါ</string>
@@ -309,6 +342,7 @@
     <string name="loading_ir_data">ခဏလောက်စောင့်ပါ…</string>
     <string name="locate_current_place">လက်ရှိတည်နေရာရှာပါ</string>
     <string name="location_select">စက်အား အမည်ပြန်ပေး</string>
+    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">ဆိုင်းအောက်ထွက်</string>
     <string name="login_directly">ဆိုင်းအင်ဝင်</string>
     <string name="login_done">ဆိုင်းအင် ဝင်ရောက်ခဲ့သော</string>
@@ -436,7 +470,7 @@
     <string name="my_room">ကျွန်ုပ်အခန်း</string>
     <string name="my_room_underline"><u>ကျွန်ုပ်အခန်း</u></string>
     <string name="my_setting">ဆက်တင်များ</string>
-    <string name="nearby">Nearby</string>
+    <string name="nearby">အနီးအနား</string>
     <string name="network_diagnosis">ကွန်ရက်စမ်းသပ်</string>
     <string name="network_no_connection">ကွန်ရက်သို့မချိတ်ဆက်နိုင်ခဲ့။ သင့်ကော်နက်ရှင်အား စစ်ဆေးပြီး ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="network_ok">မည်သည့် ပြဿနာမျှ ထောက်လှမ်းမမိ</string>
@@ -452,7 +486,7 @@
     <string name="no_ir_other_support">သင့်စက်အား Mi TV သို့မဟုတ် Mi Box အား Wi-Fi ပေါ်မှ ထိန်းချုပ်နိုင်သေးသည်</string>
     <string name="no_ir_support">မည်သည့် IR စက်မှ မတွေ့ပါ</string>
     <string name="no_network">ကွန်ရက်သို့ချိတ်ဆက်မရခဲ့ပါ</string>
-    <string name="no_program">ဤတွင်အကြောင်းအရာမရှိပါ</string>
+    <string name="no_program">ဤနေရာတွင် ဘာမှ မရှိသေးပါ။</string>
     <string name="no_qq">QQ အားဦးစွာ ထည့်သွင်းပါ</string>
     <string name="no_save_brand_service">ဤရီမုဒ်အား ထပ်ပေါင်းကြည့်ပါ</string>
     <string name="none">တစ်ခုမှမရှိပါ</string>
@@ -476,6 +510,7 @@
     <string name="oscillation">တုန်ခါမှု</string>
     <string name="other">အခြား</string>
     <string name="outdoor_temp_unknown">မသိသော</string>
+    <string name="pair_server_data_only">ရီမုတ်အသစ်အတွက် အွန်လိုင်းဒေတာကို အသုံးပြုရန် ကြံပြုပါသည်</string>
     <string name="partner">အထောက်အပံ့</string>
     <string name="place_frame">"တည်နေရာ− "</string>
     <string name="play_in_phone">ဖုန်းပေါ်တွင်ကြည့်ရှု့ပါ</string>
@@ -486,6 +521,7 @@
     <string name="please_select_stb">set-top box အား ရွေးချယ်ပါ</string>
     <string name="please_select_tv">TV အားရွေးချယ်ပါ</string>
     <string name="pm_2.5">PM2.5:</string>
+    <string name="pm_2.5_out">အိမ်ပြင် PM2.5-</string>
     <string name="popup_installed_app_no_app">အက်ပ်ရယူနေ၊ တစ်မိနစ်မျှစောင့်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="popup_installed_app_title">သင့်TV ပေါ်တွင် ဖွင့်လိုသော အက်ပ်အား ရွေးချယ်ပါ</string>
     <string name="popup_select_device">Wi-Fi ရီမုဒ်အားရွေးချယ်</string>
@@ -509,7 +545,7 @@
     <string name="rc_add_distance">%1$dm</string>
     <string name="rc_add_distance_far">>1000km</string>
     <string name="rc_add_distance_km">%1$skm</string>
-    <string name="rc_name">Mi Remote</string>
+    <string name="rc_name">Mi ရီမုဒ်</string>
     <string name="recover">Mi ကလောက်မှ ပြန်လည်ရယူပါ</string>
     <string name="recovering">ပြန်လည်ရယူနေသည်…</string>
     <string name="refreshing">ပြန်လမ်းဆန်းနေ…</string>
@@ -523,7 +559,7 @@
     <string name="repeat_diagnosis">ထပ်မံစမ်းသပ်ပါ</string>
     <string name="report_problem">ပြဿနာအား တင်ပြ</string>
     <string name="require_login">ဆိုင်းအင်ဦးစွာဝင်ပါ</string>
-    <string name="rescan">Scan again</string>
+    <string name="rescan">ထပ်မံ စကန်ဖတ်ပါ</string>
     <string name="reset">ပြန်သတ်မှတ်</string>
     <string name="respond">အလုပ်များ</string>
     <string name="retry_for_more">ပိုမိုကြည့်ရှုရန် ထိနှိပ်ပါ</string>
@@ -536,7 +572,7 @@
     <string name="scaning">ရှာနေသည်…</string>
     <string name="scanning_milink">စက်များအားရှာဖွေနေ…</string>
     <string name="scene_default">ပုံသေ</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
+    <string name="scene_name_frame">%1$s%2$s%3$s</string>
     <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">မျက်နှာပြင်ရိုက်ချက်</string>
     <string name="screenshot_failed">မျက်နှာပြင်အား မရိုက်ယူနိုင်ခဲ့</string>
@@ -559,7 +595,7 @@
     <string name="select_done">ပြီးပြီ</string>
     <string name="select_dvb_carrier">ဝန်ဆောင်မှုပေးသူ ရွေးချယ်ပါ</string>
     <string name="select_stb">set-top box အား ရွေးချယ်ပါ</string>
-    <string name="select_stb_tips">Pair set-top box</string>
+    <string name="select_stb_tips">set-top ဘောက်စ်တွဲချိတ်ပါ</string>
     <string name="service_info">ဝန်ဆောင်မှု အချက်အလက်</string>
     <string name="setting_airkan">ကြိုးမဲ့ ပြသချက်</string>
     <string name="setting_common">အထွေထွေ</string>
@@ -607,7 +643,7 @@
     <string name="share_popup_single_desc">အနီးရှိ %1$sအား အသုံးပြုရန် မျှဝေထားသော ရီမုဒ်အား အသုံးပြုပါ</string>
     <string name="share_popup_single_title">%1$s−%2$sအတွက် မျှဝေထားသော ရီမှတ်တစ်ခု ရရှိနိုင်ပါပြီ</string>
     <string name="share_popup_title">%1$s−မျှဝေထားသော ရီမုဒ်တစ်ခုရရှိနိုင်သော</string>
-    <string name="share_rc_list_title">IR remotes nearby</string>
+    <string name="share_rc_list_title">အနီးရှိရီမုဒ်များ</string>
     <string name="share_rc_not_found">အနီးတွင် မျှဝေထားသော ရီမုဒ်မရှိပါ</string>
     <string name="share_rc_state_share">မျှဝေနေ…</string>
     <string name="share_rc_title">ရီမုဒ်အား မျှဝေပါ</string>
@@ -629,7 +665,7 @@
     <string name="somthing_wrong">ပြဿနာရှိနေပါသလား?</string>
     <string name="sorry">ချွတ်ယွင်းမှု</string>
     <string name="speech_init_failed">iFly အသံအင်ဂျင်အား ထည့်သွင်းရန် ထိနှိပ်ပါ</string>
-    <string name="speed_up_channel_switch">Switch channels faster on some set-top boxes</string>
+    <string name="speed_up_channel_switch">အချို့set-top ဘောက်စ်များတွင် ချန်နယ်ပြောင်းခြင်း ပိုမိုပြန်ဆန်ပါသည်</string>
     <string name="splash_add_device_des">စက်တစ်ချို့ပေါင်းထည့်ပြီး စတင်ပါ</string>
     <string name="splash_desc">တစ်ချက်ထိရုံဖြင့် အားလုံးကို ထိန်းချုပ်ပါ။</string>
     <string name="start_diagnosis">စမ်းသပ်</string>
@@ -650,6 +686,8 @@
     <string name="supporting_soon">မကြာမီလာမည်</string>
     <string name="swipe_loading">တစ်စက္ကန့်လောက်စောင့်ပါ…</string>
     <string name="switch_place">မြို့တော်ရွေးချယ်</string>
+    <string name="tab_live">TV ရှိုးများ</string>
+    <string name="tab_store">စတိုး</string>
     <string name="technical_support">နည်းပညာအထောက်အပံ့</string>
     <string name="temperature">အပူချိန်</string>
     <string name="temprature_frame">%1$d ℃</string>
@@ -693,7 +731,7 @@
     <string name="upgrading">အသစ်မွမ်းမံနေ…</string>
     <string name="use_tv_power_key">"%1$s ၏ပါဝါခလုတ်အား သုံးပါ
 ပြောင်းလဲရန်၊ TV၏ပါဝါခလုတ်အား ကြာကြာထိနှိပ်ပါ"</string>
-    <string name="user_title">My account</string>
+    <string name="user_title">ကျွန်ုပ်၏အကောင့်</string>
     <string name="vendor_kookong">Kookong</string>
     <string name="vendor_peel">ခွာပါ</string>
     <string name="vendor_yaokan">Yaokan</string>
@@ -743,4 +781,25 @@
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">ဟုတ်သည်</string>
     <string name="yesterday">မနေ့က</string>
+    <string name="add_new_box">set-top box ပေါင်းထည့်ပါ</string>
+    <string name="login_mi_account">ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="msg_camera_framework_bug">"ကင်မရာဖွင့်၍ မရပါ။
+ခွင့်ပြုချက်များကို စစ်ဆေးပါ သို့မဟုတ် စက်ကို ပိတ်ပြီးပြန်ဖွင့်ပါ။"</string>
+    <string name="my_store">ကျွန်ုပ်၏စတိုး</string>
+    <string name="scan">စကန်နာ</string>
+    <string name="scan_add_error">စက် ပေါင်းထည့်၍ မရပါ။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="scan_code">ပေါင်းထည့်ရန် ကုဒ်ကို စကန်ဖတ်ပါ</string>
+    <string name="scan_error">QR ကုဒ် ကြည့်လို့မရပါ</string>
+    <string name="scan_text">"ရီမုများကို QR ကုဒ်ဖြင့် သူငယ်ချင်းများနှင့်မျှဝေပါ။
+ရီမုဆက်တင်သို့ဝင်ပြီး \"မျှဝေခြင်း\"ကို ထိနှိပ်ပါ။"</string>
+    <string name="search_device">အမှတ်တံဆိပ်များ ရှာ​ဖွေမည်</string>
+    <string name="search_device_hit">ရှာ​ဖွေရန် အမှတ်တံဆိပ်အမည် ရိုက်ထည့်ပါ</string>
+    <string name="search_no_device">စက်များ ရှာမတွေ့ပါ</string>
+    <string name="sel_dpad_mode">မုဒ် ရွေးပါ</string>
+    <string name="share_scan_hint">"သင့်သူငယ်ချင်းများ၏ရီမုကို သုံးရန် QR ကုဒ်အား စကန်ဖတ်ပါ။
+အိမ်စာမျက်နှာ > \"+\">\" စကန်နာသို့ သွားပါ။"</string>
+    <string name="tv_dpad_mode_gesture">ထိနှိပ်ပါ</string>
+    <string name="tv_dpad_mode_keyboard">ကီးဘုတ်</string>
+    <string name="volume_dec">အသံ -</string>
+    <string name="volume_inc">အသံတိုး +</string>
 </resources>

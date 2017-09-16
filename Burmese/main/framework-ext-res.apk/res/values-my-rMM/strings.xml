@@ -150,7 +150,7 @@
     <string name="total_title">DND</string>
     <string name="description_title">အသံတိတ်မုဒ်</string>
     <string name="standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
-    <string name="total_description">Silence sounds and turn off vibration for all items except the alarm clock</string>
+    <string name="total_description">နှိုးစက်သံမှတစ်ပါး အခြားအသံများနှင့် တုန်ခါမှုအားလုံး ပိတ်မည်</string>
     <string name="close">ပိတ်ပါ။</string>
     <string name="always">အမြဲတမ်း</string>
     <string name="onehour">၃၀ မိနစ်</string>
@@ -159,9 +159,9 @@
     <string name="eighthours">၈ နာရီ</string>
     <string name="remain">ကျန်ရှိနေသော− %s</string>
     <string name="configure_input_methods">ကီးဘုတ်များရွေးချယ်ပါ</string>
-    <string name="miui_upgrading_notification_title">Loading system, some features may not be available.</string>
+    <string name="miui_upgrading_notification_title">စနစ်ကို လုဒ်တင်နေသည်၊ အချို့အင်္ဂါရပ်များ ပုံမှန်အလုပ်မလုပ်နိုင်ပါ။</string>
     <string name="miui_screen_ratio_hint">မျက်နှာပြင်အချိုးစား ဆိုင်ရာကိစ္စရပ်များ</string>
-    <string name="miui_screen_ratio_hint_message">This app is allowed to run in the fullscreen mode, which may cause it to be displayed incorrectly. You can change this in Settings > Additional settings > Buttons.</string>
+    <string name="miui_screen_ratio_hint_message">ဤအက်ပ်သည် မျက်နှာပြင်အပြည့်မုဒ် သုံး၍ရသည်၊ သို့သော် ပြသမှု မှားနိုင်ခြေရှိသည်။ ဆက်တင်များ> ဖြည့်စွက်ဆက်တင်များ> ခလုတ်များတွင် ပြောင်းလဲနိုင်သည်။</string>
     <string name="miui_screen_ratio_hint_dont_show_again">နောက်ထပ် မပြပါနှင့်</string>
     <string name="miui_screen_ratio_hint_ok">အိုကေ</string>
     <string name="miui_screen_ratio_hint_go_to_settings">ဆက်တင်သို့ သွားပါ</string>

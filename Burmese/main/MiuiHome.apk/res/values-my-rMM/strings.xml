@@ -42,7 +42,7 @@
     <string name="permlab_install_widget">ဝစ်ဂတ်များ တပ်ဆင်ပါ</string>
     <string name="permdesc_install_widget">အက်ပ်တစ်ခုကို သုံးသူ ကြားဝင်မဆောင်ရွက်ဘဲ ဝစ်ဂတ်များအား ပေါင်းထည့်ရန် ခွင့်ပြုပါ။</string>
     <string name="permlab_read_settings">အိမ်မျက်နှာပြင်ဆက်တင်များနှင့် ရှော့ကတ်များကို ဖတ်ပါ</string>
-    <string name="permdesc_read_settings">အက်ပ်တစ်ခုကို ဆက်တင်များနှင့် ကြားဖြတ်များအား ပင်မနေရာ၌ ဖတ်ရန် ခွင့်ပြုပါ။</string>
+    <string name="permdesc_read_settings">အိမ်မျက်နှာပြင်ဆက်တင်များနှင့် ရှော့ကဒ်များကို ဖတ်ပါ</string>
     <string name="permlab_write_settings">အိမ်မျက်နှာပြင်ဆက်တင်များနှင့် ရှော့ကတ်များကို တည်းဖြတ်ပါ</string>
     <string name="permdesc_write_settings">အက်ပ်တစ်ခုကို ဆက်တင်များနှင့် ကြားဖြတ်များအား ပင်မနေရာ၌ ပြောင်းလဲရန် ခွင့်ပြုပါ။</string>
     <string name="status_pending">စောင့်နေသည်</string>
@@ -123,7 +123,7 @@
     <string name="custom_wallpaper_picker">လိုက်ရှာဖတ်ပါ</string>
     <string name="reset_scene_prompt">မျက်နှာပြင်ကို သတ်မှတ်ပုံစံ အဆင်အပြင်သို့ ပြန်သတ်မှတ်ပါလိမ့်မည်။</string>
     <string name="preferences_title">အစပျိုးစက် ဆက်တင်များ</string>
-    <string name="preferences_general_title">နောက်ထပ် ဆက်တင်များ</string>
+    <string name="preferences_general_title">ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="pref_keep_in_memory_title">မှတ်ဉာဏ်ထဲက MIUI ကို သော့ခတ်ပါ</string>
     <string name="pref_keep_in_memory_summary">မှတ်ဉာဏ်နည်းသောအခါ အစပျိုးစက်ကို ဆက်လက် လည်ပတ်စေပါ</string>
     <string name="pref_render_in_truecolor_title">အရည်အသွေးမြင့် ဂရပ်ဖစ်များ</string>

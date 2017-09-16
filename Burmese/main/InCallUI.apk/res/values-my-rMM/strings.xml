@@ -67,7 +67,7 @@
     <string name="card_title_threeway_call">သုံးဖက် ခေါ်ဆိုခြင်း</string>
     <string name="card_title_incoming_call">အဝင်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_answering">ဖုန်းဖြေဆိုနေသည်</string>
-    <string name="card_title_answering_time_out">"Couldn't answer call, try again."</string>
+    <string name="card_title_answering_time_out">ဖုန်းဖြေဆို၍မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="card_title_call_ended">"ခေါ်ဆိုခြင်းပြီးပြီ "</string>
     <string name="card_title_on_hold">"ကိုင်ထား "</string>
     <string name="card_title_hanging_up">"ချလိုက် "</string>

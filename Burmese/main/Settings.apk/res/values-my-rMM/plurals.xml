@@ -149,7 +149,7 @@
         <item quantity="other">အန္တရာယ် %d ခုတွေ့ရှိခဲ့သည်</item>
     </plurals>
     <plurals name="auto_startup_count">
-        <item quantity="other">အက်ပ် %d ခုကို အော်တိုစခွင့်ပြုမည်</item>
+        <item quantity="other">အက်ပ် %dခုကို အော်တိုစတင်ခွင့်ပေးမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
         <item quantity="other">PIN နံပါတ်တွင် ဂဏန်း %d လုံး ပါရမည်</item>

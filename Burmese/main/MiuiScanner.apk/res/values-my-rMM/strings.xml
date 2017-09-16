@@ -32,7 +32,7 @@
     <string name="common_save">သိမ်းဆည်း</string>
     <string name="common_retry">ထပ်ကြိုးစား</string>
     <string name="sdk_not_ready">SDK ပြင်ဆင်နေသည်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
-    <string name="error_get_image">fail to get image</string>
+    <string name="error_get_image">ရုပ်ပုံ ရယူရန် မအောင်မြင်ပါ</string>
     <string name="language_entry_chinese_cn">တရုတ်စာအသစ်</string>
     <string name="language_entry_chinese_tw">ရှေးဟောင်းတရုတ်စာ</string>
     <string name="language_entry_danish">ဒန်းနစ်</string>

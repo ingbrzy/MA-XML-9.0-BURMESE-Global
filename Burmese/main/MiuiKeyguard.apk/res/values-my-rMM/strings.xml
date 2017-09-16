@@ -21,7 +21,7 @@
     <string name="phone_locked_foget_password_mehod_back">နောက်သို့</string>
     <string name="phone_locked_foget_password_method_next">ရှေ့သို့</string>
     <string name="phone_locked_forget_password_suggesstions_title">ဒေတာကိုမည်သို့ဖျက်မည်နည်း?</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>Power off your device, press and hold the &lt;font color=#a5220e>Power button &lt;/font> and the &lt;font color=#a5220e>Volume up button &lt;/font>simultaneously until you see the Mi logo.</Data></string>
+    <string name="phone_locked_forget_password_suggesstion_one_content"><Data>သင့်စက်ကို ပါဝါပိတ်ပြီး၊ &lt;font color=#a5220e>ပါဝါခလုတ် &lt;/font> နှင့် &lt;font color=#a5220e>အသံမြှင့်ခလုတ် &lt;/font>ကို Mi လိုဂိုတွေ့သည်အထိ တစ်ပြိုင်တည်းဖိနှိပ်ထားပါ။;</Data></string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><Data>ရွေးချယ်မည် &lt;font color=#a5220e>\"ရှင်းလင်းမည် &amp;amp; ပြန်လည်သတ်မှတ်မည်\"&lt;/font> စက်ပိတ်ပြီးပြန်ဖွငိ့ခြင်းကို စောင့်မည်;</Data></string>
     <string name="phone_locked_foget_password_ok">ရပြီ</string>
     <string name="lockscreen_access_pattern_start">ပုံစံ စတင်ပြီးပြီ</string>
@@ -57,7 +57,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
-    <string name="input_password_handle_sdcard_fs">Turn off \"Emulated SD card optimization\" before entering Second space.</string>
+    <string name="input_password_handle_sdcard_fs">ဒုတိယအာကာသသို့ မဝင်မီ ပြုစုသူ ရွေးချယ်မှုများမှ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
@@ -91,13 +91,13 @@
     <string name="keyguard_left_bankcard">Mi Pay</string>
     <string name="keyguard_left_buscard">သယ်ယူပို့ဆောင်ရေးကဒ်</string>
     <string name="face_data_input_title">မျက်နှာဒေတာကို ပေါင်းထည့်မည်</string>
-    <string name="face_data_introduction_title">Face recognition</string>
-    <string name="face_data_introduction_msg">Face data can be used to unlock your device or verify your identity. Add Lock screen password before adding your face data.</string>
+    <string name="face_data_introduction_title">မျက်နှာသိရှိခြင်း</string>
+    <string name="face_data_introduction_msg">မျက်နှာဒေတာသည် သင်၏စက်သော့ဖြည်ခြင်းနှင့် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုခြင်းများ ပြုလုပ်နိုင်သည်။ သင့်မျက်နှာဒေတာကို မပေါင်းထည့်မီ မျက်နှာပြင်သော့ခတ်ရန် စကားဝှက်တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="face_data_introduction_next">ရှေ့သို့</string>
-    <string name="face_data_suggesstion_first">Unlocking your device using your face data is less secure than using a Lock screen password. Your device might be unlocked by people who look like you.</string>
-    <string name="face_data_suggesstion_second">"Make sure all parts of your face aren't covered by objects and are clearly visible. Your face should be well-lit as well."</string>
-    <string name="face_data_input_camera_fail">"Couldn't load camera"</string>
-    <string name="face_data_input_camera_ok">Loading camera…</string>
+    <string name="face_data_suggesstion_first">သင်၏မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်ခြင်းသည် မျက်နှာပြင်စကားဝှက်လောက် မလုံခြုံပါ။ သင်နှင့်ရုပ်ဆင်သောသူသည် သင့်စက်ကို သော့ဖြည်နိုင်သည်။</string>
+    <string name="face_data_suggesstion_second">သင့်မျက်နှာတစ်ခုလုံး မည်သည့်အရာမျှ ဖုံးလွှမ်းထားခြင်းမရှိစေရ။ လုံလောက်သောအလင်းနှင့် ရှင်းလင်းစွာမြင်စေပါ။</string>
+    <string name="face_data_input_camera_fail">ကင်မရာကို ဖွင့်၍မရပါ</string>
+    <string name="face_data_input_camera_ok">ကင်မရာကို ဖွင့်နေသည်…</string>
     <string name="face_data_input_msg">သင့်မျက်နှာအား ဖရိန်အတွင်း ထားပါ</string>
     <string name="face_data_input_ok_title">အောင်မြင်စွာ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="face_data_input_ok_msg">သင့်မျက်နှာဒေတာဖြင့် စက်ကိုသော့ဖြည်ရန် မျက်နှာပြင်ဖွင့်အား ဖွင့်ပါ။</string>
@@ -110,8 +110,8 @@
     <string name="face_data_manage_unlock_msg">သင့်မျက်နှာဒေတာဖြင့် စက်ကိုသော့ဖြည်မည်</string>
     <string name="face_data_manage_delete">မျက်နှာဒေတာကို ဖျက်မည်လား?</string>
     <string name="face_data_manage_delete_sure">သင့်မျက်နှာဒေတာကို ဖျက်ပစ်ပါက ယင်းဖြင့် စက်ကိုသော့ဖြည်၍ရမည် မဟုတ်တော့ပါ။</string>
-    <string name="face_unlock_by_notification_screen_on_title">Allow Face unlock when screen lights up</string>
-    <string name="face_unlock_by_notification_screen_on_msg">You can unlock the device using face data whenever the screen lights up for incoming notifications. This may drain the battery faster.</string>
+    <string name="face_unlock_by_notification_screen_on_title">မျက်နှာပြင်လင်းသောအခါ မျက်နှာသော့ဖြည်ခြင်းကို ခွင့်ပြုမည်</string>
+    <string name="face_unlock_by_notification_screen_on_msg">အသိပေးချက်များဝင်လာ၍ မျက်နှာပြင်လင်းသောအခါ မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်နိုင်သည်။ သို့သော် ဘက်ထရီအားကုန်မှု ပိုမြန်စေသည်။</string>
     <string name="face_unlock_not_found">သင့်ကို အသိအမှတ်မပြုနိုင်ပါ</string>
     <string name="face_unlock_adjust_distance">စက်ကို သင့်မျက်နှာနှင့် အသင့်တော်ဆုံးအကွာအဝေးတွင် ထားပါ။</string>
     <string name="face_unlock_close_screen">မျက်နှာပြင်နားသို့ ကပ်ပါ</string>

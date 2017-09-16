@@ -94,6 +94,7 @@
     <string name="location_settings">တည်နေရာ ဆက်တင်များ</string>
     <string name="location_warning">%1$s မှာ ဤစက်၏ တည်နေရာဝန်ဆောင်မှု ထောက်ပံ့ပေးသူ ဖြစ်ပါသည်၊ တည်နေရာဝင်ရောက်မှုအား တည်နေရာ ဆက်တင်များတွင် မွမ်းမံနိုင်ပါသည်။</string>
     <string name="permission_warning_template">%1$sအား %2$s သို့ ခွင့်ပြုမည်လား?</string>
+    <string name="permission_warning_template_ask">%1$sအား အောက်ပါခွင့်ပြုချက်များ ပေးမလား？</string>
     <string name="screen_overlay_title">တစ်ဆင့်ခံမျက်နှာပြင် ထောက်လှမ်းမိ</string>
     <string name="screen_overlay_message">ဤခွင့်ပြုချက်ဆက်တင်အား ပြောင်းလဲရန်၊ တစ်ဆင့်ခံမျက်နှာပြင်အား ဆက်တင်များထဲတွင် သင်ဦးစွာပြောင်းလဲရန် လိုအပ်ပါသည်။> အက်ပ်များ</string>
     <string name="screen_overlay_button">ဆက်တင်မျာအား ဖွင့်ပါ</string>

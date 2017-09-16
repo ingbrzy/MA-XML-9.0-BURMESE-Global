@@ -109,7 +109,7 @@
     <string name="activate_history_multisim_canceled_overview">SIM ကဒ် %2$d အသက်သွ၍်းခြင်းအား ပယ်ဖျက် ခဲ့သည်။ အသက်သွင်းခြင်းအား %1$s\"ဖြင့် လုပ်ဆောင်ခဲ့သည်။</string>
     <string name="activate_history_sms">အသက်သွင်းမှုအတွက်SMS တစ်ခုပေးပို့ပြီး ဖြစ်ပါသည်</string>
     <string name="phone_verify_title">%1$s မှ သင့်ရဲ့ဖုန်းနံပါတ်ကို အတည်ပြုရန်သဘောတူမည်</string>
-    <string name="phone_verify_text">%1$s will not get your phone number，just verify your phone number is match。</string>
+    <string name="phone_verify_text">%1$s သည်သင်၏ဖုန်းနံပါတ်ကို မရယူနိုင်ပါ၊ ဖုန်းနံပါတ် အတည်ပြုရန်အတွက်သာ ဖြစ်သည်။</string>
     <string name="phone_verify_processing">အတည်ပြုနေသည်…</string>
     <string name="phone_get_title">%1$s အား သင့်ရဲ့ဖုန်းနံပါတ် ရယူရန်သဘောတူမည်</string>
     <string name="phone_get_text">%1$s အား သင့်ဖုန်းနံပါတ်- %2$s ကို ရယူရန် သဘောတူမည်</string>

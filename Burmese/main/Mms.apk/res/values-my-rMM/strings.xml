@@ -7,6 +7,7 @@
     <string name="addBlackList">ဘလော့လုပ်</string>
     <string name="add_attachment">ပူးတွဲဖိုင်များကို ထည့်ပါ</string>
     <string name="add_contact">vCard</string>
+    <string name="add_miui_contact">Mi ကဒ်</string>
     <string name="add_music">တေးဂီတပေါင်းထည့်</string>
     <string name="add_number_to_sender">%s ထဲသို့ နံပါတ်ထည့်ပါ</string>
     <string name="add_picture">ပုံ ထည့်ပါ</string>
@@ -385,8 +386,10 @@
     <string name="pref_show_sms_template_in_summary">SMS မက်ဆေ့ချ်များထဲရှိ တစ်ကြိမ်သုံး စကားဝှက်များအား အလိုအလျောက် ထောက်လှမ်းပါ</string>
     <string name="pref_show_sms_template_summary">ကုဒ်များ ကူးယူခြင်း၊ လက်ကျန်ငွေစစ်ဆေးခြင်း စသော Mi မက်ဆေ့ချ်၏ စမတ်လုပ်ဆောင်ချက်များအား အသုံးပြုရန် ဖွင့်ပါ</string>
     <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်များ</string>
+    <string name="pref_sms_storage_title">သိုလှောင်ခန်း</string>
     <string name="pref_sms_theme_title">ပြသချက်</string>
     <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အချက်အလက်များအား ဖတ်နိုင်ရန် ခွင့်ပြုပေးပါ</string>
+    <string name="pref_summary_auto_delete">သတ်မှတ်ထားသော ပမာဏထက်ကျော်လျှင် မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်ပါ</string>
     <string name="pref_summary_delete_limit">စကားပြောဆိုမှု တစ်ခုလျှင် မက်ဆေ့ချ် %1$s စောင်</string>
     <string name="pref_summary_delivery_reports">ပေးပို့ထားသော မက်ဆေ့ချ်များအတွက် ပေးပို့ပြီး အခြေအနေအား ပြသပါ</string>
     <string name="pref_summary_delivery_ringtone">ပေးပို့ခဲ့သော မက်ဆေ့ချ်များအတွက် လက်ခံရယူပြီးသည့် အသံထွက်ပေါ်လာပါ</string>
@@ -404,6 +407,7 @@
     <string name="pref_system_title">စနစ်</string>
     <string name="pref_title_about_smart_sms">စမတ်မက်ဆေ့ချ်ပါတနာအကြောင်း</string>
     <string name="pref_title_allow_si_sl_push">WAP ဖုန်းထဲပို့သည့် မက်ဆေ့ချ်များကို ခွင့်ပြုပါ (SI/SL)</string>
+    <string name="pref_title_auto_delete">မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်မည်</string>
     <string name="pref_title_card_format">ကဒ် မျှဝေမှု ဖောမတ်</string>
     <string name="pref_title_delivery_reports">ပေးပို့မှု အခြေအနေ</string>
     <string name="pref_title_fwd_sender_info">ထပ်ဆင့်ပို့သူ အချက်အလက်</string>
@@ -412,6 +416,8 @@
     <string name="pref_title_mms_auto_retrieval">MMS အကြောင်းရာမျာအား အလိုအလျောက် ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="pref_title_mms_delete">မာတီမီဒီယာ မက်ဆေ့ချ်ကန့်သတ်ချက်</string>
     <string name="pref_title_mms_read_reports">MMS ဖတ်ပြီးကြောင်း အစီရင်ခံချက်</string>
+    <string name="pref_title_mms_retrieval_during_international_roaming">Download MMS content when international roaming</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">Download MMS content when national roaming</string>
     <string name="pref_title_mms_retrieval_during_roaming">ရွန်းမင်းလုပ်နေစဉ်တွင် MMSအကြောင်းအရာများအား ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="pref_title_mms_validity_period">MMS သက်တမ်းကုန်ဆုံးရက်</string>
     <string name="pref_title_notification_body_enabled">သော့ခတ်မျက်နှာပြင်ပေါ်တွင် မက်ဆေ့ချ်များကို ပြပါ</string>

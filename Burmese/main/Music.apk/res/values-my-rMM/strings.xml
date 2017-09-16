@@ -494,6 +494,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="please_search_or_select">နေရာတစ်ခုရှာပါ သို့မဟုတ် ရွေးပါ</string>
     <string name="in_searching_please_wait">ရှာနေသည်…</string>
     <string name="no_file_picker_find">ဖိုင်ရှာဖွေသူကို ကိရိယာတွင် ထည့်သွင်းမထားပါ</string>
+    <string name="no_system_cropper_find">စနစ်ထဲတွင် ရုပ်ပုံဖြတ်ထုတ်သော အရာ မရှိပါ</string>
     <string name="set_lyric_successful">သီချင်စားသားသိမ်းပြီး</string>
     <string name="set_album_successful">အယ်လ်ဘမ်သိမ်းပြီး</string>
     <string name="set_id3_successful">သီချင်းအချက်လက်သိမ်းပြီး</string>
@@ -847,8 +848,8 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="talkback_favorite">ဤသီးချင်းအား ကြိုက်သည်</string>
     <string name="talkback_progress">တိုးတက်မှု ဘား</string>
     <string name="talkback_back">နောက်ပြန်သွား</string>
-    <string name="talkback_nowplaying_circle">Play circle</string>
-    <string name="talkback_nowplaying_bar">Play bar</string>
+    <string name="talkback_nowplaying_circle">ဖွင့်ရန် အဝိုင်း</string>
+    <string name="talkback_nowplaying_bar">ဖွင့်ရန် ဘားတန်း</string>
     <string name="cloud_music">Mi ကလောက်ရှိ သီချင်းများ</string>
     <string name="backup_immediate">အရန်သိမ်းပါ</string>
     <string name="backup_song_title">အရန်သိမ်းရန် သီချင်းများ ရွေးပါ</string>

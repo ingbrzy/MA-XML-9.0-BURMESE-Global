@@ -7,7 +7,6 @@
     <string name="passport_login_title">သင်၏ Mi အကောင့်သို့ ဝင်ပါ။</string>
     <string name="passport_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_relogin">ထပ်မံ ဝင်ပါ</string>
-    <string name="passport_instant_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_skip_login">ကျော်</string>
     <string name="passport_skip_setup_account_title">သတ်မှတ်ဖွဲ့စည်းမှုကို ကျော်ပါ</string>
     <string name="passport_skip_setup_account_msg">ကြိုတင်ပြင်ဆင်ချက်များမှာ Mi အကောင့်ကို မကြာမီ သတ်မှတ်တည်ဆောက်နိုင်သည်။</string>
@@ -112,6 +111,9 @@
     <string name="passport_completed">ပြီးပါပြီ</string>
     <string name="passport_verify">မှန်ကြောင်း အတည်ပြုပါ</string>
     <string name="passport_restart">ပြန်စ</string>
+    <string name="passport_yes">ဟုတ်ပါတယ်</string>
+    <string name="passport_no">မဟုတ်ပါ</string>
+    <string name="passport_continue">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="passport_loading">ဆွဲတင်နေသည်…</string>
     <string name="passport_reging">အကောင့် ဖန်တီးခြင်း…</string>
     <string name="passport_checking_account">စကားဝှက်… ကိုစစ်ဆေးနေဆဲပါ</string>
@@ -177,15 +179,22 @@
     <string name="passport_error_verify_activator_phone_message">သင်၏ SIM ကဒ်ဝန်ဆောင်မှုသည် အသက်သွင်းပြီးဖြစ်၍ သင့်စက်သည် ကွန်ယက်ချိတ်ဆက်ထားခြင်းရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="passport_error_no_password_user">စကားဝှက် မသတ်မှတ်ရသေးပါ။ SMS ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="passport_phone_ticket_login">SMS ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="passport_quick_register">မှတ်ပုံတင်မည်</string>
     <string name="passport_account_set_password">စကားဝှက်သတ်မှတ်ပါ</string>
     <string name="passport_account_set_password_title">စကားဝှက်သတ်မှတ်ပါ</string>
     <string name="passport_account_set_password_prompt">နောက်တစ်ကြိမ် ဆိုင်းအင်ဝင်ရန် သင့်အကောင့်အတွက် စကားဝှက်တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="passport_set">သတ်မှတ်ပါ။</string>
+    <string name="passport_set_password_no_phone_msg">သင့်အကောင့်ကို ကာကွယ်ရန် ဖုန်းနံပါတ်တစ်ခု ပေါင်းထည့်ပါ။</string>
     <string name="passport_user_reg_region">နိုင်ငံ/ဒေသ</string>
-    <string name="passport_user_id_notice">您的小米ID是: %s</string>
-    <string name="passport_user_reg_region_warning">အကောင့်အား ဖန်တီးပြီးနောက် သင်၏နိုင်ငံ/ဒေသကို ပြောင်းလဲ၍ ရနိုင်လိမ့်မည်မဟုတ်ပါ</string>
-    <string name="passport_sync_account_data">正在同步您的帐号数据</string>
-    <string name="passport_sync_account_data_failed_warning">您的帐号数据有延迟,将只能使用小米ID登录。若使用邮箱/手机登录,请稍等几分钟</string>
+    <string name="passport_user_id_notice">သင်၏ Mi အကောင့် ID သည် %s ဖြစ်သည်။</string>
+    <string name="passport_user_reg_region_warning">အကောင့်အား ဖန်တီးပြီးနောက် သင်၏နိုင်ငံ/ဒေသကို ပြောင်းလဲ၍ ရနိုင်လိမ့်မည်မဟုတ်ပါ။</string>
+    <string name="passport_sync_account_data">အကောင့်အချက်အလက်ကို ဆင့်ခ်လုပ်နေသည်…</string>
+    <string name="passport_sync_account_data_failed_warning">အကောင့်အချက်အလက်ကို ဆင့်ခ်လုပ်နေသည်၊ သင်၏ Mi အကောင့် ID ဖြင့် ဆိုင်းအင်ဝင်နိုင်ပါသည်။ သင့်ဖုန်းနံပါတ် သို့မဟုတ် အီးမေးလ်ဖြင့် ဆိုင်းအင်ဝင်လိုပါက အချက်အလက် ဆင့်ခ်လုပ်ပြီးသည်အထိ စောင့်ပါ။</string>
+    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+    <string name="passport_login_recycle_account_yes">ဟုတ်ပါတယ်</string>
+    <string name="passport_login_recycle_account_no">မဟုတ်ပါ</string>
+    <string name="passport_reg_recycle_account_yes">ဟုတ်ပါတယ်</string>
+    <string name="passport_reg_recycle_account_no">မဟုတ်ပါ</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
     <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
@@ -275,7 +284,7 @@
     <string name="confirm_phone_number_dialog_title">ဖုန်းနံပါတ် အတည်ပြုပါ။</string>
     <string name="confirm_bundled_phone_dialog_title">ဆက်စပ်ဖုန်းနံပါတ်တစ်ခု အတည်ပြုပါ။</string>
     <string name="confirm_phone_number_dialog_message">%s သို့အတည်ပြုကုဒ် ပေးပို့မည်။</string>
-    <string name="confirm_unbundled_phone_dialog_message">ဖုန်းနံပါတ် %1$s သည်Mi အကောင့် %2$s နှင့်ဆက်စပ်နေပါသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့်ဆက်စပ်တော့မည်မဟုတ်။ ဆက်လက်လုပ်ဆောင်မည်လား?</string>
+    <string name="confirm_unbundled_phone_dialog_message">ဖုန်းနံပါတ် %1$s သည် Mi အကောင့် %2$sနှင့် ချိတ်ဆက်ထားသည်။ ဆက်လက်လုပ်ဆောင်ပါက Mi အကောင့် %3$s နှင့် ချိတ်ဆက်မှု ပျက်သွားလိမ့်မည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
     <string name="change_phone_number">ဖုန်းနံပါတ် ပြောင်းပါ</string>
     <string name="change_email_address">အီးမေးလ်လိပ်စာ ပြောင်းပါ</string>
     <string name="checking_phone_num_availible">ဖုန်းကို မှန်ကြောင်း အတည်ပြုနေဆဲ…</string>
@@ -308,13 +317,14 @@
     <string name="update_email_address_dialog_message">အီးမေးလ်အား အသစ်မွမ်းမံမှုမလုပ်မီ သင့်အိုင်တည်ကို အတည်ပြုရန် လိုအပ်ပါသည်။</string>
     <string name="account_user_details">ကိုယ်ရေးအချက်အလက်များ</string>
     <string name="account_security">အကောင့်လုံခြုံရေး</string>
+    <string name="account_mibi_center">Mi ခရက်ဒစ်များ</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">ဝန်ဆောင်မှုများ</string>
     <string name="cloud_service">Mi Cloud</string>
     <string name="vip_account_settings">VIP ဆက်တင်များ</string>
     <string name="xiao_mi_vip">Mi VIP</string>
-    <string name="mi_vip_info">查看我的特权</string>
-    <string name="vip_settings_info">我的数据中心</string>
+    <string name="mi_vip_info">အခွင့်ထူးများအား ကြည့်မည်</string>
+    <string name="vip_settings_info">VIP ဆက်တင်များ</string>
     <string name="loading_micloud_sync_data">ခဏလောက်စောင့်…</string>
     <string name="activity_not_found_notice">အပလီကေးရှင်းအား ရှာဖွေ၍မရနိုင်ပါ</string>
     <string name="scan_barcode_title">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန်၊ QR ကုဒ်ကို စကင်ဖတ်ပါ။</string>
@@ -384,9 +394,9 @@
     <string name="verify_phone_prompt">အတည်ပြုရန် ဖုန်းနံပါတ်ရွေးချယ်ပါ</string>
     <string name="sms_send_success">ပေးပို့ခဲ့</string>
     <string name="auth_fail_warning">ဆက်ရှင်သက်တမ်းကုန်သွားပြီ၊ ဆိုင်းအင်ထပ်ဝင်ရောက်ပါ</string>
-    <string name="find_device_message">လက်ရှိစက်ကို သော့ခတ်လိုက်သည်၊ မက်ဆေ့ချ်- %1$s၊ ဆက်သွယ်ရန်ဖုန်း- %2$s။</string>
-    <string name="find_device_owner_phone">လက်ရှိစက်ကို သော့ခတ်လိုက်ပြီ၊ ဆက်သွယ်ရန်ဖုန်း- %1$s။</string>
-    <string name="find_device_prompt_message">လက်ရှိစက်ကို သော့ခတ်လိုက်ပြီ၊ မက်ဆေ့ချ်- %1$s။</string>
+    <string name="find_device_message">စက် လော့ခ်ချလိုက်ပြီ။ မက်ဆေ့ချ်-%1$s။ ဖုန်းနံပါတ် %2$s။</string>
+    <string name="find_device_owner_phone">စက် လော့ခ်ချလိုက်ပြီ။ %1$sသို့ ဖုန်းခေါ်ပါ။</string>
+    <string name="find_device_prompt_message">စက်ကို လော့ခ်ချလိုက်ပြီ။ မက်ဆေ့ချ်-%1$s။</string>
     <string name="find_device_activate_account">အကောင့်အား အသက်သွင်း</string>
     <string name="login_check_find_device">စက်လုံခြုံရေးအချက်အလက်များ ရယူနေပါသည်…</string>
     <string name="unlock_help_notice">"အကူအညီ−
@@ -428,5 +438,5 @@
     <string name="account_token_expired_title">မှန်ကန်ကြောင်းအတည်ပြုခြင်း မအောင်မြင်ပါ။</string>
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
-    <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် ဆိုင်းအင်ဝင်ရန် လုံခြုံရေးဖုန်းတစ်ခု ပေါင်းထည့်ပါ</string>
+    <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် Mi အကောင့်သို့ ဆိုင်းအင်ဝင်နိုင်ရန် သင်၏ဖုန်းနံပါတ်ကို ပေါင်းထည့်ပါ။</string>
 </resources>

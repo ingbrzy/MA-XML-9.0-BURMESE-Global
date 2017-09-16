@@ -33,8 +33,7 @@
     <string name="video_editor_audio_sad">သီချင်း</string>
     <string name="video_editor_audio_custom">ရွေးပါ</string>
     <string name="video_editor_unsupport_audio_file">မထောက်ပံ့ထားသော အော်ဒီယိုဖိုင်</string>
-    <string name="video_editor_text_none">မရှိ</string>
-    <string name="video_editor_text_preview_text">စာသား</string>
+    <string name="video_editor_text_preview_text">MI</string>
     <string name="video_editor_text_default">မူလသတ်မှတ်ချက်</string>
     <string name="video_editor_text_input_empty_tips">သင်စာသားရိုက်ထည့်ထားပုံမရပါ</string>
     <string name="video_editor_encode_video">ဗီဒီယို ကုဒ်ဖွဲ့နေသည်…</string>
@@ -81,9 +80,9 @@
     <string name="empty_title_no_photos">ဓာတ်ပုံ သို့မဟုတ် ဗီဒီယို မရှိပါ။</string>
     <string name="home_page_empty_action">ဓာတ်ပုံရိုက်မည်။</string>
     <string name="recent_album_empty_title">လတ်တလော ဓာတ်ပုံအသစ်များမရှိပါ။</string>
-    <string name="people_album_empty_title">Photos can be sorted by people in them</string>
-    <string name="places_album_empty_title">ဓါတ်ပုံများကို တည်နေရာအလိုက်ခွဲထားနိုင်သည်။</string>
-    <string name="things_album_empty_title">Photos can be sorted by objects in them</string>
+    <string name="people_album_empty_title">ဓါတ်ပုံများကို ပုံထဲရှိလူအလိုက် ခွဲထားနိုင်သည်</string>
+    <string name="places_album_empty_title">ဓါတ်ပုံများကို တည်နေရာအလိုက် ခွဲထားနိုင်သည်</string>
+    <string name="things_album_empty_title">ဓါတ်ပုံများကို ပုံထဲရှိအရာများအလိုက် ခွဲထားနိုင်သည်</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="ignore_faces_title">လစ်လျူရှု</string>
     <string name="see_ignore_faces">သင်လစ်လျူရှု့ခဲ့သော သူများ</string>
@@ -590,7 +589,7 @@
     <string name="slideshow_interval_value">%1$d စက္ကန့်</string>
     <string name="slideshow_interval_dialog_title">ကြားကြာချိန်ရိုက်သွင်းပါ</string>
     <string name="slideshow_interval_invalid">ကြားကြာချိန်သည် ၁ နှင့် ၃၆၀၀ စက္ကန့်အကြား ဖြစ်ရမည်</string>
-    <string name="other_settings">ထပ်ဆောင်းဆက်တင်များ</string>
+    <string name="other_settings">ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="impunity_declaration_settings">အင်တာနက် ချိတ်ဆက်မှု အသိပေးချက်</string>
     <string name="impunity_declaration_summary">သင် ပြခန်းကို ဖွင့်ချိန်တိုင်းတွင် အင်တာနက်ချိတ်ဆက်မှု အသိပေးချက်ကို ပြပါ</string>
     <string name="trash_bin">အမှိုက်ပုံး</string>
@@ -601,6 +600,7 @@
     <string name="welcome_to_slim">အတွင်းသိုလှောင်မှုအား ချဲ့ထွင်</string>
     <string name="slim_introduce">ရီဆိုလူးရှင်းအပြည့်ရှိသောပုံအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု နေရာအများအပြား ချွေတာနိုင်ပါသည်။</string>
     <string name="slim_introduce_with_specific_size">ရီဆိုလူးရှင်းအပြည့်ရှိသောဖိုင်များအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု %1$s ချွေတာနိုင်ပါသည်။ဤသို့ပြုလုပ်ရန် (Mi အကောင့်လိုအပ်ပါသည်)</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
     <string name="next">နောက်ထပ်</string>
     <string name="login_and_enable_service">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
@@ -677,7 +677,8 @@
     <string name="cloud_storage_ok_append_desc">ရရှိနိုင်သော %s</string>
     <string name="cloud_storage_warn_title">Mi ကလောက်သိုလှောင်မှု မလုံလောက်ပါ</string>
     <string name="cloud_storage_warn_desc">သိုလှောင်မှုပိုမိုရယူရန် ကလောက် VIP အားဝယ်ယူပါ</string>
-    <string name="cloud_storage_extend">Extend cloud space</string>
+    <string name="percent_sign">%</string>
+    <string name="cloud_storage_extend">Cloud နေရာလွတ် ချဲ့မည်</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="user_agree">သဘောတူ</string>
@@ -785,6 +786,8 @@
     <string name="search_setting_sub_title_open">လျှောက်ထားပါပြီ။ ကျေးဇူးပြု၍ခဏစောင့်ပါ။</string>
     <string name="search_request_open">စမ်းသပ်မှုအဖွဲ့သို့ ဝင်ရောက်မည်။</string>
     <string name="search_title_more">နောက်ထပ်</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="grant_permission_title">အသုံးပြုဝင်ရောက်မှုအား ခွင့်ပြုပါ</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
@@ -802,10 +805,10 @@
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="error_no_network_tip">ကွန်ရက်ချိတ်ဆက်၍မရပါ။</string>
-    <string name="error_no_network_msg">သင်၏စက်သည် Wi-Fi သို့မဟုတ် မိုဘိုင်းဒေတာ နှင့်ချိတ်ဆက်ထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="error_no_network_msg">သင်၏စက်သည် Wi-Fi သို့မဟုတ် မိုဘိုင်းဒေတာနှင့် ချိတ်ဆက်ထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
     <string name="error_no_network_action">ကွန်ရက်ဆက်တင်</string>
     <string name="error_no_wifi_tip">Wi-Fiသို့ ချိတ်ဆက်၍မရပါ</string>
-    <string name="error_no_wifi_msg">သင့်စက်သည် Wi-Fi သို့ချိတ်ဆက်ထားခြင်း မရှိပါ။ မိုဘိုင်းဒေတာကို အသုံးပြုပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။</string>
+    <string name="error_no_wifi_msg">သင့်စက်သည် Wi-Fi သို့ ချိတ်ဆက်ထားခြင်း မရှိပါ။ မိုဘိုင်းဒေတာကို အသုံးပြုပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။</string>
     <string name="error_no_wifi_action">မိုဘိုင်းဒေတာ သုံးမည်</string>
     <string name="error_sync_off_tip">ဆင့်ခ် ပိတ်ထားသည်။</string>
     <string name="error_sync_off_msg">Mi Cloud သို့ ဆင့်ခ်လုပ်ရန် ဖွင့်ထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
@@ -882,7 +885,7 @@
     <string name="photo_editor_navigator_export">ပြီးပါပြီ</string>
     <string name="photo_editor_beautify">အလှဆင်မှု</string>
     <string name="photo_editor_filter">စစ်ထုတ်ကိရိယာ</string>
-    <string name="photo_editor_crop_and_rotate">ဖြတ်ထုတ်ခြင်း&amp;လှည့်ခြင်း</string>
+    <string name="photo_editor_crop_and_rotate">ဖြတ်ထုတ်ခြင်း</string>
     <string name="photo_editor_adjust">ချိန်ညှိခြင်း</string>
     <string name="photo_editor_sticker">စတစ်ကာ</string>
     <string name="photo_editor_doodle">ဂရက်ဖတီပန်းချီ</string>

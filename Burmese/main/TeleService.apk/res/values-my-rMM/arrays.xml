@@ -29,12 +29,12 @@
         <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>ဘယ်တော့မှ မစစ်ဆေးပါနှင့်</item>
+        <item>မည်သည့်အခါမှ မစစ်ဆေးပါနှင့်</item>
         <item>DRMအကြောင်းအရာကိုသာ စစ်ဆေးမည်</item>
         <item>အမြဲစစ်ဆေးရန်</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP checking အား ဘယ်တော့မှ မသုံးပါနှင့်</item>
+        <item>HDCP checkingအားမည်သည့်အခါမျှမသုံးပါနှင့်</item>
         <item>DRMအကြောင်းအရာအတွက် HDCPစစ်ဆေးခြင်းကိုသုံးမည်</item>
         <item>HDCP checkingအားအမြဲသုံးပါ</item>
     </string-array>
@@ -59,18 +59,6 @@
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 1M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 4M</item>
         <item>မှတ်တမ်းယာယီကြားခံနယ်တစ်ခုလျှင် 16M</item>
-    </string-array>
-    <string-array name="select_logpersist_titles">
-        <item>ပိတ်ပါ</item>
-        <item>အားလုံး</item>
-        <item>ရေဒီယိုမှလွဲ၍ အားလုံး</item>
-        <item>ကာနယ်သာ</item>
-    </string-array>
-    <string-array name="select_logpersist_summaries">
-        <item>ပိတ်ပါ</item>
-        <item>မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်များ အားလုံး</item>
-        <item>ရေဒီယို မှတ်တမ်းသိမ်းဆည်းရန်လျာထားချက်မှလွဲ၍ အားလုံး</item>
-        <item>ကာနယ်မှတ်တမ်းသိမ်းဆည်းရန် လျာထားချက်သာ</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>
@@ -181,6 +169,11 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
+    <string-array name="preferred_network_mode_values_world_mode">
+        <item>၁၀</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
     <string-array name="clir_display_values">
         <item>ကွန်ရက် မူလသတ်မှတ်</item>
         <item>နံပါတ်ဖွက်ပါ</item>
@@ -220,6 +213,15 @@
         <item>တရုတ်</item>
         <item>ဟီဘရူး</item>
     </string-array>
+    <string-array name="list_language_values">
+        <item>၁</item>
+        <item>၂</item>
+        <item>၃</item>
+        <item>၄</item>
+        <item>၅</item>
+        <item>၆</item>
+        <item>၇</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>အိမ်သီးသန့်</item>
         <item>အလိုအလျောက်</item>
@@ -227,6 +229,10 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>၀</item>
+        <item>၁</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY ပိတ်</item>

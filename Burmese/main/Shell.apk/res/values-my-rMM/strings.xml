@@ -21,6 +21,6 @@
     <string name="bugreport_info_name">ဖိုင်အမည်</string>
     <string name="bugreport_info_title">ချွတ်ယွင်းချက် ခေါင်းစဉ်</string>
     <string name="bugreport_info_description">ချွတ်ယွင်းချက် အကျဉ်းချုပ်</string>
-    <string name="save">သိမ်းရန်</string>
+    <string name="save">သိမ်းဆည်းပါ</string>
     <string name="bugreport_confirm_repeat">ဤစာတန်းကို နောက်တစ်ခါတွင် ပြရန်</string>
 </resources>

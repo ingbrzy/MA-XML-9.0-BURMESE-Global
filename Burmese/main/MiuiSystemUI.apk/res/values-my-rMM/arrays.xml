@@ -120,7 +120,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>ပိတ်</item>
         <item>ကျော်လွန်ဧရိယာများ ပြရန်</item>
-        <item>Show areas for Deuteranomaly</item>
+        <item>Deuteranomaly (အနီ-အစိမ်း မသဲကွဲသူ) အတွက် ဧရိယာများကို ပြပါ</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>စံ ကန့်သတ်ချက်</item>
@@ -135,7 +135,7 @@
         <item>MTP (မီဒီယာလွှဲပြောင်းမှုသဘောတူညီချက်)</item>
         <item>PTP (ရုပ်ပုံလွှဲပြောင်းမှုသဘောတူညီချက်)</item>
         <item>RNDIS (USB အီသာနက်)</item>
-        <item>Audio Source</item>
+        <item>အော်ဒီယို အရင်းမြစ်</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -148,6 +148,17 @@
         <item>မြန်ဆန်သော</item>
         <item>အလွန်မြန်ဆန်သော</item>
         <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>တောက်ပ (ပုံသေ)</item>

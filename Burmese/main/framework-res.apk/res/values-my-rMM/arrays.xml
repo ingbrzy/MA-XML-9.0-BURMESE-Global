@@ -38,7 +38,7 @@
         <item>မိမိစိတ်ကြိုက်</item>
     </string-array>
     <string-array name="wfcOperatorErrorAlertMessages">
-        <item>"Wi-Fi သုံး၍ ဖုန်းခေါ်ဆိုရန်နှင့် မက်ဆေ့ဂျ်များပို့ရန်၊ ဤဝန်ဆောင်မှုအား စတင်သုံးနိုင်ရန်အတွက် သင့် မိုဘိုင်းဝန်ဆောင်မှုအား ဦးစွာမေးမြန်းပါ။ ထို့နောက် ဆက်တင်မှတဆင့် Wi-Fi  ခေါ်ဆိုမှုအား ထပ်ဖွင့်ပါ။"</item>
+        <item>"Wi-Fi သုံး၍ ဖုန်းခေါ်ဆိုရန်နှင့် မက်စေ့ဂျ်များပို့ရန်၊ ဤဝန်ဆောင်မှုအား စတင်သုံးနိုင်ရန်အတွက် သင့် မိုဘိုင်းဝန်ဆောင်မှုအား ဦးစွာမေးမြန်းပါ။ ထို့နောက် ဆက်တင်မှတဆင့် Wi-Fi  ခေါ်ဆိုမှုအား ထပ်ဖွင့်ပါ။"</item>
     </string-array>
     <string-array name="wfcOperatorErrorNotificationMessages">
         <item>သင့် မိုဘိုင်းဝန်ဆောင်မှုဖြင့် မှတ်ပုံတင်ရန်</item>
@@ -54,12 +54,5 @@
         <item>အလုပ်အကိုင်</item>
         <item>တခြား</item>
         <item>မိမိစိတ်ကြိုက်</item>
-    </string-array>
-    <string-array name="network_switch_type_name">
-        <item>ဆယ်လူလာဒေတာ</item>
-        <item>Wi-Fi</item>
-        <item>ဘလူးတုသ်</item>
-        <item>အီသာနက်</item>
-        <item>VPN</item>
     </string-array>
 </resources>

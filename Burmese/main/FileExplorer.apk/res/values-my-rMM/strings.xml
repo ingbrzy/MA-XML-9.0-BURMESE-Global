@@ -199,7 +199,7 @@
     <string name="port_range">Port နံပါတ်မှာ 1024 နှင့် 65535အကြားရှိရပါမည်</string>
     <string name="file_name_invalid">ဖိုင်လ်အမည်တွင် အောက်ပါအက္ခရာတို့ပါဝင်၍မရပါ : /\\:*?&lt;></string>
     <string name="rename_alert">ဤဖိုင်နောက်ဆက်တွဲအမည်အားပြောင်းလိုက်ပါက သင်သည်ဖွင့်၍ရနိုင်တော့မည်မဟုတ်ပါ</string>
-    <string name="rename_alert2">如果修改后缀名，文件将可能无法打开。</string>
+    <string name="rename_alert2">The file will be hidden after you change its extension.</string>
     <string name="search_file_type_picture">ဓာတ်ပုံ</string>
     <string name="search_file_type_video">ဗီဒီယို</string>
     <string name="search_file_type_music">သီချင်း</string>
@@ -247,7 +247,7 @@
     <string name="app_name_midrop">Mi Drop</string>
     <string name="data_consumption_title">အင်တာနက်ချိတ်ဆက်မှု</string>
     <string name="data_consumption_message">ဤအက်ပ်မှာ ပုံမှန်အလုပ်လုပ်ရန် Wi-Fi အားသုံး၍ အင်တာနက်သို့ချိတ်ဆက်ရန် လိုအပ်ပါသည်။</string>
-    <string name="data_consumption_message1">Videos and Stickers needs to connect to the internet using Wi-Fi to work normally.</string>
+    <string name="data_consumption_message1">Explorer needs to connect to the internet to make popular videos and stickers available.</string>
     <string name="data_consumption_checkbox_hint">ထပ်မပြပါနှင့်</string>
     <string name="data_consumption_confirm">အိုကေ</string>
     <string name="data_consumption_cancel">ထွက်ပါ</string>
@@ -291,8 +291,8 @@
     <string name="network_spent_reminding_title">ဒေတာအသုံးပြုခြင်းအသိပေးချက်</string>
     <string name="network_spent_reminding">ဤဖိုင်အားဒေါင်းလုဒ်လုပ်ရန် သင့်မိုဘိုင်းဒေတာချိတ်ဆက်မှုအား အသုံးပြုမည်လား? သင့်ဖုန်းလိုင်းကုမ္ပဏီအား ပုံမှန်ဒေတာခ ပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="shared_sticker_use_tip_title">စတစ်ကာများအား မည်သို့အသုံးပြုမည်နည်း</string>
-    <string name="shared_sticker_use_tip">"You can send the stickers you saved from Chats just like you send images.
-(GIFs can be added to Custom in WeChat Stickers)."</string>
+    <string name="shared_sticker_use_tip">"WeChat ချက်ထဲမှသိမ်းထားသော စတစ်ကာများအား ပုံမှန်ရုပ်ပုံများပေးပို့သကဲ့သို့ ပေးပို့နိုင်ပါသည်။
+(GIFs များအား စိတ်ကြိုက် WeChat စတစ်ကာများသို့ ပေါင်းထည့်နိုင်ပါသည်)။"</string>
     <string name="shared_sticker_page_no_file">ကွန်ရက်နှင့် မချိတ်ဆက်နိုင်ပါ။ သင့်ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="shared_sticker_network_permission_tip">ကွန်ရက်နှင့် မချိတ်ဆက်နိုင်ပါ။ သင့်ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="transfer_private_data">SD ကဒ်မှကွယ်ထားသော ဖိုလ်ဒါများအား ရွေ့နေ...</string>
@@ -409,7 +409,7 @@
     <string name="enable_documentsui">%s အား ဆက်တင်များဝင် ဖွင့်လိုက်ပါ> အက်ပ်အား ဦးစွာတပ်ဆင်ပါ</string>
     <string name="not_installed_documentsui">DocumentsUI အား မတပ်ဆင်ခဲ့ပါ</string>
     <string name="title_enable_documentsui">DocumentsUI အား ဖွင့်လိုက်ပါ</string>
-    <string name="server_error">Sever error, try again later. (Error %s)</string>
+    <string name="server_error">ဆာဗာမှားနေသည်၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။ (အမှား %s)။</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="request_timeout">ကွန်ရက်ချိတ်ဆက်မှု အချိန် ကုန်သွားပါပြီ</string>
     <string name="login_expired">လော့အင်ဝင်ရောက်မှု သက်တမ်းကုန်ဆုံးပြီဖြစ်သောကြောင့် လော့အင်နောက်တစ်ကြိမ်လုပ်ပါ။</string>

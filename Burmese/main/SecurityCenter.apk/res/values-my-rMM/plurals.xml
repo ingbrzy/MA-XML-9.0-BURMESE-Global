@@ -203,4 +203,7 @@
     <plurals name="uninstall_game_count_title">
         <item quantity="other">%d ဂိမ်း မထည့်သွင်းရသေးပါ။</item>
     </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">ကွန်ရက်အရှိန်မြှင့်တင်ရေး ဝန်ဆောင်မှု သက်တမ်းကုန်ရန် %dရက်သာကျန်တော့သည်။ ကွန်ရက်အရှိန်ပြဿနာများ ရှောင်ရှားနိုင်ရန် ကြိုတင် သက်တမ်းတိုးပါ။</item>
+    </plurals>
 </resources>

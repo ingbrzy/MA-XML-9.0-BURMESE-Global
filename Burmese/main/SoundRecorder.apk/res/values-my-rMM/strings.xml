@@ -145,7 +145,7 @@
     <string name="clear_records">ဆင့်ခ်မှတ်တမ်းများအား ဖျက်ပါ</string>
     <string name="choose_call_records_count">အိုင်တမ် %d ခု</string>
     <string name="network_tip_dialog_title">အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်</string>
-    <string name="network_tip_dialog_content">This app needs to connect to the internet, as well as read your contacts to label the recordings you record during calls.</string>
+    <string name="network_tip_dialog_content">ရကော်ဒါဖြင့် ခေါ်ဆိုမှုများကို အသံသွင်းလိုပါက အင်တာနက်သို့ ချိတ်ဆက်ရန်နှင့် သင်၏အဆက်အသွယ်များကို ဖတ်ယူရန် လိုအပ်ပါသည်။</string>
     <string name="network_tip_dialog_ok">ခွင့်ပြု</string>
     <string name="network_tip_dialog_cancel">ဖျက်သိမ်း</string>
     <string name="head_set_tip_dialog_title">အတွင်းမိုက်ကို အသုံးပြုပါ</string>
