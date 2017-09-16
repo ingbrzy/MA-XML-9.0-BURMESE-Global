@@ -349,7 +349,6 @@
     <string name="quick_yellow_page_tab_phones">ဖုန်း</string>
     <string name="recharge_actual_price">ဈေး:</string>
     <string name="recharge_charge_range">ဈေး: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">ဈေး: RMB %s</string>
     <string name="recharge_follow_name">ငွေဖြည့်</string>
     <string name="recharge_history">ငွေဖြည့်ရာဇဝင်</string>
     <string name="recharge_history_empty">အလွတ်</string>

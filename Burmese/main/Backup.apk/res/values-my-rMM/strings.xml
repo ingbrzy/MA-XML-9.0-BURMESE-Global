@@ -227,7 +227,6 @@
     <string name="file_uploading">အပ်လုတ်တင်နေဆဲ…</string>
     <string name="new_backup">အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
-    <string name="digit_percent">%</string>
     <string name="state_waiting">စက္ကန့်မျှသာ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
