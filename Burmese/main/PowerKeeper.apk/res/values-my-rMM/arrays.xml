@@ -32,8 +32,8 @@
     <string-array name="action_param_translate">
         <item>မရှိ</item>
         <item>မူလသတ်မှတ်ချက်</item>
-        <item>ပုံ</item>
-        <item>ရုပ်ရှင်</item>
+        <item>ရုပ်ပုံများ</item>
+        <item>ရုပ်ရှင်များ</item>
         <item>ဘက်ထရီချွေတာသူ</item>
         <item>ဟန်ချက်ညီညီ</item>
         <item>စွမ်းဆောင်ရည်</item>
@@ -67,12 +67,12 @@
         <item>စက်အား မကြာခဏနှိုးစေသည်</item>
     </string-array>
     <string-array name="power_checker_recent_group_titles">
-        <item>Kernel WakeLock</item>
-        <item>WakeLock</item>
-        <item>WIFI စကန်</item>
-        <item>GPS</item>
-        <item>CPU</item>
-        <item>နှိုးထ</item>
+        <item>နှစ်ခြိုက်စွာအိပ်ခြင်းမုဒ်အား ဘလော့လုပ်ထားသည်</item>
+        <item>အိပ်စက်ခြင်းမုဒ်ကို ဘလော့လုပ်ထားသည်</item>
+        <item>Wi-Fi ကို ရှာဖွေနေသည်</item>
+        <item>GPS အသုံးပြုနေသည်</item>
+        <item>CPU ကို နေရာယူထားသည်</item>
+        <item>မကြာခဏ စက်ကို နှိုးနေသည်</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>
@@ -81,10 +81,10 @@
     </string-array>
     <string-array name="thermal_entries">
         <item>ပုံသေ အပူထိန်းမုဒ်</item>
-        <item>စွမ်းဆောင်မှုဦးစားပေးမုဒ်</item>
+        <item>လုပ်ဆောင်ရည်မုဒ်</item>
     </string-array>
     <string-array name="thermal_summaries">
-        <item>လက်ရှိသတ်မှတ်ထားသောမုဒ်</item>
+        <item>လက်ရှိ အပူချိန်ထိန်းချုပ်မှုမုဒ်</item>
         <item>လက်ရှိအသုံးပြုသောမုဒ်</item>
     </string-array>
 </resources>

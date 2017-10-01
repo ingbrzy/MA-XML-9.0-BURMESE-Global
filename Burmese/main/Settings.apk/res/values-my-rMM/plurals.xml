@@ -152,7 +152,7 @@
         <item quantity="other">အက်ပ် %dခုကို အော်တိုစတင်ခွင့်ပေးမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_fixed_length">
-        <item quantity="other">PIN နံပါတ်တွင် ဂဏန်း %d လုံး ပါရမည်</item>
+        <item quantity="other">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</item>
     </plurals>
     <plurals name="wifi_share_count">
         <item quantity="other">ကွန်ရက် %dခုအား မျှဝေခဲ့သည်</item>

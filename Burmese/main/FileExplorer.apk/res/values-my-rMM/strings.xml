@@ -45,7 +45,7 @@
     <string name="category_theme">သင်းမ်များ</string>
     <string name="category_document">ဒေါ့များ</string>
     <string name="category_zip">သိုမှီးတိုက်များ</string>
-    <string name="category_apk">ARKs</string>
+    <string name="category_apk">APKs</string>
     <string name="category_other">အခြား</string>
     <string name="category_favorite">စိတ်ကြိုက်များ</string>
     <string name="category_bluetooth">ဘလူးတုသ်</string>
@@ -199,7 +199,7 @@
     <string name="port_range">Port နံပါတ်မှာ 1024 နှင့် 65535အကြားရှိရပါမည်</string>
     <string name="file_name_invalid">ဖိုင်လ်အမည်တွင် အောက်ပါအက္ခရာတို့ပါဝင်၍မရပါ : /\\:*?&lt;></string>
     <string name="rename_alert">ဤဖိုင်နောက်ဆက်တွဲအမည်အားပြောင်းလိုက်ပါက သင်သည်ဖွင့်၍ရနိုင်တော့မည်မဟုတ်ပါ</string>
-    <string name="rename_alert2">The file will be hidden after you change its extension.</string>
+    <string name="rename_alert2">ဖိုင်အမည် ပြောင်းပြီးနောက် ဖိုင်ကို ဝှက်ထားလိမ့်မည်။</string>
     <string name="search_file_type_picture">ဓာတ်ပုံ</string>
     <string name="search_file_type_video">ဗီဒီယို</string>
     <string name="search_file_type_music">သီချင်း</string>
@@ -246,8 +246,8 @@
     <string name="app_name_miuiringtone">ဖုန်းမြည်သံ</string>
     <string name="app_name_midrop">Mi Drop</string>
     <string name="data_consumption_title">အင်တာနက်ချိတ်ဆက်မှု</string>
-    <string name="data_consumption_message">ဤအက်ပ်မှာ ပုံမှန်အလုပ်လုပ်ရန် Wi-Fi အားသုံး၍ အင်တာနက်သို့ချိတ်ဆက်ရန် လိုအပ်ပါသည်။</string>
-    <string name="data_consumption_message1">Explorer needs to connect to the internet to make popular videos and stickers available.</string>
+    <string name="data_consumption_message">ဤအက်ပ်မှာ ပုံမှန်အလုပ်လုပ်ရန် Wi-Fi အား သုံး၍ အင်တာနက်သို့ချိတ်ဆက်ရမည်။</string>
+    <string name="data_consumption_message1">လူကြိုက်များသောဗီဒီယိုများနှင့်စတစ်ကာများရရှိနိုင်ရန် Explorer မှ အင်တာနက်သို့ ချိတ်ဆက်ရပါမည်။</string>
     <string name="data_consumption_checkbox_hint">ထပ်မပြပါနှင့်</string>
     <string name="data_consumption_confirm">အိုကေ</string>
     <string name="data_consumption_cancel">ထွက်ပါ</string>
@@ -354,7 +354,7 @@
     <string name="input_memo_hint">အကြောင်းပြချက်များ ထပ်ထည့်(ရွေးချယ်နိုင်)</string>
     <string name="network_dialog_checkbox_tip">ထပ်မပြပါနှင့်</string>
     <string name="video_tag">\# %s #</string>
-    <string name="remote_video_report_success">သင့်တုန့်ပြန်မှုအတွက် ကျေးဇူးပါ။ ကျွန်ုပ်တို့ အမြန်ဆုံး ကြည့်လိုက်ပါ့မယ်။</string>
+    <string name="remote_video_report_success">သင့်တုံ့ပြန်မှုအတွက် ကျေးဇူးပါ။ ကျွန်ုပ်တို့ အမြန်ဆုံး ကြည့်လိုက်ပါ့မယ်။</string>
     <string name="video_status_review">ကြည့်ပြီးသော</string>
     <string name="video_status_reject">ပယ်ချခဲ့သော</string>
     <string name="unreviewed_video_cannot_share">မမျှဝေမှီဗီဒီယိုအား ကြည့်သင့်ပါသည်</string>
@@ -741,7 +741,7 @@
     <string name="gender_choose_tip">သင့်လိင်အမျိုးအစားအား ရွေးချယ်ပါ</string>
     <string name="handsome_boy">ကျား</string>
     <string name="pretty_girl">မ</string>
-    <string name="gender_choose_sub_title">အသုံးဝင်သောတုန့်ပြန်အကြံပြုချက်မျးအား လက်ခံရယူပါ</string>
+    <string name="gender_choose_sub_title">အသုံးဝင်သောတုံ့ပြန်အကြံပြုချက်မျးအား လက်ခံရယူပါ</string>
     <string name="gender_choose_sub_tile">စိတ်ကြိုက်လုပ်ထားသော အကြောင်းအရာများအား ရယူပါ</string>
     <string name="share_topic_title">ကျွန်ုပ် #%1$s# ကိုကြည့်နေပါသည်၊ တစ်ချက်လောက်ကြည့်ပါ!</string>
     <string name="share_topic_desc">ဆုများရရှိနိုင်ရန် ဗီဒီယိုများလုတ်တင်ပါ</string>

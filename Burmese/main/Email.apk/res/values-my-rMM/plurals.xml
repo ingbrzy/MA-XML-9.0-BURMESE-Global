@@ -12,6 +12,9 @@
     <plurals name="confirm_delete_conversation_with_sub">
         <item quantity="other">စကားပြောဆိုမှုတွင် မက်ဆေ့ချ်အများကြီးပါဝင်ပါသည်၊ မည်သို့ပင်မဆိုဖျက်မည်လား?</item>
     </plurals>
+    <plurals name="confirm_delete_draft">
+        <item quantity="other">Delete %1$d drafts?</item>
+    </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">ရွေးချယ်ထားသော %d အိုင်တမ်</item>
     </plurals>
@@ -23,6 +26,9 @@
     </plurals>
     <plurals name="conversation_folder_changed">
         <item quantity="other">ဖိုလ်ဒါပြောင်းခဲ့သည်</item>
+    </plurals>
+    <plurals name="conversation_msg_header_count">
+        <item quantity="other">+%1$d people</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">စကားပြောဆိုမှု%1$d အားလစ်လျူရှုခဲ့သည်။</item>

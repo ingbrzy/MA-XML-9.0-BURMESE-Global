@@ -138,4 +138,16 @@
     <plurals name="quickly_discovery_message_format">
         <item quantity="other">ပုံအသစ် %1$d ပုံတွေ့ရှိခဲ့</item>
     </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">ဓာတ်ပုံ %1$dပုံကို \"%2$s\"မှ ဖယ်ရှားပြီးပြီ။</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">ဓာတ်ပုံ %1$dပုံကို \"%2$s\"မှ ဖယ်ရှားပြီး ဒေတာဘေ့စ်သို့ ပေါင်းထည့်ပြီးပြီ။</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">\"%2$s\"သို့ ဓာတ်ပုံ %1$dပုံ ပေါင်းထည့်ပြီးပြီ။</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">\"%2$s\"သို့ ဓာတ်ပုံ %1$dပုံ ထည့်ပြီး ဒေတာဘေ့စ်သို့ ပေါင်းထည့်ပြီးပြီ။</item>
+    </plurals>
 </resources>

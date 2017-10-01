@@ -225,7 +225,7 @@
     <string name="minute_rain_no_data">ဒေတာ မရှိပါ</string>
     <string name="minute_rain_feedback_title">ရာသီဥတုအချက်အလက် မှန်ကန်ပုံမရပါ</string>
     <string name="minute_rain_feedback_subtitle">ရာသီဥတုအကြောင်း ကျွန်ုပ်တို့ကို ပြောပြပါ</string>
-    <string name="minute_rain_feedback_text">တုန့်ပြန်အကြံပြုချက်</string>
+    <string name="minute_rain_feedback_text">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="feedback_sunny">နေသာသော</string>
     <string name="feedback_light_rain">မိုးအနည်းငယ်ရွာသွန်း</string>
     <string name="feedback_heavy_snow">နှင်းကျ</string>

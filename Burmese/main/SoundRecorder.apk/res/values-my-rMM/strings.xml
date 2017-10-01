@@ -145,8 +145,8 @@
     <string name="clear_records">ဆင့်ခ်မှတ်တမ်းများအား ဖျက်ပါ</string>
     <string name="choose_call_records_count">အိုင်တမ် %d ခု</string>
     <string name="network_tip_dialog_title">အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်</string>
-    <string name="network_tip_dialog_content">ရကော်ဒါဖြင့် ခေါ်ဆိုမှုများကို အသံသွင်းလိုပါက အင်တာနက်သို့ ချိတ်ဆက်ရန်နှင့် သင်၏အဆက်အသွယ်များကို ဖတ်ယူရန် လိုအပ်ပါသည်။</string>
-    <string name="network_tip_dialog_ok">ခွင့်ပြု</string>
+    <string name="network_tip_dialog_content">ရီကော်ဒါသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ခြင်းနှင့် သင်၏အဆက်အသွယ်များကို ဖတ်ယူရပါမည်။ သဘောတူမလား?</string>
+    <string name="network_tip_dialog_ok">သဘောတူသည်</string>
     <string name="network_tip_dialog_cancel">ဖျက်သိမ်း</string>
     <string name="head_set_tip_dialog_title">အတွင်းမိုက်ကို အသုံးပြုပါ</string>
     <string name="head_set_tip_dialog_msg">သတ်မှတ်ချက်များဖြင့် အသံမှတ်တမ်းတင်ရန် သင့်နားကြပ်ကို ချွတ်လိုက်ပါ(ဥပမာ−တေးဂီတ၊အသံ)</string>

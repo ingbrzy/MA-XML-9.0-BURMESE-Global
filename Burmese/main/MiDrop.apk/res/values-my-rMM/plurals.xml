@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_receive_cancel">
+        <item quantity="other">%1$s ထံမှ လွှဲပြောင်းမှုအား ပယ်ဖျက်လိုက်သည်</item>
+    </plurals>
+    <plurals name="notif_receive_progress">
+        <item quantity="other">ဖိုင် %1$s ခု လက်ခံနေသည်…</item>
+    </plurals>
+    <plurals name="notif_receive_success">
+        <item quantity="other">%1$s ထံမှ ဖိုင်ကို အောင်မြင်စွာ လက်ခံခဲ့သည်</item>
+    </plurals>
+    <plurals name="receiver_file_num">
+        <item quantity="other">%1$s ထံမှ ဖိုင် %2$d ခု</item>
+    </plurals>
+    <plurals name="sender_file_num">
+        <item quantity="other">အိုင်တမ် %1$d ခု</item>
+    </plurals>
+</resources>

@@ -734,6 +734,8 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="more_settings">အဆင့်မြင့်ဆက်တင်များ</string>
     <string name="more_settings_summary">ဒေါင်းလုဒ်ဆက်တင်များ၊ အိပ်စက်မှုတိုင်မာ၊ မိုဘိုင်းဒေတာစီမံခန့်ခွဲမှုနှင့် ဖိုင်များအတွက် စစ်ထုတ်မှု စသည်များ</string>
     <string name="service_and_settings">ဝန်ဆောင်မှုနှင့် ဆက်တင်များ</string>
+    <string name="filter_by_size_max">%dMB</string>
+    <string name="filter_by_size_min">%dKB</string>
     <string name="radar">ACRCloud</string>
     <string name="radar_support_by">ACRCloud ဖြင့်အားဖြည့်ထားသော</string>
     <string name="radar_listening_state">သိအောင်လုပ်နေသည်…</string>

@@ -72,7 +72,7 @@
     <string name="card_title_on_hold">"ကိုင်ထား "</string>
     <string name="card_title_hanging_up">"ချလိုက် "</string>
     <string name="card_title_hanging_up_fail">ခေါ်ဆိုမှုကို အဆုံးသတ်၍မရပါ၊ ထပ်မံကြိုးစားပါ။</string>
-    <string name="card_title_hanging_up_weak_signal">မိုဘိုင်းကွန်ရက်လိုင်းအားမကောင်းပါ။ ဖုန်းခေါ်ဆိုမှု ရပ်တန့်သွားသည်။</string>
+    <string name="card_title_hanging_up_weak_signal">မိုဘိုင်းကွန်ရက်လိုင်းအားမကောင်းပါ။ ဖုန်းခေါ်ဆိုမှု ရပ်တန့်သွားသည်…</string>
     <string name="card_title_hanging_up_restart">ခေါ်ဆိုမှုကို အဆုံးသတ်၍မရပါ။သင်၏စက်ကို ပိတ်၍ပြန်စပါ။</string>
     <string name="card_title_in_call">ပြောနေတုန်း</string>
     <string name="card_title_in_call_short">ပြောနေတုန်း</string>
@@ -80,7 +80,7 @@
     <string name="card_video_hold_swap">ဖုန်းပြောင်း</string>
     <string name="onscreenEndCallText">ပြီး</string>
     <string name="calling_via_template">%s မှတစ်ဆင့်ခေါ်ဆိုနေသည်</string>
-    <string name="respond_via_sms_custom_message">သင့်ဘာသာသင်ရေးမည်...</string>
+    <string name="respond_via_sms_custom_message">စိတ်ကြိုက် SMS</string>
     <string name="manageConferenceLabel">ကွန်ဖရင့်ခေါ်ဆိုခြင်း ကို စီမံမည်</string>
     <string name="emergency_call_dialog_number_for_display">အရေးပေါ်နံပါတ်</string>
     <string name="call_extension_conference_mode">ညီလာခံမုဒ်</string>
@@ -137,7 +137,7 @@
     <string name="call_recording_error_privacy">ဧည့်သည်ပုံစံတွင်ဖြစ်နေပါက မှတ်တမ်းမတင်ပါနှင့်</string>
     <string name="call_recording_error_sd_access">SD ကဒ်ကို ဝင်ရောက်သုံးမရပါ</string>
     <string name="call_recording_error_sd_unmounted">မှတ်တမ်းတင်ခြင်းရပ်ခဲ့− SD ကဒ်အားဖြုတ်လိုက်သည်</string>
-    <string name="call_recording_error_low_storage">SIM ကဒ်ထဲတွင် နေရာလွတ်မလုံလောက်ပါ</string>
+    <string name="call_recording_error_low_storage">နေရာလွတ်မလုံလောက်ပါ</string>
     <string name="call_recording_error_start_failed">မှတ်တမ်းတင်စက်ကို အခြားအက်ပ်က အသုံးပြုနေပါသည်။</string>
     <string name="call_recording_error_unknown">မသိသောအမှားယွင်းဖြစ်နေပါသည်။</string>
     <string name="call_recording_notification_title">ခေါ်ဆိုမှုကို အသံဖမ်းပြီးပါပြီ</string>
@@ -180,7 +180,6 @@
     <string name="do_not_ask">နောက်ထပ်မပြပါနှင့်</string>
     <string name="time_left_livetalk">(%dS)</string>
     <string name="can_not_call_oneself">အမည်မသိသောနံပါတ်ကို ခေါ်ဆိုလို့မရပါ</string>
-    <string name="miprofile_stranger_card">သူစိမ်းကဒ်</string>
     <string name="card_title_video_call_paused">ဗီဒီယိုခေတ္တရပ်တန့်ခဲ့</string>
     <string name="card_title_incoming_conference_call">အဝင်ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
     <string name="video_switch_to_voice_call_prompt">အသံဖြင့်ခေါ်ဆိုမှုသို့ ပြောင်းလဲပါ</string>
@@ -229,7 +228,7 @@
     <string name="dialpad_nine">9</string>
     <string name="no_vm_number">အသံမေးလ်နံပါတ် ပျောက်နေသည်</string>
     <string name="no_vm_number_msg">SIM ကဒ်ထဲတွင် မည်သည့် အသံမေးလ်နံပါတ်မျှ သိမ်းမထားပါ</string>
-    <string name="add_vm_number_str">နံပါတ်ထည့်မည်</string>
+    <string name="add_vm_number_str">နံပါတ် ပေါင်းထည့်မည်</string>
     <string name="alert_dialog_yes">ဟုတ်သည်</string>
     <string name="alert_dialog_no">မဟုတ်ပါ</string>
     <string name="alert_dialog_dismiss">ဖယ်ပစ်ပါ</string>
@@ -239,6 +238,7 @@
     <string name="cancel_call">ချလိုက်</string>
     <string name="dial_with_gsm_phone">ပုံမှန်ခေါ်ဆိုမှု</string>
     <string name="livetalk_left_minute">%s မိနစ်ကျန်သေးသည်</string>
+    <string name="miprofile_stranger_card">သူစိမ်းကဒ်</string>
     <string name="purchase_now">ငွေဖြည့်</string>
     <string name="onscreen_rcs_text">မက်ဆေ့ချ်များ</string>
 </resources>

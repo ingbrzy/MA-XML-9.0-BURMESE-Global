@@ -40,29 +40,29 @@
     </string-array>
     <string-array name="select_logd_size_titles">
         <item>ပိတ်မည်။</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
+        <item>4MB</item>
+        <item>16MB</item>
     </string-array>
     <string-array name="select_logd_size_lowram_titles">
         <item>ပိတ်မည်။</item>
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
+        <item>64KB</item>
+        <item>256KB</item>
+        <item>1MB</item>
     </string-array>
     <string-array name="select_logd_size_summaries">
         <item>ပိတ်မည်။</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 64K</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 256K</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 1M</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 4M</item>
-        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 16M</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 64KB</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 256KB</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 1MB</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 4MB</item>
+        <item>မှတ်တမ်းတစ်ခုအတွက် ကြားခံနေရာ 16MB</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
-        <item>အန်နီမေးရှင်းစကေး .5x</item>
+        <item>အန်နီမေးရှင်းများ စကေး 0.5x</item>
         <item>အန်နီမေးရှင်းစကေး 1x</item>
         <item>အန်နီမေးရှင်းစကေး 1.5x</item>
         <item>အန်နီမေးရှင်းစကေး 2x</item>
@@ -71,7 +71,7 @@
     </string-array>
     <string-array name="transition_animation_scale_entries">
         <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
-        <item>အန်နီမေးရှင်းစကေး .5x</item>
+        <item>အန်နီမေးရှင်းများ စကေး 0.5x</item>
         <item>အန်နီမေးရှင်းစကေး 1x</item>
         <item>အန်နီမေးရှင်းစကေး 1.5x</item>
         <item>အန်နီမေးရှင်းစကေး 2x</item>
@@ -80,7 +80,7 @@
     </string-array>
     <string-array name="animator_duration_scale_entries">
         <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
-        <item>အန်နီမေးရှင်းစကေး .5x</item>
+        <item>အန်နီမေးရှင်းများ စကေး 0.5x</item>
         <item>အန်နီမေးရှင်းစကေး 1x</item>
         <item>အန်နီမေးရှင်းစကေး 1.5x</item>
         <item>အန်နီမေးရှင်းစကေး 2x</item>
@@ -110,7 +110,7 @@
     <string-array name="show_non_rect_clip_entries">
         <item>ပိတ်</item>
         <item>စတုဂံမဟုတ်သောပိုင်းဖြတ်ဒေသကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
-        <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့်ဟိုက်လိုက်ပါ</item>
+        <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့် ဟိုက်လိုက်လုပ်ပါ</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>ပိတ်</item>
@@ -120,7 +120,7 @@
     <string-array name="debug_hw_overdraw_entries">
         <item>ပိတ်</item>
         <item>ကျော်လွန်ဧရိယာများ ပြရန်</item>
-        <item>Deuteranomaly (အနီ-အစိမ်း မသဲကွဲသူ) အတွက် ဧရိယာများကို ပြပါ</item>
+        <item>Deuteranomaly ဧရိယာကို ပြပါ</item>
     </string-array>
     <string-array name="app_process_limit_entries">
         <item>စံ ကန့်သတ်ချက်</item>
@@ -135,7 +135,7 @@
         <item>MTP (မီဒီယာလွှဲပြောင်းမှုသဘောတူညီချက်)</item>
         <item>PTP (ရုပ်ပုံလွှဲပြောင်းမှုသဘောတူညီချက်)</item>
         <item>RNDIS (USB အီသာနက်)</item>
-        <item>အော်ဒီယို အရင်းမြစ်</item>
+        <item>အော်ဒီယို အရင်းအမြစ်</item>
         <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
@@ -148,6 +148,17 @@
         <item>မြန်ဆန်သော</item>
         <item>အလွန်မြန်ဆန်သော</item>
         <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>တောက်ပ (ပုံသေ)</item>

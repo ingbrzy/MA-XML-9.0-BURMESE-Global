@@ -45,9 +45,9 @@
         <item>တောင်ပေါ်စံတော်ချိန်</item>
         <item>အမေရိက အလယ်ပိုင်း</item>
         <item>အလယ်ပိုင်း စံတော်ချိန်</item>
-        <item>မက္ကစီကိုစီးတီး</item>
+        <item>မက္ကစီကိုမြို့</item>
         <item>ဆက်စ်ကက်ချီဝန်</item>
-        <item>Bogota</item>
+        <item>ဘိုဂိုတာ</item>
         <item>အရှေ့ပိုင်း စံတော်ချိန်</item>
         <item>ဗင်နီဇွဲလား</item>
         <item>အတ္တလန္တိတ် စံတော်ချိန် (ဘာဘာဒိုစ်)</item>
@@ -125,12 +125,16 @@
         <item>1/20 - 2/18</item>
     </string-array>
     <string-array name="aries_info">
-        <item>aries</item>
+        <item>မိဿရာသီဖွား</item>
         <item>မဿိရာသီဖွား</item>
         <item>3/21 - 4/19</item>
     </string-array>
+    <string-array name="bundesliga">
+        <item>၂</item>
+        <item>ဘွန်ဒစ်လီဂါ</item>
+    </string-array>
     <string-array name="cancer_info">
-        <item>cancer</item>
+        <item>ကရကဋ်ရာသီဖွား</item>
         <item>ကရကဋ်ရာသီဖွား</item>
         <item>6/22 - 7/22</item>
     </string-array>
@@ -154,20 +158,32 @@
         <item>၂ ရက်မတိုင်ခင်က</item>
         <item>၁ ပတ်မတိုင်ခင်က</item>
     </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
+    </string-array>
     <string-array name="gemini_info">
-        <item>gemini</item>
+        <item>မေထုန်ရာသီဖွား</item>
         <item>မေထုန်ရာသီဖွား</item>
         <item>5/21 - 6/21</item>
     </string-array>
+    <string-array name="la_liga">
+        <item>၃</item>
+        <item>လာလီဂါ</item>
+    </string-array>
     <string-array name="leo_info">
-        <item>leo</item>
+        <item>သိဟ်ရာသီဖွား</item>
         <item>သိဟ်ရာသီဖွား</item>
         <item>7/23 - 8/22</item>
     </string-array>
     <string-array name="libra_info">
-        <item>libra</item>
+        <item>တူရာသီဖွား</item>
         <item>တူရာသီဖွား</item>
         <item>9/23 - 10/23</item>
+    </string-array>
+    <string-array name="ligue_1">
+        <item>၅</item>
+        <item>လီဂူး ၁</item>
     </string-array>
     <string-array name="pisces_info">
         <item>pisces</item>
@@ -208,7 +224,7 @@
         <item>၃၁ ရက်နေ့</item>
     </string-array>
     <string-array name="repeat_choose_end">
-        <item>လုံး၀မလုပ်</item>
+        <item>ဘယ်တော့မှ</item>
         <item>အချိန်</item>
         <item>ရေတွက်ပါ</item>
     </string-array>
@@ -259,17 +275,21 @@
         <item>ခုနှစ်</item>
     </string-array>
     <string-array name="sagittarius_info">
-        <item>sagittarius</item>
+        <item>ဓနုရာသီဖွား</item>
         <item>ဓနုရာသီဖွား</item>
         <item>11/23 - 12/21</item>
     </string-array>
     <string-array name="scorpio_info">
-        <item>scorpio</item>
+        <item>ဗြိစ္ဆာရာသီဖွား</item>
         <item>ဗြိစ္ဆာရာသီဖွား</item>
         <item>10/24 - 11/22</item>
     </string-array>
+    <string-array name="serie_a">
+        <item>၁</item>
+        <item>စီးရီးအေ</item>
+    </string-array>
     <string-array name="taurus_info">
-        <item>taurus</item>
+        <item>ပြိဿရာသီဖွား</item>
         <item>ပြဿိ</item>
         <item>4/20 - 5/20</item>
     </string-array>
@@ -281,7 +301,7 @@
         <item>" ၁ရက် မတိုင်ခင်က"</item>
     </string-array>
     <string-array name="virgo_info">
-        <item>virgo</item>
+        <item>ကန်ရာသီဖွား</item>
         <item>ကန်ရာသီဖွား</item>
         <item>8/23 - 9/22</item>
     </string-array>

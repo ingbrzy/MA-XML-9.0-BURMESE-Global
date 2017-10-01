@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">စကန်နာ</string>
     <string name="impunity_declaration_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
-    <string name="impunity_declaration_content">ဤအက်ပ်မှာ ပုံမှန်အလုပ်လုပ်ရန် Wi-Fi အင်တာနက်နှင့်တည်နေရာဝန်ဆောင်မှုများ လိုအပ်ပါသည်။</string>
+    <string name="impunity_declaration_content">ဤအက်ပ်မှာ ပုံမှန်အလုပ်လုပ်ရန် Wi-Fi အင်တာနက်နှင့် တည်နေရာဝန်ဆောင်မှုများ လိုအပ်ပါသည်။</string>
     <string name="impunity_declaration_positive_text">ခွင့်ပြု</string>
     <string name="impunity_declaration_negative_text">ထွက်</string>
     <string name="accessibility_shutter_button">ရှတ္တာ</string>
@@ -32,7 +32,7 @@
     <string name="common_save">သိမ်းဆည်း</string>
     <string name="common_retry">ထပ်ကြိုးစား</string>
     <string name="sdk_not_ready">SDK ပြင်ဆင်နေသည်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
-    <string name="error_get_image">ရုပ်ပုံ ရယူရန် မအောင်မြင်ပါ</string>
+    <string name="error_get_image">ပုံမရပါ</string>
     <string name="language_entry_chinese_cn">တရုတ်စာအသစ်</string>
     <string name="language_entry_chinese_tw">ရှေးဟောင်းတရုတ်စာ</string>
     <string name="language_entry_danish">ဒန်းနစ်</string>
@@ -102,6 +102,8 @@
     <string name="payment_zhifubao">AliPay</string>
     <string name="weixin_code_tip">ဤ QR ကုဒ်ကို စကန်ဖတ်ရန် WeChat ကိုအသုံးပြုပါ</string>
     <string name="back">ဘက်ပြန်</string>
+    <string name="label_flash_light">ဖလက်ရှ်မီး</string>
+    <string name="label_choose_picture">ပုံ ရွေးပါ</string>
     <string name="shopping_title">ကုန်ပစ္စည်း၏ပုံအား ရိုက်ယူပါ</string>
     <string name="shopping_searching">ရှာနေဆဲ…</string>
     <string name="shopping_vendor_info">Taobao မှအားဖြည့်ထားသော</string>
@@ -166,7 +168,7 @@
     <string name="document_color_picture_tip">အရောင်များသို့ ပြောင်းလဲနေ…</string>
     <string name="document_save_succeed_tip">ဖိုင်စုများအား %1$s သို့သိမ်းလိုက်သည်</string>
     <string name="document_recognize_fail_tip">ဖိုင်စုအား ဖတ်၍မရပါ</string>
-    <string name="document_recognize_null_tip">စာရွက်စာတမ်းရလဒ် မရှိပါ</string>
+    <string name="document_recognize_null_tip">စာရွက်စာတမ်းကို အသိအမှတ်မပြုနိုင်ပါ</string>
     <string name="recognition_error_download_title">သိရှိခြင်းအင်ဂျင် လိုအပ်ပါသည်</string>
     <string name="recognition_error_download_msg">ကဒ်များအား စကန်ဖတ်ရန် သိရှိခြင်း အင်ဂျင်အား ဒေါင်းလုဒ်လုပ်ပါ။ အရွယ်အစားမှာ 15MB မျှရှိပါသည်။</string>
     <string name="recognition_error_download_ok">ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -178,5 +180,5 @@
     <string name="recognition_error_download_fail">သိရှိခြင်းအင်ဂျင်အား ဒေါင်းလုဒ်လုပ်၍မရပါ</string>
     <string name="low_version_tip">MIUIဗားရှင်း ဟောင်းလွန်းနေသည်။ စကန်နားကို အသုံးပြုရန် MIUI အသစ်မွမ်းမံလိုက်ပါ။</string>
     <string name="app_description_title">စကန်နာအကြောင်း</string>
-    <string name="app_description_content">QRကုဒ်ဖတ်ခြင်း၊ ဘာသာပြန်ဆိုခြင်း၊ မေးခွန်းများအားဖြေရှင်းခြင်းနှင့် စီးပွားရေးလိပ်စာကဒ်အားအသိအမှတ်ပြုခြင်းတို့ကိုစကန်နာဖြင့် စကန်ဖတ်နိုင်ပါသည်။ ဤအက်ပ်မှ အဆိုပါအင်္ဂါရပ်နှင့် ဝန်ဆောင်မှုအကြောင်းကောင်းစွာနားလည်သိရှိစေချင်ပါသည်။</string>
+    <string name="app_description_content">စကန်နာသည် QR ကုဒ်များ၊ လိပ်စာကဒ်များနှင့် စာရွက်စာတမ်းများကို စကန်ဖတ်နိုင်သည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
 </resources>

@@ -32,7 +32,7 @@
     <string name="michat_customer_quit">အထောက်ပံ့ပေးသူ chat မှ ထွက်သွားပြီ</string>
     <string name="michat_user_quit">သင် chat မှထွက်သွားပြီ</string>
     <string name="michat_comment_submit">အဆင့်သတ်မှတ်ပြီး ပြန်သွားပါ</string>
-    <string name="michat_comment_thx">သင့်ရဲ့ တုန့်ပြန်အကြံပြုချက်အတွက်ကျေးဇူးတင်ပါတယ်။</string>
+    <string name="michat_comment_thx">သင့်ရဲ့ တုံ့ပြန်အကြံပြုချက်အတွက်ကျေးဇူးတင်ပါတယ်။</string>
     <string name="michat_comment_net_error">ကွန်ရက်သို့မချိန်ဆက်နိုင်ခဲ့ပါ၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="michat_net_error_info">ကွန်ရက်ချိတ်ဆက်မှုမရှိပါ၊ ဆက်တင်များသို့သွားရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
     <string name="michat_msg_input_info">ကိစ္စအား အသေးစိတ်ဖော်ပြပါ</string>
@@ -40,8 +40,8 @@
     <string name="michat_msg_image_upload_error">ရုပ်ပုံအချက်အလက်မပေးပို့နိုင်ခဲ့၊ နောက်မှပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="michat_failed_to_add_media">စိတ်မကောင်းပါ၊ %1$sအား မပေးပို့နိုင်ပါ</string>
     <string name="michat_type_picture">ရုပ်ပုံ</string>
-    <string name="michat_invation_invite_fail">စိတ်မကောင်ပါ၊ ဝန်ထမ်းများ အလုပ်များနေပါတယ်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
-    <string name="michat_invation_invite_full">စိတ်မကောင်ပါ၊ ဝန်ထမ်းများ အလုပ်များနေပါတယ်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="michat_invation_invite_fail">စိတ်မကောင်းပါ၊ ဝန်ထမ်းများ အလုပ်များနေပါတယ်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
+    <string name="michat_invation_invite_full">စိတ်မကောင်းပါ၊ ဝန်ထမ်းများ အလုပ်များနေပါတယ်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
     <string name="michat_cant_access_artificial">အထောက်အပံ့သို့ ယခုဆက်သွယ်မရနိုင်ပါ</string>
     <string name="michat_cant_join_artificial">ကွန်ရက်ပြဿနာကြောင့် ချိတ်ဆက်၍မရပါ</string>
     <string name="michat_lose_artificial">ကွန်ရက်အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်၊ သင် chat မှထွက်သွားခဲ့သည်</string>
@@ -92,9 +92,9 @@
     <string name="network_errortip_login">ဦးစွာဆိုင်းအင်ဝင်ပါ</string>
     <string name="network_errorbtntip_login">ဆိုင်းအင်ဝင်</string>
     <string name="request_empty_data">ဒေတာ မရှိပါ</string>
-    <string name="app_label">တုန့်ပြန်အကြံပြုချက်</string>
-    <string name="app_name">တုန့်ပြန်အကြံပြုချက်</string>
-    <string name="logo_title">တုန့်ပြန်အကြံပြုချက်</string>
+    <string name="app_label">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="app_name">တုံ့ပြန်အကြံပြုချက်</string>
+    <string name="logo_title">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="report_miui">ချွတ်ယွင်းမှု ရီပို့တင်ပါ</string>
     <string name="menu_copy">ကော်ပီကူးပါ</string>
     <string name="description">အကြောင်းကိစ္စ ဖော်ပြပါ</string>
@@ -133,7 +133,7 @@
     <string name="toast_report_sent_failed">ရီပို့ကို ပို့မရပါ</string>
     <string name="toast_report_copied_to_clipboard">ကလစ်ဘုတ်သို့ ကော်ပီကူးထားသော ရီပို့</string>
     <string name="toast_description_required">ဖော်ပြချက်တစ်ခုကို သင် ရေးသားရန် လိုအပ်သည်</string>
-    <string name="toast_feedbackservice_in_submit">မကြာမီက ကြောင်းကျိုးတုံ့ပြန်ချက်ကို ကိုင်တွယ်ဖြေရှင်းခြင်း…</string>
+    <string name="toast_feedbackservice_in_submit">မကြာမီက တုံ့ပြန်အကြံပြုချက်ကို ဖြေရှင်းခြင်း…</string>
     <string name="toast_pending_log_collection">မှတ်တမ်းများ ရယူနေဆဲပါ…</string>
     <string name="toast_feedback_submitted">ရီပို့ ပို့ထားသည်</string>
     <string name="toast_feedback_submitting">ပေးပို့နေ…</string>
@@ -155,9 +155,9 @@
     <string name="announcement">သတိပြုပါ</string>
     <string name="app_empty">မည်သည့်အက်ပ်ကိုမှ သင် ဒေါင်းလုဒ်မလုပ်ရသေးပါ။</string>
     <string name="screen_lock">မျက်နှာပြင်သော့</string>
-    <string name="systemui">အကြောင်းကြားစာရှိတ်</string>
+    <string name="systemui">အသိပေးချက်ရှိတ်</string>
     <string name="cta_dialog_title">အင်တာနက်ချိတ်ဆက်မှု</string>
-    <string name="cta_dialog_content">ဒီအက်ပ်သည် ပုံမှန် အလုပ်လုပ်ရန်အတွက် အင်တာနက် ချိတ်ဆက်ဖို့ လိုအပ်သည်</string>
+    <string name="cta_dialog_content">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။</string>
     <string name="cta_not_show_again">နောက်ထပ်မပြပါနှင့်</string>
     <string name="cta_cancel">ပယ်ဖျက်ပါ</string>
     <string name="cta_confirm">အိုကေ</string>
@@ -177,7 +177,7 @@
     <string name="modem_tool_log_finish_title">modem မှတ်တမ်းများ ဖမ်းယူပြီးပြီ</string>
     <string name="modem_tool_log_finish_desc">မှတ်တမ်းသည်%sအဖြစ်သိုလှောင်ထားသည်</string>
     <string name="bugreport_dialog_not_show_again">နောက်ထပ်မပြပါနှင့်</string>
-    <string name="bugreport_dialog_submit_content">သင်၏တုန့်ပြန်အကြံပြုချက်သည် ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
+    <string name="bugreport_dialog_submit_content">သင်၏တုံ့ပြန်အကြံပြုချက်သည် ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
     <string name="bugreport_dump_start_notification_title">ချွတ်ယွင်းချက်အစီရင်ခံစာကို ဖန်တီးနေ…</string>
     <string name="bugreport_dump_start_notification_summary">မိနစ်အတော်ကြာနိုင်ပါသည်</string>
     <string name="bugreport_dump_complete_notification_title">ချွတ်ယွင်းမှုရီပို့ ဖန်တီးထားသည်</string>
@@ -186,7 +186,7 @@
     <string name="plus_one_submit_dialog_not_show_again">ဦးစားပေးချက်ကို မှတ်ထားပါ</string>
     <string name="toast_fill_brackets">"သင့်ရီပို့တွင် အင်ဖိုအချို့  လပ်နေသည်"</string>
     <string name="tab_title_chat">FAQ</string>
-    <string name="tab_title_report">တုန့်ပြန်အကြံပြုချက်</string>
+    <string name="tab_title_report">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="tab_title_my_reports">ကျွန်ုပ်၏အစီရင်ခံစာများ</string>
     <string name="nothing">--</string>
     <string name="feedback_id">ID: %d</string>

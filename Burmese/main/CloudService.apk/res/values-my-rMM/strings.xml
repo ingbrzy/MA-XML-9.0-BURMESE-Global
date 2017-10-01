@@ -50,7 +50,7 @@
     <string name="sync_sub_dspt">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="sync_sub_int_dspt">ဤဝန်ဆောင်မှုအား အသက်သွင်းရန် နိုင်ငံတကာ SMS မက်ဆေ့ချ်တစ်ခု ထွက်သွားရန် လိုအပ်ပါလိမ့်မည်။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနသို့ အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။</string>
     <string name="access_denied">ဝင်သုံးခွင့်ကို ငြင်းပယ်ထားသည်</string>
-    <string name="internet_access_dspt">ပုံမှန်အလုပ်လုပ်ဆောင်နိုင်ရန် ဤအက်ပ်ကို အင်တာနက်သို့ချိန်ဆက်ရန်လိုသည်။</string>
+    <string name="internet_access_dspt">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။</string>
     <string name="sync_on">ဖွင့်</string>
     <string name="sync_off">ပိတ်</string>
     <string name="mx_dspt">Mi မက်ဆေ့ချ်</string>
@@ -69,14 +69,14 @@
     <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 "</string>
-    <string name="sync_dspt_entrance_provision">"MiCloud သည် ဓာတ်ပုံနှင့် အဆက်အသွယ်များကို အခြားစက်များသို့ ဆင့်ခ်လုပ်နိုင်ပါသည်။ သင် ဆင့်ခ်လုပ်ထားသော အရာများကို %s တွင် မည်သည့်ဘရောက်ဇာမှမဆို ဝင်ရောက်ရယူနိုင်ပါသည်။ "</string>
+    <string name="sync_dspt_entrance_provision">Mi Cloud သည် သင့် ဓာတ်ပုံ၊ အဆက်အသွယ်နှင့် အခြားအိုင်တမ်များကို ဆင့်ခ်လုပ်ပေးနိုင်သည်။ ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များကို %s တွင် ဝင်ကြည့်နိုင်ပါသည်။</string>
     <string name="sync_dspt_entrance_provision_2">နောက်ထပ် လေ့လာရန်</string>
     <string name="sync_dspt_entrance_provision_confirm_close">အသုံးမပြုပါ</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloud ကိုသုံးပါ</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Mi Cloud ကို မသုံးဘူးလား?</string>
     <string name="sync_dspt_entrance_provision_confirm_content">MIUI ၏ နဂိုပါရှိသည့် အက်ပ်များသည် Mi Cloud ကို သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် နောက်ထပ်အရာများကို အရန်သိမ်းရန် လိုအပ်စေသည်။ Mi Cloud သည် အခမဲ့ဖြစ်ပြီး ဆန်းသစ်တီထွင်မှုကို သုံးရန် အသင့်ဖြစ်နေပါသည်။</string>
     <string name="sync_dspt_entrance_provision_skip">ဤအဆင့်ကို ကျော်ပါ</string>
-    <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ရပါမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် ဒေတာကွန်ရက်နှင့် WiFi ဖွင့်နိုင်သည်။</string>
+    <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် မိုဘိုင်းဒေတာချိတ်ဆက်မှုနှင့် Wi-Fi ဖွင့်ရန် လိုအပ်သည်။</string>
     <string name="find_device_dspt_provision">သင်စက်ပျောက်သွားပါက၊ စက်အားရှာဖွေရန် %s သို့သွားပါ၊ သို့မဟုတ် ပြန်သတ်မှတ်ပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင်အချိန်မရွေးဖွင့်ပိတ်နိုင်ပါသည်။</string>
     <string name="find_device_dspt_provision_2">i.mi.com</string>
     <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
@@ -167,6 +167,7 @@
     <string name="calendar_sync">ပြက္ခဒိန်</string>
     <string name="antispam_sync">ဆက်တင်များကို မနှောင့်ယှက်ပါနှင့်</string>
     <string name="deskclock_backup">နာရီများ အရန်သိမ်းဆည်းမှု</string>
+    <string name="secret_photo">ဝှက်ထားသော ဓာတ်ပုံများ</string>
     <string name="wipe_data_dialog_msg_separator">, </string>
     <string name="micloud_space_duokan_title">Duokan</string>
     <string name="micloud_space_duokan_detail">Duokan အက်ပ်မှ ebooks များအား ​ဒေါင်းလုဒ်လုပ်ပြီး စီမံခန့်ခွဲပါ။</string>
@@ -255,7 +256,7 @@
     <string name="micloud_main_message_not_synced">%s ဒေတာအား ဆင့်ခ်မလုပ်နိုင်ခဲ့</string>
     <string name="micloud_main_suggest_setting">ဆက်တင်များ ပြောင်းလဲပါ သို့မဟုတ် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_main_sync_pending">ဆင့်ခ်လုပ်ရန် စောင့်နေ</string>
-    <string name="micloud_main_sync_need_charge_or_sleep">အားသွင်းနေစဉ် ဆင့်ခ်လုပ်မည်။</string>
+    <string name="micloud_main_sync_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ</string>
     <string name="micloud_main_detail">အသေးစိတ်များကို ကြည့်ပါ</string>
     <string name="micloud_main_network_abnormal">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="micloud_main_sync_init">အချက်အလက် ရယူနေသည်</string>
@@ -269,7 +270,7 @@
     <string name="micloud_main_space_low">နေရာလွတ် ကုန်ပါတော့မည်</string>
     <string name="micloud_main_update_space">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
     <string name="micloud_main_space_full_title">သိမ်းဆည်းရန် နေရာမလုံလောက်ပါ၊ ဆင့်ခ်လုပ်ခြင်း ခေတ္တရပ်ခဲ့သည်</string>
-    <string name="micloud_main_space_full_message">အဖွဲ့ဝင်အဆင့်မြှင့်ခြင်းဖြင့် နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ် ရယူပါ</string>
+    <string name="micloud_main_space_full_message">Mi Cloud တွင် နောက်ထပ် သိုလှောင်ခန်းနေရာလွတ် ဝယ်ယူပါ</string>
     <string name="micloud_main_memory_low_title">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်မှု ပြည့်နေပြီ</string>
     <string name="micloud_main_memory_low_message">ဆင့်ခ်လုပ်ရန် သင်ကလောက်ထဲတွင် သိုလှောင်ထားသော နေရာမလုံလောက်ပါ</string>
     <string name="micloud_main_clear_now">ကြည်လင်သော</string>
@@ -279,14 +280,14 @@
     <string name="micloud_main_multi_user_error_message">"ပထမဦးဆုံးအကောင့်ဖြင့် သင်ဆိုင်းအင်လုပ်သောကြောင့် Mi Cloud မှားယွင်းမှုဖြစ်ပေါ်နေပါသည်။ 
 အခြားအကောင့် တစ်ခုသုံးပါ။"</string>
     <string name="micloud_main_cancel_sync">ဆင့်ခ်ဖျက်သိမ်းပါ</string>
-    <string name="micloud_main_query_again">မေးမြန်းမှု</string>
+    <string name="micloud_main_query_again">အခြား တောင်းခံမှု ပေးပို့မည်</string>
     <string name="micloud_main_wait_wlan">Wi-Fi စောင့်နေသည်။</string>
-    <string name="micloud_main_wait_wlan_charge_sleep">Wi-Fi အား စောင့်နေသည်၊ ဖုန်းမျက်နှာပြင်ပိတ်ပြီး အားသွင်းနေသည်</string>
-    <string name="micloud_main_wait_wlan_charge">Wi-Fi အား စောင့်နေသည်၊ အားသွင်းနေသည်</string>
-    <string name="micloud_main_wait_charge_sleep">ဖုန်းမျက်နှာပြင်ပိတ်ပြီး အားသွင်းရန် စောင့်နေသည်</string>
-    <string name="micloud_main_wait_charge">အားသွင်းရန် စောင့်နေသည်</string>
+    <string name="micloud_main_wait_wlan_charge_sleep">ဆင့်ခ်ပြန်လုပ်ရန် Wi-Fi သို့ ချိတ်ဆက်၍ မျက်နှာပြင်ကို ပိတ်ပြီး သင်၏စက်ကို အားပြည့်သည်အထိ အားသွင်းပါ။</string>
+    <string name="micloud_main_wait_wlan_charge">ဆင့်ခ်ပြန်လုပ်ရန် Wi-Fi သို့ ချိတ်ဆက်၍ သင်၏စက်ကို အားပြည့်သည်အထိ အားသွင်းပါ။</string>
+    <string name="micloud_main_wait_charge_sleep">ဆင့်ခ်ပြန်လုပ်ရန် မျက်နှာပြင်ကို ပိတ်ပြီး သင်၏စက်ကို အားပြည့်သည်အထိ အားသွင်းပါ။</string>
+    <string name="micloud_main_wait_charge">ဆင့်ခ်ပြန်လုပ်ရန် သင်၏စက်ကို အားပြည့်သည်အထိ အားသွင်းပါ။</string>
     <string name="micloud_main_resume_sync_soon">မကြာမီ ဆင့်ခ်ပြန်လုပ်ပါ။</string>
-    <string name="micloud_main_button_set_internet">ဆက်တင်</string>
+    <string name="micloud_main_button_set_internet">ဆက်တင်များ</string>
     <string name="micloud_main_button_activate">အသက်သွင်း</string>
     <string name="micloud_main_button_authorize">ခွင့်ပြု</string>
     <string name="micloud_detail_syncing">ဆင့်ခ်လုပ်နေဆဲ</string>
@@ -294,8 +295,8 @@
     <string name="micloud_detail_download_syncing">ဒေါင်းလုဒ်လုပ်နေသည် %s</string>
     <string name="micloud_detail_pending">စောင့်နေသည်</string>
     <string name="micloud_detail_success">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
-    <string name="micloud_detail_fail">ဆင့်ခ်မလုပ်နိုင်ပါ</string>
-    <string name="micloud_detail_not_syncable">ဆင့်ခ်လုပ်၍ မရပါ</string>
+    <string name="micloud_detail_fail">ဆင့်ခ်လုပ်၍ မရပါ</string>
+    <string name="micloud_detail_not_syncable">ဆင့်ခ်လုပ်၍ မရနိုင်ပါ</string>
     <string name="micloud_detail_lastest">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="micloud_detail_lastest_with_off">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="micloud_detail_not_synced">ဆင့်ခ်မလုပ်ခဲ့ပါ</string>
@@ -312,7 +313,7 @@
     <string name="micloud_detail_depend_wifi_title">Wi-Fiနှင့်ချိတ်ဆက်ပါ</string>
     <string name="micloud_detail_depend_wifi_message">Wi-Fi သို့ချိတ်ဆက်ပါ သို့မဟုတ် ဆင့်ခ်ဆက်တင်များအား စစ်ဆေးပါ</string>
     <string name="micloud_detail_pause">ဆင့်ခ် ခဏနားလိုက်သည်</string>
-    <string name="micloud_detail_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ။</string>
+    <string name="micloud_detail_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ</string>
     <string name="micloud_detail_battery_low">ဘက်ထရီအားနည်းနေပါသည်</string>
     <string name="micloud_check_sim_title">"SIM ကဒ်များကို ပြောင်းခဲ့ပုံ ရပါသည်။ Mi Cloud ကို ပြန်လည်အသက်သွင်းရန် သင့် Mi အကောင့်ထဲသို့ 
  ဝင်ရောက်ပါ။"</string>
@@ -325,7 +326,7 @@
     <string name="micloud_setting_browser_summary">စာညှပ်များ၊မှတ်တမ်း နှင့် တဘ်များ</string>
     <string name="micloud_setting_music_summary">ဖွင့်ရန်စာရင်းများနှင့် စိတ်ကြိုက်များ</string>
     <string name="micloud_setting_wifi_summary">Wi-Fi ဆက်တင်များ</string>
-    <string name="micloud_setting_deskclock_summary">ဒေသစံတော်ချိန် နှင့် နှိုးစက် ဆက်တင်များ</string>
+    <string name="micloud_setting_deskclock_summary">ဒေသစံတော်ချိန်နှင့် နှိုးစက် ဆက်တင်များ</string>
     <string name="micloud_setting_antispam_summary">ခြွင်းချက်များနှင့် ဘလော့လုပ်ထားသော ဖုန်းနံပါတ်များ</string>
     <string name="upgrade_space_gb">GB</string>
     <string name="upgrade_space_tb">TB</string>
@@ -411,10 +412,10 @@
     <string name="micloud_main_title_sync_on_wifi">Wi-Fi ကို သုံးပါ</string>
     <string name="micloud_main_title_sync_off">ဆင့်ခ်ပိတ်ပါ</string>
     <string name="micloud_main_title_master_sync_off">အော်တို-ဆင့်ခ်လုပ်ခြင်း ပိတ်ထားသည်။</string>
-    <string name="micloud_main_message_master_sync_off">အော်တိုဆင့်ခ်လုပ်ခြင်း ဆက်တင်သည် သတိပေးချက်ဘားတန်းတွင် ရှိသည်။</string>
-    <string name="micloud_main_error_network_disallowed">အင်တာနက်သို့ ဝင်ရောက်ခွင့်ရှိကြောင်း သေချာစေပါ။</string>
-    <string name="micloud_main_error_activated_fail">SIM ကဒ် အသက်သွင်းပါ။</string>
-    <string name="micloud_main_error_permission_limit">MiCloud အတွက် ဒေတာဘေ့စ်သို့ ဝင်ရောက်ရန် ခွင့်ပြုပါ။</string>
+    <string name="micloud_main_message_master_sync_off">အသိပေးချက်ရှိတ်တွင် ဆင့်ခ်ကို ပိတ်လိုက်သည်။</string>
+    <string name="micloud_main_error_network_disallowed">အင်တာနက်သို့ ဝင်ရောက်ခွင့်ရှိမရှိ စစ်ဆေးပါ။</string>
+    <string name="micloud_main_error_activated_fail">SIM ကဒ်အား အသက်သွင်းပါ။</string>
+    <string name="micloud_main_error_permission_limit">Mi Cloud အား သိုလှောင်ခန်းသို့ ဝင်ရောက်ခွင့်ပေးမည်။</string>
     <string name="micloud_confusion_no">မဖွင့်</string>
     <string name="micloud_confusion_yes">ဟုတ်သည်</string>
     <string name="micloud_confusion_cancel">ပယ်ဖျက်</string>
@@ -509,7 +510,7 @@
     <string name="micloud_find_device_guide_alert_negtive">မလိုအပ်ပါ၊ ကျေးဇူးတင်ပါသည်။</string>
     <string name="micloud_find_device_guide_alert_negtive_activate">မလိုအပ်ပါ၊ ကျေးဇူးတင်ပါသည်။</string>
     <string name="micloud_find_device_close_alert_title">စက်ရှာဖွေခြင်းအား ပိတ်မည်လား?</string>
-    <string name="micloud_find_device_close_alert_content">ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါက သင့်စက်၏တည်နေရာကို ရှာ၍ရမည် မဟုတ်တော့ပါ။</string>
+    <string name="micloud_find_device_close_alert_content">ဤအင်္ဂါရပ်ကို ပိတ်ထားပါက သင့်စက်ပျောက်သွားလျှင် စက်၏တည်နေရာကို ရှာနိုင်မည် မဟုတ်ပါ။</string>
     <string name="micloud_find_device_close_alert_positive">ဆက်လက် ဖွင့်ထားမည်။</string>
     <string name="micloud_find_device_close_alert_negtive">မည်သို့မဆို ပိတ်မည်။</string>
     <string name="activate_finddevice">စက်အား အသက်သွင်းရန် ကွန်ရက်သို့ချိတ်ဆက်ပါ</string>
@@ -551,10 +552,13 @@
     <string name="micloud_wipe_data_confirm_title">သင်ဆိုင်းအောက်ထွက်ပြီးနောက် ဖုန်းမှ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များအား ဖယ်ရှားမည်လား?</string>
     <string name="micloud_wipe_data_retain">ထိန်းထား</string>
     <string name="micloud_wipe_data_remove">ဖယ်ရှား</string>
-    <string name="wipe_data_dialog_title">အိုင်တမ်အချို့ကို ဆင့်ခ်မလုပ်ရသေးပါ</string>
-    <string name="wipe_data_dialog_msg">%s အား ဆင့်ခ်မလုပ်ရသေးပါ သင့်ဖုန်းတွင် ရှိနေဦးမည်ဖြစ်သည်။</string>
+    <string name="wipe_data_dialog_title">အိုင်တမ်များ ဆင့်ခ်မလုပ်ရသေးပါ</string>
+    <string name="wipe_data_dialog_msg">အိုင်တမ် %s ခု ဆင့်ခ်မလုပ်ရသေးပါ။ ထိုအိုင်တမ်များကို သင်၏စက်ပေါ်တွင် သိမ်းဆည်းထားမည်၊ မဖျက်ပစ်ပါ။</string>
     <string name="wipe_data_dialog_button_check_sync">ဆင့်ခ်လုပ်ထားသလား စစ်ဆေးကြည့်ပါ</string>
     <string name="wipe_data_dialog_msg_and_on">၊နှင့် အခြားအိုင်တမ်များ</string>
+    <string name="wipe_secret_photo_dialog_title">ဝှက်ထားသော ဓာတ်ပုံများကို ဆင့်ခ်မလုပ်ရသေးပါ</string>
+    <string name="confirm_delete">ဖျက်ပစ်မည်</string>
+    <string name="confirm_save">သိမ်းဆည်းမည်</string>
     <string name="micloud_dialog_sync_now_title">ဆင့်ခ်လုပ်ရန် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_dialog_sync_now_message">ထပ်ဆောင်းမိုဘိုင်းဒေတာ စားရိတ်များ ရှောင်ရှားရန် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_dialog_sync_now_negative">ယခုမလုပ်သေး</string>

@@ -2,90 +2,71 @@
 <resources>
     <string-array name="wifi_status">
         <item></item>
-        <item>စကင်ပြုလုပ်နေပြီ</item>
-        <item>ချိတ်ဆက်နေသည်</item>
-        <item>စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
-        <item>အိုင်ပီလိပ်စာရယူနေသည်</item>
-        <item>ဆက်သွယ်ထားပြီး</item>
-        <item>ဆိုင်းငံ့ထားသည်</item>
-        <item>အဆက်အသွယ်ဖြတ်တောက်နေသည်</item>
-        <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
-        <item>မအောင်မြင်ပါ</item>
-        <item>ပိတ်ထားသည်</item>
-        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+        <item>စကန်ဖတ်နေသည်…</item>
+        <item>ချိတ်ဆက်နေဆဲ…</item>
+        <item>မှန်ကြောင်း စစ်ဆေးနေ…</item>
+        <item>IP လိပ်စာရယူနေ…</item>
+        <item>ချိတ်ဆက်ထားသော</item>
+        <item>ဆိုင်းငံ့ထားသော</item>
+        <item>အဆက်အသွယ်ဖြတ်နေ…</item>
+        <item>ဆက်သွယ်ခြင်းဖြတ်</item>
+        <item>မအောင်မြင်သော</item>
+        <item>ပိတ်ထားသော</item>
+        <item>ချိတ်ဆက်မှုမကောင်းသောကော်နက်ရှင်ကို ခေတ္တရှောင်ရှားသည်</item>
     </string-array>
     <string-array name="wifi_status_with_ssid">
         <item></item>
-        <item>စကင်ပြုလုပ်နေပြီ</item>
-        <item>%1$s နှင့် ဆက်သွယ်နေပါသည်</item>
-        <item>%1$sနှင့်စစ်မှန်ကြောင်းအတည်ပြုနေသည်</item>
-        <item>%1$s မှ IPလိပ်စာရယူနေသည်</item>
-        <item>%1$s နှင့် ဆက်သွယ်ထားပြီး</item>
-        <item>ဆိုင်းငံ့ထားသည်</item>
-        <item>%1$sမှ ဆက်သွယ်မှုဖြတ်တောက်သွားသည်</item>
-        <item>ချိတ်ဆက်မှုပြတ်တောက်သည်</item>
-        <item>မအောင်မြင်ပါ</item>
-        <item>ပိတ်ထားသည်</item>
-        <item>နှေးကွေးသောဆက်သွယ်မှုကို ယာယီရှောင်ရှားထားသည်</item>
+        <item>စကန်ဖတ်နေသည်…</item>
+        <item>%1$sသို့ချိတ်ဆက်နေ…</item>
+        <item>%1$sနှင့် မှန်ကန်ကြောင်းစစ်ဆေးနေ…</item>
+        <item>%1$s မှ IP လိပ်စာရယူနေ…</item>
+        <item>%1$sသို့ ချိတ်ဆက်ထားသော</item>
+        <item>ဆိုင်းငံ့ထားသော</item>
+        <item>%1$s မှချိတ်ဆက်မှု ဖျက်နေ…</item>
+        <item>ချိတ်ဆက်မှု ဖြတ်လိုက်သော</item>
+        <item>မအောင်မြင်သော</item>
+        <item>ဘလော့လုပ်ထားသော</item>
+        <item>ချိတ်ဆက်မှုမကောင်းသောကော်နက်ရှင်ကို ခေတ္တရှောင်ရှားသည်</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>မည်သည့်အခါမှ မစစ်ဆေးပါနှင့်</item>
-        <item>DRMအကြောင်းအရာကိုသာ စစ်ဆေးမည်</item>
-        <item>အမြဲစစ်ဆေးရန်</item>
+        <item>ဘယ်တော့မှ မစစ်ဆေးပါ</item>
+        <item>DRM အကြောင်းအရာကိုသာ စစ်ဆေးပါ</item>
+        <item>အမြဲတမ်းစစ်ဆေးပါ။</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>HDCP checkingအားမည်သည့်အခါမျှမသုံးပါနှင့်</item>
-        <item>DRMအကြောင်းအရာအတွက် HDCPစစ်ဆေးခြင်းကိုသုံးမည်</item>
-        <item>HDCP checkingအားအမြဲသုံးပါ</item>
-    </string-array>
-    <string-array name="select_logd_size_titles">
-        <item>64K</item>
-        <item>256K</item>
-        <item>1M</item>
-        <item>4M</item>
-        <item>16M</item>
-    </string-array>
-    <string-array name="select_logd_size_lowram_titles">
-        <item>၆၄K</item>
-        <item>၂၅၆K</item>
-        <item>၁M</item>
-    </string-array>
-    <string-array name="select_logd_size_summaries">
-        <item>64K လော့ ဘာဖားတွက်</item>
-        <item>256K လော့ ဘာဖားတွက်</item>
-        <item>1M လော့ ဘာဖားတွက်</item>
-        <item>4M လော့ ဘာဖားတွက်</item>
-        <item>16M လော့ ဘာဖားတွက်</item>
+        <item>ဘယ်တော့မှ HDCP ဖြင့်မစစ်ဆေးပါ။</item>
+        <item>HDCP ဖြင့် DRM အကြောင်းအရာအတွက်သာ စစ်ဆေးမည်။</item>
+        <item>အမြဲတမ်း HDCP ဖြင့်စစ်ဆေးပါ။</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁.၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၂ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁၀ဆ</item>
+        <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
+        <item>အန်နီမေးရှင်းများ စကေး 0.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 1x</item>
+        <item>အန်နီမေးရှင်းစကေး 1.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 2x</item>
+        <item>အန်နီမေးရှင်းစကေး 5x</item>
+        <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံများကိုပိတ်ပါ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁.၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၂ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်မှုပုံ စကေး ၁၀ဆ</item>
+        <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
+        <item>အန်နီမေးရှင်းများ စကေး 0.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 1x</item>
+        <item>အန်နီမေးရှင်းစကေး 1.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 2x</item>
+        <item>အန်နီမေးရှင်းစကေး 5x</item>
+        <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>လှုပ်ရှားသက်ဝင်ပုံများကိုပိတ်ပါ</item>
-        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၀.၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁.၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၂ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၅ဆ</item>
-        <item>လှုပ်ရှားသက်ဝင်ပုံရိပ် စကေး ၁၀ဆ</item>
+        <item>အန်နီမေးရှင်း ပိတ်ထားသည်။</item>
+        <item>အန်နီမေးရှင်းများ စကေး 0.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 1x</item>
+        <item>အန်နီမေးရှင်းစကေး 1.5x</item>
+        <item>အန်နီမေးရှင်းစကေး 2x</item>
+        <item>အန်နီမေးရှင်းစကေး 5x</item>
+        <item>အန်နီမေးရှင်းစကေး 10x</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
+        <item>မရှိ</item>
         <item>480p</item>
         <item>480p (လုံခြုံသော)</item>
         <item>720p</item>
@@ -94,49 +75,68 @@
         <item>1080p (လုံခြုံသော)</item>
         <item>4K</item>
         <item>4K (လုံခြုံသော)</item>
-        <item>4K (စကေးတင်)</item>
-        <item>4K (စကေးတင်၊ လုံခြုံ)</item>
-        <item>720p, 1080p (မျက်နှာပြင်နှစ်ခုတွဲ)</item>
+        <item>4K (အရည်အသွေးကောင်းမွန်သော)</item>
+        <item>4K (အရည်အသွေးကောင်းမွန်သော၊ လုံခြုံသော)</item>
+        <item>720p, 1080p (နှစ်ခုပြိုင် မျက်နှာပြင်)</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>တစ်ခုမှမဟုတ်ပါ</item>
-        <item>လော့ဂ်ကက်</item>
-        <item>စနစ်ခြေရာခံခြင်း (ရုပ်ပုံများ)</item>
-        <item>glGetError အမှားတက်လျှင်ခေါ်သောလုပ်ငန်းစဉ်</item>
+        <item>မရှိ</item>
+        <item>Logcat</item>
+        <item>Systrace (ဂရပ်ဖစ်)</item>
+        <item>glGetError မှ စုပုံခေါ်ဆိုမှု</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
         <item>ပိတ်</item>
-        <item>စတုဂံမဟုတ်သော ဖောက်ရန်အပိုင်းကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
-        <item>စမ်းသပ်ထားသော ပုံဆွဲရန်ညွှန်ကြားချက်များကို အစိမ်းရောင်ဖြင့် အသားပေး ဖော်ပြပါ</item>
+        <item>စတုဂံမဟုတ်သောပိုင်းဖြတ်ဒေသကို အပြာရောင်ဖြင့်ဆွဲပါ</item>
+        <item>စမ်းသပ်ပုံဆွဲရန် အမိန့်ကို အစိမ်းရောင်ဖြင့် ဟိုက်လိုက်လုပ်ပါ</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>ပိတ်</item>
-        <item>ဖန်သားပြင်ပေါ်မှာ မျဉ်းတန်းကဲ့သို့</item>
-        <item>adb shell dumpsys ထဲမှ gfxinfo</item>
+        <item>မျက်နှာပြင်ပေါ်တွင် ဘားဂရပ်အဖြစ်</item>
+        <item>adb shell dumpsys gfxinfo တွင်</item>
     </string-array>
     <string-array name="debug_hw_overdraw_entries">
         <item>ပိတ်</item>
-        <item>ရှိရင်းစွဲထက်ပိုသော ဧရိယာများကိုပြရန်</item>
-        <item>အရောင်ရောနှောသောဧရိယာများပြရန်</item>
+        <item>ကျော်လွန်ဧရိယာများ ပြရန်</item>
+        <item>Deuteranomaly ဧရိယာကို ပြပါ</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>သတ်မှတ်စံနှုန်း</item>
-        <item>နောက်ခံပြုလုပ်နေသောလုပ်ငန်းစဉ်မရှိ</item>
-        <item>အများဆုံးလုပ်ငန်းစဉ်(၁)ခု</item>
-        <item>အများဆုံးလုပ်ငန်းစဉ်ခု</item>
-        <item>အများဆုံးလုပ်ငန်းစဉ်(၃)ခု</item>
-        <item>အများဆုံးလုပ်ငန်းစဉ်(၄)ခု</item>
+        <item>စံ ကန့်သတ်ချက်</item>
+        <item>နောက်ခံဖြစ်စဥ် မရှိပါ။</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၁ ခု</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၂ ခု</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၃ ခု</item>
+        <item>လုပ်ငန်းစဉ် အများဆုံး ၄ ခု</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (မီဒီယာလွှဲပြောင်းမှု သဘောတူညီချက်)</item>
+        <item>PTP (ပုံလွှဲပြောင်းမှု သဘောတူညီချက်)</item>
+        <item>RNDIS (USB အီသာနက်)</item>
+        <item>အော်ဒီယို အရင်းအမြစ်</item>
+        <item>MIDI</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>အလွန်နှေးသည်</item>
+        <item>အလွန် နှေးသည်</item>
         <item>နှေးသည်</item>
-        <item>ပုံမှန်</item>
+        <item>သာမန်</item>
         <item>မြန်သည်</item>
-        <item>ပိုမြန်စွာ</item>
-        <item>အလွန်မြန်စွာ</item>
-        <item>သွက်သွက်</item>
-        <item>အရမ်းသွက်စွာ</item>
+        <item>ပိုမြန်သော</item>
+        <item>အလွန်မြန်သော</item>
+        <item>မြန်ဆန်သော</item>
+        <item>အလွန်မြန်ဆန်သော</item>
         <item>အမြန်ဆုံး</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>တောက်ပ (ပုံသေ)</item>
@@ -162,15 +162,20 @@
         <item>ဖုန်းလိုင်းဝန်ဆောင်မှုအမည်ကို အမြဲပြပါ</item>
         <item>ဖုန်းလိုင်းဝန်ဆောင်မှုအမည်ကို ဘယ်တော့မှ မပြပါနှင့်</item>
     </string-array>
+    <string-array name="status_bar_show_carrier_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="check_importance_entries">
         <item>အကြံပြုထားသော</item>
         <item>အရေးကြီးသည်</item>
         <item>အရေးမကြီးသော</item>
     </string-array>
     <string-array name="check_importance_summary">
-        <item>စနစ်မှ အကြံပြုသော အရေးမကြီးသော အသိပေးချက်များအားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်</item>
-        <item>အသိပေးချက်များသည် အသိပေးချက်ရှိတ်တွင် တိုက်ရိုက်ပေါ်လာလိမ့်မည်</item>
-        <item>အသိပေးချက်များအားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်</item>
+        <item>မည်သည့်အသိပေးချက်များ တိုက်ရိုက်ဖော်ပြမည်ကို MIUI မှ အကြံပြုလိမ့်မည်</item>
+        <item>အသိပေးချက်များသည် အသိပေးချက်ရှိတ်တွင် ပေါ်လာလိမ့်မည်</item>
+        <item>အသိပေးချက်များကို သီးခြားဖိုလ်ဒါတစ်ခုတွင် ထည့်ထားမည်</item>
     </string-array>
     <string-array name="timezone_filters">
         <item>အမေရိကား</item>
@@ -183,12 +188,12 @@
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>၁၅ စက္ကန့်</item>
-        <item>၃၀ စက္ကန့်</item>
+        <item>စက္ကန့် ၃၀</item>
         <item>၁ မိနစ်</item>
         <item>၂ မိနစ်</item>
         <item>၅ မိနစ်</item>
         <item>၁၀ မိနစ်</item>
-        <item>လုံးဝမလုပ်</item>
+        <item>ဘယ်တော့မှ</item>
     </string-array>
     <string-array name="dream_timeout_entries">
         <item>မည်သည့်အခါမှ</item>
@@ -213,13 +218,9 @@
     </string-array>
     <string-array name="entries_font_size">
         <item>သေးငယ်သော</item>
-        <item>ပုံမှန်</item>
+        <item>မူရင်း</item>
         <item>အကြီးစား</item>
-        <item>ဧရာမ</item>
-    </string-array>
-    <string-array name="wifi_ap_security">
-        <item>@string/wifi_security_none</item>
-        <item>@string/wifi_security_eap</item>
+        <item>အကြီးဆုံး</item>
     </string-array>
     <string-array name="wifi_eap_method">
         <item>PEAP</item>
@@ -309,7 +310,7 @@
     <string-array name="wifi_proxy_settings">
         <item>တစ်ခုမှမဟုတ်ပါ</item>
         <item>ကိုယ်တိုင်ထည့်သွင်းခြင်း</item>
-        <item>ပရော့က်စီ အော်တို-စီစဉ်</item>
+        <item>ပရောက်စီ အော်တို-စီစဉ်</item>
     </string-array>
     <string-array name="apn_auth_entries">
         <item>ဘာမှမဟုတ်</item>
@@ -330,7 +331,7 @@
         <item>HSUPA</item>
         <item>HSDPA</item>
         <item>UMTS</item>
-        <item>အစွန်</item>
+        <item>EDGE</item>
         <item>GPRS</item>
         <item>eHRPD</item>
         <item>EVDO_B</item>
@@ -369,7 +370,7 @@
         <item>ခေါ်ဆိုထားသော မှတ်တမ်းကို ပြင်ဆင်ရန်</item>
         <item>ပြက္ခဒိန်ဖတ်ရန်</item>
         <item>ပြက္ခဒိန်ပြင်ဆင်ရန်</item>
-        <item>ဝိုင်ဖိုင် ရှာဖွေရန်</item>
+        <item>"Wi-Fi  ရှာဖွေရန်"</item>
         <item>အကြောင်းကြားချက်</item>
         <item>ဆဲလ်ဖြန့်ကြက်စူးစမ်းသည်</item>
         <item>ဖုန်းခေါ်ရန်</item>
@@ -404,11 +405,25 @@
         <item>စွမ်းအားမြင့် ဖန်သားပြင် တည်နေရာ</item>
         <item>သုံးစွဲမှု စာရင်းအင်းများကို ရယူရန်</item>
         <item>မိုက်ခရိုဖုန်း အသံတိတ်/မတိတ်ရန်</item>
+        <item>အမည်ကို ပြပါ</item>
         <item>ပရိုဂျက် မီဒီယာ</item>
-        <item>VPN ကို စဖွင့်သုံးရန်</item>
-        <item>နောက်ခံကိုရေးပါ</item>
-        <item>ဖွဲ့စည်းပုံကိုကူညီရန်</item>
-        <item>ဖန်သားပြင်ရိုက်ကွက်အားကူညီရန်</item>
+        <item>VPN ကို စဖွင့်သုံးပါ</item>
+        <item>နောက်ခံကို ရေးပါ</item>
+        <item>ဖွဲ့စည်းပုံကို ကူညီပါ</item>
+        <item>မျက်နှာပြင်ကို ကူညီပါ</item>
+        <item>ဖုန်း အခြေအနေကို ဖတ်ပါ</item>
+        <item>အသံမေးလ်ကို ထည့်ပါ</item>
+        <item>ငုံခြင်းကို သုံးပါ</item>
+        <item>အထွက် ခေါ်ဆိုမှုများကို စီမံဆောင်ရွက်ပါ</item>
+        <item>လက်ဗွေ</item>
+        <item>ခန္ဓာကိုယ် အာရုံခံကိရိယာများ</item>
+        <item>ဆဲလ် ထုတ်လွှင့်မှုများကို ဖတ်ပါ</item>
+        <item>တည်နေရာကို အတုဖန်တီးပါ</item>
+        <item>သိုလှောင်ခန်းကို ဖတ်ပါ</item>
+        <item>သိုလှောင်ခန်းကို ရေးပါ</item>
+        <item>မျက်နှာပြင်ကို ဖွင့်ပါ</item>
+        <item>အကောင့်များကို ရယူပါ</item>
+        <item>နောက်ခံမှာ အလုပ်လုပ်ပါ</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>တည်နေရာ</item>
@@ -456,11 +471,25 @@
         <item>တည်နေရာ</item>
         <item>သုံးစွဲမှု စာရင်းအင်းများကို ရယူရန်</item>
         <item>မိုက်ခရိုဖုန်း အသံတိတ်/မတိတ်ရန်</item>
+        <item>အမည်ကို ပြပါ</item>
         <item>ပရိုဂျက် မီဒီယာ</item>
-        <item>VPN ကို စဖွင့်သုံးရန်</item>
-        <item>နောက်ခံရေးပါ</item>
-        <item>ဖွဲ့စည်းပုံကိုကူညီရန်</item>
-        <item>ဖန်သားပြင်ရိုက်ကွက်အားကူညီရန်</item>
+        <item>VPN ကို စဖွင့်သုံးပါ</item>
+        <item>နောက်ခံကို ရေးပါ</item>
+        <item>ဖွဲ့စည်းပုံကို ကူညီပါ</item>
+        <item>မျက်နှာပြင်ကို ကူညီပါ</item>
+        <item>ဖုန်း အခြေအနေကို ဖတ်ပါ</item>
+        <item>အသံမေးလ် ထည့်ပါ</item>
+        <item>ငုံခြင်းကို သုံးပါ</item>
+        <item>အထွက် ခေါ်ဆိုမှုများကို စီမံဆောင်ရွက်ပါ</item>
+        <item>လက်ဗွေ</item>
+        <item>ခန္ဓာကိုယ် အာရုံခံကိရိယာများ</item>
+        <item>ဆဲလ် ထုတ်လွှင့်မှုများကို ဖတ်ပါ</item>
+        <item>တည်နေရာကို အတုဖန်တီးပါ</item>
+        <item>သိုလှောင်ခန်းကို ဖတ်ပါ</item>
+        <item>သိုလှောင်ခန်းကို ရေးပါ</item>
+        <item>မျက်နှာပြင်ကို ဖွင့်ပါ</item>
+        <item>အကောင့်များကို ရယူပါ</item>
+        <item>နောက်ခံမှာ အလုပ်လုပ်ပါ</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>အတို</item>
@@ -500,7 +529,7 @@
         <item>၁၀၀%</item>
     </string-array>
     <string-array name="captioning_preset_selector_titles">
-        <item>app ပုံသေများကို သုံးရန်</item>
+        <item>အက်ပ် ပုံသေများကို သုံးရန်</item>
         <item>အမည်းပေါ်အဖြူ</item>
         <item>အဖြူပေါ်အမည်း</item>
         <item>အမည်းပေါ်အဝါ</item>
@@ -565,17 +594,21 @@
         <item>ပန်းရောင်</item>
         <item>အနီ</item>
     </string-array>
-    <string-array name="wifi_calling_mode_choices">
-        <item>ဝိုင်ဖိုင်အား ပိုနှစ်သက်သော</item>
-        <item>ဆယ်လူလာအား ပိုနှစ်သက်သော</item>
-        <item>ကြိုးမဲ့အင်တာနက် သာလျှင်</item>
+    <string-array name="wifi_calling_mode_values">
+        <item>၂</item>
+        <item>၁</item>
+        <item>၀</item>
     </string-array>
     <string-array name="wifi_calling_mode_choices_without_wifi_only">
         <item>Wi-Fi ကိုပိုနှစ်စက်သည်</item>
         <item>ဆယ်လ်လူလာကို ပိုနှစ်သက်သည်</item>
     </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>၂</item>
+        <item>၁</item>
+    </string-array>
     <string-array name="haptic_feedback_level_texts">
-        <item>ပိတ်ရန်</item>
+        <item>ပိတ်မည်</item>
         <item>ပေါ့သော</item>
         <item>အလယ်အလတ်</item>
         <item>ပြင်းထန်</item>
@@ -628,7 +661,7 @@
     </string-array>
     <string-array name="screen_key_press_action">
         <item>မကြာမီက အက်ပ်ထရေးကို ပြပါ</item>
-        <item>မီနူး ပြပါ</item>
+        <item>မီးနူးကို ပြပါ</item>
     </string-array>
     <string-array name="key_and_gesture_shortcut_action">
         <item>long_press_home_key</item>
@@ -640,15 +673,15 @@
         <item>key_none</item>
     </string-array>
     <string-array name="screen_key_long_press_timeout">
-        <item>၁.၅ စက္ကန့်</item>
+        <item>၀.၅ စက္ကန့်</item>
         <item>၁ စက္ကန့်</item>
         <item>၁.၅ စက္ကန့်</item>
         <item>၂ စက္ကန့်</item>
     </string-array>
     <string-array name="long_press_volume_down_action">
         <item>မရှိ</item>
-        <item>အမြန်ရိုက်ချက်မုဒ်(ဓာတ်ပုံ)</item>
-        <item>အမြန်ရိုက်ချက်မုဒ်(ဗီဒီယို)</item>
+        <item>အမြန်ရိုက်ချက်မုဒ် (ဓာတ်ပုံ)</item>
+        <item>အမြန်ရိုက်ချက်မုဒ် (ဗီဒီယို)</item>
         <item>အများဆိုင်ရာသယ်ယူပို့ဆောင်ရေး ရှော့ကဒ်များ</item>
     </string-array>
     <string-array name="button_light_timeout_entries">
@@ -656,16 +689,16 @@
         <item>၂ စက္ကန့်</item>
         <item>၅ စက္ကန့်</item>
         <item>၁၀ စက္ကန့်</item>
-        <item>၂၀ စက္ကန့်</item>
+        <item>စက္ကန့် ၂၀</item>
         <item>အမြဲတမ်း</item>
     </string-array>
     <string-array name="wfd_status">
-        <item>လုပ်ငန်းကဏ္ဍကို စတင်နေဆဲ…</item>
+        <item>လုပ်ငန်းကဏ္ဍကို စတင်နေသည်…</item>
         <item>လုပ်ငန်းကဏ္ဍ စတင်ပြီးပြီ</item>
-        <item>ဝန်ဆောင်မှုပိတ်နေသည်…</item>
-        <item>လုပ်ငန်းကဏ္ဍကို စတင်လို့ မရပါ</item>
+        <item>ဝန်ဆောင်မှုကို ပိတ်နေသည်…</item>
+        <item>လုပ်ငန်းကဏ္ဍကို စတင်၍ မရပါ</item>
         <item>လုပ်ဆောင်ချိန် ကုန်ပါပြီ။ ပြန်ကြိုးစားနေ…</item>
-        <item>ကိရိယာ ချိတ်ဆက်နေသည်</item>
+        <item>စက် ချိတ်ဆက်ထားသည်</item>
     </string-array>
     <string-array name="power_mode_entries">
         <item>စွမ်းဆောင်ရည်</item>
@@ -673,7 +706,7 @@
     </string-array>
     <string-array name="msd_pc_system">
         <item>ဝင်းဒိုး XP နှင့် ၎င်းမတိုင်မီ</item>
-        <item>ဝင်းဒိုးဝစ္စတာနှင့် ၎င်းနောက်ပိုင်း</item>
+        <item>ဝင်းဒိုး Vista နှင့် ၎င်းနောက်ပိုင်း</item>
         <item>OSX</item>
         <item>Linux</item>
     </string-array>
@@ -686,17 +719,25 @@
     <string-array name="msd_pc_system_install_finish_summary">
         <item>@string/msd_pc_system_install_finish_summary_xp</item>
         <item>@string/msd_pc_system_install_finish_summary_vista</item>
-        <item>USB ဒေတာအများအပြား သိုလှောင်ခန်းသည် ကွန်ပြူတာတစ်ခုသို့ ချိတ်ဆက်သောအခါ အလိုလို ဖွင့်လာပါမည်။</item>
+        <item>ကွန်ပြူတာသို့ ချိတ်ဆက်သောအခါ ကြီးမားသော USB သိုလှောင်ခန်းကို အလိုအလျောက်ဖွင့်လိမ့်မည်။</item>
         <item></item>
     </string-array>
     <string-array name="msd_pc_system_retry_xp">
         <item>@string/msd_install_retry_connect</item>
         <item>MiPhoneManager ကို ပြန်တပ်ဆင်ပါ။</item>
     </string-array>
+    <string-array name="msd_pc_system_retry_vista">
+        <item>@string/msd_install_retry_connect</item>
+    </string-array>
+    <string-array name="msd_pc_system_retry_mac">
+        <item>@string/msd_install_retry_reinstall_mac</item>
+        <item>@string/msd_install_retry_connect</item>
+        <item>@string/msd_install_retry_reinstall</item>
+    </string-array>
     <string-array name="msd_pc_system_retry_linux">
         <item>Install tool: sudo aptitude install mtpfs libfuse-dev libmad0-dev</item>
-        <item>အညွှန်းဖိုလ်ဒါတစ်ခု ဖန်တီးပါ: အညွှန်းဖိုလ်ဒါလုပ်ခြင်း /မီဒီယာ/ပုံလွှဲပြောင်းမှုပရိုတိုကော</item>
-        <item>သုံးသူအုပ်စု အခွင့်ပေးထားသည့်အရာများကို လက်ရှိဆက်စပ်သော သုံးသူအုပ်စုထဲမှာ အတည်ပြုပါ</item>
+        <item>အညွှန်းဖိုလ်ဒါတစ်ခု ဖန်တီးပါ- mkdir /media/mtp</item>
+        <item>သုံးစွဲသူအုပ်စု ခွင့်ပြုချက်များကို လက်ရှိဆက်စပ်နေသော သုံးစွဲသူအုပ်စုထဲတွင် အတည်ပြုပါ</item>
         <item>ထပ်မံ ဆိုင်းအင်ဝင်ပါ</item>
         <item>Access mounted device: mtpfs /media/mtp via file explorer; same as local directory</item>
         <item>"Uninstall device: fusermount -u /media/mtp
@@ -708,34 +749,34 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>အေးချမ်းသောအရောင်</item>
     </string-array>
     <string-array name="screen_saturation_title">
-        <item>အလွန်တောက်ပသောအရောင်</item>
+        <item>တောက်ပသောအရောင်</item>
         <item>ပုံမှန်</item>
     </string-array>
     <string-array name="screen_optimize_title">
-        <item>အလိုလို ဖြူမဲတိုးလျှော့</item>
+        <item>အလိုအလျောက် ဖြူမဲတိုးလျှော့</item>
         <item>ဖြူမဲတိုးလျှော့ကို မြှင့်တင်ထားသည်</item>
         <item>ပုံမှန်</item>
     </string-array>
     <string-array name="screen_optimize_summary">
-        <item>ရှိနေသော အလင်းရောင်အတွက် သင့်တင့်ဆုံး ဖြူမဲ့တိုးလျှော့</item>
+        <item>လက်ရှိ အလင်းအတွက် အသင့်တော်ဆုံး ဖြူမဲ့တိုးလျှော့</item>
         <item>ပြကွက်၏ ဖြူမဲတိုးလျှော့ကို မြှင့်တင်ပါ</item>
         <item>ဖြူမဲတိုးလျှော့သည် မပြောင်းမလဲ ဆက်ရှိနေလိမ့်မည်</item>
     </string-array>
     <string-array name="perm_hips_action">
-        <item>ခွင့်ပြုပါ</item>
+        <item>ခွင့်ပြုသည်</item>
         <item>မေးပါ</item>
-        <item>ငြင်းပယ်ပါ</item>
+        <item>ငြင်းပယ်သည်</item>
     </string-array>
     <string-array name="startup_hips_action">
-        <item>ခွင့်ပြုပါ</item>
-        <item>ငြင်းပယ်ပါ</item>
+        <item>ခွင့်ပြုသည်</item>
+        <item>ငြင်းပယ်သည်</item>
     </string-array>
     <string-array name="phone_call_noise_suppression_title">
         <item>မိုက်-ဆားကစ်တစ်ခုတည်း ဆူညံသံထိန်းချုပ်ခြင်း</item>
         <item>မိုက်-ဆားကစ်နှစ်ခု ဆူညံသံထိန်းချုပ်ခြင်း</item>
     </string-array>
     <string-array name="change_security_lock_picker">
-        <item>မျက်နှာ သော့ဖွင့်ခြင်း</item>
+        <item>မျက်နှာ သော့ဖြည်ခြင်း</item>
         <item>ပုံစံ</item>
         <item>PIN</item>
         <item>စကားဝှက်</item>
@@ -753,29 +794,38 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>လိုက်ဖက်မှုရှိသော</item>
         <item>အရှိန်မြင့်သော</item>
     </string-array>
+    <string-array name="connect_mode_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="traffic_balance_entries">
         <item>ပိတ်မည်</item>
         <item>ပုံမှန်</item>
         <item>အလွန်အကဲ</item>
     </string-array>
+    <string-array name="traffic_balance_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
     <string-array name="preferred_app_entries">
-        <item>အစပျိုးစက်</item>
-        <item>ဂဏန်းနှိပ်ခေါ်ပါ</item>
+        <item>မျက်နှာပြင်</item>
+        <item>ဖုန်းဒိုင်ခွက်</item>
         <item>မက်ဆေ့ချ်ပို့ခြင်း</item>
-        <item>ဘရောက်ဆာ</item>
+        <item>ဘရောက်ဇာ</item>
         <item>ကင်မရာ</item>
         <item>ပြခန်း</item>
         <item>တေးဂီတ</item>
         <item>အီးမေးလ်</item>
-        <item>ဗီဒီယိုပြသ</item>
+        <item>ဗီဒီယို ဖွင့်ပါ</item>
     </string-array>
     <string-array name="network_speed_slow_summary">
         <item>ကွန်ရက်သည် လိုင်းအဝင်အထွက် များလွန်းသောကြောင့် နှေးနေသည်</item>
-        <item>ကွန်ရက်သည် အားနည်းသော အချက်ပြလှိုင်းပြင်းအားကြောင့် နှေးနေသည်</item>
-        <item>ရွှေ့နေဆဲ…</item>
+        <item>ကွန်ရက်သည် လိုင်းအားနည်းနေသောကြောင့် နှေးနေသည်</item>
+        <item>ရွေ့နေသည်…</item>
     </string-array>
     <string-array name="priority_storage_entries">
-        <item>အတွင်း သိုလှောင်ခန်း</item>
+        <item>အတွင်းပိုင်း သိုလှောင်ခန်း</item>
         <item>ပြင်ပ သိုလှောင်ခန်း</item>
     </string-array>
     <string-array name="tts_rate_xunfei_entries">
@@ -786,10 +836,20 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>Faster</item>
     </string-array>
     <string-array name="whetstone_level_entries">
-        <item>ပိတ်</item>
-        <item>နည်း</item>
-        <item>အလတ်</item>
-        <item>မြင့်</item>
+        <item>ပိတ်မည်</item>
+        <item>နိမ့်သော</item>
+        <item>အလယ်အလတ်</item>
+        <item>မြင့်သော</item>
+    </string-array>
+    <string-array name="whetstone_level_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="agps_network_values">
+        <item>0</item>
+        <item>1</item>
     </string-array>
     <string-array name="agps_network_entries">
         <item>ပင်မကွန်ရက်</item>
@@ -799,9 +859,18 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>MSB</item>
         <item>MSA</item>
     </string-array>
+    <string-array name="agps_apn_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
     <string-array name="agps_apn_entries">
         <item>CMWAP</item>
         <item>CMNET</item>
+    </string-array>
+    <string-array name="agps_reset_type_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
     <string-array name="agps_reset_type_entries">
         <item>ပူသောအချိန်</item>
@@ -813,25 +882,30 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>၄.၀ လက်မ</item>
         <item>၃.၅ လက်မ</item>
     </string-array>
+    <string-array name="handy_mode_size_value_entries">
+        <item>4.5</item>
+        <item>4.0</item>
+        <item>3.5</item>
+    </string-array>
     <string-array name="lock_screen_secure_after_timeout_entries">
         <item>ချက်ချင်း</item>
-        <item>၃၀ စက္ကန့်ပြီးနောက်</item>
-        <item>၁ မိနစ်ပြီးနောက်</item>
-        <item>၂ မိနစ်ပြီးနောက်</item>
-        <item>၅ မိနစ်ပြီးနောက်</item>
+        <item>စက္ကန့်၃၀ နောက်</item>
+        <item>၁ မိနစ်နောက်</item>
+        <item>၂ မိနစ်နောက်</item>
+        <item>၅ မိနစ်နောက်</item>
         <item>ဘယ်တော့မှ</item>
     </string-array>
     <string-array name="fluency_mode_entries">
         <item>စနစ်အန်နီမေးရှင်းများကို ကွယ်ဝှက်ပါ</item>
-        <item>စနစ်အန်နီမေးရှင်းများကို ပြသပါ</item>
+        <item>စနစ်အန်နီမေးရှင်းများကို ပြပါ</item>
     </string-array>
     <string-array name="fluency_mode_summaries">
         <item>စက်၏လုပ်ဆောင်ရည်အား မြှင့်တင်ပါ</item>
-        <item>စက်၏လုပ်ဆောင်ရည်အား နှေးကွေးစေနိုင်ပါသည်</item>
+        <item>စက်၏လုပ်ဆောင်ရည်အား နှေးကွေးစေနိုင်သည်</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>သင့်ကိရိယာက ဒီဆက်တင်ကို အသုံးချဖို့အတွက် စက်လုပ်ငန်းပြန်စတင်ရန်ပြင်ဆင်မည်လား?</item>
-        <item>သင့်ကိရိယာက ဒီဆက်တင်ကို အသုံးချဖို့အတွက် စက်လုပ်ငန်းပြန်စတင်ရန်ပြင်ဆင်မည်လား?</item>
+        <item>ဤဆက်တင်ကို သုံးရန် စက်ကို ပိတ်၍ပြန်ဖွင့်မလား?</item>
     </string-array>
     <string-array name="miui_entries_font_size">
         <item>S</item>
@@ -900,21 +974,26 @@ Note: Only for Ubuntu 8.04!"</item>
     </string-array>
     <string-array name="common_password_business_names">
         <item>သော့ခတ် မျက်နှာပြင်</item>
-        <item>ကိုယ်ရေးစကားဝှက်</item>
-        <item>ကလေးမုတ်</item>
+        <item>ကလေးမုဒ်</item>
         <item>ဖိုင်ရှာဖွေသူ</item>
         <item>အက်ပ်သော့ခတ်ခြင်း</item>
+        <item>ဒုတိယနေရာ</item>
         <item>ဒုတိယနေရာ</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>ဘယ်လက်သုံးပုံစံ</item>
         <item>ညာလက်သုံးပုံစံ</item>
     </string-array>
+    <string-array name="screen_resolution_format">
+        <item>@string/screen_resolution_ultrahigh_format</item>
+        <item>@string/screen_resolution_high_format</item>
+        <item>@string/screen_resolution_normal_format</item>
+    </string-array>
     <string-array name="edge_touch_volume_action">
-        <item>တစ်ကြိမ်နှိပ်လျှင် ချိန်ညှိ- နှစ်ကြိမ်နှိပ်လျှင် စတင်</item>
-        <item>ပွတ်လျှင် ချိန်ညှိ- ပွတ်လျှင် စတင်</item>
-        <item>တစ်ကြိမ်နှိပ်လျှင် ချိန်ညှိ- တစ်ကြိမ်နှိပ်လျှင် စတင်</item>
-        <item>တစ်ကြိမ်နှိပ်လျှင် ချိန်ညှိ- ကြာကြာနှိပ်လျှင် စတင်</item>
+        <item>ချိန်ညှိရန် ဖိနှိပ်ပါ- စတင်ရန် နှစ်ကြိမ်ဖိနှိပ်ပါ</item>
+        <item>ချိန်ညှိရန် ပွတ်ဆွဲပါ- စတင်ရန် ပွတ်ဆွဲပါ</item>
+        <item>ချိန်ညှိရန် ဖိနှိပ်ပါ- စတင်ရန် ဖိနှိပ်ပါ</item>
+        <item>ချိန်ညှိရန် ဖိနှိပ်ပါ- စတင်ရန် ဖိထားပါ</item>
     </string-array>
     <string-array name="city_name">
         <item>အဘစ်ဂျန်</item>
@@ -973,9 +1052,9 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ဟာလီဖက်စ်</item>
         <item>ဟာဗာနာ</item>
         <item>အိန္ဒိယနာပိုလီ</item>
-        <item>ကနော့စ်စီးတီး</item>
+        <item>ကနော့စ်မြို့</item>
         <item>ပီတာစဘဂျ်</item>
-        <item>တယ်လ်စီးတီး</item>
+        <item>တယ်လ်မြို့</item>
         <item>ဗီဗေ</item>
         <item>ဗင်စင်နက်စ်</item>
         <item>ဝီနမ်မက်စ်</item>
@@ -987,7 +1066,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>မာနာဂွာ</item>
         <item>မာတင်နစ်</item>
         <item>မက်လာကက်တလာ</item>
-        <item>မက္ကစီကိုစီးတီး</item>
+        <item>မက္ကစီကိုမြို့</item>
         <item>မွန်တာရေ</item>
         <item>မွန်တယ်ဗီဒို</item>
         <item>မွန်တယ်ရီးရယ်</item>
@@ -996,7 +1075,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ဗျူလက်</item>
         <item>နယူးဆယ်လမ်</item>
         <item>ပနားမား</item>
-        <item>ဖိုးနစ်စ်</item>
+        <item>ဖီးနစ်</item>
         <item>ပေါ့အော့ဖ်စပိန်</item>
         <item>ပေါ့−အေယူ−ပရင့်စ်</item>
         <item>ပူရာအသ ရီကို</item>
@@ -1045,7 +1124,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ရန်ကုန်</item>
         <item>ရိုင်ရက်ဒ်</item>
         <item>ဆိုးလ်</item>
-        <item>ရှန့်ဟိုင်</item>
+        <item>ရှန်ဟိုင်း</item>
         <item>စင်ကာပူ</item>
         <item>တိုင်ပေ</item>
         <item>တယ်ဟရန်</item>
@@ -1060,7 +1139,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ဘရစ်ဘန်းနေ</item>
         <item>ကန်ဘာရာ</item>
         <item>ဒါဝင်</item>
-        <item>မယ်ဘွန်း</item>
+        <item>မယ်လ်ဘုန်း</item>
         <item>နယူးဆောက်ဝေးလ်</item>
         <item>ပက်သ်</item>
         <item>ကွင်းစ်လန်း</item>
@@ -1106,7 +1185,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ဆိုဖီယာ</item>
         <item>စတော့ခ်ဟိုးလ်</item>
         <item>တော်လင်အင်</item>
-        <item>ဗစ်တိုင်ကန် စီးတီး</item>
+        <item>ဗစ်တိုင်ကန် မြို့</item>
         <item>ဗီယန်နာ</item>
         <item>ဗယ်လ်နီးယပ်စ်</item>
         <item>ဝါဆော</item>
@@ -1138,7 +1217,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ပေါ့ထ်လန်း</item>
         <item>ဆန်ဒီရေဂို</item>
         <item>ဆန်ဖရန်ဆစ်စကို</item>
-        <item>ဆော့လိတ်စီးတီး</item>
+        <item>ဆော့လိတ်မြို့</item>
         <item>စန်ဂျိုးစီ</item>
         <item>ဆက်တယ်လ်</item>
         <item>စိန့်လူးဝစ်</item>
@@ -1149,7 +1228,7 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ဘယ်တီမိုး</item>
         <item>နစ်ချ်ဗီလယ်</item>
         <item>မယ်ဝေါကီး</item>
-        <item>အိုကလာဟိုးမားစီးတီး</item>
+        <item>အိုကလာဟိုးမားမြို့</item>
         <item>လက်စ်ဗီးဂက်စ်</item>
         <item>အယ်လ်ဘူကွာကွီး</item>
         <item>တက်စ်ဆွန်</item>
@@ -1199,13 +1278,21 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>စိန့်ပီတာစဘဂျ်</item>
         <item>ခရာကော</item>
         <item>ရိုကလော</item>
-        <item>ဟန်မ်ဘဂျ်</item>
+        <item>ဟမ်းဘက်</item>
         <item>အိုလု</item>
         <item>ဟိုင်ဖာ</item>
         <item>ဆန်ဂျွန်</item>
         <item>တယ်ဂူစီဂယ်လ်ပါ</item>
         <item>ပါရာမာရီဘို</item>
         <item>ကွီတို</item>
+    </string-array>
+    <string-array name="silent_entries">
+        <item>@string/standard</item>
+        <item>@string/total</item>
+    </string-array>
+    <string-array name="silent_values">
+        <item>1</item>
+        <item>3</item>
     </string-array>
     <string-array name="silent_mode_duration_text">
         <item>အမြဲတမ်း</item>
@@ -1214,11 +1301,167 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>၂ နာရီ</item>
         <item>၈ နာရီ</item>
     </string-array>
+    <string-array name="silent_mode_duration_value">
+        <item>0</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>480</item>
+    </string-array>
+    <string-array name="click_bottom">
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom02</item>
+        <item>\@drawable/clickbottom03</item>
+        <item>\@drawable/clickbottom04</item>
+        <item>\@drawable/clickbottom05</item>
+        <item>\@drawable/clickbottom06</item>
+        <item>\@drawable/clickbottom07</item>
+        <item>\@drawable/clickbottom08</item>
+        <item>\@drawable/clickbottom03</item>
+        <item>\@drawable/clickbottom02</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+        <item>\@drawable/clickbottom01</item>
+    </string-array>
+    <string-array name="long_press">
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom02</item>
+        <item>\@drawable/longpressbottom03</item>
+        <item>\@drawable/longpressbottom04</item>
+        <item>\@drawable/longpressbottom05</item>
+        <item>\@drawable/longpressbottom06</item>
+        <item>\@drawable/longpressbottom07</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom08</item>
+        <item>\@drawable/longpressbottom09</item>
+        <item>\@drawable/longpressbottom10</item>
+        <item>\@drawable/longpressbottom11</item>
+        <item>\@drawable/longpressbottom04</item>
+        <item>\@drawable/longpressbottom03</item>
+        <item>\@drawable/longpressbottom02</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+        <item>\@drawable/longpressbottom01</item>
+    </string-array>
+    <string-array name="power_click">
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+    </string-array>
+    <string-array name="power_double_click">
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick02</item>
+        <item>\@drawable/powerclick03</item>
+        <item>\@drawable/powerclick04</item>
+        <item>\@drawable/powerclick05</item>
+        <item>\@drawable/powerclick06</item>
+        <item>\@drawable/powerclick07</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+        <item>\@drawable/powerclick01</item>
+    </string-array>
+    <string-array name="three_drop">
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop01</item>
+        <item>\@drawable/threedrop02</item>
+        <item>\@drawable/threedrop03</item>
+        <item>\@drawable/threedrop04</item>
+        <item>\@drawable/threedrop05</item>
+        <item>\@drawable/threedrop06</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+        <item>\@drawable/threedrop07</item>
+    </string-array>
     <string-array name="vip_mode_text">
         <item>မည်သူမဆို</item>
         <item>အဆက်အသွယ်များသာ</item>
         <item>ကြယ်ပြထားသော အဆက်အသွယ်များသာ</item>
         <item>မရှိ</item>
+    </string-array>
+    <string-array name="vip_mode_value">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="alarm_repeat_type">
         <item>နေ့တိုင်း</item>
@@ -1249,19 +1492,27 @@ Note: Only for Ubuntu 8.04!"</item>
         <item>ရီဆိုလူးရှင်း</item>
         <item>Androidဗားရှင်း</item>
     </string-array>
-    <string-array name="standard_configuration_version_description_secondary">
-        <item>Snapdragon 820</item>
-        <item>3000mAh(typ)</item>
-        <item>16MP</item>
-        <item>၅.၁၅ လက်မ</item>
-        <item>1920 × 1080</item>
-        <item>6.0.1</item>
+    <string-array name="install_non_market_app_entries">
+        <item>ဖွင့်ပါ (အကြံပြုသော)</item>
+        <item>မသုံးပါနှင့် (အန္တရာယ်ရှိသည်)</item>
     </string-array>
-    <string-array name="tts_pitch_entries">
-        <item>အလွန်နည်းသော</item>
-        <item>နည်းသော</item>
-        <item>ပုံမှန်</item>
-        <item>မြင့်မားခြင်း</item>
-        <item>အလွန်မြင့်မားခြင်း</item>
+    <string-array name="install_non_market_app_contents">
+        <item>ဖွင့်မည်</item>
+        <item>မသုံးပါနှင့်</item>
+    </string-array>
+    <string-array name="pink_panel_led_color_entries">
+        <item>ခရမ်းဖျော့</item>
+        <item>ပတ္တမြားရောင်</item>
+        <item>လိမ္မော်</item>
+        <item>အစိမ်း</item>
+        <item>ပန်းခရမ်း</item>
+    </string-array>
+    <string-array name="ap_identify">
+        <item>ပုံသေ</item>
+        <item>iPhone</item>
+    </string-array>
+    <string-array name="screen_resolution_entries">
+        <item>အလွန်မြင့်သော (2K)</item>
+        <item>ပုံမှန် (720p)</item>
     </string-array>
 </resources>

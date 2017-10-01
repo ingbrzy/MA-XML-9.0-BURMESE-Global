@@ -57,7 +57,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
-    <string name="input_password_handle_sdcard_fs">ဒုတိယအာကာသသို့ မဝင်မီ ပြုစုသူ ရွေးချယ်မှုများမှ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
+    <string name="input_password_handle_sdcard_fs">ဒုတိယနေရာသို့ မဝင်မီ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
@@ -113,8 +113,8 @@
     <string name="face_unlock_by_notification_screen_on_title">မျက်နှာပြင်လင်းသောအခါ မျက်နှာသော့ဖြည်ခြင်းကို ခွင့်ပြုမည်</string>
     <string name="face_unlock_by_notification_screen_on_msg">အသိပေးချက်များဝင်လာ၍ မျက်နှာပြင်လင်းသောအခါ မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်နိုင်သည်။ သို့သော် ဘက်ထရီအားကုန်မှု ပိုမြန်စေသည်။</string>
     <string name="face_unlock_not_found">သင့်ကို အသိအမှတ်မပြုနိုင်ပါ</string>
-    <string name="face_unlock_adjust_distance">စက်ကို သင့်မျက်နှာနှင့် အသင့်တော်ဆုံးအကွာအဝေးတွင် ထားပါ။</string>
-    <string name="face_unlock_close_screen">မျက်နှာပြင်နားသို့ ကပ်ပါ</string>
+    <string name="face_unlock_adjust_distance">မျက်နှာပြင်ကို သင့်မျက်နှာနှင့် အသင့်တော်ဆုံးအကွာအဝေးတွင် ထားပါ။</string>
+    <string name="face_unlock_close_screen">မျက်နှာပြင်အနားသို့ ကပ်ပါ</string>
     <string name="face_unlock_stay_away_screen">မျက်နှာပြင်မှ 25-40cm ခွာပါ</string>
     <string name="face_unlock_be_on_the_screen">သင့်မျက်နှာရှေ့တွင် စက်ကို ကိုင်ထားပါ</string>
     <string name="face_unlock_identify_error">အသိအမှတ်ပြုရာတွင် အမှားတစ်ခုဖြစ်ပေါ်ခဲ့သည်</string>

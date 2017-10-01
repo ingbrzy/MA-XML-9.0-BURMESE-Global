@@ -433,8 +433,8 @@
     <string name="mipay_balance">လက်ကျန်</string>
     <string name="mipay_others">အခြားသော</string>
     <string name="mipay_identity">ID အတည်ပြုခြင်း</string>
-    <string name="mipay_indentity_done">ပြီးပါပြီ။</string>
-    <string name="mipay_identitiy_no">မရှိသေးပါ။</string>
+    <string name="mipay_indentity_done">အတည်ပြုပါ</string>
+    <string name="mipay_identitiy_no">အတည်မပြုသေးပါ</string>
     <string name="account_token_expired_title">မှန်ကန်ကြောင်းအတည်ပြုခြင်း မအောင်မြင်ပါ။</string>
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>

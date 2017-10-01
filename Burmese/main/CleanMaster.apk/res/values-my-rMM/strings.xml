@@ -271,7 +271,7 @@
     <string name="toast_select_white_need_remove">ဖယ်ရှားရန်အိုင်တမ်များအား　ရွေးချယ်ပါ</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
-    <string name="name_debuglog_dir">Bsp ဒီဘက်လော့</string>
+    <string name="name_debuglog_dir">Bsp ဒီဘာဂ် မှတ်တမ်း</string>
     <string name="just_now">ခုလေးတင်</string>
     <string name="yesterday">မနေ့က</string>
     <string name="month_day_format">dd MMM</string>

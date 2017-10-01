@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="resource_app_name">အရင်းအမြစ်ဘရောက်ဇာ</string>
+    <string name="resource_app_name">အရင်းအမြစ်ကို ကြည့်ရှုပါ</string>
     <string name="resource_delete">ဖျက်ပစ်ပါ</string>
     <string name="resource_price_free">အခမဲ့</string>
     <string name="resource_price_unit"> Mi ငွေဝယ်ကဒ်များ</string>
@@ -80,9 +80,9 @@
     <string name="resource_no_result">ဘာတစ်ခုမှ ရှာမတွေ့ဘူးလား</string>
     <string name="resource_failed_to_load_list">သင်းမ်များကို ဆွဲချလို့ မရပါ</string>
     <string name="resource_search_list_empty">ဘာတစ်ခုမှ ရှာမတွေ့ဘူးလား။</string>
-    <string name="resource_data_empty">အကြောင်းအရာ ဗလာဖြစ်နေပါသည်</string>
+    <string name="resource_data_empty">ဤနေရာတွင် အိုင်တမ်များမရှိပါ။</string>
     <string name="resource_no_network_text">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
-    <string name="resource_network_diagnostics"><u>ကွန်ရက်အမှားပြုပြင်မှု</u></string>
+    <string name="resource_network_diagnostics"><u>ကွန်ရက် စစ်ဆေးချက်</u></string>
     <string name="resource_list_title">မကြာမီက ရွေးထားသည်</string>
     <string name="resource_get_auth_checking">အတည်ပြုနေဆဲ…</string>
     <string name="resource_get_auth_retrieving">အချက်အလက်ရယူနေ…</string>
@@ -143,7 +143,7 @@
     <string name="resource_exchange_hint">သင်၏ လက်ဆောင်ကုဒ်ကို ထည့်သွင်းပါ</string>
     <string name="resource_exchange_window_title">ကူပွန်ဖြင့်တန်ဖိုးသင့်ဝယ်ခြင်း</string>
     <string name="resource_exchange_universal_goon">ဒီကုဒ်ကို စတိုးထဲက မည်သည့်သင်းမ်မျိုးမဆို၊ ၎င်းကို ဒေါင်းလုဒ်လုပ်ရန် သုံးနိုင်ပါသည်။</string>
-    <string name="resource_exchange_universal_finish">ဒီကုဒ်ကို သင်းမ်စတိုးဆိုင်မှ သင်းမ်တစ်ခုအား ဒေါင်းလုဒ်လုပ်ရာတွင် သုံးပါ။</string>
+    <string name="resource_exchange_universal_finish">ဤကုဒ်ဖြင့် သင်းမ်များမှ အိုင်တမ်များကို ဒေါင်းလုဒ်လုပ်ပါ။</string>
     <string name="resource_exchange_empty_format">လက်ဆောင်ကုဒ် ထည့်သွင်းပါ</string>
     <string name="resource_exchange_wrong_format_by_local">သင်ထည့်သွင်းလိုက်သော ကုဒ်၏ ဖော်မတ်သည် မမှန်ပါ။</string>
     <string name="resource_exchange_wrong_format_by_server">ကုဒ်ကို မှန်ကြောင်း အတည်မပြုခဲ့ပါ။ သင့်အနေနှင့် ကုဒ်ကို မှန်ကန်စွာ ထည့်သွင်းထားကြောင်း သေချာပါစေ။</string>
@@ -154,7 +154,7 @@
     <string name="resource_exchange_success">ပျော်ရွှင်နိုင်စေ! :)</string>
     <string name="resource_exchange_share_code_dlg_title">ပို့ပေးခြင်း</string>
     <string name="resource_exchange_share_code_dlg_content">\"%1$s\": %2$s အတွက် လက်ဆောင်ကုဒ်။ ၎င်းကို အခြား MIUI သုံးသူတစ်ဦးဆီ သင် ပို့သောအခါ၊ သူတို့က ၎င်းကို ဒီအချင်းအကျင်းအား ဒေါင်းလုဒ်လုပ်ဖို့အတွက် သုံးနိုင်ပါသည်။</string>
-    <string name="resource_exchange_share_code_content">"သင်သည် \"%1$s\" သင်းမ်အတွက် လက်ဆောင်ကုဒ် (%2$s) တစ်ခုကို MIUI's သင်းမ်စတိုးမှ ရရှိထားသည်။ ၎င်းကို အခု အသုံးပြုရန်အတွက် %3$s ကို နှိပ်ပါ။"</string>
+    <string name="resource_exchange_share_code_content">"သင်သည်သင်းမ် \"%1$s\" အတွက် လက်ဆောင်ကုဒ် (%2$s) တစ်ခုကို MIUI's သင်းမ်စတိုးမှ ရရှိထားသည်။ ၎င်းအား အသုံးပြုရန် %3$s ကို နှိပ်ပါ။"</string>
     <string name="resource_exchange_purchase_unkown_error">ဟိုက်! အမည်မသိ အမှား ဖြစ်ခဲ့သည်။ သင်၏ ငွေပေးချေမှု အခြေအနေများကို ကြည့်ရန် http://market.xiaomi.com တွင် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="resource_comment_all_comments">အားလုံး</string>
     <string name="resource_comment_good_comments">မှန်ပါသည်</string>
@@ -226,7 +226,7 @@
     <string name="backup_theme_dialog_message">သင်၏လက်ရှိသင်းမ်အား အရန်သိမ်းဆည်းလိုပါသလား?</string>
     <string name="backup_theme_progress_message">အရန်သိမ်းဆည်းနေ…</string>
     <string name="backup_theme_success_message">သင့်ရဲ့လက်ရှိသင်းမ်ကြိုတင်ပြင်ဆက်ချက်များကို အရန်သိမ်းဆည်းပြီးဖြစ်သည်။</string>
-    <string name="backup_theme_fail_trial_rights_message">အစမ်းသုံး အရင်းအမြစ်များအား အရန်သိမ်းလုပ်၍မရပါ</string>
+    <string name="backup_theme_fail_trial_rights_message">အစမ်းအိုင်တမ်များကို အရန်သိမ်း၍ မရပါ</string>
     <string name="backup_theme_name">သင်းမ် အရန်သိမ်း</string>
     <string name="theme_description_title_default">နဂိုမူလ</string>
     <string name="theme_description_title_customized">စိတ်ကြိုက်</string>
@@ -284,13 +284,13 @@
     <string name="favorite_list">နှစ်သက်သည်များ</string>
     <string name="favorite_list_format">စိတ်ကြိုက် %1$s</string>
     <string name="purchased_list">ဝယ်ခဲ့သည်</string>
-    <string name="purchased_list_current">MIUI 8</string>
+    <string name="purchased_list_current">အသင့်မြတ်ဆုံး သင်းမ်များ</string>
     <string name="purchased_list_legacy">တရားဝင် သင်းမ်များ</string>
     <string name="my_gifts">လက်ဆောင်များ</string>
     <string name="my_gifts_purchased">ဝယ်ခဲ့သည်</string>
     <string name="my_gifts_received">ရရှိထားသည်</string>
     <string name="theme_setting">ဆက်တင်များ</string>
-    <string name="theme_bug_report">တုန့်ပြန်အကြံပြုချက်</string>
+    <string name="theme_bug_report">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="theme_batch_updating_text">အဆင့်မြှင့်နေသည် (%1$d)</string>
     <string name="theme_batch_update_all">အားလုံးကိုအဆင့်မြှင့်ပါ</string>
     <string name="theme_batch_update_dlg_title">သင်းမ်ကိုအဆင့်မြှင့်ပါ</string>
@@ -307,7 +307,7 @@
     <string name="theme_user_agreement_content2">အသုံးပြုသူသဘောတူညီမှု</string>
     <string name="theme_user_agreement_content3">" နှင့် "</string>
     <string name="theme_user_agreement_content4">ကိုယ်ရေးမူဝါဒ</string>
-    <string name="theme_user_agreement_content5">"။ ပုံမှန်အလုပ်လုပ်ဆောင်နိုင်ရန် ဤအက်ပ်ကို အင်တာနက်သို့ချိန်ဆက်ရန်လိုသည်။ "</string>
+    <string name="theme_user_agreement_content5">"။ ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ "</string>
     <string name="theme_user_agreement_title">အသုံးပြုမှုဆိုင်ရာစည်းကမ်းချက်များ</string>
     <string name="theme_user_agreement_allow">သဘောတူသည်</string>
     <string name="theme_user_agreement_exit">သဘောမတူပါ</string>
@@ -320,10 +320,10 @@
     <string name="theme_favorite_add_fail">စိတ်ကြိုက်များသို့ မထည့်နိုင်ခဲ့ပါ</string>
     <string name="theme_favorite_delete_success">အကြိုက်ဆုံးများမှ ဖယ်ရှားပြီး</string>
     <string name="theme_favorite_delete_fail">စိတ်ကြိုက် သင်းမ်များအား ဖယ်ရှား၍မရပါ</string>
-    <string name="theme_favorite_list_empty">သင်မည်သည့် သင်းမ်ကိုမျှ စိတ်ကြိုက်မလုပ်ရသေးပါ</string>
-    <string name="theme_favorite_delete">မကြိုက်</string>
+    <string name="theme_favorite_list_empty">အကြိုက်ဆုံးများသို့ မည်သည့်သင်းမ်မှ မပေါင်းထည့်ရသေးပါ။</string>
+    <string name="theme_favorite_delete">အကြိုက်ဆုံးများမှ ဖယ်ရှားမည်</string>
     <string name="theme_favorite_waiting">ခဏလောက်စောင့်ပါ…</string>
-    <string name="theme_empty_redirect">သင်းမ်စတိုးသို့ပြန်သွားပါ</string>
+    <string name="theme_empty_redirect">သင်းမ်များသို့ ပြန်သွားပါ</string>
     <string name="theme_purchased_non_local">အွန်လိုင်း</string>
     <string name="theme_purchased_list_empty">မည်သည့်သင်းမ်များမှ သင်မဝယ်ရသေးပါ.</string>
     <string name="gift_present">ပေးပါ</string>
@@ -358,7 +358,7 @@
     <string name="gift_purchased_list_empty">သင့်ဆီသို့ မည်သည့်လက်ဆောင်များမှ ပို့မထားပါ။</string>
     <string name="gift_received_list_empty">မည်သည့်လက်ဆောင်များကိုမှ သင်မရခဲ့ပါ။</string>
     <string name="gift_received_notification_title">သင့်အား %s မှ သင်းမ်ပေးခဲ့သည်။</string>
-    <string name="present_online_themes">အခမဲ့ သင်းမ်များများရယူပါ</string>
+    <string name="present_online_themes">နောက်ထပ်အွန်လိုင်းသင်းမ်များ ရယူမည်</string>
     <string name="present_local_themes">ကျွန်ုပ်၏အရင်းအမြစ်များ</string>
     <string name="lockscreen_magazine_title">နောက်ခံပုံဝေါပေပါ ရွေးချယ်ရန်</string>
     <string name="lockscreen_magazine_summary">အမျိုးအစားအုပ်စုများ</string>
@@ -427,19 +427,19 @@
     <string name="find_more_wallpapers">ပိုများသော</string>
     <string name="local_photos">စက်တွင်း ဓာတ်ပုံများ</string>
     <string name="recently_used">မကြာမီက သုံးထားသော</string>
-    <string name="system_precust">စနစ် ကြိုထည့်သွင်းခြင်း</string>
-    <string name="wallpaper_settings_loading_text">လုပ်ဆောင်နေသည်</string>
+    <string name="system_precust">ကြိုတင်ထည့်သွင်းမည်</string>
+    <string name="wallpaper_settings_loading_text">ခဏစောင့်ပါ…</string>
     <string name="wallpaper_settings_no_history">မှတ်တမ်း မရှိပါ</string>
-    <string name="card_loading">လုပ်ဆောင်နေသည်...</string>
-    <string name="card_no_network">ယခု ကွန်ရက်မရှိပါ၊ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ~</string>
-    <string name="card_data_request_error">ဒေတာတောင်းဆိုမှု မှားနေသည်၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ~</string>
+    <string name="card_loading">ခဏစောင့်ပါ…</string>
+    <string name="card_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။ ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
+    <string name="card_data_request_error">အမှားတစ်ခု ဖြစ်ပွားသည်။ တစ်မိနစ်၊ နှစ်မိနစ်ခန့်စောင့်ပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="card_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
-    <string name="in_the_end">နောက်ထပ်မရှိတော့ပါ</string>
+    <string name="in_the_end">ထပ်ပြရန် အိုင်တမ်များ မရှိပါ</string>
     <string name="item_resource_audio_divider">│</string>
-    <string name="item_resource_audio_optional_color_ring">ဖုန်းမြည်သံ</string>
-    <string name="item_resource_audio_optional_phone_ring">ဖုန်းဝင် တီးလုံး</string>
-    <string name="item_resource_audio_optional_alarm_ring">နှိုးစက် အသံ</string>
-    <string name="item_resource_audio_optional_notification_ring">သတိပေးချက် အသံ</string>
+    <string name="item_resource_audio_optional_color_ring">Ringback အသံ</string>
+    <string name="item_resource_audio_optional_phone_ring">ဖုန်းမြည်သံ</string>
+    <string name="item_resource_audio_optional_alarm_ring">နှိုးစက်များ</string>
+    <string name="item_resource_audio_optional_notification_ring">အသိပေးချက်များ</string>
     <string name="resource_ring_ranking_list_divider">-</string>
     <string name="resource_ring_ranking_list_rank_1">၁</string>
     <string name="resource_ring_ranking_list_rank_2">၂</string>
@@ -447,4 +447,14 @@
     <string name="ringtone_set_success">အောင်မြင်စွာသတ်မှတ်ပြီးပါပြီ</string>
     <string name="online_precust_peach_blossom">ပွင့်လန်းခြင်း</string>
     <string name="online_precust_asphalt">Asphalt</string>
+    <string name="online_precust_entertainment">ဖျော်ဖြေမှု</string>
+    <string name="online_precust_scenery">ရှုခင်း</string>
+    <string name="online_precust_starry_sky">ကြယ်တာရာ</string>
+    <string name="online_precust_plant">အပင်</string>
+    <string name="online_precust_animal">တိရိစ္ဆာန်</string>
+    <string name="online_precust_creative">ဖန်တီးမှု</string>
+    <string name="online_precust_building">အဆောက်အဦး</string>
+    <string name="online_precust_lifestyle">နေထိုင်ပုံ</string>
+    <string name="online_precust_cartoon">ကာတွန်း</string>
+    <string name="region_not_support">သင်းမ်များသည် သင့်ဒေသတွင် သုံး၍မရပါ။</string>
 </resources>

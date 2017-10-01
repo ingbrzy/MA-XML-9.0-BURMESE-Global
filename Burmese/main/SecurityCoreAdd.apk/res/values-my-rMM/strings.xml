@@ -286,7 +286,7 @@
     <string name="can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
-    <string name="sdcardfs_dialog_message">ဒုတိယအာကာသသို့ မဝင်မီ ပြုစုသူ ရွေးချယ်မှုများမှ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
+    <string name="sdcardfs_dialog_message">ဒုတိယနေရာသို့ မဝင်မီ ပြုစုသူ ရွေးချယ်မှုများမှ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
     <string name="do_not_ask">ထပ်မမေးပါနှင့်</string>
     <string name="gpg_message">ဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google Playဂိမ်းများ လိုအပ်ပါသည်။ Google Playဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
     <string name="gpg_title">Google Play ဂိမ်းများအတွက် ပွားထားသော အက်ပ်</string>
@@ -301,15 +301,15 @@
     <string name="skip">ကျော်သွားပါ</string>
     <string name="input_space_password">ယခု သတ်မှတ်မည်</string>
     <string name="input_space_finger">ယခု သတ်မှတ်မည်</string>
-    <string name="space_finger_sub_text">လျင်မြန်စွာ ကူးပြောင်းရန် ဒုတိယအာကာသအတွက် လက်ဗွေသတ်မှတ်ပါ</string>
+    <string name="space_finger_sub_text">လျင်မြန်စွာ ကူးပြောင်းရန် ဒုတိယနေရာအတွက် လက်ဗွေသတ်မှတ်ပါ</string>
     <string name="set_space_finger_sub_text_suc">လက်ဗွေကို အောင်မြင်စွာ သတ်မှတ်ပြီးပါပြီ</string>
-    <string name="show_noti_from_owner">အခြားအာကာသမှ အသိပေးချက်များ</string>
-    <string name="show_noti_from_owner_detail">အခြားအာကာသမှ အသိပေးချက်များကို လက်ရှိအာကာသတွင် လက်ခံမည်</string>
+    <string name="show_noti_from_owner">အခြားနေရာမှ အသိပေးချက်များ</string>
+    <string name="show_noti_from_owner_detail">အခြားနေရာမှ အသိပေးချက်များကို လက်ရှိနေရာတွင် လက်ခံမည်</string>
     <string name="show_noti_quick_switch_icon">အသိပေးချက်ရှိတ် ရှော့ကဒ်</string>
-    <string name="show_noti_quick_switch_icon_detail">အာကာသအကြား ကူးပြောင်းရန် အသိပေးချက်ရှိတ်တွင် ရှော့ကဒ်တစ်ခု ပြပါ</string>
+    <string name="show_noti_quick_switch_icon_detail">နေရာအကြား ကူးပြောင်းရန် အသိပေးချက်ရှိတ်တွင် ရှော့ကဒ်တစ်ခု ပြပါ</string>
     <string name="show_decktop_quick_switch_icon">ပင်မမျက်နှာပြင် ရှော့ကဒ်</string>
-    <string name="show_decktop_quick_switch_icon_detail">အာကာသအကြား ကူးပြောင်းရန် ပထမအာကာသ၏ပင်မမျက်နှာပြင်တွင် ရှော့ကဒ်တစ်ခု ပြပါ</string>
-    <string name="has_created_second_space">"ဒုတိယအာကာသကို ယခုဖွင့်နိုင်ပါပြီ။
+    <string name="show_decktop_quick_switch_icon_detail">နေရာအကြား ကူးပြောင်းရန် ပထမနေရာ၏ပင်မမျက်နှာပြင်တွင် ရှော့ကဒ်တစ်ခု ပြပါ</string>
+    <string name="has_created_second_space">"ဒုတိယနေရာကို ယခုဖွင့်နိုင်ပါပြီ။
 စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။"</string>
     <string name="privacy_password_fingerprint_dialog_title">သင့်လက်ဗွေအား စကန်ဖတ်ပါ</string>
     <string name="privacy_password_fingerprint_dialog_message">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ပါ</string>

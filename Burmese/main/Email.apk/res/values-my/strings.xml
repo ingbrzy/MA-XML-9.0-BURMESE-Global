@@ -383,6 +383,7 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -397,6 +398,7 @@
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
     <string name="label_notification_ticker" formatted="false">%s: %s</string>
+    <string name="load_attachment">@string/load_more</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
     <string name="loading_conversation">ရယူနေသည်…</string>
@@ -773,11 +775,11 @@
     <string name="yes">ဟုတ်သည်</string>
     <string name="you_are_in_mobile_network">မိုဘိုင်းဒေတာချိတ်ဆက်မှုသုံးပြီး လော့များအား ပေးပို့လိုပါသလား? အကယ်ဤ သင်၏ဒေတာအစီအစဉ်ထက်ပိုသွားပါက၊ ဖုန်းလိုင်းကုမ္ပဏီမှ ဝန်ဆောင်ခတောင်းခံနိုင်ပါသည်။</string>
     <string name="zip_viewer_no_file">ဖိုင်မရှိ</string>
-    <string name="dialog_auto_sync_setting_no_open">ဆင့်ခ်ပိတ်ထားသည်။ မက်ဆေ့ချ်များအား အလိုအလျောက် လက်ခံမရရှိနိုင်ပါ။</string>
     <string name="chat_view_description">အီးမေးthreads များအား စကားပြောဆိုမှု bubblesများအဖြစ်ကြည့်ရှု</string>
     <string name="chat_view_title">စကားပြောဆိုခြင်းမြင်ကွင်း</string>
     <string name="contact_edit_set_black_list_filtering">စစ်ထုတ်နေ…</string>
     <string name="contact_in_filter_call_phone_str">%sမှ ခေါ်ဆိုမှု</string>
+    <string name="dialog_auto_sync_setting_no_open">ဆင့်ခ်ပိတ်ထားသည်။ မက်ဆေ့ချ်များအား အလိုအလျောက် လက်ခံမရရှိနိုင်ပါ။</string>
     <string name="tip_cannot_switchview_in_unread_folder">မဖတ်ရသေးသော မေးလ်မုဒ်တွင် မြင်ကွင်းအား ပြောင်းလဲမရပါ</string>
     <string name="account_setup_failed_auth_required">Authentication နည်းလမ်းများအား ဆာဗာမှ မထောက်ပံ့ထားပါ။</string>
 </resources>

@@ -214,7 +214,7 @@
     <string name="restore_data">အမယ်များကို နဂိုနေရာပြန်ထားရန် ရွေးပါ</string>
     <string name="backup_data">အမယ်များကို အရန်သိမ်းခြင်းလုပ်ရန် ရွေးပါ</string>
     <string name="sd_not_available">SD ကဒ် ယခု ထည့်သွင်းပါ</string>
-    <string name="never">လုံးဝမလုပ်</string>
+    <string name="never">ဘယ်တော့မှ</string>
     <string name="every_day">နေ့တိုင်း</string>
     <string name="select_storage_location">အရန်သိမ်းခြင်းတည်နေရာ ရွေးပါ</string>
     <string name="current_phone_location">ဖုန်း</string>
@@ -227,6 +227,7 @@
     <string name="file_uploading">အပ်လုတ်တင်နေဆဲ…</string>
     <string name="new_backup">အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">စက္ကန့်မျှသာ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -260,7 +261,7 @@
     <string name="notif_trans_receiving_completed">အောင်မြင်စွာလက်ခံရရှိခဲ့</string>
     <string name="notif_trans_sending_failed">ဒေတာပေးပို့၍မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="notif_trans_receiving_failed">ဒေတာလက်ခံ၍ မရနိုင်ခဲ့ပါ</string>
-    <string name="notif_trans_wait_for_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ကျေးဇူးပြု၍ ပြန်ချိတ်ဆက်ပါ။</string>
+    <string name="notif_trans_wait_for_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ပြန်ချိတ်ဆက်ပါ။</string>
     <string name="custom_progress">အမယ် %d ခု</string>
     <string name="remote_receive">လက်ခံရရှိ</string>
     <string name="click_to_view">ကြည့်ရန် နှိပ်ပါ</string>
@@ -308,8 +309,8 @@
     <string name="trans_progress_subdescript_transing_receiver_finish">လက်ခံရရှိခဲ့ %sခု၊ ပြရယူရန် စောင့်နေ…</string>
     <string name="trans_cancel_confirm">လွှဲပြောင်းခြင်းလုပ်ဆောင်နေ၊ ယခုရပ်မည်လား?</string>
     <string name="trans_cancelling">ပယ်ဖျက်နေသည်…</string>
-    <string name="trans_device_disconnected">စက်ချိတ်ဆက်မှုရပ်သွားခဲ့</string>
-    <string name="trans_device_wait_for_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ကျေးဇူးပြု၍ ပြန်ချိတ်ဆက်ပါ။</string>
+    <string name="trans_device_disconnected">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်</string>
+    <string name="trans_device_wait_for_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ဆက်လက်လုပ်ဆောင်ရန် ပြန်ချိတ်ဆက်ပါ။</string>
     <string name="trans_connecting_toast">ချိတ်ဆက်နေ…</string>
     <string name="trans_connect_failed_toast">မချိတ်ဆက်နိုင်ခဲ့</string>
     <string name="trans_generate_qr_code_failed">QR ကုဒ်ဖန်တီး၍မရပါ</string>
@@ -324,8 +325,10 @@
 2. အက်ပ်အားဖွင့်ပြီး စတင်ပါအား ထိနှိပ်ပါ။
 3.သင့်စက်အဟောင်းနှင့် QR ကုဒ်အား စကန်ဖတ်ပါ။"</string>
     <string name="trans_operate_old_phone_tips2">ဆက်တင်များ>ထပ်ဆောင်ဆက်တင်များ>လွှဲပြောင်း သို့သွားရောက်ပြီး၊ [ကျွန်ုပ်ဟာပေးပို့သူ] အား ထိနှိပ်ပါ။</string>
-    <string name="trans_operate_reconnect_new_tips">ဖုန်းအသစ်မှ \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်\"ကို ပြသောအခါ [ပြန်ချိတ်ဆက်ပါ] ကို နှိပ်ပြီး QRကုဒ်တစ်ခု ဖန်တီးပါ။</string>
-    <string name="trans_operate_reconnect_old_tips">ဖုန်းအဟောင်းမှ \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်\"ကို ပြသောအခါ [ပြန်ချိတ်ဆက်ပါ] ကို နှိပ်ပြီး QRကုဒ်အား စကန်ဖတ်ပါ။</string>
+    <string name="trans_operate_reconnect_new_tips">"ဖုန်းအသစ်တွင် \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။\"ဟု ပြသည်အထိစောင့်ပါ။
+ထို့နောက် \"ပြန်ချိတ်ဆက်ပါ\"ကို ထိနှိပ်၍ QR ကုဒ်တစ်ခု ဖန်တီးပါ။"</string>
+    <string name="trans_operate_reconnect_old_tips">"ဖုန်းအဟောင်းတွင် \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။\"ဟု ပြသည်အထိစောင့်ပါ။
+ထို့နောက် \"ပြန်ချိတ်ဆက်ပါ\"ကို ထိနှိပ်၍ QR ကုဒ်ကို စကန်ဖတ်ပါ။"</string>
     <string name="trans_wait_trans_data">"စက်ဟောင်းသို့ ချိတ်ဆက်ခဲ့သည်။ 
 လွှဲပြောင်းမှုအတွက် စ​ောင့်စားနေ…"</string>
     <string name="trans_select_data">ပေးပို့ရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
@@ -348,8 +351,8 @@
     <string name="trans_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="trans_start_failed_title">လွှဲပြောင်းခြင်းအား မစတင်နိုင်ခဲ့ပါ</string>
     <string name="trans_start_failed_message">လွှဲပြောင်းခြင်းအား မစတင်နိုင်ခဲ့ပါ၊ ပြန်လုပ်ကြည့်ပါ သို့မဟုတ် စက်အား ပိတ်ပြီ: ပြန်ဖွင့်ပါ</string>
-    <string name="trans_connect_failed_device_incompatible">စက်နှင့် ကိုက်ညီမှုမရှိပါ။ လက်ရှိလွှဲပြောင်းခြင်းကို ပယ်ဖျက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
-    <string name="trans_connection_failed">စက်အား ချိတ်ဆက်မှုဖျက်လိုက်</string>
+    <string name="trans_connect_failed_device_incompatible">လွှဲပြောင်းမှုကို ဖျက်သိမ်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="trans_connection_failed">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်</string>
     <string name="user_notice_title">သတိပြုပါ</string>
     <string name="user_notice_message">အချို့လုပ်ဆောင်မှုများသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်ချိတ်ဆက်မှုလိုအပ်ပါသည်</string>
     <string name="user_notice_declaration_ignore">နောက်ထပ်မပြပါနှင့်</string>
@@ -359,4 +362,31 @@
     <string name="backup_security_tips_message">အချို့အက်ပ်များသည် အရန်သိမ်းဆည်းခြင်းနှင့် ပြန်လည်ရယူခြင်း လုပ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="trans_security_tips_title">Mi Mover လိုက်ဖက်မှု</string>
     <string name="trans_security_tips_message">အချို့အက်ပ်များသည် Mi Moverအား မပံ့ပိုးပါ။</string>
+    <string name="trans_intro_title">မေးလေ့ရှိသော မေးခွန်းများ</string>
+    <string name="trans_intro_question_1">၁. Mi Mover ကို ဘယ်လိုသုံးရမလဲ?</string>
+    <string name="trans_intro_title_new">ဖုန်းအသစ်တွင်-</string>
+    <string name="trans_intro_desc_new">\"ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ QR ကုဒ် တစ်ခု ထွက်ပေါ်လာမည်။</string>
+    <string name="trans_intro_title_old">ဖုန်းအဟောင်းတွင်-</string>
+    <string name="trans_intro_desc_old">\"ကျွန်ုပ်သည် ပေးပို့သူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
+    <string name="trans_intro_question_2">၂. Mi Moverသည် တစ်နေရာရာတွင် ရှေ့ဆက်၍မရပါက ဘယ်လိုလုပ်ရမလဲ?</string>
+    <string name="trans_intro_desc_2">လွှဲပြောင်းမှုအား ဖျက်သိမ်း၍ Mi Mover မှ ထွက်ပြီး ပြန်စပါ။ လွှဲပြောင်းမှုအသစ်တွင် တူညီသောဖိုင်များ နှစ်ခုမထပ်ပါ။</string>
+    <string name="trans_intro_question_3">၃. လွှဲပြောင်းမှုလုပ်နေစဥ် ဘာကြောင့် Wi-Fi သုံး၍မရသလဲ?</string>
+    <string name="trans_intro_desc_3">Mi Mover သည် Wi-Fi ဖြင့် ဖိုင်များကို လွှဲပြောင်းသည်။ သို့ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရပါ။ သို့သော် မိုဘိုင်းဒေတာကို အသုံးပြုနိုင်ပါသည်။ နောက်ဆုံးပေါ် စက်အချို့ (ဥပမာ-Mi 6)တွင် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi ဖြင့် အင်တာနက်သို့ ချိတ်ဆက်နိုင်သည်။</string>
+    <string name="trans_intro_question_4">၄. အဘယ်ကြောင့် ကျွန်ုပ်၏ဖုန်းအဟောင်းတွင် နေရာလွတ်မလုံလောက်ပါဟု Mi Mover မှ သတိပေးနေသနည်း?</string>
+    <string name="trans_intro_desc_4">လွှဲပြောင်းမှုလုပ်ရန် ပက်ကေ့ချ်များ လိုအပ်ပါသည်။ ထို့အတွက် လွှဲပြောင်းမှု မလုပ်မီ သင်၏ဖုန်းဟောင်းတွင် သိုလှောင်ခန်းနေရာလွတ် 500MBမှ 1GB အထိ ရှိရမည်။</string>
+    <string name="trans_intro_question_5">၅. အဘယ်ကြောင့် အချို့အက်ပ်များသည် လွှဲပြောင်းရာတွင် မအောင်မြင်သနည်း?</string>
+    <string name="trans_intro_desc_5">ဤသို့ဖြစ်ပေါ်ရခြင်း၏ အကြောင်းရင်းများမှာ- စနစ်ဗားရှင်း၊ အက်ပ်ဗားရှင်း၊ ကွန်ရက် ပြဿနာများ၊ စက်အချို့၏ လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများ စသည်တို့ဖြစ်သည်။</string>
+    <string name="trans_intro_question_6">၆. အဘယ်ကြောင့် စက်အသစ်ပေါ်တွင် အက်ပ်အချို့ကို သုံး၍မရပါသနည်း?</string>
+    <string name="trans_intro_desc_6">အက်ပ်အချို့၏ ပရိုဖိုင်များ(ဥပမာ-အွန်လိုင်းဘဏ်နှင့် ဘဏ္ဍာရေးအက်ပ်များ)သည် လုံခြုရေးအတွက်စက်နှင့် ချိတ်ဆက်ထားရသည်။ ထိုအက်ပ်ဒေတာများကို ရှင်းလင်းပါ သို့မဟုတ် စက်အသစ်ပေါ်တွင် ပြန်လည်ထည့်သွင်းပါ။</string>
+    <string name="trans_intro_question_7">၇. အဘယ်ကြောင့် WeChat သမိုင်းအပြည့်အစုံကို လွှဲပြောင်း၍ မရပါသနည်း?</string>
+    <string name="trans_intro_desc_7">Mi Mover ဖြင့် WeChat အက်ပ်ဒေတာနှင့် ချက်တင်သမိုင်းအပြည့်အစုံကို လွှဲပြောင်း၍ မရနိုင်ပါ။ လွှဲပြောင်းမှု အောင်မြင်စေရန် WeChat ဆက်တင်သို့သွား၍ သင်၏အကောင့်မှ ဆိုင်းအောက်ထွက်ပါ။</string>
+    <string name="trans_intro_question_8">၈. မည်သည့်အိုင်တမ်များကို လွှဲပြောင်း၍ မရနိုင်ပါသနည်း?</string>
+    <string name="trans_intro_title_account">အကောင့်များ နှင့် စကားဝှက်များ</string>
+    <string name="trans_intro_desc_account">လုံခြုရေးအတွက် သင်၏အကောင့်များ (ဥပမာ- Mi အကောင့်၊ Exchange အကောင့်၊ Google အကောင့်)ကို စက်အသစ်ပေါ်တွင် ထပ်မံဆိုင်းအင်ဝင်ရမည်။</string>
+    <string name="trans_intro_title_private">ဝှက်ထားသော အယ်လ်ဘမ်-</string>
+    <string name="trans_intro_desc_private">ဝှက်ထားသော အယ်လ်ဘမ်ရှိ ဓာတ်ပုံများသည် လျှို့ဝှက်ကုဒ်သွင်းထားသဖြင့် Mi Mover မှ ဖတ်ယူ၍မရပါ။ ထိုဓာတ်ပုံများကို Mi Cloud မှတဆင့် စက်အသစ်ထဲတွင် ပြန်လည်သိမ်းဆည်းနိုင်ပါသည်။</string>
+    <string name="trans_intro_title_multiuser">ဒုတိယနေရာ ဒေတာ-</string>
+    <string name="trans_intro_desc_multiuser">ဒုတိယနေရာရှိ အိုင်တမ်များကို Mi Mover မှ ဖတ်ယူ၍မရပါ။ ထိုအိုင်တမ်များကို ပထမနေရာသို့ရွှေ့ပြီး Mi Mover အား ပထမနေရာတွင် စတင်ဆောင်ရွက်စေပါ။</string>
+    <string name="trans_intro_title_multiapp">နှစ်ခုတွဲအက်ပ် ဒေတာ-</string>
+    <string name="trans_intro_desc_multiapp">Mi Mover သည် ကွဲလွဲမှုများကို ရှောင်ရှားရန် နှစ်ခုတွဲအက်ပ်များ၏ ဒေတာကိုလွှဲပြောင်းမပေးပါ။</string>
 </resources>

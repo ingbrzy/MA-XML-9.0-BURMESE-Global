@@ -112,7 +112,7 @@
     <string name="add_anniversary">နှစ်ပတ်လည်နေ့ပေါင်းထည့်</string>
     <string name="add_countdown">နောက်ပြန်ရေပေါင်းထည့်</string>
     <string name="add_event">ပွဲစဉ်ပေါင်းထည့်ပါ</string>
-    <string name="agenda_month_empty_hint">No events today</string>
+    <string name="agenda_month_empty_hint">ယနေ့ လုပ်ငန်းစဉ်မရှိပါ။</string>
     <string name="alarm_label">ဖယ်ပစ်ပါ</string>
     <string name="alert_reminder_divider">|</string>
     <string name="alert_reminder_expired">သက်တမ်းကုန်နေသည်</string>
@@ -125,8 +125,6 @@
     <string name="birthday_event_description_a_week_later">မတိုင်ခင် တစ်ပတ်အထိ</string>
     <string name="birthday_event_description_day_after_tomorrow">သန်ပတ်ခါမှာ</string>
     <string name="birthday_event_description_day_before_yesterday">လွန်ခဲ့သော နှစ်ရက်က</string>
-    <string name="birthday_event_description_days_ago">%1$d ရက်ကတည်းက</string>
-    <string name="birthday_event_description_days_later">%1$d ရက်တိုင်အောင်</string>
     <string name="birthday_event_description_default">%1$s၏%2$s%3$s%4$s</string>
     <string name="birthday_event_description_special">%1$sမှာ %2$s၏ %3$s%4$s%5$s ဖြစ်ပါသည်</string>
     <string name="birthday_event_description_today">ယနေ့မှာ</string>
@@ -184,7 +182,6 @@
     <string name="download">ဒေါင်းလုဒ်</string>
     <string name="edit_date_calculate_days_backward_error_hint">ရှေ့သို့ရေတွက်၍မရနိုင်ပါ</string>
     <string name="edit_date_calculate_days_empty_hint">ရက်အရေအတွက်ရိုက်ထည့်ပါ</string>
-    <string name="edit_date_calculate_days_error_hint">You can enter up to %1$d days</string>
     <string name="edit_date_calculate_days_forward_error_hint">နောက်ပြန်ရေတွက်၍မနိုင်ပါ</string>
     <string name="edit_event_anniversary_name_empty_hint">ပွဲစဉ် အမည်ကို ရိုက်ထည့်ပါ</string>
     <string name="edit_event_anniversary_name_hint">ပွဲစဉ်</string>
@@ -208,6 +205,7 @@
     <string name="edit_event_tab_birthday">မွေးနေ့</string>
     <string name="edit_event_tab_countdown">နောက်ပြန်ရေ</string>
     <string name="edit_event_tab_event">ပွဲစဉ်</string>
+    <string name="english_premium_league">ပရီးမီးယားလိဂ်</string>
     <string name="event_account">အကောင့်</string>
     <string name="event_action_delete">ဖျက်ပစ်ပါ</string>
     <string name="event_action_edit">တည်းဖြတ်ပါ</string>
@@ -229,6 +227,8 @@
     <string name="from_google_group_calendar">Google ပြက္ခဒိန်</string>
     <string name="global_action_text_card_manager">နောက်ထပ် အမျိုးအစားများ</string>
     <string name="global_cricket_no_match">ယနေ့တွင် ခရစ်ကတ်ပြိုင်ပွဲမရှိပါ။ အခြားရက်များအတွက် ကြည့်ပါ။</string>
+    <string name="global_football_final">နောက်ဆုံး</string>
+    <string name="global_football_no_match">ယနေ့ ဘောလုံးပွဲမရှိပါ။</string>
     <string name="global_onthisday_com">OnThisDay.com</string>
     <string name="guide_card_hint_text">အဆက်အသွယ်များမှ မွေးနေ့အား တင်သွင်းပါ</string>
     <string name="holiday_card_title">ပိတ်ရက်</string>
@@ -245,7 +245,7 @@
     <string name="insert_event_toast_add_success">ပွဲစဉ်ဖန်တီးပြီးပြီ</string>
     <string name="item_num_selected">%1$d ခုရွေးထားသော</string>
     <string name="jump_date_full">လိုသောနေ့အထိ ကျော်ပါ</string>
-    <string name="load_more_hint">Refresh events of %1$d</string>
+    <string name="load_more_hint">%1$d ၏ဖြစ်ရပ်ကို ပြန်လည်လုပ်ဆောင်ပါ။</string>
     <string name="local_calendar_display_name">ဒေသခံ ပြက္ခဒိန်</string>
     <string name="local_owner_account_name">ဒီကိရိယာ၌ သိမ်းဆည်းထားသည်</string>
     <string name="lunar_date">လနှင့်ဆိုင်သော နေ့ရက်</string>
@@ -267,7 +267,7 @@
     <string name="month_medium_september">စက်</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="no_contact_birthday_hint">တင်သွင်းရင် မွေးနေ့များမရှိပါ</string>
-    <string name="no_events_hint">No events</string>
+    <string name="no_events_hint">လုပ်ငန်းစဉ် မရှိပါ။</string>
     <string name="no_network">"ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။
  ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပါ ပြီးနောက် ထပ်ကြိုးစားပါ။"</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
@@ -279,7 +279,7 @@
     <string name="panchang_ayana">အာယာန</string>
     <string name="panchang_gulikai_kalam">ဂေါလိကိုင် ကာလန်း</string>
     <string name="panchang_hindu_lunar_month">ဟိန္ဒူ လအခြေပြု လ</string>
-    <string name="panchang_inauspicious_timings">Inauspicious Timings</string>
+    <string name="panchang_inauspicious_timings">အမင်္ဂလာအချိန်</string>
     <string name="panchang_karan">ကာရမ်</string>
     <string name="panchang_moon_sign">လလက္ခဏာ</string>
     <string name="panchang_nakshatra">နတ်သျှတ္တရ</string>
@@ -290,8 +290,8 @@
     <string name="panchang_shaka_samvat">သျှက္က ဆမ်ဗက်</string>
     <string name="panchang_sun_sign">နေလက္ခဏာ</string>
     <string name="panchang_tithi">တိဿိ</string>
-    <string name="panchang_to"> to </string>
-    <string name="panchang_upto"> upto </string>
+    <string name="panchang_to"> သို့ </string>
+    <string name="panchang_upto"> တိုင်အောင် </string>
     <string name="panchang_vikram_samvat">ဗစ်ကရမ် ဆမ်ဗက်</string>
     <string name="panchang_yamaghanta">ယာမက်ဟန်တာ</string>
     <string name="panchang_yog">ယော့ဂ်</string>
@@ -304,9 +304,9 @@
     <string name="preferences_alerts_vibrate_title">တုန်ခါပြီး အသံမြည်ပါ</string>
     <string name="preferences_default_allday_reminder_title">မူလသတ်မှတ်ရက်အားလုံးသတိပေးသူအချိန်</string>
     <string name="preferences_notification_ringtone_title">အသံ</string>
-    <string name="pull_to_refresh_hint">Pull to refresh events of %1$d</string>
+    <string name="pull_to_refresh_hint">%1$d ၏ဖြစ်ရပ်ကို ပြန်လည်လုပ်ဆောင်ရန် ဆွဲချပါ။</string>
     <string name="refresh">ပြန်လန်းဆန်း</string>
-    <string name="refreshing_hint">Refreshing</string>
+    <string name="refreshing_hint">ပြန်လည်လုပ်ဆောင်နေသည်။</string>
     <string name="repeat_activity_label">ထပ်ခါလုပ်ပါ</string>
     <string name="repeat_custom_activity_label">ကိုယ်တိုင်စီစဉ်ပါ</string>
     <string name="repeat_custom_prompt">%2$s နေ့ရက်၌ %1$s တိုင်း</string>
@@ -344,7 +344,7 @@
     <string name="setting_about_summary">ဗားရှင်း−</string>
     <string name="setting_accounts">ပြက္ခဒိန်အကောင့်များ</string>
     <string name="setting_features_title">အသွင်ပြင်ဆက်တင်များ</string>
-    <string name="setting_holiday_display_desc">အားလုပ်ရပ်ကတ်များသည် သင့်အိမ်မျက်နှာပြင်ရှိ အကြောင်းအရာအောက်တွင် ရှိပါသည်</string>
+    <string name="setting_holiday_display_desc">အားလပ်ရက်ကဒ်များသည် သင့်အိမ်မျက်နှာပြင်ရှိ အကြောင်းအရာအောက်တွင် ရှိပါသည်</string>
     <string name="setting_holiday_reminder">အားလပ်ရက် အသိပေးသူ</string>
     <string name="setting_others">နောက်ထပ်</string>
     <string name="setting_title_about">အကြောင်းအရာ</string>
@@ -372,7 +372,7 @@
     <string name="today_train_event">မီးရထား</string>
     <string name="too_long_content">ပါဝင်သောအကြောင်းအရာ အလွန်ရှည်ပါသည်</string>
     <string name="too_long_description">ပွဲစဉ်ဖော်ပြချက် အလွန်ရှည်ပါသည်</string>
-    <string name="too_long_location">Event location is too long</string>
+    <string name="too_long_location">ပွဲစဉ်တည်နေရာ ရှည်လွန်းသည်</string>
     <string name="too_long_name">အမည်အလွန်ရှည်ပါသည်</string>
     <string name="travel_airport">လေဆိပ်</string>
     <string name="travel_carriage_number_text">ကား</string>

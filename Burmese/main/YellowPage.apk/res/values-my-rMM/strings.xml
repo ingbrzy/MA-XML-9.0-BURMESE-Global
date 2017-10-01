@@ -139,7 +139,7 @@
     <string name="express_install_cainiao_ok">ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="express_install_cainiao_title">Cainiaoတပ်ဆင်</string>
     <string name="express_install_delivery_service">ပေးပို့ခြင်း ဝန်ဆောင်မှုများ</string>
-    <string name="express_install_open_locker">Open locker</string>
+    <string name="express_install_open_locker">သိုလှောင်ခန်း ဖွင့်ပါ</string>
     <string name="express_install_order_detail">အော်ဒါအသေးစိတ်များကို စစ်ဆေးနေသည်</string>
     <string name="express_install_schedule_delivery">ပေးပို့ခြင်း ဘွတ်ကင်</string>
     <string name="express_location_failed">သင်တည်နေရာကို မသိရှိပါ။ သင့်လိပ်စာအားရိုက်ထည့်ပါ။</string>
@@ -349,6 +349,7 @@
     <string name="quick_yellow_page_tab_phones">ဖုန်း</string>
     <string name="recharge_actual_price">ဈေး:</string>
     <string name="recharge_charge_range">ဈေး: RMB %1$s-%2$s</string>
+    <string name="recharge_charge_value">ဈေး: RMB %s</string>
     <string name="recharge_follow_name">ငွေဖြည့်</string>
     <string name="recharge_history">ငွေဖြည့်ရာဇဝင်</string>
     <string name="recharge_history_empty">အလွတ်</string>
@@ -386,6 +387,7 @@
     <string name="rmb">RMB</string>
     <string name="scan">စကန်ဖတ်ပါ</string>
     <string name="select_package_before_buy">ပက်ကေ့ချ်ရွေးပါ</string>
+    <string name="send_shortcut_already_exists">Home screen already exists</string>
     <string name="send_shortcut_failed">မပို့နိုင်ပါ</string>
     <string name="send_shortcut_success">အိမ်မျက်နှာပြင်တွင် ထားပြီးပါပြီ</string>
     <string name="sending_shortcut">ပို့နေသည်…</string>

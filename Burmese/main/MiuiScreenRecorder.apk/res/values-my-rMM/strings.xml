@@ -60,8 +60,12 @@
     <string name="hint_volume_down">အသံနိမ့်</string>
     <string name="stop_by_second_space">နေရာများပြောင်းလဲခြင်းသည် မှတ်တမ်းတင်ခြင်းကို ရပ်လိုက်ပါလိမ့်မည်</string>
     <string name="cannot_change_parames">မှတ်တမ်းတင်နေစဉ် ပါရာမီတာများကို မပြောင်းလဲနိုင်ပါ</string>
-    <string name="cannot_record">မှတ်တမ်းမတင်နိုင်ခဲ့ပါ၊ နောက်မှပြန်ကြိုးစားကြည့်ပါ</string>
-    <string name="frequently_click_toast">ဝန်ဆောင်မှုစတင်နေသည်၊ ကျေးဇူးပြု၍ခဏစောင့်ပါ။</string>
+    <string name="cannot_record">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="stop_recording">အသံဖမ်းယူခြင်းကို ရပ်ဆိုင်းပါ</string>
+    <string name="start_recording">အသံဖမ်းယူခြင်းကို စတင်ပါ</string>
+    <string name="frequently_click_toast">ခဏစောင့်ပါ…</string>
+    <string name="recording_failure">မှတ်တမ်း မတင်နိုင်ခဲ့ပါ၊ ပြန်လည်စတင်ပါ</string>
+    <string name="recording_max_size">ဗီဒီယိုဖိုင်သည် ကြီးလွန်းသောကြောင့် အသံဖမ်းယူခြင်း ရပ်တန့်သွားသည်။ အသံဖမ်းယူခြင်း မပြီးဆုံးသေးပါက ရပ်တန့်သောနေရာမှ ပြန်လည်စတင်နိုင်ပါသည်။</string>
     <string name="no_sound">အသံတိတ်</string>
     <string name="mic_sound">Mic</string>
     <string name="loopback_sound">စပီကာ</string>

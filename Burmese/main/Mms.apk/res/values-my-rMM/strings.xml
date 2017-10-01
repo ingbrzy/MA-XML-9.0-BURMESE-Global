@@ -107,6 +107,7 @@
     <string name="context_menu_view_contact">အဆက်အသွယ်ကိုကြည့်ပါ</string>
     <string name="context_menu_view_mms">MMS ကိုကြည့်ပါ</string>
     <string name="conversation">မက်ဆေ့ချ်ပို့ခြင်း</string>
+    <string name="conversation_listitem_avatar">ရုပ်ပုံ</string>
     <string name="converting_to_picture_message">ရုပ်သံမီဒီယာ မက်ဆေ့ချ်သို့ ပြောင်းနေသည်…</string>
     <string name="converting_to_text_message">စာမက်ဆေ့ချ်သို့ ပြောင်းနေသည်…</string>
     <string name="copy_message_text">ကော်ပီကူး</string>
@@ -142,7 +143,7 @@
     <string name="duration_zero">ကြာချိန်သည် ၀ စက္ကန့်ထက် ကြီးရမည်</string>
     <string name="earlier">ပိုစောသော</string>
     <string name="edit">ပြုပြင်ရန်</string>
-    <string name="edit_phrase">အမြန်တုန့်ပြန်ချက်များကို တည်းဖြတ်မည်</string>
+    <string name="edit_phrase">အမြန်တုံ့ပြန်ချက်များကို တည်းဖြတ်မည်</string>
     <string name="edit_slide_activity">ဆလိုက်ကို ပြုပြင်ပါ</string>
     <string name="edit_slideshow_activity">စလိုက်ရှိုးကို ပြုပြင်ပါ</string>
     <string name="enabled">ဖွင့်မည်</string>
@@ -152,6 +153,7 @@
     <string name="error_state">ရှေ့နောက်မကိုက်ညီသော အခြေအနေ</string>
     <string name="error_state_text">ပို့စ်တင်မှု အခြေအနေနှင့် လက်ခံသူများ မကိုက်ညီပါ။ ချွတ်ယွင်းချက် အစီရင်ခံစာကို ဖမ်းယူပြီး ၎င်းကို http://go/droidanizer မှတဆင့် အစီရင်ခံပါ</string>
     <string name="error_timed_msg">အချိန်မှားနေသည်။</string>
+    <string name="ex_type_guide">အချက်အလက်</string>
     <string name="ex_type_mx">Mi မက်ဆေ့ချ်</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">မက်ဆေ့ချ်အရွယ်အစားကန့်သတ်ချက် ရောက်ရှိနေသည်။</string>
@@ -249,10 +251,10 @@
     <string name="message_number">ဖုန်းနံပါတ်-</string>
     <string name="message_pending">ပို့နေသည်</string>
     <string name="message_queued">သင်၏မက်ဆေ့ချ်ကို အခုပို့လို့မရနိုင်ပါ။ ဝန်ဆောင်မှုပြန်ရရှိချိန်တွင် ပို့လိမ့်မည်။</string>
-    <string name="message_queued_second_space">"Can't send your message right now. Please open data network."</string>
+    <string name="message_queued_second_space">ယခု မက်ဆေ့ချ်ပေးပို့၍ မရပါ။ ကျေးဇူးပြု၍ ဒေတာကွန်ရက်အား ဖွင့်ပါ။</string>
     <string name="message_readed">ဖတ်ပြီး</string>
-    <string name="message_received">ရရှိထားသည်</string>
-    <string name="message_rejected">ပယ်ချထားသည်</string>
+    <string name="message_received">ပေးပို့လိုက်ပြီ</string>
+    <string name="message_rejected">ပယ်ချခဲ့သည်</string>
     <string name="message_saved_as_draft">မက်ဆေ့ချ်ကို စာကြမ်းအဖြစ် သိမ်းပြီးပါပြီ။</string>
     <string name="message_send_failed_title">မက်ဆေ့ချ်ပို့လို့မရပါ</string>
     <string name="message_send_read_report">တင်ပြမှုအား ပေးပို့လိုက်လိမ့်မည်</string>
@@ -355,6 +357,7 @@
     <string name="notification_multiple_title">မက်ဆေ့ချ်အသစ်များ</string>
     <string name="number_add_hint">ဖုန်းနံပါတ်ထည့်ပါ</string>
     <string name="open_audio_record_panel">အသံသွင်းပန်နယ်အား ဖွင့်ပါ</string>
+    <string name="open_edit_sms_panel">SMS ပြင်ဆင်ရေးပန်နယ် ကို ဖွင့်ပါ</string>
     <string name="open_url_with_web">ဤ URL ကို ဘရောက်ဇာထဲတွင် ဖွင့်မလား?</string>
     <string name="over_max_mms_size">MMS အလွန်ကြီးသည်။</string>
     <string name="overwrite_edited_content">သင်ပြုပြင်ခဲ့သော အကြောင်းအရာပေါ်တွင် ထပ်ရေးပစ်လိမ့်မည်။</string>
@@ -362,7 +365,7 @@
     <string name="phrase_confirm_delete_message">ဤတုံ့ပြန်မှုကို ဖျက်ပစ်လိမ့်မည်</string>
     <string name="phrase_empty">တုန့်ပြန်ချက်မရှိ</string>
     <string name="phrase_from">%1s မှ</string>
-    <string name="phrase_list_title">အမြန်တုန့်ပြန်ချက်များ</string>
+    <string name="phrase_list_title">အမြန်တုံ့ပြန်ချက်များ</string>
     <string name="pick_too_many_recipients">လက်ခံသူအရမ်းများသည်</string>
     <string name="play">ဖွင့်ပါ</string>
     <string name="playing_failed">ဖွင့်၍ မရပါ</string>
@@ -416,8 +419,8 @@
     <string name="pref_title_mms_auto_retrieval">MMS အကြောင်းရာမျာအား အလိုအလျောက် ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="pref_title_mms_delete">မာတီမီဒီယာ မက်ဆေ့ချ်ကန့်သတ်ချက်</string>
     <string name="pref_title_mms_read_reports">MMS ဖတ်ပြီးကြောင်း အစီရင်ခံချက်</string>
-    <string name="pref_title_mms_retrieval_during_international_roaming">Download MMS content when international roaming</string>
-    <string name="pref_title_mms_retrieval_during_national_roaming">Download MMS content when national roaming</string>
+    <string name="pref_title_mms_retrieval_during_international_roaming">ပြည်ပရွန်းမင်းတက်နေစဥ် အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="pref_title_mms_retrieval_during_national_roaming">ပြည်တွင်းရွန်းမင်းတက်နေစဥ် အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="pref_title_mms_retrieval_during_roaming">ရွန်းမင်းလုပ်နေစဉ်တွင် MMSအကြောင်းအရာများအား ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="pref_title_mms_validity_period">MMS သက်တမ်းကုန်ဆုံးရက်</string>
     <string name="pref_title_notification_body_enabled">သော့ခတ်မျက်နှာပြင်ပေါ်တွင် မက်ဆေ့ချ်များကို ပြပါ</string>
@@ -572,14 +575,14 @@
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">အသိပေးချက်များ</string>
     <string name="sp_mark_as_read_menu_title">ဖတ်ပြီးသားအဖြစ်မှတ်ထားပါ</string>
-    <string name="sqlite_disk_full">Database or Disk is full</string>
-    <string name="sqlite_low_memory">Low Memory</string>
+    <string name="sqlite_disk_full">နေရာလွတ် မရှိတော့ပါ</string>
+    <string name="sqlite_low_memory">မှတ်ဉာဏ်နည်းနေပြီ</string>
     <string name="status_failed">မအောင်မြင်ပါ</string>
     <string name="status_label">"အခြေအန- "</string>
     <string name="status_pending">ဆိုင်းငံ့နေသည်</string>
     <string name="status_read">ဖတ်ပါ</string>
     <string name="status_received">လက်ခံပြီး</string>
-    <string name="status_rejected">ပယ်ချထားသည်</string>
+    <string name="status_rejected">ပယ်ချခဲ့သည်</string>
     <string name="status_unread">မဖတ်ရသေး</string>
     <string name="stick">တွဲပါ</string>
     <string name="stick_conversation">လက်ရှိ စကားပြောဆိုထားမှုကို တွဲပါ</string>
@@ -600,7 +603,7 @@
     <string name="switch_to_editor">အယ်ဒီတာမုဒ်</string>
     <string name="switch_to_menu">မီနူးမုဒ်</string>
     <string name="text_in_popup_saved_to_clipboard">ကလစ်ဘုတ် ထဲသို့ ကူးယူထားသည်</string>
-    <string name="text_message">စာမက်ဆေ့ချ်</string>
+    <string name="text_message">စာသားမက်ဆေ့ချ်</string>
     <string name="timed_message_expired_title_2">၎င်းတို့ကို အခုပို့မှာလား?</string>
     <string name="timed_message_to">သို့</string>
     <string name="title_allow_network_access">အချက်အလက်များအား အလိုအလျောက် အသစ်မွမ်းမံပါ</string>

@@ -299,10 +299,10 @@
     <string name="respond_via_sms_canned_response_2">နောက်ပြန်ခေါ်ပါမည်။</string>
     <string name="respond_via_sms_canned_response_3">နောက်မှပြန်ဆက်ပါမည်။</string>
     <string name="respond_via_sms_canned_response_4">အခုပြောဆိုမရနိုင်ပါ။ နောက်မှပြန်ခေါ်မလား?</string>
-    <string name="respond_via_sms_setting_title">အမြန်တုန့်ပြန်ခြင်းများ</string>
-    <string name="respond_via_sms_setting_title_2">အမြန်တုန့်ပြန်ခြင်းများကို တည်းဖြတ်မည်</string>
+    <string name="respond_via_sms_setting_title">အမြန်တုံ့ပြန်ခြင်းများ</string>
+    <string name="respond_via_sms_setting_title_2">အမြန်တုံ့ပြန်ခြင်းများကို တည်းဖြတ်မည်</string>
     <string name="respond_via_sms_setting_summary" />
-    <string name="respond_via_sms_edittext_dialog_title">အမြန်တုန့်ပြန်ခြင်းများ</string>
+    <string name="respond_via_sms_edittext_dialog_title">အမြန်တုံ့ပြန်ခြင်းများ</string>
     <string name="respond_via_sms_confirmation_format">%s သို့မက်ဆေ့ချ်အား အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ</string>
     <string name="enable_account_preference_title">ခေါ်နေသော အကောင့်များ</string>
     <string name="outgoing_call_not_allowed_user_restriction">အရေးပေါ်ဖုန်းများသာ ခေါ်ဆိုခွင့်ရှိသည်။</string>

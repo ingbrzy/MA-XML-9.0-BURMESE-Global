@@ -23,6 +23,7 @@
     <string name="delete_timer_item_title">စံချိန်စက်အလုပ်ပုံစံ ဖျက်ပစ်ပါ</string>
     <string name="delete_selected_timer_item">ရွေးထားသော စံချိန်စက်အလုပ်ပုံစံကို ဖျက်ပစ်မလား။</string>
     <string name="delete_timezone_title">ဒေသစံတော်ချိန် ဖျက်ပစ်ပါ</string>
+    <string name="add_timezone_title">ဒေသစံတော်ချိန် ပေါင်းထည့်မည်</string>
     <string name="timezone_exist_error_message">၎င်းဒေသစံတော်ချိန်ကို သင် ပြသထားပြီးသား ဖြစ်သည်</string>
     <string name="alarm_disabled">ပိတ်</string>
     <string name="alarm_ascending_mode_title">အသံပမာဏ မြင့်တက်စေပါ</string>
@@ -103,6 +104,7 @@
     <string name="life_post_wake_up_item_acumu_day_title">ရက်အရေအတွက်</string>
     <string name="life_post_wake_up_item_acumu_day">%1$s ရက်</string>
     <string name="life_post_setting">နံနက်ခင်းအစီရင်ခံချက်</string>
+    <string name="life_post_setting_close_title">နံနက်ခင်းအစီရင်ခံချက်များကို ပိတ်ပါ</string>
     <string name="life_post_setting_open_title">နံနက်ခင်းအစီရင်ခံချက်များ ရယူပါ</string>
     <string name="life_post_setting_open_subtitle">" 4:00 နာရီနှင့် 9:30 အကြားသင်နှိုးစက်များ ပိတ်ထားစဉ် ရာသီဥတုအချက်အလက်များအား လက်ခံရယူပါ"</string>
     <string name="life_post_setting_wake_up_list_title">နှိုးထသည့် သမိုင်း</string>
@@ -110,6 +112,8 @@
     <string name="life_post_setting_FBE_remind">စနစ်၏ကန့်သတ်မှုကြောင့် စက်ပိတ်ပြီးပြန်စလျှင် နံနက်ခင်းမိုးလေဝသ သတင်းအချက်အလက်များ မှားနိုင်ချေရှိသည်။</string>
     <string name="install_weather_app_loading">တစ်စက္ကန့်မျှသာ…</string>
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
+    <string name="more_setting">နောက်ထပ် ဆက်တင်များ</string>
+    <string name="go_back">နောက်သို့</string>
     <string name="app_label">နာရီ</string>
     <string name="alarm_list_title">နှိုးစက်</string>
     <string name="add_alarm">နှိုးစက်ထည့်ရန်</string>
