@@ -55,7 +55,7 @@
     <string name="item_lock_screen_password">မျက်နှာပြင်လော့ခ် သာ</string>
     <string name="desc_fingerprint">သင့်စက်အား သော့ဖြည်ရန် လက်ဗွေအား အသုံးပြုပါ၊ Mi Pay လွှဲပြောင်းမှုများအား အတည်ပြုပါ၊ သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="desc_extra_fingerprint" />
-    <string name="next_fingerprint">နောက်သို့</string>
+    <string name="next_fingerprint">ရှေ့သို့</string>
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">သင့်စက်အား သော့ဖြည်ရန် သို့မဟုတ် အက်ပ်များနှင့် ဝန်ဆောင်မှုများသို့ ဆိုင်းအင်ဝင်ရန် လက်ဗွေအား အသုံးပြုပါ</string>
     <string name="content_description_start">စတင်</string>

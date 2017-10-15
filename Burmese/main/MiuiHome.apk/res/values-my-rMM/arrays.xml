@@ -19,6 +19,10 @@
         <item>၄x၄</item>
         <item>၄x၅</item>
     </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>၄x၄</item>
+        <item>၄x၅</item>
+    </string-array>
     <string-array name="gadget_weather_theme_type_entries">
         <item>သတ်မှတ်ပုံစံ</item>
         <item>ဂန္ထဝင်မိုး</item>
@@ -47,7 +51,7 @@
         <item>အားနည်းသော သဲမုန်တိုင်း</item>
         <item>သဲမုန်တိုင်း</item>
         <item>မိုးသီးကြွေခြင်း</item>
-        <item>ဟိုပြေးဒီပြေး ဖုန်မှုန့်များ</item>
+        <item>ဖုန်မှုန့်</item>
         <item>မြူ</item>
     </string-array>
     <string-array name="editing_mode_entries">

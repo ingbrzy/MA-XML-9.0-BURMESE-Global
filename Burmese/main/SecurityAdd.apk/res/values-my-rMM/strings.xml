@@ -39,7 +39,7 @@
     <string name="pc_activity_title">ဘက်ထရီအား အဆင့်မြှင့်တင်</string>
     <string name="game_booster">ဂိမ်းကစားမှု အရှိန်မြှင့်တင်သူ</string>
     <string name="game_booster_title">အရှိန်မြှင့်</string>
-<string name="top_game"/>
+    <string name="top_game">ထိပ်တန်း ဂိမ်းများ</string>
     <string name="game_setting">ဂိမ်းဆက်တင်များ</string>
     <string name="gs_auto_clean_memory">ယာယီမှတ်ဉာဏ်အား ရှင်းလင်း</string>
     <string name="gs_auto_clean_memory_detail">ဂိမ်းကစားခြင်းအား ကောင်းမွန်စေရန် ကက်ချ်များအား ရှင်းလင်းပါ</string>

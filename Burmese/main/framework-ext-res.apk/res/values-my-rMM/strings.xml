@@ -21,7 +21,7 @@
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">ပြသ</string>
     <string name="status_bar_toggle_edit">မျိုးတူစုပါ</string>
-    <string name="status_bar_toggle_battery_saver">ဓာတ်ခဲအားခြွေတာခြင်း</string>
+    <string name="status_bar_toggle_battery_saver">ဘက်ထရီ ချွေတာခြင်း</string>
     <string name="status_bar_toggle_nfc">NFC</string>
     <string name="screen_rotation_freeze_message">အလိုလျောက်ဖုန်းလည်ပတ်မှုကို ပိတ်ထားသည်။</string>
     <string name="perm_send_push_dspt">Mi အားတွန်းအားပေးမက်ဆေ့ချ်များကို ခွင့်ပြုပါ</string>
@@ -106,7 +106,7 @@
     <string name="apply_password_confirm_dlg_msg">%sအတွက် ဆက်တင်များသို့ ဝင်ရောက်ရန် သင်၏လက်ရှိ မျက်နှာပြင်သော့ခတ် စကားဝှက်အား အသုံးပြုပါ</string>
     <string name="apply_password_action">အိုကေ</string>
     <string name="subinfo_default_name">SIM %d</string>
-    <string name="ignore_home_when_fingerprint_enrolling_msg">သင့်လက်အား အိမ်ခလုတ်ပေါ်တွင် ထားထားပါ</string>
+    <string name="ignore_home_when_fingerprint_enrolling_msg">သင့်လက်ချောင်းကို ဟုမ်းခလုတ်ပေါ်တွင် တင်ထားပါ</string>
     <string name="maml_component_customization_title">ဆက်တင်များ</string>
     <string name="default_name">မူလသတ်မှတ်ချက်</string>
     <string name="resource_select">ရွေးပါ</string>

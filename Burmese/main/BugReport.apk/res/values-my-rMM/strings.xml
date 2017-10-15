@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကတ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -160,7 +161,7 @@
     <string name="cta_not_show_again">နောက်ထပ်မပြပါနှင့်</string>
     <string name="cta_cancel">ပယ်ဖျက်ပါ</string>
     <string name="cta_confirm">အိုကေ</string>
-    <string name="submit_dialog_title">အစီရင်ခံစာပေးပို့</string>
+    <string name="submit_dialog_title">အစီရင်ခံစာ ပေးပို့မည်</string>
     <string name="submit_dialog_content">သင်တုန့်ပြန်​ပေးပို့လိုက်သော ပူးတွဲဖိုင်များနှင့် မှတ်တမ်းများကို MIUIဆာဗာသို့ ပေးပို့လိမ့်မည်။ ဤအရာများသည် သင်၏ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
     <string name="submit_dialog_cancel">ပယ်ဖျက်ပါ</string>
     <string name="submit_dialog_confirm">ပေးပို့</string>
@@ -299,4 +300,7 @@
     <string name="toast_screenshot_too_large">10MB ထက်ကြီးသော ဖိုင်များကို တင်၍မရပါ။</string>
     <string name="title_bbs_feedback_main">Mi ဖုန်းအကြောင်း ပိုမိုလေ့လာပါ</string>
     <string name="title_customer_service">သုံးစွဲသူဝန်ဆောင်မှု</string>
+    <string name="customer_service_apply">သုံးစွဲသူဝန်ဆောင်မှု တောင်းခံမည်</string>
+    <string name="customer_service_complain">သုံးစွဲသူဝန်ဆောင်မှု အစီရင်ခံမည်</string>
+    <string name="customer_service_station">ဝန်ဆောင်မှုဌာနများ</string>
 </resources>

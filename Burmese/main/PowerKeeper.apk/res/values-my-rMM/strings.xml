@@ -109,12 +109,12 @@
     <string name="hide_mode_ultimate_desc">Ultimate မုဒ်တားဖွင့်ထားသည်။ ဤအက်ပ်သည်နောက်ခံတွင် ခဲနေလိမ့်မည်။ Ultimate မုဒ်မှထွက်ရန် ဘက်ထရီချွေတာသူမှာ ထွက်လိုက်ပါ။</string>
     <string name="power_hide_mode_title">အက်ပ်ဘက်ထရီသုံးစွဲမှုအား စီမံ</string>
     <string name="power_hide_mode_summary">နောက်ခံတွင်အလုပ်လုပ်နေသော အက်ပ်များ၏လုပ်ငန်းများ၊ Wi-Fi၊ မိုဘိုင်း​ဒေတာချိတ်ဆက်ခြင်းများနှင့်GPSတို့ အား ကန့်သတ်ခြင်းဖြင့် ဘက်ထရီချွေတာပါ</string>
-    <string name="power_config_apps">ဘက်ထရီ ချွေတာသူ</string>
+    <string name="power_config_apps">ဘက်ထရီ ချွေတာခြင်း</string>
     <string name="app_list_title">အက်ပ်များ ရွေးပါ</string>
     <string name="power_hide_mode_app_list_summary">နောက်ခံတွင် ပါဝါချွေတာနေသည်</string>
     <string name="enable_hide_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
     <string name="disable_hide_mode">ဘက်ထရီချွေတာသူအား ပိတ်ပါ</string>
-    <string name="about_hide_mode">ဘက်ထရီ ချွေတာသူ အကြောင်း</string>
+    <string name="about_hide_mode">ဘက်ထရီ ချွေတာခြင်း အကြောင်း</string>
     <string name="disable_hide_mode_warning">ဘက်ထရီချွေတာသူကို ပိတ်ထားပါက သင်၏စက်ပါဝါအသုံးပြုခြင်း တိုးများနိုင်သည်။</string>
     <string name="show_system_app">စနစ် အက်ပ်များ ကို ပြသပါ</string>
     <string name="hide_system_app">စနစ် အက်ပ်များကို ဝှက်ပါ</string>
@@ -123,8 +123,8 @@
     <string name="scenario_policies_summary">မတူသော မြင်ကွင်းများအတွက် ကွဲပြားသော ပါဝါချွေတာမှုကို သုံးမည်။</string>
     <string name="sleep_config_enhance_title">အိပ်စက်ခြင်းမုဒ်</string>
     <string name="sleep_config_enhance_description">MIUI သည် သင်အိပ်စက်နေသည်ကို သိရှိပါက နောက်ခံအက်ပ်များကို ပိတ်ပြီး NFC၊ ဘလူးတုသ်၊ GPS၊ မိုဘိုင်းဒေတာနှင့် Wi-Fi သုံးစွဲမှုကို ကန့်သတ်လိမ့်မည်။ အသိပေးချက်များအတွက်မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
-    <string name="nonui_mode_config_title">Noninteractive mode</string>
-    <string name="nonui_mode_config_description">"Don't light up screen for notifications, turn off notification light, fingerprint, and touch controls when your device is in a pocket."</string>
+    <string name="nonui_mode_config_title">အပြန်အလှန်မရှိသော မုဒ်</string>
+    <string name="nonui_mode_config_description">သင့်စက်ကို အိတ်ကပ်ထဲထည့်ထားစဥ် အသိပေးချက်များရှိပါက မျက်နှာပြင်ကို မလင်းစေပါ၊ သတိပေးချက်အလင်း၊ လက်ဗွေနှင့် ထိနှိပ်ထိန်းချုပ်မှုများကိုလည်း ပိတ်ထားမည်။</string>
     <string name="scenario_policies_warmcontrol">အပူချိန်ထိန်းချုပ်မှု</string>
     <string name="warm_configure">အပူချိန်ထိန်းချုပ်မှု ဆက်တင်များ</string>
     <string name="important_warning">သတိပြုပါ</string>

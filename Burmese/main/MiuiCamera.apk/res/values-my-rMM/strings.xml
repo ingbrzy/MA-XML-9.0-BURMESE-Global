@@ -340,6 +340,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">ရွေးချယ်မှုများ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -356,6 +357,7 @@
     <string name="toast_saving">ဓာတ်ပုံများကို သိမ်းနေသည်…</string>
     <string name="cannot_connect_camera_volte_call">ဗီဒီယိုခေါ်ဆိုမှု လုပ်နေသည်၊ ကျေးဇူးပြု၍နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="hibernate_hint">ကင်မရာကို ဖွင့်ရန် မျက်နှာပြင်ကို ထိနှိပ်ပါ</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">ချုံ့ချဲ့မုဒ်</string>
     <string name="accessibility_portrait_button">လူပုံမုဒ်</string>
     <string name="toast_burst_snap_finished_summary">တရစပ် ရိုက်ကူးမှု ပြီးပါပြီ၊ ဓာတ်ပုံ %1$sပုံ ရိုက်ကူးသည်</string>
@@ -455,4 +457,5 @@
     <string name="pref_retain_camera_mode_title">ယခင်မုဒ်အတိုင်း သိမ်းထားပါ</string>
     <string name="pref_retain_camera_mode_summary">အက်ပ်ကို ပြန်ဖွင့်သောအခါ ကင်မရာအား ယခင်မုဒ်အတိုင်းရှိစေပါ။</string>
     <string name="pref_fingerprint_capture_title">လက်ဗွေရှတ္တာ</string>
+    <string name="multi_window_mode_not_supported">ကင်မရာသည် မျက်နှာပြင်ခွဲတွင် အလုပ်မလုပ်ပါ</string>
 </resources>

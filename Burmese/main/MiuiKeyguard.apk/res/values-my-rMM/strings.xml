@@ -45,10 +45,10 @@
     <string name="click_to_enter_text">ကြည့်ရန် နှိပ်ပါ</string>
     <string name="fingerprint_try_again_text">ထပ်ကြိုးစား</string>
     <string name="fingerprint_try_again_msg">သင့်ဘက်ဗွေအား အတည်မပြုရသေးပါ၊ ထပ်မံကြိုးစားကြည့်ပါ</string>
-    <string name="fingerprint_not_identified_title">စကားဝှက် ထည့်သွင်းပါ</string>
+    <string name="fingerprint_not_identified_title">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_not_identified_msg">မအောင်မြင်သည့် ကြိုးပမ်းမှုများစွာ ပြုလုပ်ပြီးပါပြီ။ စကားဝှက်ကို ယခု ရိုက်ထည့်ပါ သို့မဟုတ် စက္ကန့်အနည်းငယ်ကြာမှ သင့်လက်ဗွေကို အသုံးပြုပြီး ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="fingerprint_again_identified_msg">သင့်လက်ဗွေအသက်သွင်းပြီးဖြစ်သည်။၄င်းကို စက်သော့ဖွင့်ရန်အသုံးပြုပါ သို့မဟုတ် စကားဝှက်ကို ရိုက်ထည့်ပါ။</string>
-    <string name="fingerprint_add_title">လက်ဗွေပေါင်းထည့်</string>
+    <string name="fingerprint_add_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="fingerprint_add_text">လက်ဗွေအင်တာဖေ့စ်အား အသစ်မွမ်းမံခဲ့သည်။သင်၏လက်ဗွေထပ်မံပေါင်းထည့်ပါ</string>
     <string name="invalid_sim_pin_hint">PIN နံပါတ် 4 လုံးမှ 8 လုံးအထိပါဝင်သင့်ပါသည်</string>
     <string name="invalid_sim_puk_hint">PUK နံပါတ်သည် အနည်းဆုံး 8 လုံး ပါဝင်ရပါမည်</string>
@@ -62,9 +62,9 @@
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
     <string name="custom_lock_wallpaper_enter">ရိုက်ထည့်</string>
-    <string name="fingerprint_enter_second_psw_title">ဒုတိယနေရာစကားဝှက်အား ရိုက်ထည့်ပါ</string>
+    <string name="fingerprint_enter_second_psw_title">ဒုတိယနေရာအတွက် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_enter_second_psw_msg">လက်ဗွေသိရှိခြင်းအား အသုံးပြုနိုင်ရန် စက်အားပြန်လည်စတင်ပြီးနောက် ဒုတိယနေရာစကားဝှက်အား ရိုက်ထည့်ပါ</string>
-    <string name="fingerprint_enter_second_psw_msg_oldman">လိုက်မုတ်တွင် ဒုတိယနေရာသို့ ဝင်ရောက်၍မရနိုင်ပါ</string>
+    <string name="fingerprint_enter_second_psw_msg_oldman">Lite မုဒ်သုံးနေစဥ် ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ</string>
     <string name="keyguard_charging_info_click_to_detail">အသေးစိတ်များကို ကြည့်ပါ</string>
     <string name="keyguard_quick_charging_info_click_to_detail">အမြန်အားသွင်းခြင်း။အသေးစိတ်များကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
     <string name="keyguard_quickly_charging_info_charging_text">အမြန်အားသွင်းခြင်း…</string>

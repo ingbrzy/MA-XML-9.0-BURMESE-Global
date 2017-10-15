@@ -45,6 +45,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="size_peta_byte">ပီတာဘိုက်</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">ပြီးပါပြီ</string>
     <string name="date_picker_dialog_title">နေ့စွဲ သတ်မှတ်ပါ</string>
     <string name="time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
@@ -319,14 +320,14 @@
     <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_year">yyyy</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_weekday_short">E</string>
     <string name="fmt_weekday_long">EEEE</string>
     <string name="fmt_timezone">z</string>

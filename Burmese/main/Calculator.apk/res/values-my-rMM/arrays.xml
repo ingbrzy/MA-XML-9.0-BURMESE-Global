@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="mortgage_repayment">
+        <item>ညီမျှသော အရစ်ကျပေးချေမှု</item>
+        <item>လျှော့နည်း အရစ်ကျပေးချေမှုများ</item>
+    </string-array>
     <string-array name="operatorDescs">
         <item>ကွင်းစ</item>
         <item>ကွင်းပိတ်</item>
@@ -18,10 +22,6 @@
         <item>cosine</item>
         <item>pi</item>
         <item>ညီမျှခြင်း</item>
-    </string-array>
-    <string-array name="mortgage_repayment">
-        <item>ညီမျှသော အရစ်ကျပေးချေမှု</item>
-        <item>လျှော့နည်း အရစ်ကျပေးချေမှုများ</item>
     </string-array>
     <string-array name="unit_data_order_currency_">
         <item>USD</item>

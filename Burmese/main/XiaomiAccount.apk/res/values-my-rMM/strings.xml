@@ -238,7 +238,7 @@
     <string name="access_token_expired_warning">Weibo အကောင့်က သက်တမ်းကုန်နေပါပြီ</string>
     <string name="access_token_invalid_warning">Weibo အကောင့်က မမှန်ပါ</string>
     <string name="service_error">ဝန်ဆောင်မှု အမှား</string>
-    <string name="account_user_base_info">ကိုယ်ရေးအချက်အလက်များ</string>
+    <string name="account_user_base_info">ကိုယ်ရေးအချက်အလက်</string>
     <string name="account_user_name">အမည်</string>
     <string name="account_user_id">Mi အကောင့် ID</string>
     <string name="account_none">တစ်ခုမှမဟုတ်</string>
@@ -328,6 +328,7 @@
     <string name="loading_micloud_sync_data">ခဏလောက်စောင့်…</string>
     <string name="activity_not_found_notice">အပလီကေးရှင်းအား ရှာဖွေ၍မရနိုင်ပါ</string>
     <string name="scan_barcode_title">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ရန်၊ QR ကုဒ်ကို စကင်ဖတ်ပါ။</string>
+    <string name="talkback_scan_barcode">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="authorize_title">လုပ်ပိုင်ခွင့်ပေးခြင်း</string>
     <string name="my_device_title">လက်ရှိ ကိရိယာ</string>
     <string name="device_list_title">ကျွန်ုပ်ကိရိယာများ</string>

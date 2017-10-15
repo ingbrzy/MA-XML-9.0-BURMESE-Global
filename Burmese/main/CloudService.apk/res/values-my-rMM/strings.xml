@@ -323,7 +323,7 @@
     <string name="micloud_setting_contact_summary">အဆက်အသွယ်များအချက်အလက် နှင့် ပရိုဖိုင်ဓာတ်ပုံများ</string>
     <string name="micloud_setting_sms_summary">SMS နှင့် MMS မက်ဆေ့ချ်များ</string>
     <string name="micloud_setting_gallery_summary">ဓာတ်ပုံများနှင့် ဗီဒီယိုများ</string>
-    <string name="micloud_setting_browser_summary">စာညှပ်များ၊မှတ်တမ်း နှင့် တဘ်များ</string>
+    <string name="micloud_setting_browser_summary">စာညှပ်များ၊မှတ်တမ်း နှင့် တက်ဘ်များ</string>
     <string name="micloud_setting_music_summary">ဖွင့်ရန်စာရင်းများနှင့် စိတ်ကြိုက်များ</string>
     <string name="micloud_setting_wifi_summary">Wi-Fi ဆက်တင်များ</string>
     <string name="micloud_setting_deskclock_summary">ဒေသစံတော်ချိန်နှင့် နှိုးစက် ဆက်တင်များ</string>

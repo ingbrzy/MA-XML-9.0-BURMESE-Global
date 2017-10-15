@@ -81,6 +81,7 @@
     <string name="birthday_alarm_summary">သင့်မွေးနေ့တွင် ပုံမှန်နှိုးစက်သံမမြည်ဘဲ \"Happy Birthday\" သီချင်းအားဖွင့်ပါ</string>
     <string name="turn_off_a_repeat_alarm">ထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>

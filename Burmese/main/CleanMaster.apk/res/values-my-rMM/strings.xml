@@ -474,4 +474,5 @@
     <string name="app_description_title">သန့်ရှင်းရေးစက်အကြောင်း</string>
     <string name="app_description_content">သန့်ရှင်းစက်သည် သင့်စက်ထဲရှိ အမှိုက်များကိုရှာဖွေနိုင်ပြီး သိုလှောင်ခန်းနေရာလွတ်စေရန် ရှင်းလင်းပေးနိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
     <string name="engine_init">စတင်နေသည်...</string>
+    <string name="international_Ad">Ad</string>
 </resources>

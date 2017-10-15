@@ -231,17 +231,17 @@
     <string name="need_set_second_space_pwd_first">ဒုတိယနေရာစကားဝှက်အား သတ်မှတ်ပါ</string>
     <string name="need_set_second_space_desc">ဒုတိယနေရာ လက်ဗွေမပေါင်းထည့်မီ စကားဝှက်အား ဦးစွာ ထည့်ပါ။</string>
     <string name="setting_fingerprint_title">ဒုတိယနေရာစကားဝှက်အား ပေါင်းထည့်ခဲ့သည်</string>
-    <string name="start_new_fingerprint">လက်ဗွေအသစ်တစ်ခု ပေါင်းထည့်ပါ</string>
-    <string name="select_existed_fingerprint">လက်ဗွေရွေးချယ်ပါ</string>
+    <string name="start_new_fingerprint">လက်ဗွေအသစ်တစ်ခု ပေါင်းထည့်မည်</string>
+    <string name="select_existed_fingerprint">ရှိပြီးသားလက်ဗွေမှ ရွေးပါ</string>
     <string name="start_new_fingerprint_tips">"သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ဝင်ရောက်ရန်
  ဒုတိယနေရာအတွက် လက်ဗွေအားအသုံးပြုပါ"</string>
-    <string name="scanner_second_space_fingerprint">ဒုတိယနေရာ လက်ဗွေအားစကန်ဖတ်ပါ</string>
+    <string name="scanner_second_space_fingerprint">ဒုတိယနေရာအတွက် လက်ဗွေ စကန်ဖတ်ပါ</string>
     <string name="repeat_scanner_fingerprint">ထပ်ပေါင်းထည့်ပါ</string>
     <string name="sure_to_use">အတည်ပြု</string>
-    <string name="scanner_fingerprint_tips_title">လက်ရှိလက်ဗွေအား အသုံးပြုပြီး ဒုတိယနေရာသို့ ဝင်ရောက်ပါ</string>
-    <string name="scanner_fingerprint_tips_desc">ဒုတိယနေရာသို့ဝင်ရောက်ရန် လက်ရှိလက်ဗွေအားရွေးချယ်ပါ။ ၄င်းလက်ဗွေအား ပထမနေရာအတွက် အသုံးပြု၍ရနိုင်တော့မည် မဟုတ်ပါ။</string>
+    <string name="scanner_fingerprint_tips_title">ရှိပြီးသားလက်ဗွေအား အသုံးပြုပြီး ဒုတိယနေရာသို့ ဝင်မည်</string>
+    <string name="scanner_fingerprint_tips_desc">ဒုတိယနေရာသို့ဝင်ရောက်ရန် ရှိပြီးသားလက်ဗွေအား ရွေးချယ်ပါ။ ၄င်းလက်ဗွေအား ပထမနေရာအတွက် အသုံးပြု၍ရနိုင်တော့မည် မဟုတ်။</string>
     <string name="back">နောက်သို့</string>
-    <string name="scanner_fingerprint_error_tips_desc">ကိုက်ညီသော လက်ဗွေမတွေ့ရှိပါ။ ဒုတိယနေရာအတွက် လက်ဗွေထည့်မည်လား?</string>
+    <string name="scanner_fingerprint_error_tips_desc">ကိုက်ညီသော လက်ဗွေမတွေ့ရှိပါ။ ဒုတိယနေရာအတွက် လက်ဗွေထည့်မလား?</string>
     <string name="scanner_fingerprint_error_tips_title">ကိုက်ညီသော လက်ဗွေမတွေ့ရှိပါ</string>
     <string name="no_match_repate_scanner">ကိုက်ညီသော လက်ဗွေများ မတွေ့ရှိပါ၊ စကန်ထပ်ဖတ်ပါ</string>
     <string name="delete_phone_fingerprint">ဒုတိယနေရာ လက်ဗွေအားဖျက်ပါ</string>
