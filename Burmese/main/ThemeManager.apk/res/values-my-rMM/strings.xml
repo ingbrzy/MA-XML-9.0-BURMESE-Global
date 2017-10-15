@@ -298,7 +298,6 @@
     <string name="theme_batch_update_dlg_content_single">%1$s ကိုယခု အဆင့်မြှင့်လိုပါသလား?</string>
     <string name="theme_current_using_has_update">အဆင့်မြှင့်သင်းမ်ရရှိနိုင်သည်</string>
     <string name="theme_immediately_apply_tip">အဆင့်မြှင့်သင်းမ်ကို ယခုသုံးလိုပါသလား။</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">သင်းမ်အသစ်များရရှိနိုင်သည်</string>
     <string name="selected_resource_file_invalid">ရွေးချယ်ထားသောရင်းမြစ်ဖိုင်ကိုအသုံးပြုမရပါ</string>
     <string name="apply_theme_with_ringtones">သင်းမ်ဖုန်းမြည်သံများအသုံးပြုပါ</string>

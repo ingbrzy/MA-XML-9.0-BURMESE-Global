@@ -461,7 +461,6 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -785,10 +784,8 @@
     <string name="recognize_hotel_other_money">အခြားသုံးစွဲမှုများ %1$s</string>
     <string name="recognize_hotel_reverse_date">%1$s:%2$s %3$s မတိုင်မီ ဝင်ရောက်ပါ</string>
     <string name="recognize_hotel_room_type">အခန်း</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">ဟိုတယ်ဘိုကင်</string>
     <string name="recognize_hotel_user_names">ဧည့်သည်</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">ခရီးသွားဆက်တင်များ</string>
     <string name="recognize_ticket_air_notification_content">ကောင်မွန်သော ပျံသန်းမှု ဖြစ်ပါစေ!</string>
     <string name="recognize_ticket_air_notification_title">လေယာဉ် %3$s (%1$s/%2$s) သည် မကြာမီထွက်ခွာတော့မည်။ သင့်လေယာဉ်လက်မှတ်အချက်အလက်ကို သေချာအောင်စစ်ဆေးပါ။</string>
@@ -887,7 +884,6 @@
     <string name="silent_ringtone">တိတ်ဆိတ်</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">အထွက်ဆာဗာအတွက် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="sort_attachment">အားဖြင့်စီပါ</string>
     <string name="storage">သိုလှောင်မှု</string>
