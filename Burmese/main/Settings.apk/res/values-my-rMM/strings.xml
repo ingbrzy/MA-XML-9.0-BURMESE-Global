@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -185,7 +187,7 @@
     <string name="debug_app">ဒီဘာဂ်အက်ပ်ကို ရွေးပါ</string>
     <string name="debug_app_not_set">ဒီဘာဂ်အက်ပ် မသတ်မှတ်ရသေးပါ</string>
     <string name="debug_app_set">ဒီဘာဂင် အက်ပလီကေးရှင်း- %1$s</string>
-    <string name="select_application">အပလီကေးရှင်းရွေးချယ်ပါ</string>
+    <string name="select_application">အက်ပလီကေးရှင်း ရွေးချယ်ပါ</string>
     <string name="no_application">မရှိ</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
@@ -194,7 +196,7 @@
     <string name="debug_hw_drawing_category">ဟာ့ဒ်ဝဲလ် အရှိန်မြင့်စွာပြန်ဆိုနေသည်</string>
     <string name="media_category">မီဒီယာ</string>
     <string name="debug_monitoring_category">စောင့်ကြည့်စစ်ဆေးသည်</string>
-    <string name="strict_mode">တင်းကျပ်သောမုဒ်ကို ဖွင့်ထားသည်</string>
+    <string name="strict_mode">တင်းကျပ်မုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="strict_mode_summary">အက်ပ်သည် အဓိကThreadတွင် အချိန်ကြာမြင့်စွာအလုပ်လုပ်နေလျှင် မျက်နှာပြင်အား ဖလက်ရှ်လုပ်ပါ</string>
     <string name="pointer_location">မြား တည်နေရာ</string>
     <string name="pointer_location_summary">ထိ ညှိနှိုင်းခြင်းကို ပြသပါ</string>
@@ -239,7 +241,7 @@
     <string name="force_allow_on_external_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ အက်ပ်အားလုံးကို အပြင်သိုလှောင်ခန်းသို့ ရေးသားခွင့်ပေးမည်</string>
     <string name="force_resizable_activities">လှုပ်ရှားမှုများကို အရွယ်အစားပြောင်းနိုင်အောင် မဖြစ်မနေလုပ်မည်</string>
     <string name="force_resizable_activities_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ လှုပ်ရှားမှုများအားလုံးကို မာလ်တီဝင်းဒိုးတွင် အရွယ်အစားပြောင်းနိုင်အောင် လုပ်မည်။</string>
-    <string name="enable_freeform_support">လွတ်လပ်စွာချိန်ညှိနိုင်သော ဝင်းဒိုးကို သုံးမည်</string>
+    <string name="enable_freeform_support">လွတ်လပ်စွာ ချိန်ညှိနိုင်သော ဝင်းဒိုးကို သုံးမည်</string>
     <string name="enable_freeform_support_summary">လွတ်လပ်စွာချိန်ညှိနိုင်သော စမ်းသပ်ဆဲဝင်းဒိုးကို ဖွင့်မည်။</string>
     <string name="local_backup_password_title">စက်မျက်နှာပြင် အရန်စကားဝှက်</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
@@ -679,6 +681,7 @@
     <string name="security_enable_widgets_title">ဝဒ်ဂျက်များဖွင့်ရန်</string>
     <string name="security_enable_widgets_disabled_summary">အက်ဒ်မင်မှ အသုံးမပြုနိုင်ရန် ပိတ်ထားခြင်း</string>
     <string name="owner_info_settings_summary">မရှိ</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">ဥပမာ၊ Joe ၏ Android</string>
     <string name="user_info_settings_title">သုံးစွဲသူအကြောင်း</string>
     <string name="show_profile_info_on_lockscreen_label">သော့ခတ်ထားသောမျက်နှာပြင်ပေါ်သုံးစွဲသူ၏အကြောင်းပြရန်</string>
@@ -940,6 +943,7 @@
     <string name="wifi_display_options_name">အမည်</string>
     <string name="wifi_band_24ghz">2.4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းနှင့် အခြားစက်ပစ္စည်း ထိလိုက်လျှင် အချက်အလက် ဖလှယ်ရန် ခွင့်ပြုသည်</string>
     <string name="android_beam_settings_title">Android လှိုင်း</string>
@@ -2206,6 +2210,7 @@
     <string name="gadget_title">ဖွင့်ပိတ်ထိန်းချုပ်မှု</string>
     <string name="gadget_toggle_wifi">Wi-Fi ဆက်တင်များအား အသစ်မွမ်းမံနေသည်</string>
     <string name="gadget_toggle_bluetooth">ဘလူးတုသ်ဆက်တင်ကို တိုးမြင့်မှု</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">ပွင့်</string>
     <string name="gadget_state_off">ပိတ်</string>
     <string name="gadget_state_turning_on">ပွင့်နေသည်</string>
@@ -2383,6 +2388,7 @@
     <string name="delete">ဖျက်ရန်</string>
     <string name="misc_files">အသေးအဖွဲဖိုင်များ</string>
     <string name="misc_files_selected_count">%2$d ထဲမှ%1$d ရွေးမည်</string>
+    <string name="misc_files_selected_count_bytes">%2$sထဲမှ %1$s</string>
     <string name="select_all">အားလုံးရွေးချယ်ရန်</string>
     <string name="data_usage_summary_title">ဒေတာအသုံးပြုမှု</string>
     <string name="data_usage_app_summary_title">အက်ပ်ဒေတာ သုံးစွဲမှု</string>
@@ -2629,6 +2635,7 @@
     <string name="nfc_payment_no_apps">စတိုးဆိုင်များတွင် သင်၏ ဖုန်းဖြင့် ငွေပေးချေပါ</string>
     <string name="nfc_payment_default">အလိုအလျောက် ငွေချေမှု</string>
     <string name="nfc_payment_default_not_set">မသတ်မှတ်ထားပါ</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">ပုံသေကို အသုံးပြုရန်</string>
     <string name="nfc_payment_favor_default">အမြဲတမ်း</string>
     <string name="nfc_payment_favor_open">အခြား ငွေပေးချေရေး အက်ပ် ပွင့်နေချိန်မှ လွဲပြီး</string>
@@ -2689,6 +2696,7 @@
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
+    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_cards_changed_message">ဆင်းမ် ကဒ်များ ပြောင်းလဲသွားပြီ</string>
     <string name="sim_cards_changed_message_summary">လှုပ်ရှားမှုများ သတ်မှတ်ရန် တို့ပါ</string>
     <string name="sim_cellular_data_unavailable">ဆဲလ်လူလာ ဒေတာ မရှိပါ</string>
@@ -2809,6 +2817,7 @@
     <string name="zen_mode_option_important_interruptions">ဦးစားပေးများသာ</string>
     <string name="zen_mode_option_alarms">နှိုးစက်များသာ</string>
     <string name="zen_mode_option_no_interruptions">လုံးဝ တိတ်ဆိတ်ခြင်း</string>
+    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">မြင်ကွင်းအနှောင့်အယှက်များကို ပိတ်ဆို့ပါ</string>
     <string name="configure_notification_settings">အကြောင်းကြားချက်များ သတ်မှတ်ခြင်း</string>
     <string name="advanced_section_header">အဆင့်မြင့်</string>
@@ -2902,6 +2911,7 @@
     <string name="zen_mode_schedule_alarm_title">နိုးစက်သည် ပြီးဆုံးချိန်ကို အပေါ်မှထပ်နိုင်သည်</string>
     <string name="zen_mode_schedule_alarm_summary">ပြီးဆုံးချိန် သို့မဟုတ် နောက်ထပ်နိုးစက် မည်သည်ကအရင်လာသည်ဖြစ်စေ ရပ်ပါ</string>
     <string name="summary_divider_text">"၊ "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s မှ %2$s</string>
     <string name="zen_mode_calls">ခေါ်ဆိုမှုများ</string>
     <string name="zen_mode_messages">မက်ဆေ့ချ်များ</string>
@@ -3083,6 +3093,8 @@
     <string name="memory_avg_use">ပျမ်းမျှ</string>
     <string name="memory_max_desc">အများဆုံး %1$s</string>
     <string name="memory_avg_desc">ပျမ်းမျှ %1$s</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
+    <string name="process_format">%1$s ( %2$d )</string>
     <string name="high_power_apps">ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှု</string>
     <string name="high_power_filter_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
     <string name="high_power_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
@@ -3359,6 +3371,7 @@
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
     <string name="dndm_auto_time_turn_on_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ဖွင့်ပါ</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
@@ -3591,8 +3604,8 @@
     <string name="user_experience_program">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="user_experience_program_title">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="user_experience_program_summary">အမည်ဖော်မထားသော အသုံးပြမှုဒေတာ ပို့ခြင်းအားဖြင့် MIUI တိုးတက်ကောင်းမွန်စေအောင် ကူညီပါ</string>
-    <string name="upload_debug_log_title">ချွင်းချက်ပြုပြင်ချက်များအား အလိုအလျောက်ပေးပို့ပါ</string>
-    <string name="upload_debug_log_summary">ခြွင်းချက်ပြင်ဆင်မှုဒေတာသည် သင်၏ဟာ့ဒ်ဝဲလ်သုံးစွဲမှု၊ အလုပ်လုပ်သည့်စနစ်နှင့်အက်ပ် စသည့်အချက်အလက်များပါဝင်နိုင်သည်။ ဤဒေတာများသည် စနစ်ထဲရှိပြဿနာများကို ရှာဖွေခွဲခြားသုံးသပ်ရန်အတွက်သာဖြစ်သည်၊ သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များကို ဘယ်တော့မှ ဖော်ထုတ်မည်မဟုတ်ပါ။</string>
+    <string name="upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
+    <string name="upload_debug_log_summary">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာသည် သင်၏ဟာ့ဒ်ဝဲလ်သုံးစွဲမှု၊ အလုပ်လုပ်သည့်စနစ်နှင့်အက်ပ် စသည့်အချက်အလက်များပါဝင်နိုင်သည်။ ဤဒေတာများသည် စနစ်ထဲရှိပြဿနာများကို ရှာဖွေခွဲခြားသုံးသပ်ရန်အတွက်သာဖြစ်သည်၊ သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များကို ဘယ်တော့မှ ဖော်ထုတ်မည်မဟုတ်ပါ။</string>
     <string name="sound_vibrate_settings">အသံများနှင့် &amp; တုန်ခါမှုများ</string>
     <string name="my_device">ကျွန်ုပ်စက်</string>
     <string name="device_miui_version">MIUI ဗားရှင်း</string>
@@ -3652,16 +3665,17 @@
     <string name="available_size">%s ရပါပြီ</string>
     <string name="total_size">%s စုစုပေါင်း</string>
     <string name="memory_title">ရပါပြီ : %1$s\u0009\u0009 စုစုပေါင်း: %2$s</string>
-    <string name="memory_rightvalue">ရရှိနိုင်သော−%s</string>
+    <string name="memory_rightvalue">စုစုပေါင်း-%s</string>
     <string name="account_list">အခြားအကောင့်များ</string>
     <string name="account_add">ထည့်ပါ</string>
     <string name="xiaomi_account">Mi အကောင့်</string>
     <string name="sync_settings">ဆင့်ခ်</string>
     <string name="google_title">Google</string>
     <string name="account_other">အခြားသော</string>
+    <string name="no_account_found">No application supports adding accounts</string>
     <string name="xiaomi_cloud_service_disabled">ပိတ်ပါ</string>
     <string name="xiaomi_cloud_service_unknown">အမည်မသိ</string>
-    <string name="xiaomi_cloud_service_description">Mi Cloud သည် သင့်အဆက်အသွယ်များနှင့် ဓါတ်ပုံများကို ဆင့်ခ်လုပ်ပြီး၊ သင့်အက်ပ်နှင့် ဆက်တင်များကို အရန်သိမ်းထားနိုင်ပါသည်၊ ၎င်းအပြင် စက်ကိုရှာပါဖြင့် သင်၏ဖုန်းကို ရှာဖွေနိုင်ပါသည်။</string>
+    <string name="xiaomi_cloud_service_description">Mi Cloud syncs contacts, photos, and other items across your devices. \"Find device\" also requires Mi Cloud to work normally.</string>
     <string name="sure_sync_now">အိုင်တမ်များကို ယခုဆင့်ခ်လုပ်မည်လား?</string>
     <string name="sync_now">ဆင့်ခ်</string>
     <string name="sms_received_sound_title">မက်ဆေ့ခ်ျ ရရှိပြီးပြီ</string>
@@ -4832,6 +4846,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">ASDiv အခြေအနေ-</string>
     <string name="app_factory_reset_dlg_title">အသစ်မွမ်းမံမှုများကို ဖြုတ်ချမည်လား?</string>
     <string name="app_factory_reset_dlg_text">ဤAndroidစနစ်အက်ပ်ရှိ အသစ်မွမ်းမံမှုအားလုံးကို ဖြုတ်ချလိုက်လိမ့်မည်။</string>
@@ -5241,7 +5256,6 @@
     <string name="enalbe_identify_iPhone">AP အမျိုးစားခွဲခြားခြင်း</string>
     <string name="block_list_qcom_dialog_content">ဤလုပ်ဆောင်မှုသည် \"%s\"နှင့် ဤစက်၏ ချိတ်ဆက်မှုကို ဖြတ်ပစ်ပြီး ဘလော့စာရင်းသို့ ထည့်လိမ့်မည်</string>
     <string name="block_list_mtk_dialog_content">ဤလုပ်ဆောင်မှုသည် \"%s\"နှင့် ဤစက်၏ ချိတ်ဆက်မှုကို ဖြတ်ပစ်လိမ့်မည်</string>
-    <string name="location_agps_register_network_type_dialog_summary">ကွန်ရက်တစ်ခု ရွေးချယ်ပါ</string>
     <string name="miui_silent_title">အသံတိတ် မုဒ်</string>
     <string name="zen_mode_miui_disturb_category">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="miui_disturb_title">မနှောင့်ယှက်ပါနှင့်</string>
@@ -5270,10 +5284,11 @@
     <string name="uicc_media_format_final_desc">UICC ပေါ်တွင် သိမ်းထားသော ဖိုင်အားလုံးအား အတည်တကျဖျက်ပစ်လိမ့်မည်။</string>
     <string name="usb_media_format_gesture_explanation">USB သိုလှောင်မှုအား ဖျက်ပစ်ခြင်းကိုအတည်ပြုရန် သင့် သော့ဖွင့်ပုံစံကို ရေးဆွဲပါ။</string>
     <string name="uicc_media_format_gesture_explanation">UICC သိုလှောင်မှုအား ဖျက်ပစ်ခြင်းကိုအတည်ပြုရန် သင့် သော့ဖွင့်ပုံစံကို ရေးဆွဲပါ။.</string>
-    <string name="setup_add_fingerprint_failed_retry_text">လက်ဗွေအား ပေါင်းထည့်၍ မရပါ</string>
+    <string name="location_agps_register_network_type_dialog_summary">ကွန်ရက်တစ်ခု ရွေးချယ်ပါ</string>
     <string name="status_bar_screen_button_key_can_hide">မျက်နှာပြင်ခလုတ်အား ကွယ်ဝှက်ထား၍ရပါသည်</string>
     <string name="status_bar_screen_button_desc">မျက်နှာပြင်ခလုတ်များအား ကွယ်ဝှက်ရန် ဆွဲချပါ</string>
     <string name="suspension_ball_enable">အမြန်စက်လုံး ရှော့ကဒ်</string>
     <string name="suspension_ball_enable_desc">ရှော့ကဒ်သုံး၍ အမြန်စက်လုံးအား အဖွင့်အပိတ်လုပ်ရန်</string>
+    <string name="setup_add_fingerprint_failed_retry_text">လက်ဗွေအား ပေါင်းထည့်၍ မရပါ</string>
     <string name="input_password_hint_text">စကားဝှက် ထည့်သွင်းပါ</string>
 </resources>

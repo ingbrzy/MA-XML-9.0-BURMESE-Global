@@ -96,6 +96,9 @@
     <plurals name="cloud_storage_video_num">
         <item quantity="other">ဗီဒီယို %d ခု</item>
     </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">ဤဖိုင်ကို ကွယ်ဝှက်မလား?</item>
+    </plurals>
     <plurals name="number_of_images_synced">
         <item quantity="other">ဓါတ်ပုံ%1$dပုံ</item>
     </plurals>

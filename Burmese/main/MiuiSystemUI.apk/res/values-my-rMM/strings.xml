@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -185,7 +187,7 @@
     <string name="debug_app">ဒီဘာဂ်အက်ပ်ကို ရွေးပါ</string>
     <string name="debug_app_not_set">ဒီဘာဂ်အက်ပ် မသတ်မှတ်ရသေးပါ</string>
     <string name="debug_app_set">ဒီဘာဂင် အက်ပလီကေးရှင်း- %1$s</string>
-    <string name="select_application">အပလီကေးရှင်းရွေးချယ်ပါ</string>
+    <string name="select_application">အက်ပလီကေးရှင်း ရွေးချယ်ပါ</string>
     <string name="no_application">မရှိ</string>
     <string name="wait_for_debugger">ဒီဘာဂ်စက်ကို စောင့်ပါ</string>
     <string name="wait_for_debugger_summary">ဒီဘာဂ်အက်ပ်သည် အလုပ်မလုပ်မီ ဒီဘာဂ်စက်နှင့် တွဲချိတ်ရန် စောင့်နေမည်</string>
@@ -194,7 +196,7 @@
     <string name="debug_hw_drawing_category">ဟာ့ဒ်ဝဲလ် အရှိန်မြင့်စွာပြန်ဆိုနေသည်</string>
     <string name="media_category">မီဒီယာ</string>
     <string name="debug_monitoring_category">စောင့်ကြည့်စစ်ဆေးသည်</string>
-    <string name="strict_mode">တင်းကျပ်သောမုဒ်ကို ဖွင့်ထားသည်</string>
+    <string name="strict_mode">တင်းကျပ်မုဒ်ကို ဖွင့်ထားသည်</string>
     <string name="strict_mode_summary">အက်ပ်သည် အဓိကThreadတွင် အချိန်ကြာမြင့်စွာအလုပ်လုပ်နေလျှင် မျက်နှာပြင်အား ဖလက်ရှ်လုပ်ပါ</string>
     <string name="pointer_location">မြား တည်နေရာ</string>
     <string name="pointer_location_summary">လက်ရှိထိနှိပ်သောဒေတာကို ထပ်ဆင့်မျက်နှာပြင်တွင် ပြပါ</string>
@@ -239,7 +241,7 @@
     <string name="force_allow_on_external_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ အက်ပ်အားလုံးကို အပြင်သိုလှောင်ခန်းသို့ ရေးသားခွင့်ပေးမည်</string>
     <string name="force_resizable_activities">လှုပ်ရှားမှုများကို အရွယ်အစားပြောင်းနိုင်အောင် မဖြစ်မနေလုပ်မည်</string>
     <string name="force_resizable_activities_summary">မန်နီးဖက်စ် တန်ဖိုး ဘယ်လောက်ပင်ဖြစ်ပါစေ လှုပ်ရှားမှုများအားလုံးကို မာလ်တီဝင်းဒိုးတွင် အရွယ်အစားပြောင်းနိုင်အောင် လုပ်မည်။</string>
-    <string name="enable_freeform_support">လွတ်လပ်စွာချိန်ညှိနိုင်သော ဝင်းဒိုးကို သုံးမည်</string>
+    <string name="enable_freeform_support">လွတ်လပ်စွာ ချိန်ညှိနိုင်သော ဝင်းဒိုးကို သုံးမည်</string>
     <string name="enable_freeform_support_summary">လွတ်လပ်စွာချိန်ညှိနိုင်သော စမ်းသပ်ဆဲဝင်းဒိုးကို ဖွင့်မည်။</string>
     <string name="local_backup_password_title">စက်မျက်နှာပြင် အရန်စကားဝှက်</string>
     <string name="local_backup_password_summary_none">မျက်နှာပြင်အပြည့်အစုံအရန်သိမ်းခြင်းအတွက် စကားဝှက် မ’သတ်မှတ်ရသေးပါ</string>
@@ -536,6 +538,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်ခန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
     <string name="ext_media_mountable_notification_message">အိပ်ပလိုရာ၌ ဖွင့်ရန် တို့ထိပါ။</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">ယနေ့: %1$s</string>
@@ -615,6 +618,7 @@ d MMMM"</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="no_weather_description">ရာသီဥတုအချက်အလက်များအား ရယူမည်></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="screenshot_long_screenshot">စာလိပ်</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_send">ပေးပို့</string>
@@ -658,4 +662,6 @@ d MMMM"</string>
     <string name="important_desc">အရေးကြီးသောအသိပေးချက်အားလုံး အသိပေးချက်ရှိတ်တွင် တိုက်ရိုက်ပေါ်လာလိမ့်မည်။</string>
     <string name="cancel">ပယ်ဖျက်ပါ</string>
     <string name="search_hint">ဝက်ဘ်ဆိုက်များ၊ အက်ပ်များ၊ အဆက်အသွယ်များ၊ ဗီဒီယိုများစသည်တို့ကို ရှာ​ဖွေရန်...</string>
+    <string name="description_image_button_reject">ငြင်းဆိုမည်</string>
+    <string name="description_image_button_answer">ဖြေဆိုမည်</string>
 </resources>

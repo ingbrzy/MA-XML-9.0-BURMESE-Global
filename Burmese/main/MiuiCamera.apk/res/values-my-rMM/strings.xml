@@ -340,6 +340,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">ရွေးချယ်မှုများ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -356,10 +357,12 @@
     <string name="toast_saving">ဓာတ်ပုံများကို သိမ်းနေသည်…</string>
     <string name="cannot_connect_camera_volte_call">ဗီဒီယိုခေါ်ဆိုမှု လုပ်နေသည်၊ ကျေးဇူးပြု၍နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="hibernate_hint">ကင်မရာကို ဖွင့်ရန် မျက်နှာပြင်ကို ထိနှိပ်ပါ</string>
+    <string name="pref_camera_picturesize_entry_widescreen">@string/pref_camera_picturesize_entry_fullscreen</string>
     <string name="accessibility_zoom_button">ချုံ့ချဲ့မုဒ်</string>
     <string name="accessibility_portrait_button">လူပုံမုဒ်</string>
     <string name="toast_burst_snap_finished_summary">တရစပ် ရိုက်ကူးမှု ပြီးပါပြီ၊ ဓာတ်ပုံ %1$sပုံ ရိုက်ကူးသည်</string>
     <string name="pref_dualcamera_watermark_title">ကင်မရာနှစ်ခုတွဲ အမှတ်အသား</string>
+    <string name="pref_camera_device_watermark_title">စက်အမှတ်အသား</string>
     <string name="pref_camera_zoom_mode_title">မှန်ဘီလူး</string>
     <string name="pref_camera_zoom_mode_entry_wide">အကျယ်</string>
     <string name="pref_camera_zoom_mode_entry_tele">တယ်လီ</string>
@@ -418,6 +421,7 @@
     <string name="hint_fast_motion">သင်ရိုက်ကူးသော ဗီဒီယိုကို ပိုမြန်သောနှုန်းဖြင့်ပြမည်။</string>
     <string name="hint_slow_motion">သင်ရိုက်ကူးသော ဗီဒီယိုကို အနှေးပြကွက်ဖြင့်ပြမည်။</string>
     <string name="hunt_dual_water_mark">ကင်မရာနှစ်ခုတွဲ အမှတ်အသားကို အလိုအလျောက်ပေါင်းထည့်မည်။</string>
+    <string name="hint_device_water_mark">စက်အမှတ်အသားကို အလိုအလျောက်ပေါင်းထည့်မည်။</string>
     <string name="module_name_fun">ဗွီဒီယိုအတိုလေး</string>
     <string name="module_name_video">ဗီဒီယို</string>
     <string name="module_name_capture">ဓာတ်ပုံ</string>

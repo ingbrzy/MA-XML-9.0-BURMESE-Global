@@ -23,10 +23,14 @@
     <string name="action_menu_account_not_login_hint">Mi ကလောက်ဖြင့်ဆင့်ခ်လုပ်ရန် ဆိုင်းအင်ဝင်ပါ</string>
     <string name="action_menu_bookshelf">စာအုပ်စင်</string>
     <string name="action_menu_current_version">လက်ရှိဗားရှင်း</string>
+    <string name="action_menu_request_desktop_site">မျက်နှာပြင်ဆိုဒ်ကို သုံးမည်</string>
+    <string name="action_menu_request_desktop_site_off">မျက်နှာပြင်ဆိုဒ်ကို သုံးမည်/ပိတ်ပါ</string>
+    <string name="action_menu_request_desktop_site_on">မျက်နှာပြင်ဆိုဒ်ကို သုံးမည်/ဖွင့်ပါ</string>
     <string name="action_menu_text_add_bookmark">စာအုပ်မှတ်ပေါင်းထည့်ပါ</string>
     <string name="action_menu_text_bandwidth">ဒေတာချွေတာသူ</string>
     <string name="action_menu_text_bandwidth_off">ဒေတာ သိမ်းဆည်းသူ</string>
     <string name="action_menu_text_bandwidth_on">ဒေတာချွေတာသူ</string>
+    <string name="action_menu_text_bookmark_add_off">ပေါင်းထည့်ရန် ဝက်ဘ်စာမျက်နှာ မရှိပါ။</string>
     <string name="action_menu_text_bookmark_added">စာအုပ်မှတ်ပေါင်းထည့်ပြီး</string>
     <string name="action_menu_text_copy_url">URL ကို ကူးပါ</string>
     <string name="action_menu_text_create_qr_code">QR ကုဒ်</string>
@@ -61,6 +65,7 @@
     <string name="add_favorites_to">အနှစ်သက်ဆုံးသို့ထည့်ပါ</string>
     <string name="add_new_bookmark">စာအုပ်မှတ်ပေါင်းထည့်ပါ</string>
     <string name="add_new_quicklink">အစ စာမျက်နှာထဲသို့ ထည့်ပါ</string>
+    <string name="add_pwa_to_homescreen">ဤဝက်ဘ်ကို ပင်မမျက်နှာပြင်သို့ ပေါင်းထည့်မလား?</string>
     <string name="add_ql_bm_title">သိမ်းဆည်းပါ</string>
     <string name="add_quicklink_to_popular">အစ စာမျက်နှာထဲသို့ ထည့်ပါ</string>
     <string name="add_quicklinks">ပေါင်းထည့်</string>
@@ -74,6 +79,7 @@
     <string name="added_to_bookmarks">စာအုပ်မှတ်ပြီး</string>
     <string name="adjust_text_zoom_toast">စာသားချုံ့ချဲ့ကို ပြောင်းခြင်းဖြင့် အချို့ဝဘ်ဆိုက်များမှ မမှန်မကန် ပြသခြင်းကို ဖြစ်စေနိုင်သည်</string>
     <string name="agree">သဘောတူ</string>
+    <string name="agree_permissions_request">သဘောတူသည်</string>
     <string name="alert_tips">ဤဆိုက်ကို ကြည့်ခြင်းသည် လုံခြုံရေးဆိုင်ရာ ဘေးအန္တရာယ်ရှိနိုင်သည်</string>
     <string name="allow">ခွင့်ပြု</string>
     <string name="app_new_version">ဤအက်ပ်၏ နောက်ဆုံးဗားရှင်းကို ထည့်သွင်းပြီးသား ဖြစ်သည်</string>
@@ -132,6 +138,7 @@
     <string name="browserFrameFormResubmitMessage">သင့်ဖွင့်ကြည့်ရန်ကြိုးစားနေသော စာမျက်နှာမှာ တင်သွင်းပြီးသား ဒေတာများပါရှိနေပါသည်။ အကယ်၍ဒေတာအားပြန်ပေးပို့ပါက၊ ယခင်လုပ်ထားသည်များ (ဥပမာ− ရှာဖွေထားမှုများ သို့မဟုတ် ဝယ်ယူထားမှုများ) အားလုံးကို တစ်ဖန်ပြန်လုပ်ပါလိမ့်မည်။</string>
     <string name="browserFrameNetworkErrorLabel">ချိတ်ဆက်မှု အမှား</string>
     <string name="cancel">မလုပ်</string>
+    <string name="cancle_sync_cloud_tabs">ဆင့်ခ်လုပ်ခြင်းကို ပယ်ဖျက်မည်</string>
     <string name="cannot_download">\"http\" သို့ \"https\" စသည့် URLsမျှသာ ​ဒေါင်းလုဒ်လုပ်၍ရပါသည်</string>
     <string name="choosertitle_sharevia">မှတစ်ဆင့်မျှဝေ</string>
     <string name="clear_history">မှတ်တမ်းကို ရှင်းပစ်ပါ</string>
@@ -167,6 +174,7 @@
     <string name="color_picker_dialog_title">အရောင် ရွေးပါ</string>
     <string name="color_picker_hue">ပကတိအရောင်</string>
     <string name="color_picker_saturation">တောက်ပမှုပြင်းအား</string>
+    <string name="color_picker_value">အာနိသင်</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -183,6 +191,7 @@
     <string name="contextmenu_manually_block_ad">ကြော်ငြာအဖြစ် အမှတ်အသားလုပ်မည်</string>
     <string name="contextmenu_map">မြေပုံ</string>
     <string name="contextmenu_openlink">ဖွင့်</string>
+    <string name="contextmenu_openlink_in_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="contextmenu_openlink_newwindow">တက်ဘ်အသစ်တွင် ဖွင့်ပါ</string>
     <string name="contextmenu_openlink_newwindow_background">နောက်ခံတက်ဘ်တွင် ဖွင့်ပါ</string>
     <string name="contextmenu_recognise_qr_code">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
@@ -192,7 +201,7 @@
     <string name="contextmenu_share_image">ရုပ်ပုံဝေမျှ</string>
     <string name="contextmenu_sharelink">လင့်ခ်ကို မျှဝေပါ</string>
     <string name="contextmenu_view_image">ရုပ်ပုံအားကြည့်</string>
-    <string name="contextmenu_webpage_capture">မျက်နှာပြင်ရိုက်ချက်အဖြစ် သိမ်းဆည်း</string>
+    <string name="contextmenu_webpage_capture">မျက်နှာပြင်ရိုက်ချက်</string>
     <string name="contextmenu_webpage_html">HTML ဖိုင်ဖြစ်သိမ်းဆည်း</string>
     <string name="contextmenu_webpage_snapshot">ပေ့ဂျ်အား သိမ်းဆည်း</string>
     <string name="copy_to_clipboard_failure_message">ကလစ်ဘုတ်သို့ ကော်ပီကူးရန် မအောင်မြင်ခဲ့ပါ</string>
@@ -285,6 +294,9 @@
     <string name="edit_quicklink">ပြုပြင်ရန်</string>
     <string name="empty_app_name">အခြားအက်ပ်များ</string>
     <string name="empty_bookmark">တစ်ခုမှမရှိပါ</string>
+    <string name="empty_cloud_tab_login_hint">ကလောက်တက်ဘ်များ မရှိပါ</string>
+    <string name="empty_cloud_tab_logout_hint">"Mi အကောင့်
+သို့ ဝင်ရောက်ပြီးလျှင် အခြားစက်များမှ ဖွင့်သောတက်ဘ်များကိုလည်း ဤနေရာတွင် ပြလိမ့်မည်"</string>
     <string name="empty_history_hint">မှတ်တမ်းသည်ဘာမှမရှိပါ</string>
     <string name="empty_snapshot_hint">တစ်ခုမှမရှိပါ</string>
     <string name="enable_geolocation_confirm_message">တည်နေရာဝန်ဆောင်မှုကို ပိတ်ခြင်းဖြင့် သင့်အတွက် အကြံပြုချက်များလက်ခံယူခြင်းအကို သက်ရောက်မှု ရှိနိုင်ပါသည်</string>
@@ -308,6 +320,7 @@
     <string name="find_on_page_next">နောက်ထပ်</string>
     <string name="find_on_page_prev">နောက်သို့</string>
     <string name="find_previous">ယခင်သို့ ရှာရန်</string>
+    <string name="finish_sync_cloud_tabs">ဆင့်ခ်လုပ်ပြီးပါပြီ</string>
     <string name="firstUsingSearchEngineTips">ရှာဖွေရေးအင်ဂျင် ပြောင်းမည်လား?</string>
     <string name="fling_on_border_gesture_hint">ဤလက်ဟန်၏လုပ်ဆောင်ရမည်တာဝန်ကို ဆက်တင်များထဲတွင် ​ရွေးချယ်နိုင်ပါသည်</string>
     <string name="force_quick_search_title">ရှာ​ဖွေပါ</string>
@@ -341,6 +354,7 @@
     <string name="homepage_more_sites">ဝက်ဘ်ဆိုဒ်ပို၍</string>
     <string name="homepage_search_hint">ရှာ​ဖွေ</string>
     <string name="homepage_top_card_menu">ထိပ်ပိုင်း</string>
+    <string name="ignore_add_pwa_dialog_today">ယနေ့ ထပ်မပြပါနှင့်</string>
     <string name="in_incognito">သင်ရုပ်ပြောင်းရုပ်လွှဲလုပ်ထားသည်! ဤတဘ်တွင် သင်ကြည့်သော ဝဘ်စာမျက်နှာများသည် သင့်ဘရောက်ဇာမှတ်တမ်းတွင် ပေါ်မည်မဟုတ်ပါ။</string>
     <string name="in_secureaccess">ဘရောက်ဇာအား လုံးခြုံသောမုဒ်အား ပြောင်းလဲခဲ့သည်</string>
     <string name="isReplacePage">ဖိုင်တည်ရှိနေပြီးဖြစ်၊ အစားထိုးမည်လား?</string>
@@ -550,9 +564,12 @@
     <string name="pay_failed_toast">ပေးချေခြင်း မပြီးမြောက်ခဲ့</string>
     <string name="pay_success_toast">ပေးချေခဲ့သည်</string>
     <string name="permission_alert_window">ဤလုပ်ဆောင်ချက်အား အသုံးပြုရန် ပေါ့အက်ပ်ဝင်းဒိုး များအား ခွင့်ပြုပေးပါ</string>
+    <string name="permission_notification">အသိပေးချက်များ ပေးပို့မည်</string>
     <string name="permission_unknown">မသိသောအက်ရှင်</string>
+    <string name="permissions_prompt_message">"%s မှ သင့်အား "</string>
     <string name="popup_window_attempt">အချက်ပြ pop-up window အားဖော်ပြခွင့်ပြုရန် ဤဆိုဒ်အား ခွင့်ပြုပါ</string>
     <string name="positive_confirm_message">မည်သို့ပင်မဆိုပိတ်</string>
+    <string name="pref_accept_quicklink_push">အဖွင့်စာမျက်နှာ push</string>
     <string name="pref_accessibility">ဝင်သုံးခွင့်</string>
     <string name="pref_accessibility_title">ဝင်သုံးခွင့်</string>
     <string name="pref_accessibility_url_shortcut_enter_summary">ပုံမှန်စာလုံးများကို ပေါင်းစပ်ပြီး လိပ်စာဘားတွင် တစ်ချက်ထိရုံဖြင့် ထည့်သွင်းနိုင်သည်</string>
@@ -592,7 +609,7 @@
     <string name="pref_extras_reset_default_summary">သတ်မှတ်ပုံစံ ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="pref_extras_reset_default_title">အခြား</string>
     <string name="pref_extras_send_feedback">တုန့်ပြန်ချက်ပေးပို့ပါ</string>
-    <string name="pref_extras_title">အဆင့်မြင့်</string>
+    <string name="pref_extras_title">အဆင့်မြင့် ဆက်တင်များ</string>
     <string name="pref_extras_title_version">ဗားရှင်းအချက်အလက်</string>
     <string name="pref_file_downlaod_save_is_reset_default_settings">ဘရောက်ဇာ၏ မူလသတ်မှတ် တည်နေရာတွင် ဖိုင်များကို သိမ်းဆည်းပါ</string>
     <string name="pref_file_downlaod_save_reset_default_settings">မူလသတ်မှတ် တည်နေရာကို မူလအတိုင်း ပြန်ထားရှိပါ</string>
@@ -663,12 +680,14 @@
     <string name="progress_dialog_setting_wallpaper">နောက်ခံပုံကို သတ်မှတ်နေဆဲ…</string>
     <string name="pull_to_refresh_pull_label">ပြန်လန်းဆန်းရန် ဆွဲချပါ</string>
     <string name="pull_to_refresh_release_label">အကြံပေးရန်နှင့် ပြန်လန်းဆန်းရန် လွှတ်လိုက်ပါ</string>
+    <string name="pwa_app_name">ဝက်ဘ် အက်ပ်</string>
     <string name="qr_code_title">QR ကုဒ်</string>
     <string name="qr_description">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="quicklink_bookmark_save">သို့သိမ်းဆည်း</string>
     <string name="quicklink_cannot_save_url">ဤ URLကို မပေါင်းထည့်နိုင်ပါ</string>
     <string name="quicklink_folder_text">ထိပ်တန်းအက်ပ်များ</string>
     <string name="quicklink_not_saved">အစ စာမျက်နှာထဲသို့ သိမ်းဆည်း၍ မရပါ</string>
+    <string name="quicklink_push_confirm_message">ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါက အဖွင့်စာမျက်နှာကို ထိခိုက်နိုင်သည်။</string>
     <string name="quicklink_saved">အစစာမျက်နှာထဲသို့ သိမ်းပြီးပါပြီ</string>
     <string name="quicklink_saved_before">ဤဝဘ်ဆိုက်ကို ထည့်ထားပြီးသားဖြစ်သည်</string>
     <string name="quicklink_user_define_webpage_title">အမည်</string>
@@ -691,6 +710,7 @@
     <string name="readmode_recommend_message">ဒီစာအုပ်ကို သင် ဖတ်ထားပြီးသား ဖြစ်သည်။ :)</string>
     <string name="readmode_refresh">ပြန်လန်းဆန်း</string>
     <string name="readmodelist_bookmarks_to_show">ဖတ်ရှုရန် စာရင်း</string>
+    <string name="refuse_permissions_request">ငြင်းပယ်သည်</string>
     <string name="remember_passwords_confirm_message">ဤလုပ်ဆောင်ရည်အားပိတ်လိုက်ခြင်းသည် အသုံးပြုခြင်းအား သက်ရောက်မှုရှိနိုင်ပါသည်</string>
     <string name="remove_bookmark">စာအုပ်မှတ်အား ဖျက်ပစ်ပါ</string>
     <string name="remove_bookmark_group">အုပ်စုကို ဖျက်ပစ်ပါ</string>
@@ -801,16 +821,24 @@
     <string name="suggest_access_btn_play">ဖွင့်</string>
     <string name="suggest_access_btn_view">ကြည့်ရှု</string>
     <string name="suggest_access_item_album_songs">သီချင်း %d ပုဒ်</string>
+    <string name="suggest_access_item_app_mark">အက်ပ်</string>
     <string name="suggest_access_item_app_size">%.2fMB</string>
     <string name="suggest_access_item_app_update">မွမ်းမံပြင်ဆင်မှု − %s</string>
+    <string name="suggest_access_item_book_mark">စာအုပ်</string>
+    <string name="suggest_access_item_mina_mark">တိုက်ရိုက်ဝန်ဆောင်မှု</string>
+    <string name="suggest_access_item_music_mark">တေးဂီတ</string>
     <string name="suggest_access_item_singer_albums">အယ်လ်ဘမ် %d ခု</string>
     <string name="suggest_access_item_singer_pop">လူကြိုက်များသော သီချင်း %d ပုဒ်</string>
+    <string name="suggest_access_item_site_mark">ဝက်ဘ်ဆိုက်များ</string>
+    <string name="suggest_access_item_video_mark">ဗီဒီယို</string>
+    <string name="suggest_access_item_website_mark">ဝက်ဘ်ဆိုက်</string>
     <string name="suggest_access_music">Mi တေးဂီတ</string>
     <string name="suggest_item_delete_text">ဖျက်ပါ</string>
     <string name="suggest_open_app_failed">ဤအက်ပ်အား ဖွင့်၍မရနိုင်ပါ</string>
     <string name="switchText">ဟုတ်သည်</string>
     <string name="switch_proxy_dialog_msg">"ကွန်ရက်အပိုင်စီးမှုအား ထောက်လှမ်းမိခဲ့ပါသည်။ MIUI's built-in လုံခြုံရေးအက်ပ်အား သုံးပါ သို့မဟုတ် ဤအရာအား သင့် ဖုန်းအော်ပရိတ်တာဆီသို့ သတင်းပေးပါ။"</string>
     <string name="switch_proxy_dialog_title">ကွန်ရက်အပိုင်စီးခြင်း</string>
+    <string name="sync_cloud_tabs">ဆင့်ခ်</string>
     <string name="tab_hotpage">ပို့စ်အသစ်</string>
     <string name="tab_quicklinks">အစ စာမျက်နှာ</string>
     <string name="tab_yellowpage">လင့်ခ်များ</string>

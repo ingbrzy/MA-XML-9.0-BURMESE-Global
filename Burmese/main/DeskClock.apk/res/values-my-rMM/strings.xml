@@ -32,7 +32,7 @@
     <string name="setting_alarm_arriving_summary">ဖုန်းသံမြည်မှီ အသိပေးချက်ပေးပို့ပါ</string>
     <string name="close_alarm">ပိတ်</string>
     <string name="timer_notify_text">တစ်မှေးအိပ် သို့မဟုတ် တိုင်မာအားပိတ်ပါ</string>
-    <string name="upcoming_alarm">မြည်မည့်နှိုးစက်</string>
+    <string name="upcoming_alarm">နောက်မြည်မည့်နှိုးစက် %s</string>
     <string name="upcoming_alarm_hint">ဤနှိုးစက်အား ကြိုတင်ပိတ်ထားနိုင်ပါသည်</string>
     <string name="start">စတင်ပါ</string>
     <string name="pause">တန့်ရပ်ပါ</string>
@@ -81,6 +81,7 @@
     <string name="birthday_alarm_summary">သင့်မွေးနေ့တွင် ပုံမှန်နှိုးစက်သံမမြည်ဘဲ \"Happy Birthday\" သီချင်းအားဖွင့်ပါ</string>
     <string name="turn_off_a_repeat_alarm">ထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>

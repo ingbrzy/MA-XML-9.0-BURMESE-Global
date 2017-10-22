@@ -68,6 +68,8 @@
     <string name="reboot_progress">ပြန်ပွင့်နေဆဲပါ…</string>
     <string name="screen_on_proximity_sensor_title">အိတ်မုတ်</string>
     <string name="screen_on_proximity_sensor_summary">နားကြပ်အား မကာထားပါနှင့်</string>
+    <string name="screen_on_proximity_sensor_hint">ဤအင်္ဂါရပ်ကိုပိတ်ရန် အသံချဲ့ခလုတ်နှင့်နောက်ပြန်ခလုတ်အား တစ်ပြိုင်နက်ဖိနှိပ်ပါ။</string>
+    <string name="screen_on_proximity_sensor_hint_has_navigation_bar">ဤအင်္ဂါရပ်ကိုပိတ်ရန် အသံချဲ့ခလုတ်အား ဖိနှိပ်ပါ။</string>
     <string name="screen_button_notification_title">လမ်ကြောင်းပြခလုတ်များ ပိတ်နေဆဲပါ</string>
     <string name="screen_button_notification_text">၄င်းတို့ကိုဖွင့်ရန် ပင်မခလုတ်နှင့်ပါဝါခလုတ်အား တပြိုင်နက် နှိပ်ပါ။</string>
     <string name="screen_paper_mode_enter_toast">စာဖတ်ခြင်းမုဒ်အား ဖွင့်ထားသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဆက်တင်များ>ပြသခြင်း>စာဖတ်ခြင်းမုဒ် သို့သွားရောက်ပါ</string>

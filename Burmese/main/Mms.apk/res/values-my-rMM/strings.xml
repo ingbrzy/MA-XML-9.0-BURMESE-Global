@@ -178,6 +178,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -250,7 +251,7 @@
     <string name="message_number">ဖုန်းနံပါတ်-</string>
     <string name="message_pending">ပို့နေသည်</string>
     <string name="message_queued">သင်၏မက်ဆေ့ချ်ကို အခုပို့လို့မရနိုင်ပါ။ ဝန်ဆောင်မှုပြန်ရရှိချိန်တွင် ပို့လိမ့်မည်။</string>
-    <string name="message_queued_second_space">ယခု မက်ဆေ့ချ်ပေးပို့၍ မရပါ။ ကျေးဇူးပြု၍ ဒေတာကွန်ရက်အား ဖွင့်ပါ။</string>
+    <string name="message_queued_second_space">မက်ဆေ့ချ် ပေးပို့၍ မရပါ။ ပေးပို့ရန် မိုဘိုင်းဒေတာ ဖွင့်ပါ။</string>
     <string name="message_readed">ဖတ်ပြီး</string>
     <string name="message_received">ပေးပို့လိုက်ပြီ</string>
     <string name="message_rejected">ပယ်ချခဲ့သည်</string>
@@ -300,9 +301,6 @@
     <string name="mx_activate_status_desc_query_activte_info">SIM ကဒ်အချက်အလက်များအား စစ်ဆေးနေ…</string>
     <string name="mx_activate_status_desc_request_activation_sms_phone_error">သင်ရိုက်သောဖုန်းနံပါတ်သည် မမှန်ကန်ပါ။</string>
     <string name="mx_activate_status_desc_wait_for_sms_fail">Mi မက်ဆေ့ချ်အား အသက်မသွင်းနိုင်ခဲ့ပါ</string>
-    <string name="mx_and_voip_enable">Mi မက်ဆေ့ချ် &amp; အသံ</string>
-    <string name="mx_and_voip_enable_popup_msg">သင့်ဖုန်းလိုင်းကုမ္ပဏီမှ ကုန်ကျစားရိတ်များမရှိစေဘဲ အခြား MIUIအသုံးပြုသူများနှင့် မက်ဆေ့ချ်ပို့ခြင်းနှင့် ခေါ်ဆိုမှုများပြုလုပ်ပါ။ VoIPအား Weihuiဖြင့် ထောက်ပံ့ထားပါသည်။ weihui၏ ကိုယ်ပိုင်ရေးရာမူဝါဒအား ကြည့်ရှုပါ။</string>
-    <string name="mx_and_voip_enable_popup_msg2">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="mx_auto_resend_mms">MMS အဖြစ် ပို့ပါ</string>
     <string name="mx_auto_resend_mms_summary">သင် Wi-Fi နှင့် မချိတ်ဆက်သည့်အခါ မိုဘိုင်းဒေတာ ချိတ်ဆက်မှုမှတဆင့် MMS အဖြစ် ရုပ်သံမီဒီယာ မက်ဆေ့ချ်များ ပို့ပါ။ သင့်ဖုန်းလိုင်းဝန်ဆောင်မှုပေးသူထံမှ ပုံမှန် အဖိုးအခများကို ကောက်ခံလိမ့်မည်။</string>
     <string name="mx_auto_resend_sms">SMS အဖြစ် ပို့ပါ</string>
@@ -314,7 +312,6 @@
     <string name="mx_dspt">သင် Wi-Fi သို့ချိတ်ဆက်လိုက်စဉ်တွင် အခြား MIUI စက်များနှင့် ကုန်ကျစားရိတ်မရှိဘဲ SMS နှင့် MMS များ ပေးပို့ပါ</string>
     <string name="mx_dspt_listview">SMS အတွက် ကုန်ကျစရိတ်များ ပေးရန်မလိုဘဲ အခြား MIUI သုံးစွဲသူများထံ မက်ဆေ့ချ်များ ပို့ပါ</string>
     <string name="mx_dspt_provision">အင်တာနက် ချိတ်ဆက်ထားပါက Mi မက်ဆေ့ချ်ကို သုံးပြီး အခြားသော MIUI အသုံးပြုသူများထံသို့ မက်ဆေ့ချ်များ အခမဲ့ ပို့နိုင်သည်။ Mi မက်ဆေ့ချ်ကို စဖွင့်အသုံးပြုရန်အတွက် SMS မက်ဆေ့ချ်တစ်စောင် ပို့ရန်လိုအပ်သည်။ ၎င်း မက်ဆေ့ချ်အတွက် ငွေကြေးကုန်ကျနိုင်ပါသည်။ ထို့အပြင် ဤ Mi မက်ဆေ့ချ် ဝန်ဆောင်မှု ပုံမှန်အလုပ်လုပ်ရန်အတွက် မိုဘိုင်းဒေတာကို အသုံးပြုရန်လိုအပ်သည်။</string>
-    <string name="mx_dspt_provision_ex">သင့်ဖုန်းလိုင်းကုမ္ပဏီမှ အင်တာနက်မှတစ်ဆင့် ကုန်ကျစားရိတ်များမရှိစေဘဲ အခြား MIUIအသုံးပြုသူများနှင့် မက်ဆေ့ချ်ပို့ခြင်းနှင့် ခေါ်ဆိုမှုများပြုလုပ်ပါ။ VoIPအား Weihuiဖြင့် ထောက်ပံ့ထားပါသည်။ weihui၏ ကိုယ်ပိုင်ရေးရာမူဝါဒအား ကြည့်ရှုပါ။</string>
     <string name="mx_dspt_provision_ex2">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="mx_enable">Mi မက်ဆေ့ချ်</string>
     <string name="mx_enable_ex">Mi မက်ဆေ့ချ် &amp; အသံ</string>
@@ -355,8 +352,8 @@
     <string name="notification_multiple">[%s]</string>
     <string name="notification_multiple_title">မက်ဆေ့ချ်အသစ်များ</string>
     <string name="number_add_hint">ဖုန်းနံပါတ်ထည့်ပါ</string>
-    <string name="open_audio_record_panel">အသံသွင်းပန်နယ်အား ဖွင့်ပါ</string>
-    <string name="open_edit_sms_panel">SMS ပြင်ဆင်ရေးပန်နယ် ကို ဖွင့်ပါ</string>
+    <string name="open_audio_record_panel">အော်ဒီယို အသံဖမ်းယူရန် ပန်နယ်ကို ဖွင့်ပါ</string>
+    <string name="open_edit_sms_panel">မက်ဆေ့ချ်များကို ပြင်ဆင်ရန် ပန်နယ်အား ဖွင့်ပါ</string>
     <string name="open_url_with_web">ဤ URL ကို ဘရောက်ဇာထဲတွင် ဖွင့်မလား?</string>
     <string name="over_max_mms_size">MMS အလွန်ကြီးသည်။</string>
     <string name="overwrite_edited_content">သင်ပြုပြင်ခဲ့သော အကြောင်းအရာပေါ်တွင် ထပ်ရေးပစ်လိမ့်မည်။</string>
@@ -390,7 +387,7 @@
     <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်များ</string>
     <string name="pref_sms_storage_title">သိုလှောင်ခန်း</string>
     <string name="pref_sms_theme_title">ပြသချက်</string>
-    <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အချက်အလက်များအား ဖတ်နိုင်ရန် ခွင့်ပြုပေးပါ</string>
+    <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အကြောင်းအရာကို ဖတ်ခွင့်ပြုမည်</string>
     <string name="pref_summary_auto_delete">သတ်မှတ်ထားသော ပမာဏထက်ကျော်လျှင် မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်ပါ</string>
     <string name="pref_summary_delete_limit">စကားပြောဆိုမှု တစ်ခုလျှင် မက်ဆေ့ချ် %1$s စောင်</string>
     <string name="pref_summary_delivery_reports">ပေးပို့ထားသော မက်ဆေ့ချ်များအတွက် ပေးပို့ပြီး အခြေအနေအား ပြသပါ</string>
@@ -400,7 +397,6 @@
     <string name="pref_summary_mms_read_reports">လက်ခံရရှိသူမှ MMS အားဒေါင်းလုဒ်လုပ်လိုက်ပါက အသိပေးအချက်ပြချက်များအား စကားစမြည်ပြောဆိုခြင်း မြင်ကွင်းတွင်ပြသပါ။</string>
     <string name="pref_summary_mms_retrieval_during_roaming">ရွန်းမင်းလုပ်နေစဉ်တွင် MMSအကြောင်းအရာများအား အလိုအလျောက်ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="pref_summary_notification_body_enabled">သော့ခတ်မျက်နှာပြင်ပေါ်နှင့် အသိပေးချက်အရိပ်ထဲတွင် မက်ဆေ့ချ်များကို ပြပါ</string>
-    <string name="pref_summary_notification_body_enabled_when_secure">ဧည့်သည်မုဒ်တွင် မက်ဆေ့ချ်များကို အစမ်းကြည့်၍ မရပါ</string>
     <string name="pref_summary_off_system_mms_priority">MMS ကို ပေးပို့ရန်နှင့် လက်ခံရန် ကြားခံပါတီ အက်ပ်များကို အသုံးပြုပါ</string>
     <string name="pref_summary_on_system_mms_priority">MIUI ၏ မက်ဆေ့ချ်ပေးပို့သည့် အက်ပ်ကို MMS ကို ပေးပို့ရန်နှင့် လက်ခံရန် မူလသတ်မှတ် အက်ပ်အဖြစ် သတ်မှတ်ပါ</string>
     <string name="pref_summary_send_delivery_reports">ရုပ်သံမီဒီယာ မက်ဆေ့ချ်ကို သင်လက်ခံရရှိသည့်အခါ ပေးပို့သူထံ ပေးပို့မှု အတည်ပြုချက်မက်ဆေ့ချ်ကို ပေးပို့ပါ</string>
@@ -530,6 +526,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -566,15 +563,15 @@
     <string name="sms_report_dialog_title">ထပ်ကြိုးစားပါ</string>
     <string name="sms_report_failed">အစီရင်ခံစာကို ပို့လို့မရပါ</string>
     <string name="sms_report_success">အစီရင်စာပေးပို့မှု အောင်မြင်ခဲ့သည်</string>
-    <string name="snippet_audio">[အော်ဒီယို]</string>
-    <string name="snippet_picture">[ပုံ]</string>
+    <string name="snippet_audio">[Audio]</string>
+    <string name="snippet_picture">[Image]</string>
     <string name="sp_category_all">ဝန်ဆောင်မှု မက်ဆေ့ချ်အားလုံး</string>
     <string name="sp_category_bank">ဘဏ်မှ အသိပေးချက် မက်ဆေ့ချ်များ</string>
     <string name="sp_category_title_prefix">%s</string>
     <string name="sp_conversation_title">အသိပေးချက်များ</string>
     <string name="sp_mark_as_read_menu_title">ဖတ်ပြီးသားအဖြစ်မှတ်ထားပါ</string>
-    <string name="sqlite_disk_full">နေရာလွတ် မရှိတော့ပါ</string>
-    <string name="sqlite_low_memory">မှတ်ဉာဏ်နည်းနေပြီ</string>
+    <string name="sqlite_disk_full">သိုလှောင်ခန်း နေရာပြည့်သွားပြီ။</string>
+    <string name="sqlite_low_memory">နေရာလွတ် မလုံလောက်ပါ</string>
     <string name="status_failed">မအောင်မြင်ပါ</string>
     <string name="status_label">"အခြေအန- "</string>
     <string name="status_pending">ဆိုင်းငံ့နေသည်</string>
@@ -651,9 +648,6 @@
     <string name="view">ကြည့်ပါ</string>
     <string name="view_bookmark">မူရင်းမက်ဆေ့ချ်ကို ကြည့်ပါ</string>
     <string name="view_message_details">အသေးစိတ်များ ကြည့်ပါ</string>
-    <string name="voip_enable">Mi မက်ဆေ့ချ်နှင့် အသံ</string>
-    <string name="voip_enable_popup_msg">အခြား MIUI အသုံးပြုသူများအား သင့်ဖုန်းလိုင်းကုမ္ပဏီအား အခကြ​ေးငွေမပေးရဘဲ ခေါ်ဆိုမှုများပြုလုပ်ပါ Weihuiတွင် VoIP ပါရှိပါသည်။ Weihui၏ ကိုယ်ပိုင်ရေးရာမူဝါဒများအား ကြည့်ရှုပါ။</string>
-    <string name="voip_enable_popup_msg2">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="wap_push_title">"[WAP ဖုန်းထဲပို့] "</string>
     <string name="warning_show">%d စက္ကန့်အတွင်း ပို့ပါ</string>
     <string name="wild_msg_processing">လုပ်နေသည်…</string>

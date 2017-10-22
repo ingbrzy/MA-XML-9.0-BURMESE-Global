@@ -43,7 +43,7 @@
         <item quantity="other">WeChat စကားပြေားဆိုမှုထဲရှိ ဗီဒီယို %1$d ခုသည် သက်တမ်းကုန်ပါတော့မည်။ ၄င်းအား သင့်အတွင်းသိုလှောင်မှုဆီသို့ အရန်သိမ်းသိမ်းလိုက်မည်လား?</item>
     </plurals>
     <plurals name="remote_video_update">
-        <item quantity="other">ဗီဒီယိုအသစ် %1$sခု တွေ့ရှိခဲ့</item>
+        <item quantity="other">ဗီဒီယိုအသစ် %1$sခု တွေ့ရှိသည်</item>
     </plurals>
     <plurals name="video_ad_download_tip">
         <item quantity="other">ဒေါင်းလုဒ်</item>
@@ -55,51 +55,51 @@
         <item quantity="other">ဗီဒီယို &lt;font color=#fc7050>%d&lt;/font>ခု</item>
     </plurals>
     <plurals name="number_of_comment_flow">
-        <item quantity="other">မှတ်ချက် %1$s</item>
+        <item quantity="other">မှတ်ချက် %1$sခု</item>
     </plurals>
     <plurals name="user_sign_limt">
-        <item quantity="other">သင် အက္ခရာ %d လုံးရိုက်ထည့်နိုင်ပါသည်</item>
+        <item quantity="other">အက္ခရာ %dလုံး ရိုက်ထည့်နိုင်ပါသည်</item>
     </plurals>
     <plurals name="video_items">
-        <item quantity="other">အိုင်တမ် %1$d ခု</item>
+        <item quantity="other"> အိုင်တမ် %1$dခု</item>
     </plurals>
     <plurals name="original_user_days">
         <item quantity="other">• &lt;font color=#fc7050>%1$d&lt;/font> ရက်</item>
     </plurals>
     <plurals name="original_user_play_1">
-        <item quantity="other">• သင် ဗီဒီယို &lt;font color=#fc7050>%1$s&lt;/font> အားလုတ်တင်လိုက်သည်။</item>
+        <item quantity="other">• သင် ဗီဒီယို &lt;font color=#fc7050>%1$s&lt;/font>ခု တင်ထားသည်။</item>
     </plurals>
     <plurals name="original_user_play_2">
-        <item quantity="other">သင်လူ &lt;font color=#fc7050>%1$s&lt;/font> ဦးအား ပျော်ရွှင်အောင် လုပ်ခဲ့သည်!</item>
+        <item quantity="other">လူ &lt;font color=#fc7050>%1$s&lt;/font>ဦးအား ပျော်ရွှင်အောင် လုပ်ခဲ့သည်!</item>
     </plurals>
     <plurals name="original_user_fans">
-        <item quantity="other">• သင် လိုက်အားပေးသူ &lt;font color=#fc7050>%1$s&lt;/font> ဦးရလိုက်သည်!</item>
+        <item quantity="other">• သင့်တွင် လိုက်အားပေးသူ &lt;font color=#fc7050>%1$s&lt;/font>ဦး ရှိပြီ!</item>
     </plurals>
     <plurals name="video_publish_watchable_hint">
-        <item quantity="other">သင့်အခြေနေအား အဆင့်မြှင့်တင်ရန် လိုက်အားပေးသူ %1$d ဦးလိုအပ်ပါသည်</item>
+        <item quantity="other">သင့်အခြေနေအား မြှင့်တင်ရန် လိုက်အားပေးသူ %1$d ဦး လိုအပ်ပါသည်</item>
     </plurals>
     <plurals name="follow_count">
-        <item quantity="other">ပန်း &lt;font color=#fc7050>%d&lt;/font> ပွင့်</item>
+        <item quantity="other">လိုက်အားပေးသူ &lt;font color=#fc7050>%d&lt;/font>ဦး</item>
     </plurals>
     <plurals name="gems">
-        <item quantity="other">%1$s gems</item>
+        <item quantity="other">ရတနာကျောက်တုံး %1$sတုံး</item>
     </plurals>
     <plurals name="more_gems">
-        <item quantity="other">ကံစမ်းမဲနှိုက်၍ရရန် &lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font>ရတနာကျောက်တုံး ပိုမိုပြီး စုဆောင်းပါ။;</item>
+        <item quantity="other">ကံစမ်းမဲနှိုက်၍ရရန် နောက်ထပ်ရတနာကျောက်တုံး&lt;font color=#fc7050>&lt;b>%d&lt;/b>&lt;/font>တုံး စုဆောင်းပါ။;</item>
     </plurals>
     <plurals name="clockin_days">
-        <item quantity="other">%1$s ရက်ဆက်တက် ဝင်ရောက်ခဲ့သည်</item>
+        <item quantity="other">%1$sရက် ဆက်တိုက် ဝင်ရောက်သည်</item>
     </plurals>
     <plurals name="clockin_new_chip">
-        <item quantity="other">သင်ပွိုင့် &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> ခုရရှိခဲ့သည်</item>
+        <item quantity="other">သင့်တွင်အမှတ် &lt;font color=#faea47>&lt;b>%d&lt;/b>&lt;/font> မှတ် ရှိပါပြီ</item>
     </plurals>
     <plurals name="clockin_day_count">
-        <item quantity="other">%1$s ရက်ဆက်တိုက် ဝင်ရောက်ခဲ့သည်၊ ဆက်လုပ်ပါ!</item>
+        <item quantity="other">%1$sရက် ဆက်တိုက် ဝင်ရောက်ခဲ့သည်၊ ဆက်လက်ကြိုးစားပါ!</item>
     </plurals>
     <plurals name="total_topic_num">
-        <item quantity="other">ခေါင်းစဉ် %1$s ခု</item>
+        <item quantity="other">ခေါင်းစဉ် %1$sခု</item>
     </plurals>
     <plurals name="total_user_num">
-        <item quantity="other">လူ %1$s ဦး</item>
+        <item quantity="other">လူ %1$sဦး</item>
     </plurals>
 </resources>
