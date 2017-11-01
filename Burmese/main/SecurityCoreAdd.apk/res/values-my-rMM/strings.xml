@@ -246,6 +246,7 @@
     <string name="no_match_repate_scanner">ကိုက်ညီသော လက်ဗွေများ မတွေ့ရှိပါ၊ စကန်ထပ်ဖတ်ပါ</string>
     <string name="delete_phone_fingerprint">ဒုတိယနေရာ လက်ဗွေအားဖျက်ပါ</string>
     <string name="delete_fingerprint">လက်ဗွေအား ဖျက်ပါ</string>
+    <string name="fingerprint_number_upper_limit">Too many unsuccessful unlock attempts</string>
     <string name="delete_fingerprint_desc">ဒုတိယနေရာ လက်ဗွေသည် စကားဝှက်နှင့်အတူ ပျက်သွားလိမ့်မည်</string>
     <string name="fingerprint_removal_failed">လက်ဗွေအား မဖျက်နိုင်ခဲ့ပါ</string>
     <string name="notification_recommend_title">ဒုတိယနေရာအတွက် ထိပ်တန်း အက်ပ်၁၂ ခု</string>
@@ -286,7 +287,7 @@
     <string name="can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
-    <string name="sdcardfs_dialog_message">ဒုတိယနေရာသို့ မဝင်မီ ပြုစုသူ ရွေးချယ်မှုများမှ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
+    <string name="sdcardfs_dialog_message">Turn off \"Mock SD card optimization\" in Settings > Additional settings > Developer options before entering Second space.</string>
     <string name="do_not_ask">ထပ်မမေးပါနှင့်</string>
     <string name="gpg_message">ဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google Playဂိမ်းများ လိုအပ်ပါသည်။ Google Playဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
     <string name="gpg_title">Google Play ဂိမ်းများအတွက် ပွားထားသော အက်ပ်</string>

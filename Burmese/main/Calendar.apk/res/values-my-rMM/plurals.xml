@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="Ndays">
-        <item quantity="other">%d ရက်</item>
+        <item quantity="other">လွန်ခဲ့သော %d ရက်က</item>
     </plurals>
     <plurals name="Nhours">
-        <item quantity="other">%dနာရီ</item>
+        <item quantity="other">လွန်ခဲ့သော %d နာရီက</item>
     </plurals>
     <plurals name="Nminutes">
-        <item quantity="other">%d မိနစ်</item>
+        <item quantity="other">လွန်ခဲ့သော %d မိနစ်က</item>
     </plurals>
     <plurals name="month_more_events">
         <item quantity="other">+%d</item>
     </plurals>
     <plurals name="weekN">
-        <item quantity="other">အပတ်စဉ် %d</item>
+        <item quantity="other">%d အပတ်</item>
     </plurals>
     <plurals name="Ndays_after_at">
         <item quantity="other">%1$d ရက် %2$s အတွင်း</item>
@@ -77,14 +77,5 @@
     </plurals>
     <plurals name="work_days">
         <item quantity="other">အလုပ်လုပ်ရက် %d ရက်</item>
-    </plurals>
-    <plurals name="N_remaining_events">
-        <item quantity="other">+ ပွဲစဉ် %d</item>
-    </plurals>
-    <plurals name="Nevents">
-        <item quantity="other">ပွဲစဉ် %d ခု</item>
-    </plurals>
-    <plurals name="Nmins">
-        <item quantity="other">%d မိနစ်</item>
     </plurals>
 </resources>

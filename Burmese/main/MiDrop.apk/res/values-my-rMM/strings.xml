@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
+    <string name="abc_action_bar_home_description_format">%1$s၊ %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s ၊ %2$s ၊ %3$s</string>
+    <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
+    <string name="abc_action_menu_overflow_description">ပိုမိုရွေးချယ်စရာများ</string>
+    <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
+    <string name="abc_activity_chooser_view_see_all">အားလုံးကို ကြည့်ရန်</string>
+    <string name="abc_activitychooserview_choose_application">အက်ပ်တစ်ခုခုကို ရွေးချယ်ပါ</string>
+    <string name="abc_capital_off">ပိတ်</string>
+    <string name="abc_capital_on">ဖွင့်</string>
+    <string name="abc_search_hint">ရှာဖွေပါ...</string>
+    <string name="abc_searchview_description_clear">ရှာစရာ အချက်အလက်များ ဖယ်ရှားရန်</string>
+    <string name="abc_searchview_description_query">ရှာစရာ အချက်အလက်နေရာ</string>
+    <string name="abc_searchview_description_search">ရှာဖွေရန်</string>
+    <string name="abc_searchview_description_submit">ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်</string>
+    <string name="abc_searchview_description_voice">အသံဖြင့် ရှာဖွေခြင်း</string>
+    <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
+    <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
+    <string name="search_menu_title">ရှာဖွေပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="app_name">Mi Drop</string>
     <string name="cancel_confirm">လွှဲပြောင်းမှုအား ပယ်ဖျက်မည်</string>
     <string name="cancel_lang">ပယ်ဖျက်မည်</string>
@@ -13,6 +34,8 @@
     <string name="clear_all">အားလုံး ရှင်းပစ်မည်</string>
     <string name="click_to_send">ပေးပို့ရန် ပရိုဖိုင်ပုံအား ထိနှိပ်ပါ</string>
     <string name="coolboot_title">Mi Drop ကို မျှဝေမည်</string>
+    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
+    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
     <string name="default_lang">စနစ် ဘာသာစကား</string>
     <string name="delete">ဖျက်မည်</string>
     <string name="delete_item_desc">ဤဖိုင်ကို လွှဲပြောင်းမှုစာရင်းမှ ဖျက်မလား?</string>
@@ -26,6 +49,14 @@
     <string name="enable_hotspot">Wi-Fi ဟော့စပေါ့ကို အောင်မြင်စွာ ဖွင့်ပြီးပြီ</string>
     <string name="exit">ထွက်မည်</string>
     <string name="file_count">%1$d</string>
+    <string name="file_size_b">%1$d B</string>
+    <string name="file_size_gb">%2$1.2f GB</string>
+    <string name="file_size_kb">%2$1.2f KB</string>
+    <string name="file_size_mb">%2$1.2f MB</string>
+    <string name="file_speed_b">%1$d B/s</string>
+    <string name="file_speed_gb">%2$1.2f GB/s</string>
+    <string name="file_speed_kb">%2$1.2f KB/s</string>
+    <string name="file_speed_mb">%2$1.2f MB/s</string>
     <string name="files_selected">ရွေးချယ်ထားသော</string>
     <string name="files_selected_count">ရွေးချယ်ထားသောဖိုင်- %1$d ခု | စုစုပေါင်း- %2$s ခု</string>
     <string name="help">အကူအညီ</string>
@@ -46,7 +77,7 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="location_skip">ကျော်သွားမည်</string>
     <string name="never_remind">ထပ်ပြီး မပြပါနှင့်</string>
     <string name="no_file">ဗလာ</string>
-    <string name="no_network">"ကွန်ရက်သို့ချိတ်ဆက်မရနိုင်ပါ။
+    <string name="no_network">"ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။
 သင့်ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။"</string>
     <string name="no_permission_to_enable_hotspot">ခွင့်ပြုချက်မရှိသောကြောင့် Wi-Fi ဟော့စပေါ့ကို ဖွင့်၍ မရပါ။</string>
     <string name="no_receiver_found">လက်ခံသူ ရှာမတွေ့ပါ</string>
@@ -105,7 +136,7 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="sender_wait">ဖိုင်များ ပေးပို့နေသည်…</string>
     <string name="sender_wait_queue">ပေးပို့တော့မည်…</string>
     <string name="setting_now">သတ်မှတ်မည်</string>
-    <string name="share_desc">အောက်ပါနည်းလမ်းအတိုင်း Mi Dropအား မျှဝေနိုင်သည်-</string>
+    <string name="share_desc">မိုဘိုင်းဒေတာ မသုံးဘဲ Mi Drop အား မျှဝေမည်</string>
     <string name="share_mi_drop">Mi Drop ကို သူငယ်ချင်းများထံ မျှဝေမည်</string>
     <string name="step_1">"အဆင့် ၁- 
  အခြားသူအား Wi-Fi သို့ ချိတ်ဆက်စေပါ။"</string>
@@ -117,7 +148,6 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="storage_usb">USB သိုလှောင်ခန်း</string>
     <string name="trans_progress_finish">ပြီးပြီ</string>
     <string name="trans_progress_percent">%1$s%%</string>
-    <string name="trans_speed">%1$s/s</string>
     <string name="transfer_cancel">လွှဲပြောင်းမှုအား ပယ်ဖျက်မည်</string>
     <string name="transfer_fail_desc">ကွန်ရက်ချိတ်ဆက်မှု ရပ်တန့်သွားသည်၊ သို့မဟုတ် တခြားတစ်ဦးမှ လွှဲပြောင်းမှုကို ရပ်တန့်လိုက်သည်။</string>
     <string name="transfer_failed">လွှဲပြောင်း၍ မရပါ</string>
@@ -136,6 +166,6 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="version">ဗားရှင်း</string>
     <string name="want_receive">ဖိုင်များ လက်ခံမည်</string>
     <string name="want_send">ဖိုင်များ ပေးပို့မည်</string>
-    <string name="wifi_name">Wi-Fi-</string>
+    <string name="wifi_name">Wi-Fi အမည်-</string>
     <string name="wifi_psw">စကားဝှက်-</string>
 </resources>

@@ -31,6 +31,7 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d ရက်</string>
     <string name="durationDayHours">%1$d ရက် %2$d နာရီ</string>
     <string name="durationDayHour">%1$d ရက်%2$d နာရီ</string>
@@ -1322,6 +1323,7 @@
     <string name="zen_mode_alarm">%1$s အထိ (လာမည့် နှိုးစက်)</string>
     <string name="zen_mode_forever">သင်က ဒါကို ပိတ်မပစ်သည့် အထိ</string>
     <string name="zen_mode_forever_dnd">မနှောင့်ယှက်ရန် ကိုသင်ပိတ်သည်အထိ</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="toolbar_collapse_description">ခေါက်ရန်</string>
     <string name="zen_mode_feature_name">မနှောင့်ယှက်ရ</string>
     <string name="zen_mode_downtime_feature_name">ကျချိန်</string>
@@ -1347,6 +1349,7 @@
     <string name="floating_toolbar_close_overflow_description">ကိရိယာဘားအပိုအား ပိတ်ရန်</string>
     <string name="maximize_button_text">အများဆုံး လုပ်ပေးရန်</string>
     <string name="close_button_text">ပိတ်ရန်</string>
+    <string name="notification_messaging_title_template">%1$s− %2$s</string>
     <string name="importance_from_user">ဤသတိပေးချက်များ၏ အရေးပါမှုကိုသတ်မှတ်ပြီးပါပြီ။</string>
     <string name="importance_from_person">ပါဝင်သည့်လူများကြောင့် အရေးပါပါသည်။</string>
     <string name="user_creation_account_exists">%1$s ကို %2$s ဖြင့်အသုံးပြုသူအသစ်ဖန်တီးခွင့်ပြုမလား။</string>

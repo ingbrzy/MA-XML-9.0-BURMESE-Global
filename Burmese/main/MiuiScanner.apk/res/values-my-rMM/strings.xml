@@ -86,7 +86,7 @@
     <string name="not_recommend_access_web_url">အမည်သို့မဆိုသွားပါ</string>
     <string name="continue_to_website">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
     <string name="continue_access_web_url">ဝက်ဘ်ဆိုက်သို့သွားပါ</string>
-    <string name="see_app_details">အက်ပ်အသေးစိတ်များ ကြည့်ပါ</string>
+    <string name="see_app_details">အက်ပ်အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="copy_text">စာကို ကူးပါ</string>
     <string name="copy_text_success">စာသားကို ကော်ပီကူးထားသည်</string>
     <string name="wifi_open_fail">Wi-Fi ဖွင့်၍မရနိုင်ခဲ့ပါ</string>

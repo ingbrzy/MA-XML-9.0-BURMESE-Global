@@ -54,15 +54,6 @@
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">ကလောက်ပုံ %d ပုံပေါင်းထည့်ခဲ့သည်၊ ကြည့်ရန်အတွက် \"ဖုန်းတွင်းဓါတ်ပုံများကိုသာ ပြပါ\"အား ပိတ်လိုက်ပါ။</item>
     </plurals>
-    <plurals name="delete_photo_msg_format">
-        <item quantity="other">ဓါတ်ပုံ %2$s မှ %1$d ခုအား ဖျက်မည်လား?</item>
-    </plurals>
-    <plurals name="delete_video_msg_format">
-        <item quantity="other">ဗီဒီယို %2$s မှ %1$d ခု ဖျက်မည်လား?</item>
-    </plurals>
-    <plurals name="delete_media_msg_format">
-        <item quantity="other">အိုင်တမ်%2$s မှ %1$d ခု ဖျက်မည်လား?</item>
-    </plurals>
     <plurals name="album_item_msg_format">
         <item quantity="other">(အိုင်တမ် %dခု)</item>
     </plurals>
@@ -152,5 +143,14 @@
     </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">\"%2$s\"သို့ ဓာတ်ပုံ %1$dပုံ ထည့်ပြီး ဒေတာဘေ့စ်သို့ ပေါင်းထည့်ပြီးပြီ။</item>
+    </plurals>
+    <plurals name="delete_photo_msg_format">
+        <item quantity="other">ဓါတ်ပုံ %2$s မှ %1$d ခုအား ဖျက်မည်လား?</item>
+    </plurals>
+    <plurals name="delete_video_msg_format">
+        <item quantity="other">ဗီဒီယို %2$s မှ %1$d ခု ဖျက်မည်လား?</item>
+    </plurals>
+    <plurals name="delete_media_msg_format">
+        <item quantity="other">အိုင်တမ်%2$s မှ %1$d ခု ဖျက်မည်လား?</item>
     </plurals>
 </resources>

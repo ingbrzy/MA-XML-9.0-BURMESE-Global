@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -88,7 +90,7 @@
     <string name="tether_settings_title_wifi">အိတ်ဆောင်ဟော့စ်ပေါ့</string>
     <string name="tether_settings_title_bluetooth">ဘလူးတုသ် ဒေတာချိတ်ဆက်ခြင်း</string>
     <string name="tether_settings_title_usb_bluetooth">ဒေတာချိတ်ဆက်ခြင်း</string>
-    <string name="tether_settings_title_all">တီးတားရင်း &amp;နှင့် သယ်နိုင်သော ဟော့စပေါ့</string>
+    <string name="tether_settings_title_all">ဒေတာချိတ်ဆက်ခြင်း &amp; ခရီးဆောင် ဟော့စပေါ့</string>
     <string name="managed_user_title">အက်ပ်များအလုပ်အားလုံး</string>
     <string name="user_guest">ဧည့်သည်</string>
     <string name="unknown">အမည်မသိ</string>
@@ -679,6 +681,7 @@
     <string name="security_enable_widgets_title">ဝဒ်ဂျက်များဖွင့်ရန်</string>
     <string name="security_enable_widgets_disabled_summary">အက်ဒ်မင်မှ အသုံးမပြုနိုင်ရန် ပိတ်ထားခြင်း</string>
     <string name="owner_info_settings_summary">မရှိ</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">ဥပမာ၊ Joe ၏ Android</string>
     <string name="user_info_settings_title">သုံးစွဲသူအကြောင်း</string>
     <string name="show_profile_info_on_lockscreen_label">သော့ခတ်ထားသောမျက်နှာပြင်ပေါ်သုံးစွဲသူ၏အကြောင်းပြရန်</string>
@@ -940,6 +943,7 @@
     <string name="wifi_display_options_name">အမည်</string>
     <string name="wifi_band_24ghz">2.4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းနှင့် အခြားစက်ပစ္စည်း ထိလိုက်လျှင် အချက်အလက် ဖလှယ်ရန် ခွင့်ပြုသည်</string>
     <string name="android_beam_settings_title">Android လှိုင်း</string>
@@ -1057,7 +1061,7 @@
     <string name="wifi_hotspot_title">ချိတ်ဆက်ရန် လက်မှတ်ထိုး ဝင်မလား?</string>
     <string name="wifi_hotspot_message">%1$s က သင် ကွန်ရက်သို့ မချိတ်ဆက်မီ အွန်လိုင်း လက်မှတ်ထိုး ဝင်ရန် တောင်းဆိုသည်။</string>
     <string name="wifi_hotspot_connect">ချိတ်ဆက်ရန်</string>
-    <string name="no_internet_access_text">Wi-Fi ကွန်ရက် %1$sမှာ အင်တာနက်ဖြင့် မချိတ်ထားပါ။ အသုံးပြုလိုပါသလား?</string>
+    <string name="no_internet_access_text">Wi-Fi ကွန်ရက် %1$sသည် အင်တာနက်သို့ ဝင်ရောက်၍ ရမည်မဟုတ်ပါ။ ဆက်လက် အသုံးပြုလိုပါသလား?</string>
     <string name="no_internet_access_remember">ဤကွန်ယက်အား ထပ်မံမေးမြန်းခြင်း မပြုရန်</string>
     <string name="wifi_connect">ချိတ်ဆက်ရန်</string>
     <string name="wifi_failed_connect_message">ကွန်ရက်ကို ချိတ်ဆက်ရန် မအောင်မြင်ခဲ့ပါ</string>
@@ -1617,8 +1621,8 @@
     <string name="lockpassword_choose_your_pattern_header">သင့်ပုံစံသတ်မှတ်ပါ</string>
     <string name="lockpassword_choose_your_pin_header">သင့်PINအား သတ်မှတ်ပါ</string>
     <string name="lockpassword_confirm_your_password_header">စကားဝှက်အား အတည်ပြုပါ</string>
-    <string name="lockpassword_confirm_your_pattern_header">သင့်ပုံစံအား အတည်ပြုပါ</string>
-    <string name="lockpassword_confirm_your_pin_header">သင့်ပင်ကို အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_pattern_header">ပုံဖော်မှုအား အတည်ပြုပါ</string>
+    <string name="lockpassword_confirm_your_pin_header">PINအား အတည်ပြုပါ</string>
     <string name="lockpassword_confirm_passwords_dont_match">စကားဝှက် မကိုက်ညီပါ</string>
     <string name="lockpassword_confirm_pins_dont_match">PINs မကိုက်ညီပါ</string>
     <string name="lockpassword_choose_lock_generic_header">သော့ခတ်မျက်နှာပြင်ရွေးပါ</string>
@@ -1639,17 +1643,17 @@
     <string name="lockpassword_strong_auth_required_reason_restart_work_password">ရှေ့ဆက်ရန် သင့်အလုပ် စကားဝှက်ကို ထည့်ပါ။ စက်ပစ္စည်း ပြန်စပြီးနောက် ၎င်းကိုလိုအပ်ပါသည်။</string>
     <string name="lockpassword_invalid_pin">မမှန်သော PIN</string>
     <string name="lockpassword_invalid_password">စကားဝှက်မမှန်ကန်ပါ</string>
-    <string name="lockpattern_need_to_unlock_wrong">ပြန်ကြိုးစားကြည့်ပါ-</string>
+    <string name="lockpattern_need_to_unlock_wrong">ထပ်ကြိုးစား−</string>
     <string name="lock_settings_title">စက်လုံခြုံရေး</string>
     <string name="lockpattern_change_lock_pattern_label">သော့ဖွင့်ပုံစံပြောင်းပါ</string>
     <string name="lockpattern_change_lock_pin_label">ပင်ကို ပြောင်းလဲမည်</string>
-    <string name="lockpattern_recording_intro_header">သော့ဖြည်သော ပုံဖော်မှုတစ်ခု ဆွဲပါ-</string>
+    <string name="lockpattern_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ−</string>
     <string name="lockpattern_recording_intro_footer">အကူအညီအတွက် မီနူးအား ထိနှိပ်ပါ</string>
     <string name="lockpattern_recording_inprogress">ပြီးဆုံးပါက သင့်လက်ချောင်းအား ဖယ်လိုက်ပါ</string>
     <string name="lockpattern_recording_incorrect_too_short">အနည်းဆုံး အစက် %d စက်ကိုဆက်ပါ။.ထပ်မံကြိုးစားပါဦး။</string>
-    <string name="lockpattern_pattern_entered_header">ပုံဖော်မှုကို မှတ်ပြီးပါပြီ</string>
-    <string name="lockpattern_need_to_confirm">သော့ဖြည်သော ပုံဖော်မှုကို အတည်ပြုရန် နောက်တစ်ကြိမ်ထပ်ဆွဲပါ-</string>
-    <string name="lockpattern_pattern_confirmed_header">သော့ဖြည်သော ပုံဖော်မှုအသစ်-</string>
+    <string name="lockpattern_pattern_entered_header">ပုံစံကို မှတ်ထားပြီးပြီ</string>
+    <string name="lockpattern_need_to_confirm">အတည်ပြုရန်သော့ဖွင့်ပုံစံကို တစ်ကြိမ်ထပ်ဆွဲပါ−</string>
+    <string name="lockpattern_pattern_confirmed_header">သင့်သော့ဖွင့်ပုံစံအသစ်−</string>
     <string name="lockpattern_confirm_button_text">အတည်ပြုသည်</string>
     <string name="lockpattern_restart_button_text">ထပ်ဆွဲပါ</string>
     <string name="lockpattern_retry_button_text">ရှင်းလင်း</string>
@@ -1857,7 +1861,7 @@
     <string name="hardkeyboard_category">ခလုတ်ပါဝင်သောကီးဘုတ်ဆက်တင်များ</string>
     <string name="auto_punctuate_summary">"Space key အားနှစ်ခါနှိပ်ပါက  \".\" အား ထည့်မည်"</string>
     <string name="show_password">စကားဝှက်များ မြင်သာစေခြင်း</string>
-    <string name="ime_security_warning">%1$s သည် လျို့ဝှက်စကားလုံးများ၊ အကြွေးကတ်နံပါတ်များ နှင့်အခြားပုဂ္ဂိုလ်ရေးရာများအားလုံးကို မှတ်ထားနိုင်ပါသည်။</string>
+    <string name="ime_security_warning">%1$sသည် သင်ရိုက်ထည့်သော စကားဝှက်များ၊ ခရက်ဒစ်ကဒ် နံပါတ်များနှင့် အခြားကိုယ်ရေးဒေတာများကို မှတ်ထားနိုင်သည်။</string>
     <string name="spellchecker_security_warning">ဤစာလုံးပေါင်းစစ်ဆေးရာတွင် သင့်ကိုယ်ရေးအချက်အလက်များဖြစ်သော စကားဝှက်များနှင့် ကရက်ဒစ်ကဒ်နံပါတ်စသည်တို့အပါအဝင် သင်ရိုက်ထည့်သောစာများအားလုံးကို ရယူသွားမည်ဖြစ်သည်။ %1$sဤစာလုံးပေါင်းစစ်ဆေးခြင်းကို အသုံးပြုမည်လား?</string>
     <string name="spellchecker_quick_settings">ဆက်တင်များ</string>
     <string name="spellchecker_language">ဘာသာစကား</string>
@@ -2206,6 +2210,7 @@
     <string name="gadget_title">ဖွင့်ပိတ်ထိန်းချုပ်မှု</string>
     <string name="gadget_toggle_wifi">Wi-Fi ဆက်တင်များအား အသစ်မွမ်းမံနေသည်</string>
     <string name="gadget_toggle_bluetooth">ဘလူးတုသ်ဆက်တင်ကို တိုးမြင့်မှု</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">ပွင့်</string>
     <string name="gadget_state_off">ပိတ်</string>
     <string name="gadget_state_turning_on">ပွင့်နေသည်</string>
@@ -2383,6 +2388,7 @@
     <string name="delete">ဖျက်ရန်</string>
     <string name="misc_files">အသေးအဖွဲဖိုင်များ</string>
     <string name="misc_files_selected_count">%2$d ထဲမှ%1$d ရွေးမည်</string>
+    <string name="misc_files_selected_count_bytes">%2$sထဲမှ %1$s</string>
     <string name="select_all">အားလုံးရွေးချယ်ရန်</string>
     <string name="data_usage_summary_title">ဒေတာအသုံးပြုမှု</string>
     <string name="data_usage_app_summary_title">အက်ပ်ဒေတာ သုံးစွဲမှု</string>
@@ -2629,6 +2635,7 @@
     <string name="nfc_payment_no_apps">စတိုးဆိုင်များတွင် သင်၏ ဖုန်းဖြင့် ငွေပေးချေပါ</string>
     <string name="nfc_payment_default">အလိုအလျောက် ငွေချေမှု</string>
     <string name="nfc_payment_default_not_set">မသတ်မှတ်ထားပါ</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">ပုံသေကို အသုံးပြုရန်</string>
     <string name="nfc_payment_favor_default">အမြဲတမ်း</string>
     <string name="nfc_payment_favor_open">အခြား ငွေပေးချေရေး အက်ပ် ပွင့်နေချိန်မှ လွဲပြီး</string>
@@ -2689,6 +2696,7 @@
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
+    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_cards_changed_message">ဆင်းမ် ကဒ်များ ပြောင်းလဲသွားပြီ</string>
     <string name="sim_cards_changed_message_summary">လှုပ်ရှားမှုများ သတ်မှတ်ရန် တို့ပါ</string>
     <string name="sim_cellular_data_unavailable">ဆဲလ်လူလာ ဒေတာ မရှိပါ</string>
@@ -2809,6 +2817,7 @@
     <string name="zen_mode_option_important_interruptions">ဦးစားပေးများသာ</string>
     <string name="zen_mode_option_alarms">နှိုးစက်များသာ</string>
     <string name="zen_mode_option_no_interruptions">လုံးဝ တိတ်ဆိတ်ခြင်း</string>
+    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">မြင်ကွင်းအနှောင့်အယှက်များကို ပိတ်ဆို့ပါ</string>
     <string name="configure_notification_settings">အကြောင်းကြားချက်များ သတ်မှတ်ခြင်း</string>
     <string name="advanced_section_header">အဆင့်မြင့်</string>
@@ -2902,6 +2911,7 @@
     <string name="zen_mode_schedule_alarm_title">နိုးစက်သည် ပြီးဆုံးချိန်ကို အပေါ်မှထပ်နိုင်သည်</string>
     <string name="zen_mode_schedule_alarm_summary">ပြီးဆုံးချိန် သို့မဟုတ် နောက်ထပ်နိုးစက် မည်သည်ကအရင်လာသည်ဖြစ်စေ ရပ်ပါ</string>
     <string name="summary_divider_text">"၊ "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s မှ %2$s</string>
     <string name="zen_mode_calls">ခေါ်ဆိုမှုများ</string>
     <string name="zen_mode_messages">မက်ဆေ့ချ်များ</string>
@@ -3083,6 +3093,8 @@
     <string name="memory_avg_use">ပျမ်းမျှ</string>
     <string name="memory_max_desc">အများဆုံး %1$s</string>
     <string name="memory_avg_desc">ပျမ်းမျှ %1$s</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
+    <string name="process_format">%1$s ( %2$d )</string>
     <string name="high_power_apps">ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှု</string>
     <string name="high_power_filter_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
     <string name="high_power_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
@@ -3359,6 +3371,7 @@
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
     <string name="dndm_auto_time_turn_on_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ဖွင့်ပါ</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
@@ -3647,6 +3660,7 @@
     <string name="notification_reboot_title_hm">အပ်ဒိတ်ကို အသုံးချရန်အတွက် ပိတ်ပြီးပြန်ဖွင့်ပါ</string>
     <string name="notification_reboot_summary_hm">သင့်စက်ပစ္စည်းကို ပိတ်ပြီးပြန်ဖွင့်ရန် တို့ပါ</string>
     <string name="notification_reboot_btn">ပိတ်၍ပြန်ဖွင့်ပါ</string>
+    <string name="miui_updater">Updater</string>
     <string name="giga_hertz">GHz</string>
     <string name="reading_data">အချက်အလက်ရယူနေသည်…</string>
     <string name="available_size">%s ရပါပြီ</string>
@@ -3662,7 +3676,7 @@
     <string name="no_account_found">No application supports adding accounts</string>
     <string name="xiaomi_cloud_service_disabled">ပိတ်ပါ</string>
     <string name="xiaomi_cloud_service_unknown">အမည်မသိ</string>
-    <string name="xiaomi_cloud_service_description">Mi Cloud syncs contacts, photos, and other items across your devices. \"Find device\" also requires Mi Cloud to work normally.</string>
+    <string name="xiaomi_cloud_service_description">Mi Cloud သည် အဆက်အသွယ်များ၊ ဓါတ်ပုံများနှင့် အခြားအိုင်တမ်များကို ဆင့်ခ်လုပ်ပေးနိုင်ပါသည်။ \"စက်ကို ရှာပါ\"သည်လည်း Mi Cloud လိုအပ်သည်။</string>
     <string name="sure_sync_now">အိုင်တမ်များကို ယခုဆင့်ခ်လုပ်မည်လား?</string>
     <string name="sync_now">ဆင့်ခ်</string>
     <string name="sms_received_sound_title">မက်ဆေ့ခ်ျ ရရှိပြီးပြီ</string>
@@ -3817,7 +3831,7 @@
     <string name="power_usage_history">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="default_usb_mode">USB ဆက်သွယ်မှု</string>
     <string name="wifi_tether_settings_title">ကိုယ်ပိုင်ဟော့စပေါ့</string>
-    <string name="tether_and_hotspot_title">ဒေတာချိတ်ဆက်ခြင်း &amp; သယ်ယူလွယ် ဟော့စပေါ့</string>
+    <string name="tether_and_hotspot_title">ဒေတာချိတ်ဆက်ခြင်း &amp; ခရီးဆောင် ဟော့စပေါ့</string>
     <string name="lock_settings">သော့ခတ်မျက်နှာပြင် &amp; စကားဝှက်</string>
     <string name="second_space">ဒုတိယနေရာ</string>
     <string name="xspace">နှစ်ခုတွဲအက်ပ်</string>
@@ -4237,7 +4251,7 @@
     <string name="wifi_enable_data_and_wifi_roam">Wi-Fi လက်ထောက်</string>
     <string name="wifi_enable_data_and_wifi_roam_summary">Wi-Fi နှေးကွေးနေစဉ်တွင် Wi-Fi နှင့် မိုဘိုင်းဒေတာအကြား လွှဲပြောင်းမှုပြုလုပ်နိုင်ရန် နှစ်ခုလုံးအား ဖွင့်ထားပါ</string>
     <string name="nfc_category_title">NFC</string>
-    <string name="android_beam_tips">ကိရိယာနှစ်ခုသည် ထိနေကြောင်းသေချာပါစေ၊ ထို့နောက် သင့်ပို့လိုသော အကြောင်းအရာကို ထိလိုက်ပါ။</string>
+    <string name="android_beam_tips">စက်နှစ်ခုကို ထိထားပါ၊ ထို့နောက် သင်ပို့လိုသော အရာကို ထိနှိပ်ပါ။</string>
     <string name="bt_trace_log">ဘလူးတုသ် ခြေရာခံ လော့ခ်</string>
     <string name="bt_trace_log_summary">ဘလူးတုသ် ခြေရာခံ လော့ခ်</string>
     <string name="bluetooth_ask_enablement_detected">"  မှ ဘလူးတုသ်အား ဖွင့်လိုသည်"</string>
@@ -4651,7 +4665,7 @@
     <string name="wifi_eap_sim_simcard">SIM ရွေးပါ</string>
     <string name="confirm_action">အိုကေ</string>
     <string name="cancel_action">ပယ်ဖျက်ပါ</string>
-    <string name="pref_edge_handgrip">စာသား ထိန်းချုပ်မှုများ</string>
+    <string name="pref_edge_handgrip">ဘေးအနား ထိန်းချုပ်မှုများ</string>
     <string name="edge_mode_notification_title">အစွန်ထိန်းချုပ်မှုများအား သုံးပါ</string>
     <string name="edge_mode_notification_summary">ပိုမိုသိရှိနိုင်ရန် ထိနှိပ်ပါ။</string>
     <string name="edge_mode_photo">ဓာတ်ပုံရိုက်ပါ</string>
@@ -4662,7 +4676,7 @@
     <string name="edge_mode_back_summary">နောက်သို့ပြန်သွားရန် သင့်ဖုန်း၏အစွန်အား နှစ်ချက်ဆက်တိုက် ထိနှိပ်ပါ။</string>
     <string name="edge_mode_clean_summary">စနစ်ယာယီဖိုင်များအား ရှင်းလင်းရန် ဖုန်းအစွန်းဖက်များအား တစ်စပ်တည်း ဆွဲချပါ</string>
     <string name="edge_mode_screenshot_summary">ဖုန်းမျက်နှာပြင်ရိုက်ချက်ရယူရန် အစွန်းများကို နှစ်ချက်ထိနှိပ်ပါ။</string>
-    <string name="edge_mode_guide_title">အစွန်ထိန်းချုပ်ခြင်းအား သုံးရန် ဟိုက်လိုက်ပြထားသော နေရာအား ထိနှိပ်ပါ</string>
+    <string name="edge_mode_guide_title">ဘေးအနားထိန်းချုပ်မှုအား သုံးရန် ဟိုက်လိုက်ပြထားသော နေရာကို ထိနှိပ်ပါ</string>
     <string name="apply_password_to_category_title">သော့ဖြည်ရန်လိုအပ်သည်</string>
     <string name="turn_on_security_lock">မျက်နှာပြင်သော့ခတ်အား ရွေးချယ်ပါ</string>
     <string name="turn_off_common_password_confirm_msg">မျက်နှာပြင်သော့ခတ်သည်လည်း ပိတ်သွားလိမ့်မည်။</string>
@@ -4833,6 +4847,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">ASDiv အခြေအနေ-</string>
     <string name="app_factory_reset_dlg_title">အသစ်မွမ်းမံမှုများကို ဖြုတ်ချမည်လား?</string>
     <string name="app_factory_reset_dlg_text">ဤAndroidစနစ်အက်ပ်ရှိ အသစ်မွမ်းမံမှုအားလုံးကို ဖြုတ်ချလိုက်လိမ့်မည်။</string>
@@ -4858,7 +4873,7 @@
     <string name="keywords_torch">ဓါတ်မီး၊လက်ကိုင်ဓါတ်မီး</string>
     <string name="keywords_sync">ဆင့်ခ်၊ဆင့်လုပ်ခြင်း၊ကလောက်</string>
     <string name="keywords_paper_mode">ဖလက်စ်၊စာဖတ်၊စာဖတ်မုတ်၊အပြာရောင်အလင်း၊မျက်လုံးကို ကာကွယ်</string>
-    <string name="keywords_quick_ball">အမြန်စက်လုံး၊ရှော့ကတ်၊ရှော့ကတ်များ၊ခလုတ်များ၊ခလုတ်</string>
+    <string name="keywords_quick_ball">အမြန်စက်လုံး၊ရှော့ကဒ်၊ရှော့ကဒ်များ၊ခလုတ်များ၊ခလုတ်</string>
     <string name="storage_wizard_format_confirm_third_body">^1အား ဖော်မတ် ချပြီးပြီ ဖြစ်ပါသည်</string>
     <string name="http_invoke_app">ဝက်ဘ်အက်ပ်အသစ်များ</string>
     <string name="http_invoke_app_summary">အက်ပ်များအား မတပ်ဆင်ဘဲနှင့် ပိုမိုလျှင်မြန်စွာ ဖွင့်ပါ</string>
@@ -4978,7 +4993,6 @@
     <string name="manage_facerecoginition_text">မျက်နှာဒေတာကို စီမံမည်</string>
     <string name="face_unlock_enable">Face unlock ဖွင့်ထားသည်</string>
     <string name="face_unlock_disable">Face unlock ပိတ်ထားသည်</string>
-    <string name="lockpattern_recording_intro_header_second_space">ဒုတိယနေရာအတွက် သော့ဖြည်သော ပုံဖော်မှုတစ်ခု ဆွဲပါ−</string>
     <string name="lockpattern_pattern_same_with_owner">ပထမနေရာအတွက် စကားဝှက်နှင့် တူ၍မရပါ</string>
     <string name="lockpattern_pattern_same_with_security_space">ဒုတိယနေရာအတွက် စကားဝှက်နှင့် တူ၍မရပါ</string>
     <string name="lockpattern_pattern_same_with_others">အခြားနေရာမှ စကားဝှက်နှင့် တူ၍မရပါ</string>
@@ -5109,13 +5123,13 @@
     <string name="delete_fingerprint_confirm_msg">လက်ဗွေအား ဖယ်ရှားမလား?</string>
     <string name="add_fingerprint_text">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="add_fingerprint_instruction_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
-    <string name="add_back_fingerprint_instruction_msg">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
-    <string name="add_front_fingerprint_instruction_msg">လက်ဗွေအာရုံခံကိရိယာသည် သင့်စက်၏နောက်ကျောတွင် ရှိသည်။</string>
-    <string name="add_fingerprint_edge_instruction_title">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
-    <string name="add_fingerprint_edge_instruction_msg">အာရုံခံကိရိယာမှ သင့်လက်ဗွေရာ၏အနားများကို မှတ်တမ်းတင်နိုင်ရန် လက်ချောင်းကို ရွှေ့ပါ။</string>
+    <string name="add_back_fingerprint_instruction_msg">Place your finger on the sensor</string>
+    <string name="add_front_fingerprint_instruction_msg">Fingerprint sensor is on the back of your device.</string>
+    <string name="add_fingerprint_edge_instruction_title">Move your finger slightly</string>
+    <string name="add_fingerprint_edge_instruction_msg">Move your finger so the sensor could record the edges of your fingerprint.</string>
     <string name="information_dialog_button_text">နားလည်ပါပြီ</string>
     <string name="add_fingerprint_toast_text">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ</string>
-    <string name="add_fingerprint_similar_fingerprint_input_error_msg">သင့်လက်ချောင်းအား ဖြည်းညင်းစွာရွှေ့ပါ</string>
+    <string name="add_fingerprint_similar_fingerprint_input_error_msg">Move your finger slightly</string>
     <string name="add_fingerprint_failed_retry_text">လက်ဗွေအား မပေါင်းထည့်နိုင်ပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="add_fingerprint_put_finger_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="add_fingerprint_put_finger_msg">တုန်ခါမှုရှိသည်အထိ သင်၏လက်ချောင်းအား အာရုံခံကိရိယာပေါ်တွင် တင်ထားပါ။</string>
@@ -5123,7 +5137,7 @@
     <string name="add_fingerprint_name_suggest_text">လက်ဗွေအမည်</string>
     <string name="add_fingerprint_success_msg">အောင်မြင်စွာ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="add_fingerprint_finished_button_text">ပြီးပါပြီ</string>
-    <string name="add_fingerprint_instruction_msg">စက်အား သော့ဖြည်ရန်နှင့် ငွေချေမှုများပြုလုပ်ရန် လက်ဗွေကို အသုံးပြုမည်။</string>
+    <string name="add_fingerprint_instruction_msg">Use your fingerprint to unlock your device and complete payments.</string>
     <string name="wakeup_for_keyguard_notification_title">အကြောင်းကြားစာများရှိပါက သော့ဖတ်မျက်နှာပြင်အား နှိုးလိုက်ပါ</string>
     <string name="secure_keyguard_business_title">မျက်နှာပြင်လော့ခ်တစ်ခု သတ်မှတ်မည်</string>
     <string name="fingerprint_and_password_entrance_title">မျက်နှာပြင်လော့ခ် &amp; လက်ဗွေ</string>
@@ -5140,6 +5154,7 @@
     <string name="delete_or_keep_legacy_passwords_confirm_msg">ဤလက်ဗွေအား ဖျက်ပစ်မလား?</string>
     <string name="delete_legacy_fingerprint">ဖျက်ပစ်မည်</string>
     <string name="keep_legacy_fingerprint">သိမ်းထားမည်</string>
+    <string name="lockpattern_recording_intro_header_second_space">ဒုတိယနေရာအတွက် သော့ဖွင့်ပုံစံအား ဆွဲပါ</string>
     <string name="lock_screen_unlock_show">သော့ခတ်မျက်နှာပြင်သို့ တိုက်ရိုက်သွားမည်</string>
     <string name="lock_screen_unlock_show_summary">နိုးထလျှင် ပင်မမျက်နှာပြင် သို့မဟုတ် စကားဝှက်ထည့်သွင်းခြင်းသို့ တိုက်ရိုက်သွားပါ</string>
     <string name="security_keyguard_category_name">သော့ခတ်မျက်နှာပြင်</string>
@@ -5275,6 +5290,6 @@
     <string name="status_bar_screen_button_desc">မျက်နှာပြင်ခလုတ်များအား ကွယ်ဝှက်ရန် ဆွဲချပါ</string>
     <string name="suspension_ball_enable">အမြန်စက်လုံး ရှော့ကဒ်</string>
     <string name="suspension_ball_enable_desc">ရှော့ကဒ်သုံး၍ အမြန်စက်လုံးအား အဖွင့်အပိတ်လုပ်ရန်</string>
-    <string name="setup_add_fingerprint_failed_retry_text">လက်ဗွေအား ပေါင်းထည့်၍ မရပါ</string>
+    <string name="setup_add_fingerprint_failed_retry_text">လက်ဗွေအား မပေါင်းထည့်နိုင်ပါ</string>
     <string name="input_password_hint_text">စကားဝှက် ထည့်သွင်းပါ</string>
 </resources>

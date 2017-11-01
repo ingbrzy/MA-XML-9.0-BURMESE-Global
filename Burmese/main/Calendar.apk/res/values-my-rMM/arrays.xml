@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="change_response_labels">
-        <item>ဤပွဲစဉ်မျှသာ</item>
-        <item>ဤစီးရီးအတွင်းရှိပွဲစဉ်အားလုံး</item>
+        <item>ဤလုပ်ငန်းစဉ်သာ</item>
+        <item>ဤစီးရီးရှိ လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
     <string-array name="delete_repeating_labels">
-        <item>ဤပွဲစဉ်မျှသာ</item>
-        <item>ဤအရာနှင့် အနာဂတ်ပွဲစဉ်များ</item>
-        <item>ပွဲစဉ်အားလုံး</item>
+        <item>ဤလုပ်ငန်းစဉ်သာ</item>
+        <item>ယခုနှင့် နောင်လုပ်ငန်းစဉ်များ</item>
+        <item>လုပ်ငန်းစဉ်အားလုံး</item>
     </string-array>
     <string-array name="ordinal_labels">
         <item>ပထမ</item>
@@ -28,9 +28,9 @@
         <item>တနင်္လာနေ့</item>
     </string-array>
     <string-array name="response_labels1">
-        <item>တုန့်ပြန်မှုမရှိ</item>
-        <item>ဟုတ်သည်</item>
-        <item>ဖြစ်နိုင်သည်</item>
+        <item>တုံ့ပြန်မှု မရှိပါ</item>
+        <item>ဟုတ်ပါတယ်</item>
+        <item>ဖြစ်ကောင်းဖြစ်နိုင်သည်</item>
         <item>မဟုတ်ပါ</item>
     </string-array>
     <string-array name="timezone_labels">
@@ -157,6 +157,10 @@
         <item>၁ရက် မတိုင်ခင်က</item>
         <item>၂ ရက်မတိုင်ခင်က</item>
         <item>၁ ပတ်မတိုင်ခင်က</item>
+    </string-array>
+    <string-array name="english_premium_league">
+        <item>၄</item>
+        <item>@string/english_premium_league</item>
     </string-array>
     <string-array name="gemini_info">
         <item>မေထုန်ရာသီဖွား</item>
@@ -313,61 +317,5 @@
     <string-array name="widget_style_list">
         <item>ဖောက်ထွင်းမြင်သော</item>
         <item>အဖြူနောက်ခံ</item>
-    </string-array>
-    <string-array name="availability">
-        <item>အလုပ်များသော</item>
-        <item>ရနိုင်သော</item>
-        <item>စမ်းရန်ဖြစ်သော</item>
-    </string-array>
-    <string-array name="buttons_list">
-        <item>နေ့</item>
-        <item>အပတ်</item>
-        <item>လ</item>
-        <item>ပွဲစဉ်များ</item>
-    </string-array>
-    <string-array name="delete_repeating_labels_no_selected">
-        <item>ဤအရာ &amp; အနာဂတ်ပွဲစဉ်များ</item>
-        <item>ပွဲစဉ်အားလုံး</item>
-    </string-array>
-    <string-array name="preferences_default_reminder_labels">
-        <item>အသိပေးသူမရှိပါ</item>
-        <item>၀ မိနစ်</item>
-        <item>၅ မိနစ်</item>
-        <item>၁၀ မိနစ်</item>
-        <item>၁၅ မိနစ်</item>
-        <item>မိနစ် ၃၀</item>
-        <item>၁ နာရီ</item>
-        <item>၁ ရက်</item>
-        <item>၂ ရက်</item>
-        <item>၁ ပတ်</item>
-    </string-array>
-    <string-array name="quick_response_defaults">
-        <item>မိနစ်အနည်းငယ်သာ နောက်ကျပြီး သွားနေပါသည်</item>
-        <item>၁၀ မိနစ်အတွင်း ရှိနေပါ</item>
-        <item>ကျွန်ုပ်မပါဘဲ ဆက်လုပ်ပါ</item>
-        <item>စိတ်မကောင်းပါ၊ ကျွန်ုပ်မလုပ်နိုင်ခဲ့ပါ။ ကျွန်ုပ်တို့ အစီစဉ် ပြန်ဆွဲရပါမည်</item>
-    </string-array>
-    <string-array name="reminder_methods_labels">
-        <item>အသိပေးချက်</item>
-        <item>အီးမေးလ်</item>
-        <item>စာသားမက်ဆေ့ချ်</item>
-        <item>နှိုးစက်</item>
-    </string-array>
-    <string-array name="reminder_minutes_labels">
-        <item>အသိပေးသူမရှိပါ</item>
-        <item>၀ မိနစ်</item>
-        <item>၅ မိနစ်</item>
-        <item>၁၀ မိနစ်</item>
-        <item>၁၅ မိနစ်</item>
-        <item>မိနစ် ၃၀</item>
-        <item>၁ နာရီ</item>
-        <item>၁ ရက်</item>
-        <item>၂ ရက်</item>
-        <item>၁ ပတ်</item>
-    </string-array>
-    <string-array name="visibility">
-        <item>မူရင်းအတိုင်း</item>
-        <item>ကိုယ်ပိုင်</item>
-        <item>အများပိုင်</item>
     </string-array>
 </resources>

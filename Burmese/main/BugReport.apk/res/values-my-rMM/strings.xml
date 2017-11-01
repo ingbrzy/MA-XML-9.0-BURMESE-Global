@@ -11,7 +11,7 @@
     <string name="michat_failed_to_fetch_fql">FAQ အချက်အလက်များအား မရနိုင်ခဲ့ပါ၊ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးကြည့်ပါ</string>
     <string name="michat_wait_for_a_moment">ခဏစောင့်ပါ၊ အကူအညီရောက်လာပါတော့မယ်!</string>
     <string name="michat_product_click_text">ကြည့်ပါ</string>
-    <string name="michat_webview_title">အသေးစိတ်များကို ကြည့်ပါ</string>
+    <string name="michat_webview_title">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="michat_message_error_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရနိုင်ခဲ့ပါ</string>
     <string name="michat_menu_copy_text">ကူးယူ</string>
     <string name="michat_network_unavaliable">အချက်အလက်မရနိုင်ခဲ့၊ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးကြည့်ပါ</string>
@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကတ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -244,7 +245,7 @@
     <string name="feedback_bug_status_change_notification_desc">%1$s ကိစ္စ \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s အကြံပြုချက်\"%2$s\"</string>
     <string name="feedback_submit_failed_notification_title">အစီရင်ခံစာကို ပို့လို့မရပါ</string>
-    <string name="feedback_submit_failed_notification_desc">အသေးစိတ်များကို ကြည့်ပါ</string>
+    <string name="feedback_submit_failed_notification_desc">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="feedback_submit_failed_notification_retry">ထပ်မံပေးပို့ပါ</string>
     <string name="from">%1$s မှ</string>
     <string name="topic_author">1#</string>

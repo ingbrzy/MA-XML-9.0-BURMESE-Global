@@ -16,7 +16,7 @@
     <string name="status_bar_toggle_wifi">Wi-Fi</string>
     <string name="status_bar_toggle_power_mode">စွမ်းဆောင်ရည်</string>
     <string name="status_bar_toggle_wifi_ap">ကြိုးမဲ့အင်တာနက်လက်ခံမှုအချက်ပြ</string>
-    <string name="status_bar_toggle_quiet_mode">DND</string>
+    <string name="status_bar_toggle_quiet_mode">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="status_bar_toggle_paper_mode">စာဖတ်နိုင်သည့်နည်းပုံစံ</string>
     <string name="status_bar_toggle_midrop">Mi Drop</string>
     <string name="status_bar_toggle_cast">ပြသ</string>

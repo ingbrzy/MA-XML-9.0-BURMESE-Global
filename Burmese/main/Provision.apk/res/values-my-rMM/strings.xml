@@ -71,4 +71,7 @@
     <string name="two_dimensional_code_scan">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="user_strayed_warning">ဤစာမျက်နှာသည် စက်ရုံစစ်ဆေးရေးအတွက်ဖြစ်သည်၊ နောက်ဆုတ်ခလုတ်ကို နှိပ်၍ထွက်ပါ။</string>
     <string name="fail_to_generate_qr_code">QR ကုဒ် မထွက်ပေါ်လာပါ။ ဤစာမျက်နှာကို ပြန်ဖွင့်ပါ။</string>
+    <string name="enable_accessibility_canceled">Accessibility canceled.</string>
+    <string name="accessibility_enabled">Accessibility enabled.</string>
+    <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
 </resources>

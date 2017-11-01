@@ -33,7 +33,7 @@
     <string name="activity_title_apk">ပက်ကေ့ချ်များ</string>
     <string name="activity_title_residual">အကြွင်းအကျန်များ</string>
     <string name="btn_text_quick_scan">စကန်ဖတ်ပါ</string>
-    <string name="optimizecenter_data_support_cm">သန့်ရှင်းရေးမာစတာမှ အားပေးထားသော</string>
+    <string name="optimizecenter_data_support_cm">သန့်ရှင်းရေးမာစတာမှ ပံ့ပိုးသည်</string>
     <string name="optimizecenter_data_support_tc">Tencent မှ အားပေးထားသော</string>
     <string name="hints_app_uninstall_residual">တပ်ဆင်မထားသော အကြင်းအကျန်ဖိုင်များကို သန့်ရှင်းရေးလုပ်မလား။</string>
     <string name="button_text_cancel">ပယ်ဖျက်ပါ</string>
@@ -84,7 +84,7 @@
     <string name="activity_title_uninstall_apps">အက်ပ်များ</string>
     <string name="deepclean_title_uninstall_apps">အသုံးနည်းသော အက်ပ်များ</string>
     <string name="toast_garbage_cleanup_success">သန့်ရှင်းရေး ပြီးဆုံးပါပြီ</string>
-    <string name="toast_add_white_list_success">ခြွင်းချက်များသို့ အောင်မြင်စွာပေါင်းထည့်ခဲ့သည်</string>
+    <string name="toast_add_white_list_success">ခြွင်းချက်များသို့ ပေါင်းထည့်ပြီးပြီ</string>
     <string name="hints_cache_header_left">ယာယီသိမ်းဖိုင်များ</string>
     <string name="hints_ad_header_left">အတားဆီး ဖိုင်များ</string>
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
@@ -99,7 +99,7 @@
     <string name="apk_status_installed_old">ဗားရှင်းအဟောင်း</string>
     <string name="apk_status_install">တပ်ဆင်ထားသည်</string>
     <string name="apk_status_duplicate">မိတ္တူ</string>
-    <string name="apk_status_damage">ပျက်စီးနေသည်</string>
+    <string name="apk_status_damage">ပျက်စီးသွားသည်</string>
     <string name="cache_title_empty_folder">ဖိုလ်ဒါအလွတ် (%d ခု)</string>
     <string name="cache_title_empty_folder2">ဖိုလ်ဒါအလွတ်</string>
     <string name="dialog_msg_check_all">%2$d အမယ်များ ပါရှိသော %1$s ကို ရွေးရန် အတည်ပြုပါ</string>
@@ -253,7 +253,7 @@
     <string name="hints_storage_clean_size">ရှင်းလိုက်သော အတွင်းသိုလှောင်မှု %s</string>
     <string name="hints_storage_news">လုံခြုံရေးဆိုင်ရာ သတင်းများ</string>
     <string name="hints_list_item_clean">ရှင်းလင်း</string>
-    <string name="hints_list_item_keep">ထိန်းထား</string>
+    <string name="hints_list_item_keep">သိမ်းထားမည်</string>
     <string name="hints_list_item_lock">ထိန်းထား</string>
     <string name="hints_list_item_unlock">ရှင်းလင်း</string>
     <string name="memeory_check_content">%1$d အက်ပ်စ်၊ မှတ်ဉာဏ် %2$s</string>
@@ -363,7 +363,7 @@
     <string name="hints_quick_deep_clean">ယခုရှင်းလင်း</string>
     <string name="hints_quick_deep_uninstall">ယခုဖျက်မည်လား</string>
     <string name="hints_cache_msd_title">Delta အက်ပ်ဒိတ်</string>
-    <string name="hints_cache_msd_desc">Delta အက်ပ်ဒိတ်အားဖျက်ခြင်းဖြင့် အက်ပ်အသုံးပြုခြင်းအား သက်ရောက်မှုရှိလိမ့်မည်မဟုတ်</string>
+    <string name="hints_cache_msd_desc">Delta အက်ပ်ဒိတ်အား ဖျက်ပါက အက်ပ်အသုံးပြုခြင်းကို မထိခိုက်ပါ</string>
     <string name="hints_installed_app_never">ဘယ်တော့မှ မသုံးပါ</string>
     <string name="hints_installed_app_fewer">အသုံးနည်းသော</string>
     <string name="hints_installed_app_near">မကြာခဏသုံးသော</string>
@@ -383,8 +383,8 @@
     <string name="information_setting">အကြံပြုချက်များ</string>
     <string name="load_only_under_wlan">Wi-Fi ကိုသာသုံးပြီး လုဒ်တင်ပါ။</string>
     <string name="recommend_news">အကြံပြုချက်များ လက်ခံရရှိသည်။</string>
-    <string name="dialog_title_stop_scan">စကန်လုပ်ခြင်းရပ်ပါ</string>
-    <string name="dialog_msg_stop_scan">နောက်လုပ်မည့် ရှင်းလင်းသည့် စကန်များအား ရပ်မည်လား?</string>
+    <string name="dialog_title_stop_scan">စကန်ဖတ်ခြင်းကို ရပ်မည်</string>
+    <string name="dialog_msg_stop_scan">လုပ်ဆောင်နေသော ရှင်းလင်းရေးစကန်များအား ရပ်မလား?</string>
     <string name="dialog_title_esc_cleanmaster">သန့်ရှင်းသူမှ ထွက်ပါ</string>
     <string name="dialog_msg_esc_cleanmaster">နောက်လုပ်မည့် ရှင်းလင်းသည့် စကန်များအား ရပ်မည်လား?</string>
     <string name="pref_category_title_engine_settings">စကန်ဆိုင်ရာ သတ်မှတ်ချက် ဆက်တင်များ</string>

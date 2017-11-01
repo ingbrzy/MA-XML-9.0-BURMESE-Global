@@ -57,7 +57,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
-    <string name="input_password_handle_sdcard_fs">ဒုတိယနေရာသို့ မဝင်မီ \"တုပ SD ကဒ်အရှိန်မြှင့်တင်ခြင်း\"ကို ပိတ်ပါ။</string>
+    <string name="input_password_handle_sdcard_fs">Turn off \"Mock SD card optimization\" in Settings > Additional settings > Developer options before entering Second space.</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
@@ -65,7 +65,7 @@
     <string name="fingerprint_enter_second_psw_title">ဒုတိယနေရာအတွက် စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_enter_second_psw_msg">လက်ဗွေသိရှိခြင်းအား အသုံးပြုနိုင်ရန် စက်အားပြန်လည်စတင်ပြီးနောက် ဒုတိယနေရာစကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Lite မုဒ်သုံးနေစဥ် ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ</string>
-    <string name="keyguard_charging_info_click_to_detail">အသေးစိတ်များကို ကြည့်ပါ</string>
+    <string name="keyguard_charging_info_click_to_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="keyguard_quick_charging_info_click_to_detail">အမြန်အားသွင်းခြင်း။အသေးစိတ်များကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
     <string name="keyguard_quickly_charging_info_charging_text">အမြန်အားသွင်းခြင်း…</string>
     <string name="keyguard_charging_info_finished_charging_text">အားပြည့်သွားပြီ</string>

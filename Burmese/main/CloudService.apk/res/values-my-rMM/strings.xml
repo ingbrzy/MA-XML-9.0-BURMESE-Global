@@ -61,7 +61,7 @@
     <string name="activate_number_change_dialog_message">VoIP ကိုသုံးပြီး ဖုန်းခေါ်ဆိုသည့်အခါ အခြားစက်များမှ မြင်နိုင်မည့် ဖုန်းနံပါတ်ကို ရွေးချယ်ပါ။</string>
     <string name="phone_number_may_required_dspt_provision">"ဤဝန်ဆောင်မှုသည် သင့်ဖုန်းနံပါတ်ကို လိုအပ်ကောင်း လိုအပ်နိုင်သည်။ "</string>
     <string name="phone_number_required_dspt_provision">"ဤဝန်ဆောင်မှုသည် သင့်ဖုန်းနံပါတ်ကိုလိုအပ်သည်။ "</string>
-    <string name="sync_resend_sms_dspt_provision">" အကယ်၍ SIM ကဒ်လဲလိုက်ပါက ဤဝန်ဆောင်မှုကို ပြန်လည်အသက်သွင်းရန် ဖြစ်လာခဲ့ပါက ဖုန်းလိုင်းဝန်ဆောင်မှု ဌာနသို့ ပြန်လည်အသက်သွင်းရန်မက်ဆေ့ချ်အတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။"</string>
+    <string name="sync_resend_sms_dspt_provision">" အကယ်၍ SIM ကဒ်လဲလိုက်ပါက ဤဝန်ဆောင်မှုကို ပြန်လည်အသက်သွင်းရန် ဖြစ်လာခဲ့ပါက ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနသို့ ပြန်လည်အသက်သွင်းရန်မက်ဆေ့ချ်အတွက် အခကြေးငွေပေးဆောင်ရနိုင်ပါသည်။"</string>
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">ဆင့်ခ်</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
@@ -257,7 +257,7 @@
     <string name="micloud_main_suggest_setting">ဆက်တင်များ ပြောင်းလဲပါ သို့မဟုတ် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_main_sync_pending">ဆင့်ခ်လုပ်ရန် စောင့်နေ</string>
     <string name="micloud_main_sync_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ</string>
-    <string name="micloud_main_detail">အသေးစိတ်များကို ကြည့်ပါ</string>
+    <string name="micloud_main_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="micloud_main_network_abnormal">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="micloud_main_sync_init">အချက်အလက် ရယူနေသည်</string>
     <string name="micloud_main_battery_low">ဆင့်ခ်လုပ်ရန် ဘက်ထရီအလုံအလောက်မရှိပါ</string>
@@ -492,7 +492,7 @@
     <string name="micloud_find_device_close_fail">စက်ရှာဖွေခြင်းအား ပိတ်၍မရပါ။</string>
     <string name="micloud_find_device_finish">ပြီးပါပြီ</string>
     <string name="micloud_find_device_guide_micloud">Mi ကလောက်ဖြင့်ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ</string>
-    <string name="micloud_find_device_guide_micloud_sub_content">ဆက်သွယ်မှုများ၊ ဓါတ်ပုံများ၊ နုတ်များအား Mi ကလောက်ဖြင့် ပိုမို ဆင့်ခ်လုပ်ပါ</string>
+    <string name="micloud_find_device_guide_micloud_sub_content">အဆက်အသွယ်များ၊ ဓါတ်ပုံများ၊ မှတ်စုများနှင့် အခြားအရာများအား Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="micloud_find_device_guide_fail_reopen">စက်ရှာဖွေခြင်းကို Mi အကောင့်-Mi Cloud တွင်ဖွင့်နိုင်သည်။</string>
     <string name="micloud_find_device_guide_fail_sub_net">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ။</string>
     <string name="micloud_find_device_guide_fail_sub_timeout">ကော်နက်ရှင် အချိန်ကုန်သွားပြီ။ နောက်မှ ပြန်လုပ်ကြည့်ပါ။</string>

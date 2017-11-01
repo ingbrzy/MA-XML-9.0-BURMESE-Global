@@ -45,6 +45,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="size_peta_byte">ပီတာဘိုက်</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">ပြီးပါပြီ</string>
     <string name="date_picker_dialog_title">နေ့စွဲ သတ်မှတ်ပါ</string>
     <string name="time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
