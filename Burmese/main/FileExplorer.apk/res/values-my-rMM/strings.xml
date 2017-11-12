@@ -168,7 +168,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">တီရာဘိုက်</string>
     <string name="petabyteShort">ပီတာဘိုက်</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">အတွင်းပိုင်း</string>
     <string name="sys_size_enable">" ရနိုင်သည်"</string>
     <string name="tools">တူးလ်များ</string>
@@ -428,7 +427,6 @@
     <string name="video_upload_btn_hint">MP4 ဗီဒီယိုများသည် 3s မှ 10min အကြာရှိသင့်ပါသည်</string>
     <string name="video_upload_btn">နောက်ထပ်</string>
     <string name="video_upload_title">ဗီဒီယို ရွေးပါ</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#ခေါင်းစဉ်ပေါင်း#</string>
     <string name="video_comment_hint">ခေါင်းစဉ်ရွေး</string>
     <string name="video_comment_publish">ပေးပို့</string>
@@ -502,7 +500,6 @@
     <string name="video_topic_hint">လူများသို့မဟုတ် ခေါင်းစဉ်များကို ရှာဖွေပါ</string>
     <string name="comment_reply">စာပြန်%1$s−</string>
     <string name="comment_hint">မှတ်ချက်ပေါင်းထည့်ပါ</string>
-    <string name="origin_name">%1$s−</string>
     <string name="hot_comments">လူကြိုက်များသော မှတ်ချက်များ</string>
     <string name="new_comments">မှတ်ချက်အသစ်များ</string>
     <string name="copy_text">စာကို ကူးပါ</string>
@@ -762,7 +759,6 @@
     <string name="finish_str">ပြီးပြီ</string>
     <string name="tab_msg">မက်ဆေ့ချ်များ</string>
     <string name="msg_page_video_default_title">ကျွနု်ပ်ဗီဒီယိုတစ်ခု လုတ်တင်ခဲ့သည်၊ တစ်ချက်လောက်ကြည့်ပါ!</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">အောင်မြင်စွာလိုက်အားပေးခဲ့သည်</string>
     <string name="comment_fail">မှတ်ချက်အား မထုတ်ဝေနိုင်ခဲ့ပါ၊ နောက်မှ ပြန်ကြိုးစားပါ</string>
     <string name="comment_fail_banned_temporary">မသင့်တော်သော မှတ်ချက်များပေးသည့်အတွက် သင့်အား ယာယီပိတ်ဆို့ထားပါသည်</string>

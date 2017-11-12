@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -538,7 +536,6 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်ခန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
     <string name="ext_media_mountable_notification_message">အိပ်ပလိုရာ၌ ဖွင့်ရန် တို့ထိပါ။</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">ယနေ့: %1$s</string>
@@ -618,7 +615,6 @@ d MMMM"</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="no_weather_description">ရာသီဥတုအချက်အလက်များအား ရယူမည်></string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="screenshot_long_screenshot">စာလိပ်</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_send">ပေးပို့</string>

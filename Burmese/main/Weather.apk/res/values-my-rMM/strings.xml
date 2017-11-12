@@ -55,7 +55,6 @@
     <string name="share_title">ရာသီဥတုအကြောင်းမျှဝေပါ</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
     <string name="sunrise">နေထွက်ချိန်</string>
     <string name="sunset">နေဝင်ဆည်းဆာ</string>
@@ -149,11 +148,9 @@
     <string name="install">တပ်ဆင်</string>
     <string name="open">ဖွင့်</string>
     <string name="open_now">ဖွင့်</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">M/d</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="aqi_publish_source">CNEMC မှ %1$s တွင် အသစ်မွမ်းမံခဲ့သော</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Colorful Clouds မှ အားပေးထားသော</string>
     <string name="traffic_controls">လမ်းနေရာအချိုးကျခြင်း</string>
     <string name="traffic_control_today_numbers">ယနေ့−%1$s</string>
@@ -170,7 +167,6 @@
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="pressure_connect">%1$s mb</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">ရာသီဥတု သတိပေးချက်များ</string>
     <string name="edit_alert_city_title">သတိပေးချက်များအား စီမံ</string>
     <string name="aqi_detail_unit">ယူနစ်−µg/m³</string>
@@ -237,8 +233,6 @@
     <string name="minute_rain_pull_down_refresh">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="minute_rain_refreshing_now">ပြန်လန်းဆန်းနေ…</string>
     <string name="minute_rain_let_go_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="alert_detail_title">သတိပေးချက်အသေးစိတ်များ</string>
     <string name="aqi_quality_map_title">လေထုအရည်အသွေး မြေပုံ</string>
     <string name="aqi_station_min_distance_station">အနီးဆုံးဌာန</string>

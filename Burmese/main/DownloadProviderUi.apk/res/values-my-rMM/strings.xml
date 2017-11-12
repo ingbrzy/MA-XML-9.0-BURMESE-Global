@@ -332,8 +332,6 @@
     <string name="xl_vip_open">ဝယ်ယူ</string>
     <string name="xl_vip_pay">ချဲ့ကား</string>
     <string name="xl_vip_overdue">သက်တမ်းကုန်နေသည်</string>
-    <string name="download_num_size">%1$s | %2$s</string>
-    <string name="app_size">%1$s</string>
     <string name="ad_title">လူအများသည် ၄င်းတို့အား %1$s ဖြင့်လည်း ဒေါင်းလုဒ်လုပ်ကြပါသည်</string>
     <string name="rank_data_empty">အဆင့်သတ်မှတ်ခြင်း မရှိသော</string>
     <string name="net_error">ကွန်ရက်သို့ချိတ်ဆက်မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
