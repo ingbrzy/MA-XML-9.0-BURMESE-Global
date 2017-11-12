@@ -57,7 +57,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
-    <string name="input_password_handle_sdcard_fs">Turn off \"Mock SD card optimization\" in Settings > Additional settings > Developer options before entering Second space.</string>
+    <string name="input_password_handle_sdcard_fs">သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ။ ပထမနေရာမှ ဝင်ရောက်ပါ။</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>

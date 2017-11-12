@@ -152,11 +152,20 @@
     <plurals name="lockpattern_too_many_failed_confirmation_attempts_footer">
         <item quantity="other">%d စက္ကန့်စောင့်ပြီး ထပ်လုပ်ကြည့်ပါ</item>
     </plurals>
+    <plurals name="number_masked">
+        <item quantity="other">အက်ပ် %dခု</item>
+    </plurals>
     <plurals name="number_locked">
         <item quantity="other">အက်ပ်%d ခုအား သော့ခတ်ခဲ့သည်</item>
     </plurals>
     <plurals name="number_to_lock">
         <item quantity="other">အက်ပ် %d ခုအား သော့မခတ်ခဲ့ပါ</item>
+    </plurals>
+    <plurals name="number_masked_text">
+        <item quantity="other">သတိပေးချက် %dခုကို ကွယ်ဝှက်ထားသည်</item>
+    </plurals>
+    <plurals name="number_to_mask_text">
+        <item quantity="other">သတိပေးချက် %dခုကို မြင်စေသည်</item>
     </plurals>
     <plurals name="find_applications">
         <item quantity="other">အက်ပ် %d ခုကို ရှာပါ</item>

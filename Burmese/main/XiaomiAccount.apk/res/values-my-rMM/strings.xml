@@ -78,9 +78,9 @@
     <string name="passport_login_instead_reg">ဒီနံပါတ်ကို သုံးပါ</string>
     <string name="passport_login_instead_reg_with_email">ဒီအီးမေးလ်ကို သုံးပါ</string>
     <string name="passport_quick_login_title">သင့် စကားဝှက်ကိုထည့်သွင်းပါ</string>
-    <string name="passport_quick_login_step2_title">မှန်ကြောင်းအတည်ပြုခြင်း ၂-ဆင့်</string>
+    <string name="passport_quick_login_step2_title">လုံခြုံရေးနှစ်ထပ် နည်းစနစ်</string>
     <string name="passport_quick_login_dialog_title">စကားဝှက် မှန်ကြောင်း အတည်ပြုပါ</string>
-    <string name="passport_quick_login_dialog_step2_title">မှန်ကြောင်းအတည်ပြုခြင်း ၂-ဆင့်</string>
+    <string name="passport_quick_login_dialog_step2_title">လုံခြုံရေးနှစ်ထပ် နည်းစနစ်</string>
     <string name="passport_delete_account">ထွက်ပါ</string>
     <string name="passport_vcode_notification_title">သင်၏အကောင့်သို့ဝင်ရန် အတည်ပြုကုဒ် မပြည့်စုံပါ</string>
     <string name="passport_account_name">အကောင့်- %1$s</string>
@@ -427,7 +427,7 @@
     <string name="account_protection">အကောင့် ကာကွ်မှု</string>
     <string name="account_protection_on">ဖွင့်ပါ</string>
     <string name="account_protection_off">ပိတ်ပါ</string>
-    <string name="logout_account">ဆိုင်းအောက်ထွက်</string>
+    <string name="logout_account">ဆိုင်းအောက်ထွက်မည်</string>
     <string name="mipay">Pay</string>
     <string name="mipay_bank_card">ဘဏ်ကဒ်</string>
     <string name="mipay_transit_card">သယ်ယူပို့ဆောင်ရေးကဒ်</string>
@@ -440,4 +440,5 @@
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
     <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် Mi အကောင့်သို့ ဆိုင်းအင်ဝင်နိုင်ရန် သင်၏ဖုန်းနံပါတ်ကို ပေါင်းထည့်ပါ။</string>
+    <string name="account_notification_message">Mi အကောင့်မှာ သက်တမ်းကုန်သွားသောကြောင့် နောက်တစ်ကြိမ်ပြန်ဝင်ပါ!</string>
 </resources>

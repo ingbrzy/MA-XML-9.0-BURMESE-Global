@@ -34,8 +34,6 @@
     <string name="clear_all">အားလုံး ရှင်းပစ်မည်</string>
     <string name="click_to_send">ပေးပို့ရန် ပရိုဖိုင်ပုံအား ထိနှိပ်ပါ</string>
     <string name="coolboot_title">Mi Drop ကို မျှဝေမည်</string>
-    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
-    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
     <string name="default_lang">စနစ် ဘာသာစကား</string>
     <string name="delete">ဖျက်မည်</string>
     <string name="delete_item_desc">ဤဖိုင်ကို လွှဲပြောင်းမှုစာရင်းမှ ဖျက်မလား?</string>
@@ -168,4 +166,6 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="want_send">ဖိုင်များ ပေးပို့မည်</string>
     <string name="wifi_name">Wi-Fi အမည်-</string>
     <string name="wifi_psw">စကားဝှက်-</string>
+    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
+    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
 </resources>

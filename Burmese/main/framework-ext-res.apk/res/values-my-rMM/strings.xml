@@ -147,9 +147,9 @@
     <string name="package_delete_confirm_step_3">ဤအက်ပ်ဖြုတ်ပြီးနောက် ပြန်ဖွင့်၍ရတော့မည် မဟုတ်ပါ။</string>
     <string name="silence_mode">အသံတိတ်မုဒ်</string>
     <string name="standard">အသံတိတ်</string>
-    <string name="total">DND</string>
+    <string name="total">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="standard_title">အသံတိတ်</string>
-    <string name="total_title">DND</string>
+    <string name="total_title">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="description_title">အသံတိတ်မုဒ်</string>
     <string name="standard_description">အဝင်ခေါ်ဆိုမှုများနှင့် အသိပေးချက်များအတွက် ဖုန်းမြည်သံ ပိတ်ထားမည်</string>
     <string name="total_description">နှိုးစက်သံမှတစ်ပါး အခြားအသံများနှင့် တုန်ခါမှုအားလုံး ပိတ်မည်</string>

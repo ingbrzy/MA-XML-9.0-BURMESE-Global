@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="exo_controls_fastforward_description">ရှေ့သို့ သွားရန်</string>
+    <string name="exo_controls_next_description">နောက် တစ်ပုဒ်</string>
+    <string name="exo_controls_pause_description">ခဏရပ်ရန်</string>
+    <string name="exo_controls_play_description">ဖွင့်ရန်</string>
+    <string name="exo_controls_previous_description">ယခင် တစ်ပုဒ်</string>
+    <string name="exo_controls_rewind_description">ပြန်ရစ်ရန်</string>
+    <string name="exo_controls_stop_description">ရပ်ရန်</string>
+    <string name="app_name">ရှာဖွေသူ</string>
     <string name="delete_folder">ဒီဖိုလ်ဒါကို ဖျက်ပစ်မလား။</string>
     <string name="delete_folders">%1$d ဖိုလ်ဒါများကို ဖျက်ပစ်မလား။</string>
     <string name="delete_file">ဒီဖိုင်ကို ဖျက်ပစ်မလား။</string>
     <string name="delete_files">%1$d ဖိုင်များကို ဖျက်ပစ်မလား။</string>
-    <string name="app_name">ရှာဖွေသူ</string>
     <string name="confirm">အိုကေ</string>
     <string name="menu_item_ftp">ဖိုင်လွဲပြောင်းရေးရာ ပရိုတိုကော</string>
     <string name="menu_item_cleanup">သန့်ရှင်းရေးလုပ်ပါ</string>
@@ -161,6 +168,7 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">တီရာဘိုက်</string>
     <string name="petabyteShort">ပီတာဘိုက်</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">အတွင်းပိုင်း</string>
     <string name="sys_size_enable">" ရနိုင်သည်"</string>
     <string name="tools">တူးလ်များ</string>
@@ -420,6 +428,7 @@
     <string name="video_upload_btn_hint">MP4 ဗီဒီယိုများသည် 3s မှ 10min အကြာရှိသင့်ပါသည်</string>
     <string name="video_upload_btn">နောက်ထပ်</string>
     <string name="video_upload_title">ဗီဒီယို ရွေးပါ</string>
+    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#ခေါင်းစဉ်ပေါင်း#</string>
     <string name="video_comment_hint">ခေါင်းစဉ်ရွေး</string>
     <string name="video_comment_publish">ပေးပို့</string>
@@ -453,7 +462,7 @@
     <string name="phone_num_format_tip">ဖုန်းနံပါတ် မမှန်ကန်ပါ</string>
     <string name="phone_get_code_tip">ယနေ့ကုဒ်ရယူရန် ကြိုးစားမှု များလွန်းနေသည်</string>
     <string name="phone_valid_code_tip">ကုဒ်အား အကြိမ်များစွာ ရိုက်ထည့်သွင်းပြီးပြီ၊ အသစ်တစ်ခုရရန် ကြိုးစားကြည့်ပါ</string>
-    <string name="login">ဆိုင်းအင်ဝင်</string>
+    <string name="login">ဆိုင်းအင်ဝင်မည်</string>
     <string name="phone_send_code">ကုဒ်ရယူ</string>
     <string name="phone_send_code_again">ကုဒ်အား ထပ်မံရယူပါ</string>
     <string name="phone_send_code_tip">%1$d စက္ကန့်တွင် ပြန်ပေးပို့ပါ</string>
@@ -466,7 +475,7 @@
     <string name="phone_bind_title">ဖုန်းနံပါတ် ပေါင်းထည့်ပါ</string>
     <string name="phone_bind_tip">အဆင့်ပေးသတ်မှတ်ပေးခြင်းတွင် ပါဝင်ပြီး ဆုများရယူရန် ဖုန်းနံပါတ်ပေါင်းထည့်ပါ</string>
     <string name="phone_bind_skip">ကျော်သွားပါ</string>
-    <string name="no_login_btn_text">ဆိုင်းအင်ဝင်</string>
+    <string name="no_login_btn_text">ဆိုင်းအင်ဝင်မည်</string>
     <string name="user_no_upload">ဗီဒီယိုများမရှိပါ</string>
     <string name="user_login_dialog_title">ဆိုင်းအင်ဝင်</string>
     <string name="user_login_dialog_tip">ဗီဒီယိုများ လုဒ်တင်ရန်၊ အဆင့်သတ်မှတ်ခြင်းများတွင် ပါဝင်ရန်နှင့် ဆုများရရှိရန် ဆိုင်းအင်ဝင်ပါ</string>
@@ -493,6 +502,7 @@
     <string name="video_topic_hint">လူများသို့မဟုတ် ခေါင်းစဉ်များကို ရှာဖွေပါ</string>
     <string name="comment_reply">စာပြန်%1$s−</string>
     <string name="comment_hint">မှတ်ချက်ပေါင်းထည့်ပါ</string>
+    <string name="origin_name">%1$s−</string>
     <string name="hot_comments">လူကြိုက်များသော မှတ်ချက်များ</string>
     <string name="new_comments">မှတ်ချက်အသစ်များ</string>
     <string name="copy_text">စာကို ကူးပါ</string>
@@ -546,7 +556,7 @@
     <string name="weibo_login_btn_str">Weibo</string>
     <string name="user_id_tip">ID: %1$s</string>
     <string name="user_desc_default_tip">အမှတ်များစုစည်းရန်နှင့် ဆုများရယူရန်ဆိုင်းအင်ဝင်ပါ</string>
-    <string name="click_login_str">ဆိုင်းအင်</string>
+    <string name="click_login_str">ဆိုင်းအင်ဝင်မည်</string>
     <string name="you_liao_god_str">လူကြီးလူကောင်း</string>
     <string name="you_liao_goddess_str">အမျိုးသမီး</string>
     <string name="you_liao_xunlei_str">Xunlei ဟို့စ်</string>
@@ -605,9 +615,9 @@
     <string name="recent_show">မကြာသေးမီက</string>
     <string name="setting_message_notify">အကြောင်းကြားစာများ</string>
     <string name="setting_account_bind">အကောင့် ပေါင်းထည့်ပါ</string>
-    <string name="user_setting_logout">ထွက်ပါ</string>
-    <string name="dialog_logout_title">ထွက်ပါ</string>
-    <string name="dialog_logout_message">ယခုထွက်မည်လား?</string>
+    <string name="user_setting_logout">ဆိုင်းအောက်ထွက်မည်</string>
+    <string name="dialog_logout_title">ဆိုင်းအောက်ထွက်မည်</string>
+    <string name="dialog_logout_message">ယခု ဆိုင်းအောက်ထွက်မည်လား?</string>
     <string name="phone_num">ဖုန်းနံပါတ်</string>
     <string name="bind">ပေါင်းထည့်</string>
     <string name="wechat_btn_bind">WeChat</string>
@@ -615,7 +625,7 @@
     <string name="unbind">ဖျက်ပါ</string>
     <string name="unbind_fail">ဖျက်မရနိုင်ခဲ့ပါ</string>
     <string name="unbind_success">အောင်မြင်စွာဖျက်ခဲ့သည်</string>
-    <string name="bind_need_to_login">ဆိုင်းအင်ဝင်</string>
+    <string name="bind_need_to_login">ဆိုင်းအင်ဝင်မည်</string>
     <string name="unlogin">ဦးစွာဆိုင်းအင်ဝင်ပါ</string>
     <string name="unbind_account">\"%s\" ကိုဖျက်မှာလား?</string>
     <string name="tip">ဂရုစိုက်ခြင်း</string>
@@ -675,7 +685,7 @@
     <string name="original_user_verify">• ရှိနေပေးခြင်းအတွက် ကျေးဇူးတင်ပါတယ်!</string>
     <string name="original_user_qq_group">Talent အဖွဲ့ QQ အုပ်စုသို့ ဝင်ရောက်ပါ</string>
     <string name="video_encrypt_login_text">ဤဗီဒီယိုအား ဖွင့်ရန် ဆိုင်းအင်ဝင်ရောက်ပါ</string>
-    <string name="video_encrypt_login_btn">ဆိုင်းအင်ဝင်ပါ</string>
+    <string name="video_encrypt_login_btn">ဆိုင်းအင်ဝင်မည်</string>
     <string name="video_encrypt_fans_text">အဖွဲ့ဝင်ဖန်များသား ဤဗီဒီယိုကို ကြည့်ရှု့နိုင်ပါသည်</string>
     <string name="video_encrypt_fans_btn">အဖွဲ့ဝင်ဖန်တစ်ဦး ဖြစ်လာပါ</string>
     <string name="video_encrypt_follow_success">ဖော်လိုလိုက် %s</string>
@@ -752,6 +762,7 @@
     <string name="finish_str">ပြီးပြီ</string>
     <string name="tab_msg">မက်ဆေ့ချ်များ</string>
     <string name="msg_page_video_default_title">ကျွနု်ပ်ဗီဒီယိုတစ်ခု လုတ်တင်ခဲ့သည်၊ တစ်ချက်လောက်ကြည့်ပါ!</string>
+    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">အောင်မြင်စွာလိုက်အားပေးခဲ့သည်</string>
     <string name="comment_fail">မှတ်ချက်အား မထုတ်ဝေနိုင်ခဲ့ပါ၊ နောက်မှ ပြန်ကြိုးစားပါ</string>
     <string name="comment_fail_banned_temporary">မသင့်တော်သော မှတ်ချက်များပေးသည့်အတွက် သင့်အား ယာယီပိတ်ဆို့ထားပါသည်</string>
