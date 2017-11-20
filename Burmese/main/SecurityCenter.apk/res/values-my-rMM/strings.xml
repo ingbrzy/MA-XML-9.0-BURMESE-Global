@@ -385,6 +385,7 @@
     <string name="detail_app_button">အက်ပ်အချက်အလက်</string>
     <string name="pref_about_traffic_title">ဒေတာအသုံးပြုမှုဆက်တင်များ</string>
     <string name="pref_traffic_manage_title">ဒေတာအသုံးစွဲမှု</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">မိုဘိုင်းဒေတာကန့်သတ်ချက်</string>
     <string name="pref_adjust_traffic_data">ဒေတာသုံးစွဲမှုကို သတ်မှတ်ပါ</string>
     <string name="pref_category_title_other">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -808,7 +809,7 @@ Rolled over extra data"</string>
     <string name="firewall_allow_all">အက်ပ်အားလုံးအား အောက်ပါနည်းလမ်းကို အသုံးပြုပြီး ချိတ်ဆက်ခွင့်ပြုရန်</string>
     <string name="firewall_restrict_all">အက်ပ်အားလုံးအား အောက်ပါနည်းလမ်းကို အသုံးပြုပြီး ချိတ်ဆက်ခြင်းကို ကန့်သတ်ထားရန်</string>
     <string name="firewall_partial">အက်ပ်အချို့အား အောက်ပါနည်းလမ်းကို အသုံးပြုပြီး ချိတ်ဆက်ခွင့်ပြုရန်</string>
-    <string name="exception_titile">မှားယွင်းမှုတစ်ခု ဖြစ်ပွားခဲ့သည်</string>
+    <string name="exception_titile">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="exception_notify_message">မှားယွင်းမှုတစ်ခုကြောင့် ဒေတာစာရင်းကို တွက်ချက်၍ မရပါ။ ပြန်လည်သိမ်းဆည်းရန် စက်ကို ပိတ်၍ပြန်ဖွင့်ပါ။</string>
     <string name="exception_dialog_message">မှားယွင်းမှုတစ်ခုကြောင့် ဒေတာသုံးစွဲမှုစာရင်းကို တွက်ချက်၍ မရပါ။ တိကျသောစာရင်းမရှိလျှင် လုံခြုံရေးသည် ဒေတာအသုံးပြုမှုကို တွက်ချက်နိုင်လိမ့်မည်မဟုတ်။ ဤအင်္ဂါရပ်အား အသုံးပြုရန် စက်ကို ပိတ်၍ပြန်ဖွင့်မလား?</string>
     <string name="exception_dialog_ok_button">ပိတ်၍ပြန်ဖွင့်မည်</string>
@@ -821,9 +822,9 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_purchase">"   ဝယ်ယူမည် >"</string>
     <string name="status_bar_network_flow_setup_data_plan">"   ဒေတာအစီအစဉ် သတ်မှတ်ပါ >"</string>
     <string name="status_bar_network_flow_phone_balance">"   ဖုန်းလက်ကျန်ငွေ-%1$s "</string>
-    <string name="status_bar_network_flow_exceed_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ကျော်လွန်သွားသော- &lt;font color=%2$s>%3$s&lt;/font>;</string>
-    <string name="status_bar_network_flow_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;;လက်ကျန်- %2$s</string>
-    <string name="status_bar_network_flow_content_not_setting">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;;ဤလ- %2$s</string>
+    <string name="status_bar_network_flow_exceed_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ကျော်လွန်သွားသော- &lt;font color=%2$s>%3$s&lt;/font></string>
+    <string name="status_bar_network_flow_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;လက်ကျန်- %2$s</string>
+    <string name="status_bar_network_flow_content_not_setting">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ဤလ- %2$s</string>
     <string name="status_bar_network_flow_today">ယနေ့- %1$s</string>
     <string name="optimize_manage_title">အရှိန်မြှင့်</string>
     <string name="cpu_usage_android_system">Android စနစ်</string>
@@ -886,6 +887,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"ဤအက်ပ်သည် သင်၏စက်ကို
 နှေးကွေးစေသည်"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ဖြုတ်ပါ %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ဘက်ထရီသုံးစွဲမှုဆိုင်ရာကိစ္စများ ဖြေရှင်းရန် ဤအက်ပ်ကို ဖြုတ်ပါ။</string>
     <string name="om_ill_proc_type_wakelock_title">ဤအက်ပ်သည် အိပ်စက်ခြင်းမုဒ်ကို ပိတ်ပင်ထားသောကြောင့် ဘက်ထရီအားမခံပါ</string>
@@ -1182,7 +1184,7 @@ Rolled over extra data"</string>
     <string name="sp_settings_info_monitor">ငွေပေးချေမှုပါဝင်သော အက်ပ်များစတင်သည့်အခါ စက်စနစ်ပတ်ဝန်ကျင်ကို အလိုအလျောက် စောင့်ကြည့်အကဲခတ်ရန်</string>
     <string name="scan_status_safe">လုံခြုံပါသည်</string>
     <string name="scan_status_risk">အန္တာရာယ်ရှိပါသည်</string>
-    <string name="safepay_alert_dialog_button_fix">Fix</string>
+    <string name="safepay_alert_dialog_button_fix">ပြုပြင်မည်</string>
     <string name="safepay_alert_dialog_button_continue">ရှေ့ဆက်ပါ</string>
     <string name="safe_result_header_info_protecting">ကာကွယ်နေပါသည်</string>
     <string name="safe_result_item_info_system_version">MIUI သည် နောက်ဆုံးထုတ်ဖြစ်သည်</string>
@@ -1217,10 +1219,10 @@ Rolled over extra data"</string>
     <string name="sp_monitored_apps_count_zero">ပေးချေမှုအက်ပ် တစ်ခုကိုမျှ ကာကွယ်မထားပါ</string>
     <string name="monitor_app_more">ပိုမို၍</string>
     <string name="monitor_app_add">ပေါင်းထည့်ပါ</string>
-    <string name="sc_system_risk_fix_info_xspace">ဤနေရာတွင် ပြုပြင်၍ မရပါ၊ ပထမနေရာသို့သွား၍ ပြုပြင်ပါ။</string>
-    <string name="dialog_no_longer_alert">no longer remind</string>
-    <string name="sp_background_risk_dialog_title_wifi_approve">Free WLAN Alert</string>
-    <string name="sp_background_risk_dialog_summary_wifi_approve">You are currently using a free public wifi which could be a fishing one. Make sure it is safe before your payment.</string>
+    <string name="sc_system_risk_fix_info_xspace">ဒုတိယနေရာတွင် ဖြေရှင်း၍ မရပါ။ ပထမနေရာတွင် ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="dialog_no_longer_alert">ထပ်မပြပါနှင့်</string>
+    <string name="sp_background_risk_dialog_title_wifi_approve">အများဆိုင်ရာ Wi-Fi သတိပေးချက်</string>
+    <string name="sp_background_risk_dialog_summary_wifi_approve">အများဆိုင်ရာ Wi-Fi ကွန်ရက်သို့ သင်ချိတ်ဆက်ထားသည်။ ပေးချေမှုမလုပ်မီ လုံခြုံမှုရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="sp_background_risk_dialog_title">ဂရုစိုက်ခြင်း</string>
     <string name="sp_background_risk_dialog_summary">၊ ပေးချေမှု အချက်အလက်များအား စစ်ဆေးပြီး ပြင်ဆင်ပါ</string>
     <string name="sp_background_risk_type_wifi">ဤ Wi-Fi ကွန်ရက်မှာ အန္တာရာယ်ရှိပါသည်</string>
@@ -1271,7 +1273,7 @@ Rolled over extra data"</string>
     <string name="keywords_powercenter_powerrank">ဘက်ထရီ အသုံးပြုမှု</string>
     <string name="path_powercenter_powerrank">ဘက်ထရီ &amp; စွမ်းဆောင်ရည် /ဘက်ထရီ အသုံးပြုမှု</string>
     <string name="resource_gamebooster">ဂိမ်းအရှိန်မြှင့်တင်မှု</string>
-    <string name="keywords_gamebooster">ဂိမ်း;အရှိန်မြှင့်တင်မှု;Glory of the king;လုပ်ဆောင်ရည်မုဒ်;မနှောင့်ယှက်ပါနှင့်</string>
+    <string name="keywords_gamebooster">ဂိမ်း;အရှိန်မြှင့်တင်မှု;King of Glory;လုပ်ဆောင်ရည် မုဒ်;မနှောင့်ယှက်ပါနှင့်;ဂိမ်းများ;ဂိမ်းကစားခြင်း;ဂိမ်းအရှိန်;မြှင့်တင်မှု</string>
     <string name="path_gamebooster">စနစ် အက်ပ်များ/လုံခြုရေး/ဂိမ်းအရှိန်မြှင့်တင်မှု</string>
     <string name="app_name_securitycenter">လုံခြုံရေး</string>
     <string name="ok">အိုကေ</string>
@@ -1287,6 +1289,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">ဒေတာအသုံးပြုမှု</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1504,7 +1507,7 @@ Rolled over extra data"</string>
     <string name="title_mifi_insurance">အာမခံသက်တမ်းတိုး ခဲ့သည်</string>
     <string name="summary_mifi_insurance">ဟာ့ဒ်ဝဲလ်ပျက်စီးမှုများအတွက် ၁ နှစ် အစားထိုးလဲလည်မှု အစီစဉ်အား ရယူပါ</string>
     <string name="title_cloud_space_almost_full">ကလောက်သိုလှောင်မှု ပြည့်လုနီးပါးရှိနေပါပြီ၊ အိုင်တမ်များအား ဆင့်ခ်လုပ်လိမ့်မည်မဟုတ်</string>
-    <string name="summary_cloud_space_almost_full">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
+    <string name="summary_cloud_space_almost_full">သိုလှောင်မှုနေရာ ရယူပါ</string>
     <string name="title_cloud_space_full">ကလောက် ပြည့်နေပြီ</string>
     <string name="summary_cloud_space_full">သိုလှောင်သောနေရာ ပိုမိုရယူပါ ပြီးနောက် လုပ်ဆောင်ချက်များ ကိုလည်းရယူပါ</string>
     <string name="title_auto_update">အလိုလို အသစ်မွမ်းမံလုပ်ပါ</string>
@@ -1563,8 +1566,8 @@ Rolled over extra data"</string>
     <string name="antivirus_privacy_dialog_ok">အိုကေ</string>
     <string name="pref_title_manual_check_virus_db_update">အသစ်မွမ်းမံများကို စစ်ကြည့်ပါ</string>
     <string name="virus_update_tips_title">သတိပေးချက်</string>
-    <string name="virus_wait_network_dialog_message">သင့်ဖုန်းသည် WLAN နှင့် ချိတ်ဆက်ထားခြင်း မရှိပါ။ ထို့ကြောင့် မိုဘိုင်းဒေတာကို သုံးစွဲလိမ့်မည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
-    <string name="antivirus_not_wlan">သင် Wi-Fi သို့ချိတ်ဆက်ထားခြင်း မရှိပါ။ မိုဘိုင်းဒေတာကို အသုံးပြုပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။ ဆက်လက်လုပ်ဆောင်မည်လား?</string>
+    <string name="virus_wait_network_dialog_message">သင်၏ဖုန်းသည် ယခု Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာကို သုံးမလား?</string>
+    <string name="antivirus_not_wlan">သင်၏ဖုန်းသည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာကို သုံးပါက အပိုငွေများကုန်ကျနိုင်သည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
     <string name="antivirus_longtime_no_update">လက်ရှိဗိုင်းရပ်စ်ဒေတာဘေ့စ်သည် အပ်ဒိတ်မလုပ်တာအချိန်ကြာပြီဖြစ်သောကြောင့် ရလဒ်များမတိကျတော့ပါ။ လုံခြုရေးအား အင်တာနက်သို့ချိတ်ဆက်၍ ဗိုင်းရပ်စ်ဒေတာဘေ့စ်အပ်ဒိတ်လုပ်ခွင့်ပြုမည်လား?</string>
     <string name="antivirus_longtime_no_update1">လက်ရှိဗိုင်းရပ်စ်ဒေတာဘေ့စ်သည် အပ်ဒိတ်မလုပ်တာအချိန်ကြာပြီဖြစ်သောကြောင့် ရလဒ်များမတိကျတော့ပါ။ ဗိုင်းရပ်စ်ဒေတာဘေ့စကိုအပ်ဒိတ်လုပ်ပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားကြည့်ပါ။</string>
     <string name="antivirus_sec_network_unavailable">အင်တာနက်ချိတ်ဆက်မှုကို ကန့်သတ်ထားသောကြောင့် လုံခြုံရေးအက်ပ်သည် အပ်ဒိတ်မလုပ်နိုင်ပါ။ လုံခြုံရေးအက်ပ်ကို အင်တာနက်နှင့် ချိတ်ဆက်ခွင့်ပေးလိုပါသလား?</string>
@@ -1588,7 +1591,7 @@ Rolled over extra data"</string>
     <string name="hints_risk_name_title">အန္တရာယ်-</string>
     <string name="hints_risk_descx_title">ဖော်ပြချက်-</string>
     <string name="button_text_clear">ရှင်းပစ်မည်</string>
-    <string name="antivirus_main_activity_back">နောက်သို့သွားပါ၊ လုံခြုရေးစကန်ဖတ်ပါ</string>
+    <string name="antivirus_main_activity_back">နောက်သို့</string>
     <string name="toast_removed_from_virus_white_list">ခြွင်းချက်များမှ ဖယ်ရှားခဲ့သည်။ အိုင်တမ်အား နောက်မှ စကန်ဖတ်လိမ့်မည်။</string>
     <string name="long_click_dialog_title">ဂရုစိုက်ခြင်း</string>
     <string name="long_click_dialog_summary">ခြွင်းချက်များသို့ပေါင်းထည့်ရန် စာရင်းထဲရှိ ရလဒ်များအား ထားထားပါ</string>
@@ -1647,6 +1650,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ရှင်းလင်း</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>
@@ -1930,15 +1934,15 @@ Rolled over extra data"</string>
 
  "<li>အသုံးမပြုတော့သော အက်ပ်များ</li>"
  "<li>အသုံးမပြုတော့သော အက်ပ်အသိပေးချက်များ</li>"
- "<li>လုပ်ဆောင်ချက်အတွက် ပုံသေအက်ပ်များ</li>"
+ "<li>ပုံသေအက်ပ်များ</li>"
  "<li>အက်ပ်များ၏ နောက်ခံဒေတာ ကန့်သတ်ချက်</li>"
 
  မည်သည့်အက်ပ်ဒေတာမှ ပျောက်ဆုံးမည် မဟုတ်ပါ။"</string>
     <string name="app_manager_reset_app_preferences_button">အက်ပ်များကို ပြန်လည်သတ်မှတ်မည်</string>
     <string name="app_manager_disable_text">မသုံးတော့ပါ</string>
     <string name="app_manager_enable_text">အသုံးပြုမည်</string>
-    <string name="app_manager_disable_dlg_title">အတွင်းပိုင်းအက်ပ်ကို ပိတ်ထားမလား?</string>
-    <string name="app_manager_disable_dlg_text">ဤအက်ပ်ကို ပိတ်လိုက်ပါက အခြားအက်ပ်များ ပုံမှန်အလုပ်လုပ်နိုင်မည် မဟုတ်ပါ။</string>
+    <string name="app_manager_disable_dlg_title">စနစ်အက်ပ်ကို အသုံးပြုခြင်းမှ ရပ်တန့်မလား?</string>
+    <string name="app_manager_disable_dlg_text">ဤအက်ပ်ကို အသုံးမပြုတော့ပါက အခြားအက်ပ်များလည်း ပုံမှန်အလုပ်လုပ်နိုင်မည် မဟုတ်ပါ။</string>
     <string name="app_manager_disabled">မသုံးတော့ပါ</string>
     <string name="app_manager_enabled">အသုံးပြုမည်</string>
     <string name="app_manager_globel_perm_title">အက်ပ် ခွင့်ပြုချက်များ</string>
@@ -1950,12 +1954,12 @@ Rolled over extra data"</string>
     <string name="app_manager_memory">RAM</string>
     <string name="app_manager_as_dlg_title">သတိပြုရန်</string>
     <string name="app_manager_as_dlg_msg">အက်ပ်များကို အော်တိုစတင်ခွင့်ပြုပါက နောက်ထပ် RAMနှင့် ဘက်ထရီအရင်းအမြစ်များ လိုအပ်လိမ့်မည်။ ခွင့်ပြုမလား?</string>
-    <string name="app_manager_default_cleared">ရှင်းလင်းခဲ့သော</string>
-    <string name="app_manager_not_allow">No</string>
-    <string name="app_manager_allow">Yes</string>
-    <string name="app_manager_install_other_app">install apps unknown sources</string>
-    <string name="app_manager_disabled_by_admin">Disabled by admin</string>
-    <string name="app_manager_advanced_setting">Advanced settings</string>
+    <string name="app_manager_default_cleared">ရှင်းလင်းပြီးပြီ</string>
+    <string name="app_manager_not_allow">ခွင့်မပြုပါ</string>
+    <string name="app_manager_allow">ခွင့်ပြုမည်</string>
+    <string name="app_manager_install_other_app">အမည်မသိအရင်းမြစ်များမှ အက်များကို တပ်ဆင်မည်</string>
+    <string name="app_manager_disabled_by_admin">စီမံအုပ်ချုပ်သူမှ ပိတ်လိုက်သည်</string>
+    <string name="app_manager_advanced_setting">အဆင့်မြင့် ဆက်တင်များ</string>
     <string name="ad_btn_default_text">ပိုမိုလေ့လာမည်</string>
     <string name="open_activity_err">အပလီကေးရှင်းကို ရှာမတွေ့ခဲ့ပါ</string>
     <string name="low_memory_warning_dialog_title">နေရာလွတ်အလုံအလောက်မရှိပါ</string>
@@ -2003,8 +2007,8 @@ Rolled over extra data"</string>
     <string name="function_close">ပိတ်မည်။</string>
     <string name="add_done">အောင်မြင်စွာပေါင်းထည့်ခဲ့သည်။</string>
     <string name="boost_done">အောင်မြင်စွာအရှိန်မြှင့်တင်ပြီးပြီ</string>
-    <string name="boost_stop">Turn off speed boost</string>
-    <string name="already_close_gamebooster">Gaming speed boost is off</string>
+    <string name="boost_stop">အရှိန်မြှင့်တင်မှုကို ပိတ်ပါ</string>
+    <string name="already_close_gamebooster">ဂိမ်းအရှိန်မြှင့်တင်မှု ပိတ်ထားသည်</string>
     <string name="no_game">ဂိမ်းများရှာမတွေ့ပါ</string>
     <string name="gamebooster_network_dialog_title">အချို့လုပ်ဆောင်ချက်များ မရရှိနိုင်ပါ</string>
     <string name="gamebooster_network_dialog_message">ဂိမ်းအရှိန်မြှင့်တင်မှု၏ လုပ်ဆောင်ရည်အားလုံးကို အသုံးပြုနိုင်ရန် လုံခြုံရေးအား ကွန်ရက်သို့ချိတ်ဆက်ခွင့်ပေးမည်လား?</string>
@@ -2059,8 +2063,8 @@ Rolled over extra data"</string>
     <string name="renew_now">အသစ်လုပ်ခြင်း</string>
     <string name="receive_now">လက်ခံရရှိသည်</string>
     <string name="net_booster">ကွန်ရက် အရှိန်မြှင့်တင်မှု</string>
-    <string name="xunyou_net_booster">Network speed boost</string>
-    <string name="xunyou_net_booster_detail">Use Xunyou speed boost services for gaming</string>
+    <string name="xunyou_net_booster">ကွန်ရက်အရှိန်မြှင့်တင်မှု</string>
+    <string name="xunyou_net_booster_detail">ဂိမ်းကစားသောအခါ Xunyou အရှိန်မြှင့်တင်ရေး ဝန်ဆောင်မှုကို သုံးမည်</string>
     <string name="wlan_booster">Wi-Fi အရှိန်မြှင့်တင်ခြင်း</string>
     <string name="tab_gift">လက်ဆောင်များ</string>
     <string name="tab_guide">လမ်းညွှန်</string>
@@ -2091,13 +2095,13 @@ Rolled over extra data"</string>
     <string name="thermal_tips_title">သတိပြုရန်</string>
     <string name="thermal_tips_message">လုပ်ဆောင်ရည်မုဒ်အောက်တွင် ဂိမ်းကစားခြင်းသည် စက်အား အပူလွန်စေနိုင်သည်။</string>
     <string name="forbid_autobright_title">မျက်နှာပြင် အော်တိုတောက်ပမှုမှ တားမြစ်မည်</string>
-    <string name="forbid_autobright_summary">"Screen brightness will stay the same when you're playing games"</string>
+    <string name="forbid_autobright_summary">ဂိမ်းကစားနေစဥ် မျက်နှာပြင်တောက်ပမှု ပြောင်းလဲမည် မဟုတ်ပါ</string>
     <string name="gamebooster_lowbattery_notification_title">ဘက်ထရီသည် ၅%%ထက် နည်းနေပြီ</string>
     <string name="gamebooster_lowbattery_notification_summary">စက်မပိတ်မီ အားသွင်းပါ။</string>
     <string name="game_ad_recommendation">လူတိုင်း ကစားနေသည်</string>
-    <string name="game_booster_close">Game Speed Booster off</string>
-    <string name="databooster_tips_title">Attention</string>
-    <string name="databooster_tips_message">Turn on to restrict all SIM cards except for the data card. Turn this feature off if errors occur in the games of your choice.</string>
+    <string name="game_booster_close">ဂိမ်းအရှိန်မြှင့်တင်မှု ပိတ်ထားသည်</string>
+    <string name="databooster_tips_title">သတိပြုရန်</string>
+    <string name="databooster_tips_message">ဒေတာကဒ်မှလွဲ၍ ကျန် SIM ကဒ်အားလုံးကို ကန့်သတ်ထားမည်။ ဂိမ်းပုံမှန်ကစား၍ မရပါက ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါ။</string>
     <string name="power_center_consume_rank">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="power_center_custom_title">ဘက်ထရီ ပရိုဖိုင်များ</string>
     <string name="power_center_auto_shutdown_summary_default">သင့်ကိရိယာကို စီစဥ်ထားသော အချိန်အတိုင်း ပါဝါ ဖွင့်ပါ (သို့) ပိတ်ပါ။</string>

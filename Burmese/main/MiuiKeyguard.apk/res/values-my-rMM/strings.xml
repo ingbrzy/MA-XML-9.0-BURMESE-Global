@@ -59,6 +59,7 @@
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="input_password_handle_sdcard_fs">သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ။ ပထမနေရာမှ ဝင်ရောက်ပါ။</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
+    <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
     <string name="lock_wallpaper_learn_more">ပိုမို၍</string>
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
     <string name="custom_lock_wallpaper_enter">ရိုက်ထည့်</string>
@@ -86,10 +87,6 @@
     <string name="keyguard_charging_info_data_v">%sV</string>
     <string name="keyguard_charging_info_data_c">%s℃</string>
     <string name="keyguard_charging_info_data_percent">%s%%</string>
-    <string name="keyguard_left_smarthome">Mi အိမ်</string>
-    <string name="keyguard_left_remotecentral">Mi ရီမု</string>
-    <string name="keyguard_left_bankcard">Mi Pay</string>
-    <string name="keyguard_left_buscard">သယ်ယူပို့ဆောင်ရေးကဒ်</string>
     <string name="face_data_input_title">မျက်နှာဒေတာကို ပေါင်းထည့်မည်</string>
     <string name="face_data_introduction_title">မျက်နှာသိရှိခြင်း</string>
     <string name="face_data_introduction_msg">မျက်နှာဒေတာသည် သင်၏စက်သော့ဖြည်ခြင်းနှင့် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုခြင်းများ ပြုလုပ်နိုင်သည်။ သင့်မျက်နှာဒေတာကို မပေါင်းထည့်မီ မျက်နှာပြင်သော့ခတ်ရန် စကားဝှက်တစ်ခု သတ်မှတ်ပါ။</string>

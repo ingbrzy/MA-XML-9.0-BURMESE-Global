@@ -501,6 +501,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="set_id3_failed">အချက်လက်သိမ်းမရ</string>
     <string name="set_id3_not_support_format">ဤဖိုင်ပုံစံကို တည်းဖြတ်မရ</string>
     <string name="set_id3_not_have_read_or_write_permission">ဤဖိုင်ကိုတည်းဖြတ်ရန်ခွင့်မရှိ</string>
+    <string name="listview_index_of_total">%1$d/%2$d</string>
     <string name="lyric_setting">သီချင်းစာသားအပြင်အဆင်များ</string>
     <string name="modify_lyric">သီချင်းစာသားတည်းဖြတ်</string>
     <string name="modify_progress">သီချင်းစာသားဆွဲကြည့်အရှိန်ပြောင်းမည်</string>
@@ -521,7 +522,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="bill_list_fragment_title">ပုံစံကားချပ်များ</string>
     <string name="nowplaying_dialog_title_delete_tracks">လက်ရှိ အဖွင့်ဇယားအား ရှင်းမည်လား?</string>
     <string name="nowplaying_menu_item_delete">ရှင်းလင်း</string>
-    <string name="nowplaying_circle_style">Nowplaying Circle Style</string>
+    <string name="nowplaying_circle_style">စက်ဝိုင်းစတိုင်</string>
     <string name="nowplaying_circle_style_wave">လှိုင်း</string>
     <string name="nowplaying_circle_style_rainbow">သက်တံ</string>
     <string name="similar_songs">အလားတူသီချင်းများ</string>

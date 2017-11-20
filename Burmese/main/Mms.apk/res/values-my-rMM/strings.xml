@@ -125,6 +125,7 @@
     <string name="delete_wild_sims_title">ရွေးထားသော နံပါတ်များအား ဖျက်ပါ</string>
     <string name="delivery_report_activity">ပေးပို့ကြောင်းအစီရင်ခံစာ</string>
     <string name="delivery_toast_body">%sမှ မက်ဆေ့ချ်ကို လက်ခံရရှိသည်</string>
+    <string name="dialog_message_sms_report">သင်အစီရင်ခံပြီးသောအခါ စပန်မက်ဆေ့ချ်များနှင့် ပေးပို့သူအချက်အလက်ကို MIUI သို့ တင်လိမ့်မည်။ ယင်းတို့အား MIUI စပန်တိုးတက်ရေးအတွက်သာ အသုံးပြုမည်ဖြစ်သည်။</string>
     <string name="disable_notifications_dialog_message">မူလသတ်မှတ်ချက် မက်ဆေ့ချ်ပို့သည့် အက်ပ်မှ နှစ်ခုထပ်နေသော စာသားမက်ဆေ့ချ် အသိပေးချက်များကို ရပ်မလား?</string>
     <string name="disabled">ပိတ်မည်</string>
     <string name="discard">ဖယ်ထုတ်ရန်</string>
@@ -178,6 +179,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -198,7 +200,7 @@
     <string name="hidden_sender_address">ဝှက်ထားသော ပို့သူလိပ်စာ</string>
     <string name="hold_to_talk">စကားပြောရန် ကိုင်ထားပါ</string>
     <string name="hybrid_check_network">ကွန်ရက်ဆက်တင်များ</string>
-    <string name="hybrid_data_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပွားခဲ့သည်</string>
+    <string name="hybrid_data_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="hybrid_locating_fail">သင့်တည်နေရာကိုရှာမရပါ</string>
     <string name="hybrid_network_access_denied">ကွန်ရက်ဝင်သုံးခြင်းကိုငြင်းခံရပါသည်</string>
     <string name="hybrid_network_unavaliable">ကွန်ရက်သို့မချိတ်ဆက်နိုင်ပါ</string>
@@ -374,7 +376,7 @@
     <string name="pref_hide_verification_code_summary">လုံခြုံသော သော့ခတ်မျက်နှာပြင် ပေါ်တွင် မက်ဆေ့ချ်အသိပေးချက်ရှိ တစ်ကြိမ်သုံးစကားဝှက်အား အလိုလိုကွယ်ဝှက်ပါ</string>
     <string name="pref_messages_to_save">မက်ဆေ့ချ် အရေအတွက်ကို သိမ်းရန် သတ်မှတ်ပါ</string>
     <string name="pref_mms_settings_title">"မာတီမီဒီယာ  (MMS) မက်ဆေ့ချ်များ"</string>
-    <string name="pref_msg_trash_bin_title">မကြာမီကဖျက်လိုက်သော မက်ဆေ့ချ်များ</string>
+    <string name="pref_msg_trash_bin_title">SMS အမှိုက်</string>
     <string name="pref_notification_settings_title">အသိပေးချက်များ</string>
     <string name="pref_other_title">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="pref_show_blocked_messages_summary">စကားပြောဆိုထားမှု စာရင်းထဲတွင် ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
@@ -387,6 +389,7 @@
     <string name="pref_sms_storage_title">သိုလှောင်ခန်း</string>
     <string name="pref_sms_theme_title">ပြသချက်</string>
     <string name="pref_summary_allow_si_sl_push">မက်ဆေ့ချ်များအား ဝက်ဘ်ပေါ်မှ အကြောင်းအရာကို ဖတ်ခွင့်ပြုမည်</string>
+    <string name="pref_summary_allow_upload_message_info">သင်အစီရင်ခံပြီးသောအခါ စပန်မက်ဆေ့ချ်များနှင့် ပေးပို့သူအချက်အလက်ကို MIUI သို့ တင်လိမ့်မည်။</string>
     <string name="pref_summary_auto_delete">သတ်မှတ်ထားသော ပမာဏထက်ကျော်လျှင် မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်ပါ</string>
     <string name="pref_summary_delete_limit">စကားပြောဆိုမှု တစ်ခုလျှင် မက်ဆေ့ချ် %1$s စောင်</string>
     <string name="pref_summary_delivery_reports">ပေးပို့ထားသော မက်ဆေ့ချ်များအတွက် ပေးပို့ပြီး အခြေအနေအား ပြသပါ</string>
@@ -404,6 +407,7 @@
     <string name="pref_system_title">စနစ်</string>
     <string name="pref_title_about_smart_sms">စမတ်မက်ဆေ့ချ်ပါတနာအကြောင်း</string>
     <string name="pref_title_allow_si_sl_push">WAP ဖုန်းထဲပို့သည့် မက်ဆေ့ချ်များကို ခွင့်ပြုပါ (SI/SL)</string>
+    <string name="pref_title_allow_upload_message_info">စပန်မက်ဆေ့ချ်များကို ရယူပါ</string>
     <string name="pref_title_auto_delete">မက်ဆေ့ချ်ဟောင်းများကို ဖျက်ပစ်မည်</string>
     <string name="pref_title_card_format">ကဒ် မျှဝေမှု ဖောမတ်</string>
     <string name="pref_title_delivery_reports">ပေးပို့မှု အခြေအနေ</string>
@@ -525,6 +529,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -556,6 +561,7 @@
     <string name="sms_full_title">စာမက်ဆေ့ချ် မှတ်ညဏ်ပြည့်နေပါပြီ</string>
     <string name="sms_rejected_body">အဝင်စာမက်ဆေ့ချ်ကို ပယ်ချထားလိုက်သည်။</string>
     <string name="sms_rejected_title">စာမက်ဆေ့ချ်ကို ပယ်ချလိုက်သည်</string>
+    <string name="sms_report">စပန်မက်ဆေ့ချ်များကို အစီရင်ခံမည်</string>
     <string name="sms_report_dialog_content">အစီရင်ခံစာ မပေးပို့နိုင်ခဲ့ပါ၊ ထပ်ကြိုးစားကြည့်ပါ</string>
     <string name="sms_report_dialog_retry">ထပ်ကြိုးစားပါ</string>
     <string name="sms_report_dialog_title">ထပ်ကြိုးစားပါ</string>

@@ -123,8 +123,8 @@
     <string name="scenario_policies_summary">မတူသော မြင်ကွင်းများအတွက် ကွဲပြားသော ပါဝါချွေတာမှုကို သုံးမည်။</string>
     <string name="sleep_config_enhance_title">အိပ်စက်ခြင်းမုဒ်</string>
     <string name="sleep_config_enhance_description">MIUI သည် သင်အိပ်စက်နေသည်ကို သိရှိပါက နောက်ခံအက်ပ်များကို ပိတ်ပြီး NFC၊ ဘလူးတုသ်၊ GPS၊ မိုဘိုင်းဒေတာနှင့် Wi-Fi သုံးစွဲမှုကို ကန့်သတ်လိမ့်မည်။ အသိပေးချက်များအတွက်မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
-    <string name="nonui_mode_config_title">အပြန်အလှန်မရှိသော မုဒ်</string>
-    <string name="nonui_mode_config_description">သင့်စက်ကို အိတ်ကပ်ထဲထည့်ထားစဥ် အသိပေးချက်များရှိပါက မျက်နှာပြင်ကို မလင်းစေပါ၊ သတိပေးချက်အလင်း၊ လက်ဗွေနှင့် ထိနှိပ်ထိန်းချုပ်မှုများကိုလည်း ပိတ်ထားမည်။</string>
+    <string name="nonui_mode_config_title">အပြန်အလှန်မရှိ မုဒ်</string>
+    <string name="nonui_mode_config_description">MIUI သည် သင်စက်မသုံးနေသည်ကို သိရှိပါက LED မီး၊ လက်ဗွေအာရုံခံကိရိယာနှင့် ထိန်းချုပ်မှုခလုတ်ကို ပိတ်ပြီး အသိပေးချက်များအတွက် မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
     <string name="scenario_policies_warmcontrol">အပူချိန်ထိန်းချုပ်မှု</string>
     <string name="warm_configure">အပူချိန်ထိန်းချုပ်မှု ဆက်တင်များ</string>
     <string name="important_warning">သတိပြုပါ</string>
@@ -194,12 +194,12 @@
     <string name="cloud_staging_addr">Staging ဆာဗာမှ ဒေတာကို အပ်ဒိတ်လုပ်မည်</string>
     <string name="cloud_international_addr">နိုင်ငံတကာဆာဗာမှ ဒေတာကို အပ်ဒိတ်လုပ်မည်</string>
     <string name="current_cloud_addr_is">Cloud ထိန်းချုပ်မှု ဆာဗာလိပ်စာ-</string>
-    <string name="update_profile_sucess">ဆာဗာမှ အောင်မြင်စွာ အပ်ဒိတ်လုပ်ပြီးပြီ</string>
+    <string name="update_profile_sucess">ဆာဗာမှ အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="update_profile_failture_not_connect_wifi">အပ်ဒိတ်လုပ်၍ မရပါ။ Wi-Fi သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="sucess">ပြီးပါပြီ</string>
     <string name="failure">မအောင်မြင်ပါ</string>
     <string name="cloud_addr_info">Cloud အချက်အလက်</string>
-    <string name="lasttime_feature_cloud">အပ်ဒိတ်လုပ်ထားသော အင်္ဂါရပ်များ-</string>
-    <string name="lasttime_applist_cloud">အပ်ဒိတ်လုပ်ထားသော အက်ပ်စာရင်း-</string>
+    <string name="lasttime_feature_cloud">အပ်ဒိတ်အသွင်ပြင်များ-</string>
+    <string name="lasttime_applist_cloud">အပ်ဒိတ်လုပ်ထားသော အက်ပ်များ-</string>
     <string name="base_info">အခြေခံ အချက်အလက်</string>
 </resources>

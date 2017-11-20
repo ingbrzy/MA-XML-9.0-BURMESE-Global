@@ -287,7 +287,8 @@
     <string name="can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
-    <string name="sdcardfs_dialog_message">ဒေတာအဟောင်းသည် ဖိုင်စနစ်အသစ်နှင့် မကိုက်ညီသောကြောင့် ဒုတိယနေရာသို့ မဝင်မီ ဒေတာများကို အဆင့်မြှင့်တင်ရန် လိုအပ်ပါသည်။ ဤအတောအတွင်း ဖုန်းပိတ်၍ပြန်ဖွင့်လိမ့်မည်။</string>
+    <string name="sdcardfs_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
+    <string name="sdcardfs_dialog_message">MIUI 9 စနစ်ဖိုင်အသစ် ရှိပါပြီ။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် အပ်ဒိတ်လုပ်ရန် အောက်ပါအဆင့်အတိုင်း ဆောင်ရွက်ပါ။ ဤအတောအတွင်း သင်၏စက်သည် နှစ်ကြိမ် ပိတ်၍ပြန်စလိမ့်မည်။</string>
     <string name="do_not_ask">ထပ်မမေးပါနှင့်</string>
     <string name="gpg_message">ဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google Playဂိမ်းများ လိုအပ်ပါသည်။ Google Playဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
     <string name="gpg_title">Google Play ဂိမ်းများအတွက် ပွားထားသော အက်ပ်</string>
@@ -316,4 +317,13 @@
     <string name="privacy_password_fingerprint_dialog_message">သင့်လက်ချောင်းကို အာရုံခံကိရိယာပေါ်တွင် တင်ပါ</string>
     <string name="optimize_now">အဆင့်မြှင့်တင်မည်</string>
     <string name="dialog_title">သတိပြုရန်</string>
+    <string name="remove_user_click_message">*ဒုတိယနေရာတွင် အရေးကြီးသော အိုင်တမ်များမရှိပါက၊ %s</string>
+    <string name="remove_user_click_message_action">ယခု ဒုတိယနေရာကို ဖျက်ပြီး သင်၏စက်ကို ပိတ်၍ပြန်စနိုင်ပါပြီ။</string>
+    <string name="sdcradfs_dialog_in_owner_title">ဒုတိယနေရာ</string>
+    <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 စနစ်ဖိုင်အသစ် ရှိပါပြီ။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် ဒုတိယနေရာမှ အိုင်တမ်များကို ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ၊ ဒုတိယနေရာကို ပြန်လည်ဖန်တီးပြီး အပ်ဒိတ်လုပ်ပါ။
+အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
+    <string name="sdcradfs_dialog_in_sec_title">အရေးကြီးသော မွမ်းမံမှု</string>
+    <string name="sdcradfs_dialog_in_sec_message">"အပ်ဒိတ်လုပ်ရန် ဒုတိယနေရာကို ဖျက်၍ ပြန်ဖန်တီးပါ။ ဒုတိယနေရာမှ ဒေတာများကို ပထမနေရာသို့ ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ။
+အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
+    <string name="space_created_success">ဒုတိယနေရာ ဖန်တီးပြီးပါပြီ</string>
 </resources>

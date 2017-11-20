@@ -8,7 +8,7 @@
     <string name="summary_optimizer">ဒီလုပ်ဆောင်ချက်သည် Cheetah မိုဘိုင်း၏ အွန်လိုင်းဒေတာဘေ့စ်ကို အသစ်မွမ်းမံလုပ်ဖို့အတွက် ဖိုလ်ဒါအမည်များအား အပ်လုတ်တင်ခြင်းဖြစ်ပြီး၊ သင့်ကိရိယာ၏ ID ကိုလည်း လိုအပ်သည်။</string>
     <string name="button_optimizer">အိုကေ</string>
     <string name="name_optimizer">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
-    <string name="title_optimizer">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
+    <string name="title_optimizer">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="header_optimizer">ဤအင်္ဂါရပ်ကို သုံးခြင်းအားဖြင့်၊ သင်အနေနှင့် %s ကို သဘောတူသည်။</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
@@ -384,9 +384,9 @@
     <string name="load_only_under_wlan">Wi-Fi ကိုသာသုံးပြီး လုဒ်တင်ပါ။</string>
     <string name="recommend_news">အကြံပြုချက်များ လက်ခံရရှိသည်။</string>
     <string name="dialog_title_stop_scan">စကန်ဖတ်ခြင်းကို ရပ်မည်</string>
-    <string name="dialog_msg_stop_scan">လုပ်ဆောင်နေသော ရှင်းလင်းရေးစကန်များအား ရပ်မလား?</string>
+    <string name="dialog_msg_stop_scan">စကန်ဖတ်ခြင်းကို ရပ်မည်လား?</string>
     <string name="dialog_title_esc_cleanmaster">သန့်ရှင်းသူမှ ထွက်ပါ</string>
-    <string name="dialog_msg_esc_cleanmaster">နောက်လုပ်မည့် ရှင်းလင်းသည့် စကန်များအား ရပ်မည်လား?</string>
+    <string name="dialog_msg_esc_cleanmaster">စကန်ဖတ်ခြင်းကို ရပ်တန့်ပြီး ယခုထွက်မည်လား?</string>
     <string name="pref_category_title_engine_settings">စကန်ဆိုင်ရာ သတ်မှတ်ချက် ဆက်တင်များ</string>
     <string name="pref_title_choose_engine">သတ်မှတ်ချက်များ</string>
     <string name="recommend_the_following">သင့်စက်၏အကောင်ဆုံးစွမ်းဆောင်ရည်ကို ရရှိရန် အောက်ပါလုပ်ဆောင်ချက်များအား ဆောင်ရွက်ပါ</string>
@@ -473,5 +473,5 @@
     <string name="engine_cm">ရှင်းလင်းရေးမာစတာ</string>
     <string name="app_description_title">သန့်ရှင်းရေးစက်အကြောင်း</string>
     <string name="app_description_content">သန့်ရှင်းစက်သည် သင့်စက်ထဲရှိ အမှိုက်များကိုရှာဖွေနိုင်ပြီး သိုလှောင်ခန်းနေရာလွတ်စေရန် ရှင်းလင်းပေးနိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
-    <string name="engine_init">စတင်နေသည်...</string>
+    <string name="engine_init">စတင်လုပ်ဆောင်နေသည်…</string>
 </resources>

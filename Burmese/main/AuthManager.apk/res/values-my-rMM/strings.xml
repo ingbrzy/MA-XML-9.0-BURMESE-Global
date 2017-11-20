@@ -68,7 +68,7 @@
     <string name="HIPS_Perm_use_sip">ဗီဒီယိုဝန်ဆောင်မှုများ</string>
     <string name="HIPS_Perm_use_sip_Desc">ဗီဒီယိုထုတ်လွှင့်ရန် ဆက်ရှင် အစပြုပရိုတိုခေါအား သုံးပါ</string>
     <string name="HIPS_Perm_process_outgoing_calls">ဖုန်းအက်ပ်အား ဝင်ရောက်သုံး</string>
-    <string name="HIPS_Perm_process_outgoing_calls_Desc">စောင့်ကြည့်ပြီး ခေါ်ဆိုမှုအား အဆုံးသတ်</string>
+    <string name="HIPS_Perm_process_outgoing_calls_Desc">ဖြေဆိုမည်၊ ထောက်လှမ်းမည်၊ ဖုန်းချမည်</string>
     <string name="HIPS_Perm_process_nfc">NFC</string>
     <string name="HIPS_Perm_process_nfc_Desc">အနီးဆက်သွယ်မှု (NFC) ဟာ့ဒ်ဝဲသို့ ဝင်ရောက်သုံးစွဲ</string>
     <string name="HIPS_Perm_install_shortcut">အိမ်မျက်နှာပြင် ရှော့ကဒ်</string>
@@ -90,16 +90,16 @@
     <string name="permission_group_title_media_related">မီဒီယာ</string>
     <string name="permission_group_title_settings_related">ဆက်တင်များ</string>
     <string name="ok">အိုကေ</string>
-    <string name="default_permission_description">အမည်မသိ လုပ်ဆောင်ချက်တစ်ခု လုပ်ဆောင်</string>
+    <string name="default_permission_description">အမည်မသိ လုပ်ဆောင်ချက်တစ်ခု လုပ်ဆောင်မည်</string>
     <string name="location_settings">တည်နေရာ ဆက်တင်များ</string>
     <string name="location_warning">%1$s မှာ ဤစက်၏ တည်နေရာဝန်ဆောင်မှု ထောက်ပံ့ပေးသူ ဖြစ်ပါသည်၊ တည်နေရာဝင်ရောက်မှုအား တည်နေရာ ဆက်တင်များတွင် မွမ်းမံနိုင်ပါသည်။</string>
-    <string name="permission_warning_template">%1$sအား %2$s သို့ ခွင့်ပြုမည်လား?</string>
-    <string name="permission_warning_template_ask">%1$sအား အောက်ပါခွင့်ပြုချက်များ ပေးမလား？</string>
+    <string name="permission_warning_template">%1$sအား %2$s ခွင့်ပြုမလား?</string>
+    <string name="permission_warning_template_ask">%1$sအား အောက်ပါခွင့်ပြုချက်များ ပေးမလား?</string>
     <string name="screen_overlay_title">တစ်ဆင့်ခံမျက်နှာပြင် ထောက်လှမ်းမိ</string>
-    <string name="screen_overlay_message">ဤခွင့်ပြုချက်ဆက်တင်အား ပြောင်းလဲရန်၊ တစ်ဆင့်ခံမျက်နှာပြင်အား ဆက်တင်များထဲတွင် သင်ဦးစွာပြောင်းလဲရန် လိုအပ်ပါသည်။> အက်ပ်များ</string>
+    <string name="screen_overlay_message">ဤခွင့်ပြုချက်အား ပြောင်းလဲရန် ဆက်တင်များ > အက်ပ်များတွင်တစ်ဆင့်ခံမျက်နှာပြင်အား ဦးစွာပိတ်ရမည်။</string>
     <string name="screen_overlay_button">ဆက်တင်မျာအား ဖွင့်ပါ</string>
     <string name="grant_dialog_button_allow">ခွင့်ပြု</string>
     <string name="grant_dialog_button_deny">ငြင်းပယ်ပါ</string>
     <string name="current_permission_template">%2$s ၏%1$s</string>
-    <string name="never_ask_again">ဘယ်တော့မှ ထပ်မပေးပါနှင့်</string>
+    <string name="never_ask_again">ထပ်မမေးပါနှင့်</string>
 </resources>

@@ -454,12 +454,12 @@
     <string name="micloud_sync_alert_dialog_positive">အိုကေ</string>
     <string name="micloud_battery_low_notification_title">ဘက်ထရီနည်းနေသည်</string>
     <string name="micloud_battery_low_notification_message">ဆင့်ခ်လုပ်ရန် အားသွင်းစက်အား ချိတ်ဆက်ပါ</string>
-    <string name="micloud_upgrade_member">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
+    <string name="micloud_upgrade_member">သိုလှောင်မှုနေရာ ရယူပါ</string>
     <string name="micloud_notif_content_depend_wifi">ဆင့်ခ်လုပ်ရန် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_notif_title_master_depend_wifi">Mi ကလောက်နှင့် ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="micloud_notif_content_master_depend_wifi">Wi-Fi သို့ ဦးစွာချိတ်ဆက်ပါ</string>
     <string name="micloud_notif_title_memory_low">Mi ကလောက်နှင့် ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
-    <string name="micloud_notif_content_memory_low">သိုလှောင်ရန်နေရာမလုံလောက်ပါ</string>
+    <string name="micloud_notif_content_memory_low">နေရာလွတ် မလုံလောက်ပါ။</string>
     <string name="micloud_notif_title_battery_low">Mi ကလောက်နှင့် ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="micloud_notif_content_battery_low">ဘက်ထရီအားနည်းနေပါသည်</string>
     <string name="micloud_notif_title_sync_with_off">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>

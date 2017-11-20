@@ -72,7 +72,7 @@
         <item>Wi-Fi ကို ရှာဖွေနေသည်</item>
         <item>GPS အသုံးပြုနေသည်</item>
         <item>CPU ကို နေရာယူထားသည်</item>
-        <item>မကြာခဏ စက်ကို နှိုးနေသည်</item>
+        <item>စက်အား မကြာခဏနှိုးစေသည်</item>
     </string-array>
     <string-array name="power_checker_group_suffix">
         <item></item>

@@ -9,8 +9,8 @@
     <string name="bad_wallpaper_source_prompt">နောက်ခံပုံကို ဆွဲချလို့ မရပါ</string>
     <string name="apply_action">သတ်မှတ်</string>
     <string name="download_action">ဒေါင်းလုဒ်လုပ်ပါ</string>
-    <string name="lock_screen_failed_message">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံအား အသုံးချ၍မရပါ</string>
-    <string name="lock_screen_success_message">သော့အိမ်မျက်နှာပြင်ကို အသုံးချထားသည်</string>
+    <string name="lock_screen_failed_message">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံကို သတ်မှတ်၍ မရပါ</string>
+    <string name="lock_screen_success_message">သော့ခတ်မျက်နှာပြင်အတွက် သုံးမည်</string>
     <string name="wallpaper_failed_message">နောက်ခံပုံသတ်မှတ်၍မရနိုင်ပါ</string>
     <string name="launcher_not_exist">အမှားတစ်ခု ဖြစ်ခဲ့သည်၊အိမ်မျက်နှာပြင်သို့ပြန်သွားပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="image_too_small_message">မူလရုပ်ပုံက အနေတော်လောက် မကြီးပါ</string>
@@ -73,7 +73,7 @@
     <string name="uninstall_xspace_dialog_title_format">နှစ်ခုတွဲအက်ပ် \"%s\" အားဖြတ်ချမည်လား?</string>
     <string name="uninstall_xspace_dialog_message">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="uninstall_with_xspace_dialog_message">ဆက်စပ်နှစ်ခုတွဲအက်ပ်များသည် အက်ပ်ဒေတာနှင့်အတူ ပျက်သွားလိမ့်မည်</string>
-    <string name="confirm_uninstall_dialog_title">ဆက်စပ်နှစ်ခုတွဲအက်ပ်ဒေတာများအား ဖယ်ရှားလိုက်လိမ့်မည်</string>
+    <string name="confirm_uninstall_dialog_title">ဤနှစ်ခုတွဲအက်ပ်အား ဖြုတ်ပစ်မည်</string>
     <string name="confirm_uninstall_dialog_has_xspace_app_msg">ဤအရာနှင့် အတူ နှစ်ခုတွဲ အက်ပ်အား ဖြုတ်ချလိုက် လိမ့်မည်</string>
     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">ဤအရာများနှင့် အတူ နှစ်ခုတွဲ အက်ပ်အား ဖြုတ်ချလိုက် လိမ့်မည်</string>
     <string name="uninstall">ဖြုတ်ပါ</string>
@@ -114,7 +114,7 @@
     <string name="local_wallpaper">ဒေါင်းလုဒ်လုပ်ထားသည်</string>
     <string name="setting_wallpaper_tip">ချိန်ညှိရန် လက်ချောင်းများဖြင့် ညှပ်ပါ (သို့) ပွတ်ဆွဲပါ</string>
     <string name="apply_as_wallpaper">အိမ်မျက်နှာပြင်အဖြစ်သတ်မှတ်ပါ</string>
-    <string name="apply_as_lock_screen">သော့ခတ်မျက်နှာပြင်အဖြစ်သတ်မှတ်ပါ</string>
+    <string name="apply_as_lock_screen">သော့ခတ်မျက်နှာပြင်အတွက် သတ်မှတ်မည်</string>
     <string name="apply_both">နှစ်ခုစလုံး သတ်မှတ်ပါ</string>
     <string name="enable_wallpaper_scroll">ဘေးခြမ်း-ထက်အောက်ရွှေ့ခြင်းကို ဖွင့်ပါ</string>
     <string name="disable_wallpaper_scroll">ဘေးခြမ်း-ထက်အောက်ရွှေ့ခြင်းကို ပိတ်ပါ</string>
@@ -206,7 +206,7 @@
     <string name="toggle_select_title">အထိန်းခလုတ် ရွေးပါ</string>
     <string name="toggle_title">အထိန်းခလုတ်များ</string>
     <string name="settings_shortcut">ဆက်တင်များ</string>
-    <string name="free_style_edit_tab_shortcut">ကြားဖြတ်များ</string>
+    <string name="free_style_edit_tab_shortcut">ရှော့ကဒ်များ</string>
     <string name="free_style_edit_tab_free_component">အရာပစ္စည်းများ</string>
     <string name="free_style_edit_tab_widget">ဝစ်ဂတ်များ</string>
     <string name="free_style_edit_move_tip">အိုင်တမ်တစ်ခုကို ရွှေ့ရန် ဖိ&amp;နှိပ်ထားပါ</string>
@@ -248,7 +248,7 @@
     <string name="recommend_apps_tips">ဤလုပ်ဆောင်ချက်မှာ ပုံမှန်အလုပ်လုပ်ရန် အင်တာနက်ချိတ်ဆက်မှုလိုအပ်ပါသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဤဖိုလ်ဒါအမည်အား ထိနှိပ်ပါ</string>
     <string name="wallpaper_auto_change_title">သော့ခတ် မျက်နှာပြင်</string>
     <string name="wallpaper_scaling_message">ပုံသေအရွယ်အစားသို့　ချဲ့ထွင်နေ</string>
-    <string name="cant_edit_lock_screen">သော့ခတ်မျက်နှာပြင်စတိုင်အား တည်းဖြတ်၍မရနိုင်ပါ</string>
+    <string name="cant_edit_lock_screen">သော့ခတ်မျက်နှာပြင်စတိုင်ကို တည်းဖြတ်၍ မရပါ။</string>
     <string name="screen_number">%d screen</string>
     <string name="delete_screen">မျက်နှာပြင်အားဖျက်</string>
     <string name="add_screen">မျက်နှာပြင်ပေါင်းထည့်</string>
@@ -274,5 +274,5 @@
     <string name="menu_lock">အိမ်မျက်နှာပြင်ဖွဲ့စည်းပုံအား သော့ခတ်ပါ</string>
     <string name="menu_more">ပိုမို၍</string>
     <string name="default_screen_preview_title">ပုံသေမျက်နှာပြင် သတ်မှတ်ရန် ထိနှိပ်ပါ</string>
-    <string name="action_add_to_workspace">Add to workspace</string>
+    <string name="action_add_to_workspace">ဒက်စ်တော့သို့ ပေါင်းထည့်မည်</string>
 </resources>

@@ -256,6 +256,7 @@
     <string name="vcard_export_will_start_message">%s ကို မကြာမီ ပို့သွင်းပါလိမ့်မည်။</string>
     <string name="vcard_export_request_rejected_message">vCard ပို့သွင်းမည်ဆိုသော တောင်းဆိုချက်ကို ပယ်ဖျက်ခဲ့သည်။ နောက်မှ ထပ်ကြိုးစားပါ။</string>
     <string name="vcard_unknown_filename">အဆက်အသွယ်</string>
+    <string name="percentage">%s%%</string>
     <string name="confirm_export_title">အဆက်အသွယ်များကို ပို့သွင်းမလား။</string>
     <string name="confirm_export_message">သင့်အဆက်အသွယ်စာရင်းကို ဖိုင်သို့ ပို့သွင်းပါလိမ့်မည်: %s.</string>
     <string name="exporting_contact_failed_title">ပို့သွင်းလို့ မရပါ</string>
@@ -400,6 +401,7 @@
     <string name="recent">မကြာမီက</string>
     <string name="recent_updates">မကြာမီက အသစ်မွမ်းမံများ</string>
     <string name="account_type_format">%1$s အဆက်အသွယ်</string>
+    <string name="from_account_format">%1$s</string>
     <string name="use_photo_as_primary">ဒီဓာတ်ပုံ သုံးပါ</string>
     <string name="contact_read_only">ဒီအက်ပ်မှဆိုလျှင် တည်းဖြတ်လို့ မရနိုင်ပါ။</string>
     <string name="no_contact_details">ဒီအဆက်အသွယ်အတွက် နောက်ထပ် အချက်အလက် မရှိတော့ပါ။</string>
@@ -467,6 +469,7 @@
     <string name="non_phone_add_to_contacts">ရှိပြီးသားအဆက်အသွယ်သို့ ပေါင်းထည့်ပါ</string>
     <string name="activity_title_confirm_add_detail">အဆက်အသွယ်သို့ ထည့်ပါ</string>
     <string name="non_phone_close">ပိတ်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="date_year_toggle">ခုနှစ် သတ်မှတ်ပေးပါ</string>
     <string name="social_widget_label">အဆက်အသွယ်</string>
     <string name="social_widget_loading">ဆွဲချနေဆဲ…</string>
@@ -484,6 +487,7 @@
     <string name="toast_text_copied">စာသားကို ကော်ပီကူးထားသည်</string>
     <string name="cancel_confirmation_dialog_title">ပယ်ဖျက်ပါ</string>
     <string name="cancel_confirmation_dialog_message">သင့်အပြောင်းအလဲများကို စွန့်ပစ်မလား။</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="profile_display_name">ကျွန်ုပ်ပရိုဖိုင်ကို နေရာသတ်မှတ်ပါ</string>
     <string name="enter_contact_name">လူပုဂ္ဂိုလ်အမည် ရိုက်ထည့်ပါ</string>
     <string name="view_updates_from_group">အသစ်မွမ်းမံများ ကြည့်ပါ</string>
@@ -559,7 +563,7 @@
     <string name="import_from_sim2">SIM ကဒ် ၂ မှသွင်းပါ</string>
     <string name="sim_no_contact">SIM ကဒ်ထဲတွင် အဆက်အသွယ်များမရှိပါ</string>
     <string name="sim_indexed_contact_not_exist">SIM ကဒ်ထဲရှိ နေရာအကွာအဝေး %1$d သည် အကျုံးမဝင်ပါ။ နေရာအကွာအဝေးသည် %2$d နှင့် %3$d ကြားဖြစ်ရမည်။</string>
-    <string name="sim_contact_search_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပွားသည်</string>
+    <string name="sim_contact_search_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်</string>
     <string name="account_sim">SIM ကဒ်</string>
     <string name="account_sim2">SIM ကဒ် %d</string>
     <string name="display_sim_contacts">SIM အဆက်အသွယ်များကို ပြပါ</string>
@@ -610,7 +614,7 @@
     <string name="contact_detail_profile_switch_off">အဆက်သွယ်ကဒ်များအား ပိတ်ပါ</string>
     <string name="contact_detail_profile_switch_on_success_toast">အဆက်သွယ်ကဒ်ဖွင့်</string>
     <string name="contact_detail_profile_switch_on_fail_toast">အဆက်သွယ်ကဒ်အား မဖွင့်နိုင်ခဲ့ပါ။</string>
-    <string name="contact_detail_profile_switch_fail_toast">ကျွန်ုပ်တို့၏ ဆာဗာတွင် တစ်ခုခု မှားယွင်းမှု ဖြစ်ပွားခဲ့သည်။</string>
+    <string name="contact_detail_profile_switch_fail_toast">ကျွန်ုပ်တို့၏ ဆာဗာတွင် တစ်ခုခု မှားယွင်းမှု ဖြစ်ပေါ်ခဲ့သည်။</string>
     <string name="contact_detail_profile_switch_off_success_toast">အဆက်သွယ်ကဒ်ပိတ်ထားသည်</string>
     <string name="contact_detail_profile_switch_off_fail_toast">အဆက်သွယ်ကဒ်အား မပိတ်နိုင်ခဲ့ပါ</string>
     <string name="contact_detail_profile_switch_fail_network_toast">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -637,6 +641,7 @@
     <string name="miprofile_alertdialog_message">ကဒ်များအား ဖလှယ်ရန်သင်မေးလိုက်စဉ် ဤအမည်အား ဆက်သွယ်မှုများသို့ ပြသပါ</string>
     <string name="miprofile_alertdialog_edit">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="miprofile_switch_off_alertdialog_message">လိပ်စာကဒ်အား အခြားသူများနှင့် လဲလှယ်နိုင်မည် မဟုတ်ပါ။</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_bind_account_alertdialog_title">ဖုန်းနံပါတ် ထည့်ပါ</string>
     <string name="miprofile_bind_account_alertdialog_message">ဤလုပ်ဆောင်ချက်အား အသုံးပြုရန် ဤစက်၏ဖုန်းနံပါတ်အား သင့်Miအကောင့်ထဲသို့ပေါင်းထည့်ရန် လိုအပ်ပါလိမ့်မည်။</string>
     <string name="miprofile_bind_account_alertdialog_positive">နံပါတ်ထည့်မည်</string>
@@ -957,6 +962,7 @@
     <string name="preference_smart_group_location_summary">ဧရိယာကုဒ်အလိုက်အုပ်စုဖွဲ့ပါ</string>
     <string name="preference_smart_group_frequency_title">မကြာမီက</string>
     <string name="preference_smart_group_frequency_summary">လတ်တလော အများဆုံးခေါ်ဆိုထားမှုအလိုက် အုပ်စုဖွဲ့ပါ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_label">စမတ်အုပ်စုများ</string>
     <string name="smart_group_loading">ခဏလောက်စောင့်…</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
@@ -1011,6 +1017,7 @@
     <string name="device_import_local_account">ဒေသတွင်းအကောင့်</string>
     <string name="import_name">အမည်</string>
     <string name="import_percent">0%</string>
+    <string name="percent_sign">%</string>
     <string name="ret_sign">"
 "</string>
     <string name="checkhint">ပစ်မှတ်ဖုန်းကိုစစ်ဆေးပါ</string>
@@ -1079,7 +1086,7 @@
     <string name="select_groups">အုပ်စုများကို ရွေးချယ်ပါ</string>
     <string name="sim_capacity_content" formatted="false">%d စုစုပေါင်း | %d သုံးစွဲထားမှု</string>
     <string name="sim_unloaded">SIM ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
-    <string name="sim_error_generic_failure">မှားယွင်းမှုတစ်ခု ဖြစ်ပွားသည်</string>
+    <string name="sim_error_generic_failure">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်</string>
     <string name="sim_error_storage_full">SIM ကဒ်သိုလှောင်ခန်း ပြည့်နေသည်</string>
     <string name="sim_error_text_too_long">အမည်အရမ်းရှည်သည်</string>
     <string name="sim_error_number_too_long">နံပါတ်အရမ်းရှည်သည်</string>
@@ -1174,7 +1181,7 @@
     <string name="dialer_menu_title">မီနူးရွေးစရာများ</string>
     <string name="profile_binded_numbers">%s</string>
     <string name="hybrid_network_unavaliable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
-    <string name="hybrid_data_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပွားခဲ့သည်</string>
+    <string name="hybrid_data_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့သည်</string>
     <string name="hybrid_locating_fail">သင့်တည်နေရာကိုရှာမရပါ</string>
     <string name="hybrid_check_network">ကွန်ရက်ဆက်တင်များ</string>
     <string name="hybrid_service_unavailiable">ဝန်ဆောင်မှုမရရှိပါ</string>

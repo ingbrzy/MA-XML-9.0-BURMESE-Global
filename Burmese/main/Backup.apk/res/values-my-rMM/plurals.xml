@@ -22,15 +22,15 @@
         <item quantity="other">အိုင်တမ်</item>
     </plurals>
     <plurals name="save_item_saving_summary">
-        <item quantity="other">Restored %d items</item>
+        <item quantity="other">အိုင်တမ် %dခု ပြန်သိမ်းဆည်းခဲ့သည်</item>
     </plurals>
     <plurals name="save_item_saved_summary">
-        <item quantity="other">Imported and restored %d items</item>
+        <item quantity="other">အိုင်တမ် %dခု တင်သွင်းပြီး ပြန်သိမ်းဆည်းခဲ့သည်</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg1">
-        <item quantity="other">"Imported %d items. "</item>
+        <item quantity="other">"အိုင်တမ် %dခု တင်သွင်းခဲ့သည်။ "</item>
     </plurals>
     <plurals name="save_item_failed_summary_seg2">
-        <item quantity="other">Import %d items again.</item>
+        <item quantity="other">အိုင်တမ် %dခုကို ပြန်တင်သွင်းမည်။</item>
     </plurals>
 </resources>

@@ -39,7 +39,7 @@
     <string name="onscreen_add_call_text">ခေါ်ဆိုခြင်းထည့်</string>
     <string name="onscreen_audio_mode_bluetooth">ဘလူးတုသ်</string>
     <string name="onscreen_audio_mode_conference">ညီလာခံ</string>
-    <string name="onscreen_audio_mode_handset">လက်ကိုင်မဲ့</string>
+    <string name="onscreen_audio_mode_handset">နားကြပ်</string>
     <string name="onscreen_audio_mode_headset">နားကြပ်</string>
     <string name="onscreen_audio_mode_speaker">စပီကာ</string>
     <string name="onscreen_audio_switch_mode">အော်ဒီယိုပြောင်း</string>

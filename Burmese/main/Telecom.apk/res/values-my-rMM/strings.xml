@@ -294,7 +294,7 @@
     <string name="notification_missedCall_call_back">ပြန်ခေါ်ဆို</string>
     <string name="notification_missedCall_message">မက်ဆေ့ချ်</string>
     <string name="accessibility_call_muted">ခေါ်ဆိုသံတိတ်ထား။</string>
-    <string name="accessibility_speakerphone_enabled">စပီကာဖုန်းဖွင့်ထား။</string>
+    <string name="accessibility_speakerphone_enabled">စပီကာဖွင့်ထားသည်</string>
     <string name="respond_via_sms_canned_response_1">ယခုပြောဆိုမရနိုင်ပါ။ ဘာဖြစ်တာပါလဲ?</string>
     <string name="respond_via_sms_canned_response_2">နောက်ပြန်ခေါ်ပါမည်။</string>
     <string name="respond_via_sms_canned_response_3">နောက်မှပြန်ဆက်ပါမည်။</string>
@@ -306,9 +306,9 @@
     <string name="respond_via_sms_confirmation_format">%s သို့မက်ဆေ့ချ်အား အောင်မြင်စွာ ပေးပို့ပြီးပါပြီ</string>
     <string name="enable_account_preference_title">ခေါ်နေသော အကောင့်များ</string>
     <string name="outgoing_call_not_allowed_user_restriction">အရေးပေါ်ဖုန်းများသာ ခေါ်ဆိုခွင့်ရှိသည်။</string>
-    <string name="outgoing_call_not_allowed_no_permission">ဖုန်းခွင့်ပြုချက်မပါက ဤအပလီကေးရှင်းသည် အထွက်ခေါ်ဆိုမှုများအား လုပ်ဆောင်၍မရပါ။</string>
+    <string name="outgoing_call_not_allowed_no_permission">ခွင့်ပြုချက်မရဘဲနှင့် ဤအပလီကေးရှင်းသည် အထွက်ခေါ်ဆိုမှုများအား လုပ်ဆောင်၍မရပါ။</string>
     <string name="outgoing_call_error_no_phone_number_supplied">ခေါ်ဆိုမှု ပြုလုပ်ရန်၊ ဘောင်ဝင်သော နံပါတ်တစ်ခုအား ရိုက်ထည့်ပါ</string>
-    <string name="duplicate_video_call_not_allowed">ခေါ်ဆိုမှုအား ယခုထည့်သွင်း၍မရပါ။</string>
+    <string name="duplicate_video_call_not_allowed">နောက်ထပ်ခေါ်ဆိုမှုများ ပေါင်းထည့်၍ မရပါ</string>
     <string name="no_vm_number">အသံမေးလ်နံပါတ် ပျောက်နေပါသည်</string>
     <string name="no_vm_number_msg">မည်သည့် အသံမေးလ် နံပါတ်ကိုမှ SIM ကဒ်ထဲတွင် မသိမ်းထားပါ။</string>
     <string name="add_vm_number_str">နံပါတ်ထည့်မည်</string>
@@ -320,17 +320,17 @@
     <string name="block_number">နံပါတ်တစ်ခု ထည့်မည်</string>
     <string name="unblock_dialog_body">ဘလော့လုပ်ထားခြင်းမှ ဖြုတ်မည်လား %1$s?</string>
     <string name="unblock_button">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
-    <string name="add_blocked_dialog_body">အောက်ပါနံပါတ်များမှ ခေါ်ဆိုမှု သို့မဟုတ် မက်ဆေ့ဂျ်များကို ဘလော့လုပ်ပါ-</string>
+    <string name="add_blocked_dialog_body">အောက်ပါ ဖုန်းခေါ်ဆိုမှုများနှင့် မက်ဆေ့ချ်များကို ဘလော့လုပ်ပါ</string>
     <string name="add_blocked_number_hint">ဖုန်းနံပါတ်</string>
     <string name="block_button">ဘလော့လုပ်မည်</string>
     <string name="non_primary_user">စက်ပိုင်ရှင်သာ ဘလော့လုပ်ထားသော နံပါတ်များကို စီမံကြည့်ရှုနိုင်သည်။</string>
     <string name="delete_icon_description">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
-    <string name="blocked_numbers_butter_bar_title">ဘလော့လုပ်ခြင်းကို ယာယီပိတ်ထားသည်</string>
-    <string name="blocked_numbers_butter_bar_body">အရေးပေါ်နံပါတ်ကို သင်ခေါ်ဆိုလိုက်လျှင် သို့မဟုတ် မက်ဆေ့ဂျ်ပို့လိုက်လျှင် အရေးပေါ်ဝန်ဆောင်မှုများမှ သင့်အားဆက်သွယ်နိုင်ရန် ဘလော့လုပ်ခြင်းကို ပိတ်ထားမည်။</string>
-    <string name="blocked_numbers_butter_bar_button">ယခု ပြန်ဖွင့်မည်</string>
+    <string name="blocked_numbers_butter_bar_title">ဘလော့စာရင်း ပိတ်ထားသည်</string>
+    <string name="blocked_numbers_butter_bar_body">အရေးပေါ်နံပါတ်ကို သင်ခေါ်ဆိုလိုက်လျှင် သို့မဟုတ် မက်ဆေ့ဂျ်ပို့လိုက်လျှင် အရေးပေါ်ဝန်ဆောင်မှုများမှ သင့်အားဆက်သွယ်နိုင်ရန် ဘလော့စရငိးကို ပိတ်ထားမည်။</string>
+    <string name="blocked_numbers_butter_bar_button">ပြန်ဖွင့်ပါ</string>
     <string name="blocked_numbers_number_blocked_message">%1$s ဘလော့လုပ်ထားသည်</string>
     <string name="blocked_numbers_number_unblocked_message">%1$s ဘလော့လုပ်ထားခြင်းမှ ဖြုတ်ပြီးပြီ။</string>
-    <string name="blocked_numbers_block_emergency_number_message">အရေးပေါ်နံပါတ်ကို ဘလော့လုပ်၍မရပါ။</string>
+    <string name="blocked_numbers_block_emergency_number_message">အရေးပေါ်နံပါတ်ကို ဘလော့လုပ်၍မရပါ</string>
     <string name="blocked_numbers_number_already_blocked_message">%1$s ကိုဘလော့လုပ်ထားပြီးဖြစ်သည်။</string>
     <string name="test_account_0_label">Q Mobile</string>
     <string name="test_account_1_label">Market Wireless</string>
@@ -341,8 +341,8 @@
     <string name="test_account_2_short_description">Talk to everyone in your Circles!</string>
     <string name="test_account_3_short_description">Chat with Chat Network users</string>
     <string name="handle_restricted">RESTRICTED</string>
-    <string name="toast_personal_call_msg">ကိုယ်ပိုင်နံပါတ်ကွက်ဖြင့် ဖုန်းခေါ်ဆိုမည်</string>
-    <string name="toast_make_video_call_failed">နံပါတ်ဖောမတ်မှားနေသောကြောင့် ဗီဒီယိုခေါ်ဆို၍မရပါ။</string>
+    <string name="toast_personal_call_msg">ကြိုက်နှစ်သက်ရာ သုံးပါ</string>
+    <string name="toast_make_video_call_failed">ဗီဒီယိုခေါ်ဆိုမှု ပြုလုပ်၍မရပါ။ သင်ရိုက်ထည့်သော နံပါတ်သည် မမှန်ကန်ပါ။</string>
     <string name="headset_plugin_view_text">နားကြပ် တပ်ဆင်ထားသည်။</string>
     <string name="headset_plugin_view_title">နားကြပ်</string>
     <string name="voice_report_incoming_call">အဝင်ဖုန်းခေါ်ဆိုမှု</string>
@@ -359,7 +359,7 @@
     <string name="callFailed_simError">SIM ကဒ် အမှား</string>
     <string name="incall_error_supp_service_unknown">ဤဝန်ဆောင်မှုကို မပံ့ပိုးထားပါ။</string>
     <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်ပျံမုဒ်ကို ပိတ်ပါ</string>
-    <string name="change_default_dialer_dialog_affirmative">ပုံသေ သတ်မှတ်ပါ</string>
+    <string name="change_default_dialer_dialog_affirmative">မူလသတ်မှတ်ထားသော ဖုန်းအက်ပ်အဖြစ် အသုံးပြုမည်</string>
     <string name="change_default_dialer_dialog_negative">ပယ်ဖျက်မည်။</string>
     <string name="change_default_dialer_warning_message">%s သည် ဖုန်းခေါ်ဆိုမှုနှင့်ထိန်းချုပ်မှုအားလုံးကို လုပ်ဆောင်နိုင်မည်ဖြစ်သည်။ သင်ယုံကြည်စိတ်ချရသော အက်ပ်ကိုသာ ပုံသေဖုန်းအက်ပ်အဖြစ် သတ်မှတ်ပါ။</string>
 </resources>

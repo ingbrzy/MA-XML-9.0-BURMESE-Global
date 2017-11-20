@@ -16,7 +16,7 @@
     <string name="michat_menu_copy_text">ကူးယူ</string>
     <string name="michat_network_unavaliable">အချက်အလက်မရနိုင်ခဲ့၊ ကွန်ရက်ချိတ်ဆက်မှုအား စစ်ဆေးကြည့်ပါ</string>
     <string name="michat_service_unavailiable">အချက်အလက်မရရှိနိုင်၊ နောက်မှပြန်လုပ်ကြည့်ပါ</string>
-    <string name="michat_data_error">အမှားတစ်ခုဖြစ်ပွားခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
+    <string name="michat_data_error">အမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="michat_check_network">ကွန်ရက် ဆက်တင်များအားစစ်ဆေးပါ</string>
     <string name="michat_try_again">ထပ်ကြိုးစား</string>
     <string name="michat_type_list_null">အချက်အလက်မရရှိနိုင်၊ နောက်မှပြန်လုပ်ကြည့်ပါ</string>
@@ -44,7 +44,7 @@
     <string name="michat_invation_invite_full">စိတ်မကောင်းပါ၊ ဝန်ထမ်းများ အလုပ်များနေပါတယ်။ နောက်မှပြန်လုပ်ကြည့်ပါ။</string>
     <string name="michat_cant_access_artificial">အထောက်အပံ့သို့ ယခုဆက်သွယ်မရနိုင်ပါ</string>
     <string name="michat_cant_join_artificial">ကွန်ရက်ပြဿနာကြောင့် ချိတ်ဆက်၍မရပါ</string>
-    <string name="michat_lose_artificial">ကွန်ရက်အမှားတစ်ခု ဖြစ်ပွားခဲ့သည်၊ သင် chat မှထွက်သွားခဲ့သည်</string>
+    <string name="michat_lose_artificial">ကွန်ရက်အမှားတစ်ခု ဖြစ်ပေါ်ခဲ့သည်၊ သင် chat မှထွက်သွားခဲ့သည်</string>
     <string name="michat_transfer_message">သင့်အားအကူညီပေးရန် ပုဂ္ဂိုလ်တစ်ဦးလိုက်ရှာနေပါသည်…</string>
     <string name="michat_queue_pos_update">သင့်ရှေ့တွင် လူ%1$dဦးစောင့်နေပါသည်။ ခဏလောက်စောင့်ပါ…</string>
     <string name="michat_in_artificial_customer_state">အခြားတစ်ဦးအကူညီဖြင့်လည်း လုပ်၍မရနိုင်ပါ</string>
@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကတ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -78,11 +79,11 @@
     <string name="multi_graph_more">စုစုပေါင်းအိုင်တမ်များ−%d</string>
     <string name="network_errortip_noconnection">ကွန်ရက်သို့ချိတ်ဆက်၍မရနိုင်ပါ၊ ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပါ</string>
     <string name="network_errorbtntip_noconnection">ကွန်ရက် ဆက်တင်များအားစစ်ဆေးပါ</string>
-    <string name="network_errortip_server">ဆာဗာအမှားတစ်ခုဖြစ်ပွားခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
+    <string name="network_errortip_server">ဆာဗာအမှားတစ်ခုဖြစ်ပေါ်ခဲ့၊ နောက်မှ ပြန်လုပ်ကြည့်ပါ</string>
     <string name="network_errorbtntip_server">ထပ်မံကြိုးစားပါ</string>
     <string name="network_errortip_timeout">ကော်နက်ရှင် အချိန်ကုန်သွားပြီ။ နောက်မှ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="network_errorbtntip_timeout">ထပ်မံကြိုးစားပါ</string>
-    <string name="network_errortip_parse">မှားယွင်းမှုတစ်ခု ဖြစ်ပွားခဲ့ပါသည်</string>
+    <string name="network_errortip_parse">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်ခဲ့ပါသည်</string>
     <string name="network_errorbtntip_parse">ထပ်မံကြိုးစားပါ</string>
     <string name="network_errortip_unknow">ကျွန်ုပ်တို့ ပြင်ဆင်ရန် ကြိုးစားနေပါသည်…</string>
     <string name="network_errorbtntip_unknow">ထပ်မံကြိုးစားပါ</string>
@@ -132,10 +133,10 @@
     <string name="toast_report_sent_failed">ရီပို့ကို ပို့မရပါ</string>
     <string name="toast_report_copied_to_clipboard">ကလစ်ဘုတ်သို့ ကော်ပီကူးထားသော ရီပို့</string>
     <string name="toast_description_required">ဖော်ပြချက်တစ်ခုကို သင် ရေးသားရန် လိုအပ်သည်</string>
-    <string name="toast_feedbackservice_in_submit">မကြာမီက တုံ့ပြန်အကြံပြုချက်ကို ဖြေရှင်းခြင်း…</string>
+    <string name="toast_feedbackservice_in_submit">ယခင်က တုံ့ပြန်အကြံပြုချက်ကို ဖြေရှင်းနေသည်…</string>
     <string name="toast_pending_log_collection">မှတ်တမ်းများ ရယူနေဆဲပါ…</string>
     <string name="toast_feedback_submitted">ရီပို့ ပို့ထားသည်</string>
-    <string name="toast_feedback_submitting">ပေးပို့နေ…</string>
+    <string name="toast_feedback_submitting">ပေးပို့နေသည်…</string>
     <string name="toast_feedback_collect_store">မှတ်တမ်းများ ကောက်ယူနေဆဲ…</string>
     <string name="toast_feedback_pending_wlan">ရီပို့ကို Wi-Fiချိတ်ဆက်မှုတစ်ခုသို့ သင် ချိတ်ဆက်သောအခါ ပို့ပါလိမ့်မည်။</string>
     <string name="toast_feedback_network_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>

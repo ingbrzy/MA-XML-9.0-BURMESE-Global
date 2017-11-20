@@ -19,7 +19,7 @@
     <string name="no_storage">အတွင်းသိုလှောင်မှု မရှိ</string>
     <string name="no_network">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="preparing_sd">အတွင်းသိုလှောင်မှုအား ပြင်ဆင်နေ…</string>
-    <string name="spaceIsLow_content">အတွင်းသိုလှောင်မှု နေရာမလုံလောက်ပါ။ နေရာတစ်ချို့အား ရှင်းလိုက်ပါ</string>
+    <string name="spaceIsLow_content">အတွင်းပိုင်းသိုလှောင်ခန်း နေရာမလုံလောက်ပါ။ နေရာတစ်ချို့အား ရှင်းလင်းပါ။</string>
     <string name="module_title_code">QR ကုဒ်</string>
     <string name="module_title_shopping">ဈေးဝယ်</string>
     <string name="module_title_translation">ဘာသာပြန်ဆို</string>

@@ -35,7 +35,7 @@
     <string name="summary_not_set">မသတ်မှတ်ထား</string>
     <string name="ime_privacy_policy">ရွေးထားသော ကီးဘုတ်အတွက် ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="ime_privacy_policy_no_network">ကွန်ရက်ချိတ်ဆက်မှု မရှိပါ။ ဒီကီးဘုတ်အတွက်ကိုယ်ပိုင်ရေးရာမူဝါဒကို၊ %s ၌ ကြည့်ပါ</string>
-    <string name="terms_of_use">စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</string>
+    <string name="terms_of_use">စည်းကမ်းသတ်မှတ်ချက်များ</string>
     <string name="terms_of_use_label">"သင့်ကိုယ်ရေးအချက်အလက်လုံခြုံမှုသည် ကျွန်ုပ်တို့အတွက် အလွန်အရေးကြီးပါသည်။ ကျွန်ုပ်တို့၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုပေါ်လစီတို့ကို သေချာစွာဖတ်ရှုပြီး ကျွန်ုပ်တို့မှ မည်သည့်အချက်အလက်များရယူသည်၊ မည်သို့မည်ပုံအသုံးပြုသည်၊ မည်ကဲ့သို့သော ရွေးချယ်မှုများကို သင်ပြုလုပ်နိုင်သည်ကို သိရှိအောင်လုပ်ပါ။ 
 
  MIUI ကိုအသုံးမပြုမီ ကျွန်ုပ်တို့၏ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များနှင့် ကိုယ်ရေးအချက်အလက်လုံခြုံမှုပေါ်လစီကို သဘောတူရပါမည်။ အသက်သွင်းနေစဉ် Mi ဝန်ဆောင်မှုများ၊ Mi SIM အသက်သွင်းဝန်ဆောင်မှုများ၊ Mi Cloud၊ စက်ရှာဖွေခြင်း၊ အိမ်မျက်နှာပြင် မော်ဂျူးများ၊ ဂိမ်းဝန်ဆောင်မှုများ၊ MAB နှင့် MSA စနစ်အစိတ်အပိုင်းများ၊ တိုက်ရိုက်ဝန်ဆောင်မှုများ၊ စာရင်းဇယားများ၊ MiSmartကဒ်၊ MiLinkနှင့် Mi အကောင့်အစိတ်အပိုင်းများသည် အင်တာနက်သို့ချိတ်ဆက်ပြီး သင့်တည်နေရာကို ရယူပါလိမ့်မည်။"</string>
@@ -71,7 +71,7 @@
     <string name="two_dimensional_code_scan">QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="user_strayed_warning">ဤစာမျက်နှာသည် စက်ရုံစစ်ဆေးရေးအတွက်ဖြစ်သည်၊ နောက်ဆုတ်ခလုတ်ကို နှိပ်၍ထွက်ပါ။</string>
     <string name="fail_to_generate_qr_code">QR ကုဒ် မထွက်ပေါ်လာပါ။ ဤစာမျက်နှာကို ပြန်ဖွင့်ပါ။</string>
-    <string name="enable_accessibility_canceled">Accessibility canceled.</string>
-    <string name="accessibility_enabled">Accessibility enabled.</string>
-    <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
+    <string name="enable_accessibility_canceled">ဝင်သုံးခွင့် ဖျက်သိမ်းလိုက်သည်။</string>
+    <string name="accessibility_enabled">ဝင်သုံးခွင့် ဖွင့်ထားသည်။</string>
+    <string name="continue_to_enable_accessibility">ဝင်သုံးခွင့် ဖွင့်ရန် လက်ချောင်းနှစ်ချောင်းဖြင့် ဖိထားပါ။</string>
 </resources>
