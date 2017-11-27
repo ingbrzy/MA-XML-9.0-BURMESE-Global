@@ -106,7 +106,6 @@
     <string name="package_filter">ပက်ကေ့ချ်များ</string>
     <string name="other_filter">အခြား</string>
     <string name="xunlei_brand">Xunlei ဖြင့် အားဖြည့်ထားသော</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Xunlei ဒေါင်းလုဒ်အင်ဂျင်</string>
     <string name="turn_off_xunlei_title">Xunlei အားပိတ်ပါ</string>
     <string name="turn_off_xunlei_message">ဒေါင်းလုဒ်အရှိန်နှေးသွားခြင်းကို တွေ့ကြုံနိုင်သည်။</string>

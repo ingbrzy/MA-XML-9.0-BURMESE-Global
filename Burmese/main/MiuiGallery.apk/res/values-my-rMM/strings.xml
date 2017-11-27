@@ -792,7 +792,6 @@
     <string name="search_feedback_false_negative_text">\"%s\"သို့ ဓာတ်ပုံများ ပေါင်းထည့်မလား?</string>
     <string name="search_feedback_contribute">ဓာတ်ပုံများကို AI တွက်နည်း ဒေတာဘေ့စ်သို့ ပေါင်းထည့်မည်</string>
     <string name="search_feedback_task_finish_title">ဆုလာဘ်များ လက်ခံရရှိရန် ထိနှိပ်ပါ!</string>
-    <string name="search_feedback_task_progress">%1$d/%2$d</string>
     <string name="search_feedback_likely_title">ဤဓာတ်ပုံများသည် \"%s\"ဖြစ်နိုင်သည်</string>
     <string name="search_feedback_likely_check_title">စစ်ဆေးပါ</string>
     <string name="search_feedback_false_positive_title">ဤအရာများသည် \"%s\"ဖြစ်နိုင်သည်</string>
@@ -802,7 +801,6 @@
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
-    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
     <string name="loading">ခဏစောင့်ပါ</string>
     <string name="loading_dots">ခဏလောက်စောင့်…</string>
