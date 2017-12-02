@@ -1,85 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="dialog_insufficient_space_on_external">ပြင်ပသိုလှောင်မှုတွင် နေရာအလုံအလောက်မရှိပါ</string>
-    <string name="dialog_insufficient_space_on_cache">စက်အတွင်းပိုင်းသိုလှောင်မှုတွင် နေရာအလုံအလောက်မရှိပါ</string>
-    <string name="auto_restart_under_wifi">Wi-Fi သည်ဤဖိုင်အား အလိုအလျောက် ဒေါင်းလုတ်လုပ်ပါလိမ့်မည်</string>
-    <string name="task_already_exist">လုပ်ငန်းစဉ်ရှိပြီး</string>
-    <string name="privacy_tip_title">Xunlei ဒေါင်းလုတ်အရှိန်မြင့်တင်ရေးအား အသုံးပြုမည်လား။?</string>
-    <string name="privacy_tip_content">ဒေါင်းလုတ်ဆွဲခြင်းအားအရှိန်မြင့်တင်ရန် Xunlei ဒေါင်းလုတ်အရှိန်မြင့်တင်ရေးအား အသုံးပြုမည်လား။ဒေါင်းလုတ်ဆွဲရာဝက်ဘ်ဆိုက် URL လိပ်စာအား Xunlei ဆာဗာထဲသို့ တင်သွင်းလိမ့်မည်။ဤတန်ဆောင်မှုနှင့်စပ်လျဉ်းပြီး သင်ဝယ်ယူသုံးစွဲနေမှုရှိမရှိ စစ်ဆေးရန် သင့် Mi အကောင့်အသေးစိတ်အချက်လက်များအားလည်း တင်သွင်းလိမ့်မည်။</string>
-    <string name="privacy_tip_cancel">ပယ်ဖျက်ပါ</string>
-    <string name="privacy_tip_ok">အိုကေ</string>
-    <string name="privacy_notif_title">Xunlei ဒေါင်းလုတ်အရှိန်မြင့်တင်ရေးအားဖွင့်ထား</string>
-    <string name="privacy_notif_content">အသေးစိတ်ကို ကြည့်ရန်ထိပါ။.</string>
-    <string name="notif_text_engine_on">အရှိန်မြင့်တင်နေ…</string>
-    <string name="notif_text_engine_off">Xunlei ဒေါင်းလုတ်အရှိန်မြင့်တင်ရေးအားပိတ်ထား။</string>
-    <string name="notif_title_single_downloading">ဒေါင်းလုတ်ဆွဲနေ %1$s</string>
-    <string name="notif_title_multiple_downloading">ဖိုင် %1$d ခုအားဒေါင်းလုတ်ဆွဲနေ</string>
-    <string name="notif_title_file_size">စုစုပေါင်း %1$d ခု</string>
     <string name="paused_waiting_for_network">ကွန်ရက်ကို စောင့်နေသည်</string>
-    <string name="warning_tip_title">ဒေတာအသုံးပြုမှု သတိပေးချက်</string>
-    <string name="warning_tip_content">သင်Wi-Fiနှင့်ချိတ်ဆက်မှုမရှိတော့ပါ။ဤဒေါင်းလုတ်အားပြီးဆုံးရန် သင့်ဖုန်းအင်တာနက်ဒေတာချိတ်ဆက်မှုအားသုံးစွဲပါက သင့်ဒေတာသုံးစွဲမှုမြင့်တက်လာမည်။သင် အင်တာနက်ဒေတာကန့်သတ်ချက်အားကျော်လွန်သွားပါက သင့်အပိုဆောင်း ကျသင့်လိမ့်မည်။</string>
-    <string name="warning_tip_cancel">ဒေါင်းလုတ်</string>
-    <string name="warning_tip_ok">ရပ်တန့်ပါ</string>
-    <string name="dialog_not_show_again">ထပ်မပြပါနှင့်</string>
-    <string name="notification_download_complete">ဒေါင်းလုတ် ပြီးဆုံးပါပြီ</string>
-    <string name="notification_download_failed">ဒေါင်းလုတ်မအောင်မြင်ပါ</string>
-    <string name="notification_download_success_more">%1$d အားဒေါင်းလုတ်ဆွဲပြီး</string>
-    <string name="notification_download_failed_more">အမယ် %1$d ခုအားဒေါင်းလုတ်ဆွဲမရပါ</string>
-    <string name="mobile_recommended_title">မိုဘိုင်းဒေတာ အသုံးပြုမှု</string>
-    <string name="recommended_file_size_download_in_mobile">ဤဖိုင်အား အသုံးပြုရန် မိုဘိုင်းဒေတာထဲမှ %s အား အသုံးပြုမည်လား?</string>
-    <string name="recommended_no_file_size_download_in_mobile">ဤဖိုင်အား ဒေါင်းလုဒ်လုပ်ရန် မိုဘိုင်းဒေတာချိတ်ဆက်မှုအား အသုံးပြုမည်လား?</string>
-    <string name="button_wait_for_wifi">စောင့်ပါ</string>
-    <string name="button_download_now">ယခုဒေါင်းလုပ်လုပ်ပါ</string>
-    <string name="insufficient_space">သင့်စက်၏ အတွင်းပိုင်းသိုလှောင်မှုမလုံလောက်ပါ။</string>
-    <string name="enter_garbage_clean">အတွင်းသိုလှောင်မှုအား ရှင်းလင်းပါ</string>
-    <string name="download_apk_desktop_pending">ဆိုင်းငံ့နေသည်</string>
-    <string name="download_apk_desktop_pause">တန့်ရပ်ထားသည်</string>
-    <string name="download_apk_desktop_running">ဒေါင်းလုဒ်လုပ်နေ</string>
-    <string name="download_apk_desktop_installing">တပ်ဆင်နေဆဲ</string>
-    <string name="xl_speedup_experience_notify_title">Xunlei အဖွဲ့ဝင်</string>
-    <string name="xl_speedup_experience_notify_context">သင့်Xunlei အဖွဲ့ဝင်တစ်ဦးဖြစ်လာပါက ဒေါင်းလုဒ်လုပ်မှု တိုင်းအတွက် အရှိန်အား မြှင့်တင်ပေးပါသည်</string>
-    <string name="xl_speedup_notify_button_experience">အခမဲ့ စမ်းကြည့်ပါ</string>
-    <string name="xl_speedup_notify_button_member">အဖွဲ့ဝင်တစ်ဦးဖြစ်လာပါ</string>
-    <string name="notify_disabled_net_by_app">အင်တာနက်ချိတ်ဆက်မှုအား လုံခြုံရေးအက်ပ်မှ ကန့်သတ်ထားပါသည်</string>
-    <string name="notify_only_wifi_download">Wi-Fi အားစောင့်နေပါသည်</string>
-    <string name="notify_install_guide_title">%s ကိုအောင်မြင်စွာ ထည့်ပြီးပါပြီ</string>
-    <string name="notify_install_guide_msg">အောင်မြင်စွာ ထည့်သွင်းပြီးပါပြီ</string>
-    <string name="notify_install_guide_forward_text">ဖွင့်</string>
-    <string name="app_label">ဒေါင်းလုတ်မန်နေဂျာ</string>
-    <string name="permlab_downloadManager">ဒေါင်းလုတ်မန်နေဂျာသို့ ဝင်ရောက်ပါ</string>
-    <string name="permdesc_downloadManager">အက်ပ်အားအောက်ပါတို့လုပ်ရန် ခွင့်ပြုပါ ဒေါင်းလုတ်မန်နေဂျာသို့ ဝင်ရောက်ရန်နှင့် ၄င်းအားသုံးပြီး ဖိုင်များအား ဒေါင်းလုတ်လုပ်ပါ အမည်မသိအက်ပ်များသည် ဤအရာကို အသုံးပြုပြီး ဒေါင်းလုတ်နှင့် ဝင်ခွင့်များကို နှောင့်ယှက်နိုင်ပါသည် ကိုယ်ပိုင်ရေးရာ အချက်အလက်များ</string>
-    <string name="permlab_downloadManagerAdvanced">အဆင့်မြင့် ဒေါင်းလုတ် မန်နေဂျာ လုပ်ဆောင်ချက်များ။</string>
-    <string name="permdesc_downloadManagerAdvanced">အက်ပ်အားအောက်ပါတို့လုပ်ရန် ခွင့်ပြုပါ ဒေါင်းလုတ်မန်နေဂျာသို့ ဝင်ရောက်ရန်နှင့် ၄င်းအားသုံးပြီး ဖိုင်များအား ဒေါင်းလုတ်လုပ်ပါ အမည်မသိအက်ပ်များသည် ဤအရာကို အသုံးပြုပြီး ဒေါင်းလုတ်နှင့် ဝင်ခွင့်များကို နှောင့်ယှက်နိုင်ပါသည် ကိုယ်ပိုင်ရေးရာ အချက်အလက်များ</string>
-    <string name="permlab_downloadCompletedIntent">ဒေါင်းလုတ် ကြောင်းကြားချက်များအား ပေးပို့ပါ</string>
-    <string name="permdesc_downloadCompletedIntent">အက်ပ်အား အောက်ပါတို့အား ပြုလုပ်ရန်ခွင့်ပြုပါ ဒေါင်းလုတ်များ ပြီးဆုံးပါက အကြောင်းကြားချက်ပေးပါ၊ အန္တာရာယ်ရှိအက်ပ်များသည် ဤအရာကို အသုံးပြု၍ အခြားအက်ပ်များ၏ ဒေါင်းလုတ်လုပ်သည့် ဖိုင်များအား ရှုပ်ထွေးစေပါသည်။</string>
-    <string name="permlab_seeAllExternal">USB ထဲမှဒေါင်းလုတ်အားလုံးအား ကြည့်ပါ</string>
-    <string name="permdesc_seeAllExternal">အက်ပ်အားအောက်ပါများကို ပြုလုပ်ရန်ခွင့်ပြုပါ မည်သည့်အက်ပ်၏ဒေါင်းလုတ်ကို မဆို SD ကတ်ထဲသို့ ဒေါင်းလုတ်လုပ်ပါ၊</string>
-    <string name="permlab_downloadCacheNonPurgeable">ယာယီဒေါင်းလုတ်ထဲတွင် ချန်ထားသော နေရာ</string>
-    <string name="permdesc_downloadCacheNonPurgeable">အက်ပ်အားအောက်ပါတို့လုပ်ရန်ခွင့်ပြုပါ ဒေါင်းလုတ်ဖိုင်များအား ယာယီဒေါင်းလုတ်ထဲသို့ ထည့်ပါ၊ ၄င်းသည် ဒေါင်းလုတ်မန်နေဂျာ နေရာပိုမိုလိုအပ်သော အချိန်တွ၍် အလိုအလျောက် ဖျက်ပစ်၍မရပါ</string>
-    <string name="permlab_downloadWithoutNotification">ဖိုင်များအားအကြောင်းကြားချက် မရှိဘဲ ဒေါင်းလုတ်လုပ်ပါ</string>
-    <string name="permdesc_downloadWithoutNotification">အက်ပ်အားအောက်ပါကို ပြုလုပ်ရန် ခွင့်ပြုပါ ဒေါင်းလုတ်မန်နေဂျာမှ ဖိုင်အား အသုံးပြုသူထံသို့ မည်သည့် အကြောင်းကြားချက်မှ မရှိဘဲ ဒေါင်းလုတ်လုပ်ပါ</string>
-    <string name="permlab_accessAllDownloads">စနစ်အားလုံးသို့ ဝင်ရောက်ပါ ဒေါင်းလုတ်များ</string>
-    <string name="permdesc_accessAllDownloads">အက်ပ်အား အောက်ပါကိုကြည့်ရန် ခွင့်ပြုပြီး စနစ်ရှိ မည်သည့်အက်ပ်မှမဆိုစတင်လိုက်သော ဒေါင်းလုတ်အားလုံးကို ပြုပြင်ပါ။</string>
+    <string name="notif_title_file_size">စုစုပေါင်း %1$d ခု</string>
+    <string name="notif_title_single_downloading">​ဒေါင်းလုဒ် %1$s ခု လုပ်နေသည်</string>
+    <string name="app_label">ဒေါင်းလုဒ်များ</string>
+    <string name="permlab_downloadManager">ဒေါင်းလုဒ်မန်နေဂျာသို့ ဝင်ရောက်မည်။</string>
+    <string name="permdesc_downloadManager">ဤအက်ပ်အား ဒေါင်းလုဒ်မန်နေဂျာ အဆင့်မြင့်လုပ်ဆောင်ချက်များသို့ ဝင်ရောက်ခွင့်နှင့် ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ခွင့်များကို ပေးမည်။ အန္တရာယ်ရှိသော အက်ပ်များသည် ဒေါင်းလုဒ်ကို ကြားဖြတ်ပြီး ကိုယ်ပိုင်အချက်အလက်များ ရယူနိုင်သည်။</string>
+    <string name="permlab_downloadManagerAdvanced">အဆင့်မြင့်လုပ်ဆောင်ချက်များ</string>
+    <string name="permdesc_downloadManagerAdvanced">ဤအက်ပ်ကို ဒေါင်းလုဒ်မန်နေဂျာ အဆင့်မြင့်လုပ်ဆောင်ချက်များသို့ ဝင်ရောက်ခွင့်ပေးမည်။ အန္တရာယ်ရှိသော အက်ပ်များသည် ဒေါင်းလုဒ်ကို ကြားဖြတ်ပြီး ကိုယ်ပိုင်အချက်အလက်များ ရယူနိုင်သည်။</string>
+    <string name="permlab_downloadCompletedIntent">ဒေါင်းလုဒ်လုပ်ရန် အသိပေးချက်များ ပေးပို့ပါ။</string>
+    <string name="permdesc_downloadCompletedIntent">ဤအက်ပ်ကို ဒေါင်းလုဒ်ပြီးဆုံးကြောင်း အသိပေးချက်များ ပေးပို့ခွင့်ပြုမည်။ အန္တရာယ်ရှိသော အက်ပ်များသည် ဒေါင်းလုဒ်ကို ကြားဖြတ်ပြီး ကိုယ်ပိုင်အချက်အလက်များ ရယူနိုင်သည်။</string>
+    <string name="permlab_seeAllExternal">USB သိုလှောင်ခန်းသို့ သိမ်းဆည်းထားသော ဒေါင်းလုဒ်အားလုံးကို ကြည့်မည်</string>
+    <string name="permdesc_seeAllExternal">ဤအက်ပ်အား SD ကဒ်သို့ သိမ်းဆည်းထားသော ဒေါင်းလုဒ်အားလုံးကို ကြည့်ခွင့်ပြုမည်။</string>
+    <string name="permlab_downloadCacheNonPurgeable">ဒေါင်းလုဒ်ကက်ချ်တွင် နေရာလွတ် ချန်ထားမည်</string>
+    <string name="permdesc_downloadCacheNonPurgeable">ဤအက်ပ်ဖြင့် ဒေါင်းလုဒ်လုပ်သော ဖိုင်များကို ဒေါင်းလုဒ်ကက်ချ်တွင် ထားမည်။ နေရာလွတ် လိုအပ်သောအခါ ဒေါင်းလုဒ်မန်နေဂျာမှ ဒေါင်းလုဒ်ကက်ချ်ရှိ အရာများကို အလိုအလျောက် ဖျက်လိမ့်မည်မဟုတ်ပါ။</string>
+    <string name="permlab_downloadWithoutNotification">ဖိုင်များကို သတိပေးချက်မပြဘဲ ဒေါင်းလုဒ်လုပ်မည်</string>
+    <string name="permdesc_downloadWithoutNotification">အသုံးပြုသူထံ သတိပေးချက်မပြဘဲ ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ရန် အက်ပ်အားခွင့်ပြုမည်</string>
+    <string name="permlab_accessAllDownloads">စနစ်ဒေါင်းလုဒ်အားလုံးသို့ ဝင်ရောက်မည်</string>
+    <string name="permdesc_accessAllDownloads">ဤအက်ပ်အား ဒေါင်းလုဒ်အားလုံးကို ကြည့်ရှုခွင့်နှင့် မွမ်းမံခွင့် ပေးမည်။</string>
     <string name="download_unknown_title">&lt;ခေါင်းစဉ်မဲ့></string>
-    <string name="notification_need_wifi_for_size">ဒေါင်းလုတ်အရွယ်အစားသည် Wi-Fi လိုအပ်ပါသည်</string>
-    <string name="notification_paused_in_background">နောက်ခံတွင် ခေတ္တရပ်ထားသည်</string>
-    <string name="wifi_required_title">အော်ပရေတာကွန်ရက်အတွက် ဒေါင်းလုတ်ကြီးလွန်းနေပါသည်</string>
-    <string name="wifi_required_body" formatted="false">"သင်သည် အောက်ပါတို့အား ပြုလုပ်ရန် Wi-Fi ကို သုံးရပါမည် %s ဒေါင်းလုတ်။
+    <string name="notification_download_complete">ဒေါင်းလုဒ်လုပ်ပြီးပါပြီ။</string>
+    <string name="notification_download_failed">အိုင်တမ်များကို ဒေါင်းလုဒ်လုပ်၍မရပါ။</string>
+    <string name="notification_need_wifi_for_size">ဤဒေါင်းလုဒ်အရွယ်အစားအတွက် Wi-Fi လိုအပ်သည်။</string>
+    <string name="notification_paused_in_background">နောက်ခံတွင် ရပ်တန့်ထားသည်။</string>
+    <string name="wifi_required_title">ဖိုင်မှာ ကြီးလွန်းသောကြောင့် မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်ရန် မသင့်တော်ပါ</string>
+    <string name="wifi_required_body" formatted="false">"ဤ%sကို ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi လိုအပ်သည်။ 
 
- နောက်တစ်ကြိမ် Wi-Fi ချိတ်ဆက်မိစဉ် ဒေါင်းလုတ်တန်းစီရန် %s ကို ထိနှိပ်ပါ။"</string>
-    <string name="wifi_recommended_title">နောက်မှဒေါင်းလုတ်လုပ်ရန် တန်းစီမည်လား?</string>
-    <string name="wifi_recommended_body" formatted="false">"%s အားစတင်ခြင်းဖြင့် ယခုဒေါင်းလုတ်လုပ်ပါကြောင့် မိုဘိုင်းဒေတာအများအပြား သုံးစွဲနိုင်စေပါမည်၊ ကုန်ကျစားရိတ်သည် သင့်မိုဘိုင်းအော်ပရေတာမှ သင့်ဒေတာအစီစဉ်ပေါ်မူတည်၍ ကျခံနိုင်ပါသည်။
+ဤဒေါင်းလုဒ်ကို နောင်တွင် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သောအခါမှ စတင်ရန် %sကို ထိနှိပ်ပါ။"</string>
+    <string name="wifi_recommended_title">နောက်မှဒေါင်းလုဒ်လုပ်ရန် တန်းစီမလား?</string>
+    <string name="wifi_recommended_body" formatted="false">"ဤ %sကို ယခု ဒေါင်းလုဒ်စလုပ်လျှင် ဘက်ထရီသက်တမ်း လျော့နည်းစေနိုင်သည်၊ သို့မဟုတ် မိုဘိုင်းဒေတာသုံးစွဲမှုကို လွန်ကဲစေမည် (သင်၏ဒေတာအစီအစဉ်အပေါ် မူတည်ပါသည်)။ Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်သောအခါမှ ဒေါင်းလုဒ်လုပ်မည်ဆိုပါက 
 
- Wi-Fi သို့ချိန်မိစဉ် ဤဒေါင်းလုတ်အားစတင်ရန် %s ကိုထိနှိပ်ပါ။"</string>
-    <string name="button_queue_for_wifi">တန်းစီ</string>
-    <string name="button_cancel_download">ပယ်ဖျက်</string>
+%s ကို ထိနှိပ်ပါ။"</string>
+    <string name="button_queue_for_wifi">တန်းစီမည်</string>
+    <string name="button_cancel_download">ပယ်ဖျက်မည်</string>
     <string name="button_start_now">ယခု စတင်ပါ</string>
-    <string name="download_percent">%d%%</string>
-    <string name="download_remaining">%s ကျန်သေး</string>
-    <string name="download_no_application_title">ဖိုင်အား ဖွင့်မရပါ</string>
-    <string name="root_downloads">ဒေါင်းလုတ်များ</string>
-    <string name="download_queued">တန်းစီထားသော</string>
-    <string name="download_running">လုပ်ဆောင်နေသည်</string>
-    <string name="download_error">မအောင်မြင်ပါ</string>
-    <string name="download_running_percent">လုပ်ဆောင်နေစဉ်၊%d%%</string>
+    <string name="download_remaining">ကျန်ရှိသောအချိန်- %s</string>
+    <string name="download_no_application_title">ဖိုင်အား ဖွင့်၍မရပါ</string>
+    <string name="root_downloads">ဒေါင်းလုဒ်များ</string>
+    <string name="download_queued">တန်းစီထားသည်</string>
+    <string name="download_running">ဒေါင်းလုဒ်လုပ်နေသည်</string>
+    <string name="download_error">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
+    <string name="download_running_percent">ဒေါင်းလုဒ်လုပ်နေသည်- %s</string>
 </resources>

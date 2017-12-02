@@ -54,7 +54,7 @@
     <string name="pref_title_cleanup_white_list">ခြွင်းချက်များ</string>
     <string name="pref_summary_cleanup_white_list">ရွေးထားသော အက်ပ်များကို သန့်ရှင်းလုပ်သည့်အထဲ မပါအောင် တားဆီးပါ</string>
     <string name="pref_category_title_auto_update_cleanup_db">နောက်ထပ် ဆက်တင်များ</string>
-    <string name="pref_title_auto_update_cleanup_db">အလိုလို အသစ်မွမ်းမံလုပ်ပါ</string>
+    <string name="pref_title_auto_update_cleanup_db">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="pref_summary_auto_update_cleanup_db">နောက်ဆုံးအသစ်မွမ်းမံ- %s</string>
     <string name="pref_title_manual_check_cleanup_db_update">အသစ်မွမ်းမံများကို စစ်ကြည့်ပါ</string>
     <string name="pref_category_title_garbage_cleanup_check">အကြောင်းကြားစာများ</string>
@@ -184,14 +184,14 @@
     <string name="toast_backup_uninstall_success">အရန်သိမ်းခြင်းနှင့် ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="activity_title_cache_data">အက်ပ်ဒေတာ</string>
     <string name="deepclean_cache_header_left">ဒေတာဖိုင်များ − %d</string>
-    <string name="notification_title_of_garbage_cleanup">အမှိုက်အရွယ်အစား</string>
-    <string name="notification_summary_of_garbage_cleanup">သင့်အမှိုက်က %s ထက် ကျော်နေသည်။</string>
+    <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
+    <string name="notification_summary_of_garbage_cleanup">Tap to free up space.</string>
     <string name="notification_summary_after_auto_cleanup">%s ကို ရှင်းပစ်ထားသည်။</string>
     <string name="toast_uninstall_success">ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="toast_app_no_residual_on_sdcard">အက်ပ်သည် မည်သည့်ဖိုင်များကိုမှ သင်၏ SD ကဒ်၌ သိုလှောင်ထားခြင်း မရှိပါ</string>
     <string name="last_check_canceled">ယခင် စကင်ကို ပယ်ဖျက်ခဲ့သည်</string>
     <string name="default_cache_type">ဒေတာဖိုင်များ</string>
-    <string name="deepclean_normal_title">အလိုလို ရှင်းပစ်ပါ</string>
+    <string name="deepclean_normal_title">အလိုအလျောက် ရှင်းပစ်ပါ</string>
     <string name="deepclean_normal_item_desc1">အမှိုက်ပုံးဖိုင်များ</string>
     <string name="deepclean_normal_item_desc2">သန့်ရှင်းသူလုပ်ဆောင်ချက်များသည် စနစ်လုပ်ဆောင်ချက်အပေါ်တွင် သက်ရောက်မှုရှိလိမ့်မည် မဟုတ်ပါ</string>
     <string name="deepclean_1_k_clean">အမြန်ရှင်းလင်း</string>
@@ -308,7 +308,7 @@
     <string name="seton_immediately">ဖွင့်ပါ</string>
     <string name="notify_when">အမှိုက် 100MB သို့ရောက်ပါက အသိပေးချက်ပေးပါ</string>
     <string name="goto_set">သတ်မှတ်</string>
-    <string name="virus_scan">ဗိုင်းရပ်စ်စကန်ဖတ်</string>
+    <string name="virus_scan">Security scan</string>
     <string name="tips_of_virus_scan">သင့်စက်အားလုံခြုံနေစေရန် ပုံမှန်ဗိုင်းရပ်စ်စကန်ဖတ်ပါ</string>
     <string name="conn_of_function_safe">လုံခြံရေးအတွက် ကွန်ရက်ချိတ်ဆက်မှု</string>
     <string name="tips_of_connect">အင်တာနက်သို့ချိတ်ဆက်ပြီး လုံခြုံရေးဆိုင်ရာ လုပ်ဆောင်ရည်အား အပြည့်အဝအသုံးချပါ</string>

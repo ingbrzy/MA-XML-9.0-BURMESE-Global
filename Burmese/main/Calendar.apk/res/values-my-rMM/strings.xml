@@ -9,7 +9,7 @@
     <string name="accessibility_repeats">ထပ်ခါလုပ်ပါ</string>
     <string name="accessibility_sync_cal">ပြက္ခဒိန် ဆင့်ခ်လုပ်မည်</string>
     <string name="accounts">အကောင့်များ&amp;ဆင့်ခ်လုပ်ခြင်း</string>
-    <string name="acct_not_synced">ဤအကောင့်သည် ဆင့်ခ်မလုပ်ရသေးသောကြောင့် ပြက္ခဒိန်မှာ နောက်ဆုံးပေါ်မဟုတ်နိုင်ပါ။</string>
+    <string name="acct_not_synced">ဤအကောင့်သည် ဆင့််ခ်မလုပ်ထားပါ။ ပြက္ခဒိန် အပ်ဒိတ်လုပ်၍ မရပါ။</string>
     <string name="acessibility_selected_marker_description">ရွေးထားသော လုပ်ငန်းစဉ်</string>
     <string name="agenda_today">ယနေ့၊ %1$s</string>
     <string name="agenda_tomorrow">မနက်ဖြန်၊ %1$s</string>
@@ -17,14 +17,14 @@
     <string name="agenda_yesterday">မနေ့က၊ %1$s</string>
     <string name="alert_title">ပြက္ခဒိန်အသိပေးချက်များ</string>
     <string name="app_label">ပြက္ခဒိန်</string>
-    <string name="calendar_refresh">\"ပြန်လန်းဆန်းစေမည်\"</string>
+    <string name="calendar_refresh">ပြန်လည်လန်းဆန်းစေပါ</string>
     <string name="change_response_title">တုံ့ပြန်မှုကို ပြောင်းလဲမည်</string>
     <string name="create_an_account_desc">"ပြက္ခဒိန်သည် Mi အကောင့်ဖြင့် အလုပ်ပိုသွင်သည်။
 
-• မည်သည့်ဝက်ဘ်ဘရောက်ဆာမှမဆို ဝင်သုံးနိုင်သည်
-• သင်၏ အဆက်အသွယ်များကို သေသေချာချာ အရန်သိမ်းပေးပါသည်"</string>
+• မည်သည့်ဝက်ဘ်ဘရောက်ဆာမှမဆို ဝင်သုံးနိုင်သည်။
+• သင်၏ အဆက်အသွယ်များကို သေသေချာချာ အရန်သိမ်းပေးပါသည်။"</string>
     <string name="creating_event">လုပ်ငန်းစဉ် ဖန်တီးပြီးပြီ</string>
-    <string name="creating_event_with_guest">ဖိတ်စာ ပေးပို့မည်</string>
+    <string name="creating_event_with_guest">ဖိတ်စာများ ပေးပို့နေသည်…</string>
     <string name="daily">နေ့စဉ်</string>
     <string name="date_time_fmt" formatted="false">%s၊ %s</string>
     <string name="day_view_new_event_hint">လုပ်ငန်းစဉ်အသစ်</string>
@@ -41,7 +41,7 @@
     <string name="edit_event_to_label">အထိ</string>
     <string name="email_guests_label">ဧည့်သည်များထံ အီးမေးလ်ပို့မည်</string>
     <string name="email_picker_label">အီးမေးလ် ပေးပို့သောအခါ</string>
-    <string name="empty_event">လုပ်ငန်းစဉ် မဖန်တီးရသေးပါ</string>
+    <string name="empty_event">လုပ်ငန်းစဥ်အလွတ် ဖန်တီး၍ မရပါ</string>
     <string name="event_create">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="event_delete">လုပ်ငန်းစဉ်ကို ဖျက်ပစ်မည်</string>
     <string name="event_edit">လုပ်ငန်းစဉ်ကို ပြင်ဆင်မည်</string>
@@ -86,7 +86,7 @@
     <string name="response_no">မဟုတ်ပါ</string>
     <string name="response_yes">ဟုတ်ပါတယ်</string>
     <string name="saving_event">လုပ်ငန်းစဉ်ကို သိမ်းဆည်းထားသည်</string>
-    <string name="saving_event_with_guest">အပ်ဒိတ်များ ပေးပို့မည်</string>
+    <string name="saving_event_with_guest">အပ်ဒိတ်များကို ပေးပို့နေသည်…</string>
     <string name="search">ရှာ​ဖွေမည်</string>
     <string name="select_synced_calendars_title">ဆင့်ခ်လုပ်ရန် ပြက္ခဒိန်များ</string>
     <string name="show_day_view">ရက်စွဲပြပါ</string>
@@ -199,7 +199,7 @@
     <string name="edit_event_tab_birthday">မွေးနေ့</string>
     <string name="edit_event_tab_countdown">နောက်ပြန်ရေ</string>
     <string name="edit_event_tab_event">ပွဲစဉ်</string>
-    <string name="email_install_hint">အီးမေးလ်အား ဖြုတ်ပြီးပြီ။ ပြန်ထည့်သွင်းပါက ပြက္ခဒိန်အကောင့်ဒေတာကို ပြန်လည်ရယူနိုင်သည် သို့မဟုတ် အကောင့်အသစ် ပေါင်းထည့်နိုင်သည်။</string>
+    <string name="email_install_hint">မေးလ်အက်ပ်ကို ဖြုတ်ထားသည်။ပြက္ခဒိန်အကောင့်များ ပြန်ရယူရန် သို့မဟုတ် အကောင့်သစ်ပေါင်းထည့်ရန် မေးလ်အက်ပ်ကို ပြန်ထည့်သွင်းပါ။</string>
     <string name="english_premium_league">ပရီးမီးယားလိဂ်</string>
     <string name="event_account">အကောင့်</string>
     <string name="event_action_delete">ဖျက်ပစ်ပါ</string>
@@ -237,9 +237,9 @@
     <string name="insert_event_dialog_title">သတိပြုပါ</string>
     <string name="insert_event_toast_add_failed">မပေါင်းထည့်နိုင်ခဲ့</string>
     <string name="insert_event_toast_add_success">ပွဲစဉ်ဖန်တီးပြီးပြီ</string>
-    <string name="install_email_app">အီးမေးလ် ထည့်သွင်းမည်</string>
-    <string name="install_email_finished">အီးမေးလ်ကို ထည့်သွင်းပြီးပြီ</string>
-    <string name="installing_email">ထည့်သွင်းနေသည်...</string>
+    <string name="install_email_app">မေးလ်အက်ပ်ကို ထည့်သွင်းမည်</string>
+    <string name="install_email_finished">ထည့်သွင်းပြီးပါပြီ</string>
+    <string name="installing_email">ထည့်သွင်းနေသည်…</string>
     <string name="item_num_selected">%1$d ခုရွေးထားသော</string>
     <string name="jump_date_full">လိုသောနေ့အထိ ကျော်ပါ</string>
     <string name="load_more_hint">%1$d ၏ဖြစ်ရပ်ကို ပြန်လည်လုပ်ဆောင်ပါ။</string>
@@ -269,9 +269,9 @@
     <string name="no_network">"ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။
  ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပါ ပြီးနောက် ထပ်ကြိုးစားပါ။"</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
-    <string name="no_visiable_calendar_message">ပြက္ခဒိန်အကောင့်တစ်ခု သင်ရွေးချယ်ပေးရန်လိုအပ်ပါသည်။ ဆက်လက်လုပ်ဆောင်ရန် \"အကောင့်ကိုရွေးပါ\" ကိုနှိပ်ပါ။</string>
-    <string name="no_visiable_calendar_select_account">အကောင့်ရွေးချယ်ပါ</string>
-    <string name="no_visiable_calendar_title">ပြက္ခဒိန်အကောင့်တစ်ခုရွေးပါ</string>
+    <string name="no_visiable_calendar_message">ပြက္ခဒိန်အကောင့်တစ်ခု ပေါင်းထည့်ရန်လိုအပ်သည်။ ဆက်လက်လုပ်ဆောင်ရန် \"အကောင့် ပေါင်းထည့်မည်\" ကို ထိနှိပ်ပါ။</string>
+    <string name="no_visiable_calendar_select_account">အကောင့် ပေါင်းထည့်ပါ</string>
+    <string name="no_visiable_calendar_title">အကောင့် ပေါင်းထည့်ပါ</string>
     <string name="panchang_amanta">အမန်တာ</string>
     <string name="panchang_amanta_month">အမန်တာ လ-</string>
     <string name="panchang_ayana">အာယာန</string>

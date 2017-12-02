@@ -52,7 +52,7 @@
     <string name="goToSecondSpacce">ဒုတိယနေရာသို့ သွားပါ</string>
     <string name="newSecondSpace">ဒုတိယနေရာဖွင့်</string>
     <string name="closeSecondSpace">ဒုတိယနေရာအားဖျက်ပစ်</string>
-    <string name="loading_space">ခဏလောက်စောင့်…</string>
+    <string name="loading_space">ခဏစောင့်ပါ…</string>
     <string name="private_space_setting">စီမံခန့်ခွဲမည်</string>
     <string name="exit_private_space">ကူးပြောင်းပါ</string>
     <string name="wating">ခဏလောက်စောင့်…</string>
@@ -60,6 +60,7 @@
     <string name="ok_button">အိုကေ</string>
     <string name="cancel_button">ဖျက်သိမ်း</string>
     <string name="list_empty_text">မရှိသော</string>
+    <string name="list_empty_text_xspace">Install WeChat/QQ/Weibo, create dual apps, and try again.</string>
     <string name="xspace_label">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_account">နှစ်ခုတွဲအက်ပ် အကောင့်များ</string>
@@ -150,6 +151,7 @@
     <string name="click_to_switch">ကြည့်ရန် နှိပ်ပါ။</string>
     <string name="confirm_main_space_password">ပထမနေရာ စကားဝှက်အား အတည်ပြုပါ</string>
     <string name="create_space_loading">ဒုတိယနေရာစကားဝှက် ဖန်တီးနေ…</string>
+    <string name="close_second_space">Deleted Second space</string>
     <string name="close_second_space_success">ဒုတိယနေရာအားဖျက်ပစ်</string>
     <string name="enable">ဖွင့်</string>
     <string name="disable">ပိတ်</string>
@@ -258,6 +260,17 @@
     <string name="xpsace_guide_button">ဖန်တီး</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ။</string>
+    <string name="xspace_weixin_title">WeChat</string>
+    <string name="weixin_pay">WeChat Pay</string>
+    <string name="weixin_share">Share to Moments</string>
+    <string name="xspace_weibo_title">Weibo</string>
+    <string name="weibo_send">Weibo သို့ ပို့ပါ</string>
+    <string name="xspace_qq_title">QQ</string>
+    <string name="qq_send">Send to QQ friends/devices</string>
+    <string name="xspace_default_setting_label">ပုံသေအက်ပ်</string>
+    <string name="xspace_default_app_title">ပုံသေအက်ပ်</string>
+    <string name="xspace_default_app_summary">Set default app for payments, sharing, favorites, and more.</string>
+    <string name="xspace_default_setting_dialog_title">ပုံသေ</string>
     <string name="space_name_default">အလုပ်နေရာ</string>
     <string name="space_des_default">ကုတ်ဖွဲ့ထားသော ဒေတာနှင့်အတူ သီးခြားနေရာ</string>
     <string name="create_work_space">အလုပ်နေရာ ဖန်တီးပါ</string>
@@ -286,7 +299,7 @@
     <string name="function_not_support">ဤစက်ပေါ်တွင် မထောက်ပံ့ထားပါ</string>
     <string name="can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
-    <string name="support_desc">Graphite မှလုံခြုရေးဝန်ဆောင်မှုများပံ့ပိုးသည်။</string>
+    <string name="support_desc">Security services provided by Spaces Mobile</string>
     <string name="sdcardfs_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
     <string name="sdcardfs_dialog_message">MIUI 9 စနစ်ဖိုင်အသစ် ရှိပါပြီ။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် အပ်ဒိတ်လုပ်ရန် အောက်ပါအဆင့်အတိုင်း ဆောင်ရွက်ပါ။ ဤအတောအတွင်း သင်၏စက်သည် နှစ်ကြိမ် ပိတ်၍ပြန်စလိမ့်မည်။</string>
     <string name="do_not_ask">ထပ်မမေးပါနှင့်</string>

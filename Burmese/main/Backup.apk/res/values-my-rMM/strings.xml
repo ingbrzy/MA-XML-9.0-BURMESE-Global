@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -15,6 +18,7 @@
     <string name="button_cancel">ပယ်ဖျက်ပါ</string>
     <string name="button_send">ပို့ပါ</string>
     <string name="backup_empty">အရန်သိမ်းများမရှိပါ</string>
+    <string name="data_detail_description">အသေးစိတ်များ</string>
     <string name="comma_seperator">"၊ "</string>
     <string name="backup_failed">အရန်မသိမ်းနိုင်ခဲ့ပါ</string>
     <string name="sdcard_unmounted">SD ကဒ်ကို ယခု ထည့်သွင်းမည်</string>
@@ -125,7 +129,7 @@
     <string name="button_finish">ပြီးပါပြီ</string>
     <string name="progress_backup_hint">အရန်သိမ်းဆည်းနေ…</string>
     <string name="cancel_backup">ရပ်ဆိုင်းပါ</string>
-    <string name="cancel_restore">ရပ်ပါ</string>
+    <string name="cancel_restore">ရပ်ဆိုင်းပါ</string>
     <string name="restore_contact">အဆက်အသွယ်များ နဂိုနေရာပြန်ထားပါ</string>
     <string name="restore_contact_content">နဂိုနေရာပြန်ထားခြင်းသည် မူပွား အဆက်အသွယ်များကို ဖန်တီးနိုင်သည်။</string>
     <string name="progress_restore_hint">နဂိုနေရာပြန်ထားနေဆဲ…</string>
@@ -142,7 +146,7 @@
     <string name="apps_and_data_item_desc">အက်ပ်များနှင့် ဒေတာ</string>
     <string name="local_no_backup">အရန်သိမ်းခြင်းများ မရှိပါ။</string>
     <string name="auto_backup_setting">ပုံမှန် အရန်သိမ်းခြင်း အချိန်သတ်မှတ်ပါ</string>
-    <string name="auto_backup_open">အလိုအလျောက်အရန်သိမ်းခြင်းလုပ်ပါ</string>
+    <string name="auto_backup_open">အလိုအလျောက် အရန်သိမ်းမည်</string>
     <string name="auto_backup_only_wifi">Wi-Fiကို ချိတ်ဆက်ထားသော အချိန်မျှသာ</string>
     <string name="auto_backup_date">နေ့များ</string>
     <string name="auto_backup_time">အချိန်</string>
@@ -171,7 +175,6 @@
     <string name="reverse_all">အားလုံး ရှင်းပစ်ပါ</string>
     <string name="refresh">ပြန်လန်းဆန်း</string>
     <string name="cloud_item_info_summary">" (ဒေသခံကွန်ရက်: %1$s | Mi Cloud: %2$s)"</string>
-    <string name="total_num">%d အမယ်များ၊</string>
     <string name="cloud_restore_guide">%s အတွက် သုံးသူဒေတာကို နဂိုနေရာပြန်ထားရန်၊ နဂိုနေရာပြန်ထားပါကို တို့ထိပါ</string>
     <string name="import_from_xiaomi_account_hint1">"၁။\u0009Mi Talk အက်ပ်ကို ဒေါင်းလုဒ်လုပ်ပြီး၊ ဆိုင်းအင်ဝင်ပါ။
 \u0009http://www.miliao.com
@@ -192,7 +195,7 @@
     <string name="enable_encrypt">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းခြင်းကို ဖွင့်ပါ</string>
     <string name="already_enable_encrypt">လျှို့ဝှက်ကုဒ်ခံသိမ်းတည်းခြင်းကို ဖွင့်ထားပြီးသားပါ</string>
     <string name="enable_encrypt_summery1">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းထားသော အရန်သိမ်းခြင်းများကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
-    <string name="enable_encrypt_summery2">သင့်အရန်သိမ်းခြင်းများကို အလိုလို လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းလိမ့်မည်။ ၎င်းတို့ကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ဖို့ လိုအပ်သည်။</string>
+    <string name="enable_encrypt_summery2">သင့်အရန်သိမ်းခြင်းများကို အလိုအလျောက် လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းလိမ့်မည်။ ၎င်းတို့ကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ဖို့ လိုအပ်သည်။</string>
     <string name="enable_encrypt_xiaomi_account">ဒီအရန်သိမ်းခြင်းကို %1$s ဖြင့် ဖန်တီးခဲ့သည်။ နဂိုနေရာပြန်ထားရန်၊ လက်ရှိ အကောင့်ကို ဖျက်ပစ်ပြီး၊ %2$s အဖြစ် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="enable_encrypt_ok">အိုကေ</string>
     <string name="no_encrypt_password">စကားဝှက် မရှိပါ</string>
@@ -219,13 +222,14 @@
     <string name="xiaomi_router">Mi ရောက်တာ</string>
     <string name="router_backup_hint">သင့်ကိရိယာကို ပါဝါဖွင့်ထားပါ</string>
     <string name="see_backup_files_on_router">Mi ရောက်တာ %s ပေါ်က အရန်သိမ်းခြင်းများကို ကြည့်ပါ</string>
-    <string name="page_loading">စက္ကန့်မျှသာ…</string>
+    <string name="page_loading">ခဏစောင့်ပါ…</string>
     <string name="file_uploading">အပ်လုတ်တင်နေဆဲ…</string>
     <string name="new_backup">အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
-    <string name="state_waiting">စက္ကန့်မျှသာ…</string>
+    <string name="digit_percent">%</string>
+    <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
     <string name="abort_restore_confirm">ပြန်ရယူခြင်းမပြီးသေးပါ၊ မည်သို့ပင်မဆို ရပ်မည်လား?</string>
@@ -261,7 +265,6 @@
     <string name="notif_trans_wait_for_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ပြန်ချိတ်ဆက်ပါ။</string>
     <string name="notif_trans_auto_reconnecting_title">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ အလိုအလျောက် ပြန်ချိတ်ဆက်နေသည်…</string>
     <string name="notif_trans_auto_reconnecting_content">လိုအပ်လျှင် လက်ရှိလုပ်ဆောင်ချက်ကို ဖျက်သိမ်းနိုင်သည်။</string>
-    <string name="custom_progress">အမယ် %d ခု</string>
     <string name="remote_receive">လက်ခံရရှိ</string>
     <string name="click_to_view">ကြည့်ရန် နှိပ်ပါ</string>
     <string name="trans_one_key_migrate">Mi Mover</string>
@@ -341,7 +344,7 @@
     <string name="trans_native_no_space">"ဤစက်ပေါ်တွင် နေရာအလုံအလောက်မရှိပါ။
 အနည်းဆုံး%sအား ရှင်းပစ်ပါ။"</string>
     <string name="trans_calculating_app_sd_size">ဒေတာအရွယ်အစားအား တွက်ချက်နေ−%s</string>
-    <string name="trans_please_waiting">ခဏလောက်စောင့်…</string>
+    <string name="trans_please_waiting">ခဏစောင့်ပါ…</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -358,26 +361,26 @@
     <string name="user_notice_declaration_ignore">နောက်ထပ်မပြပါနှင့်</string>
     <string name="total_size">၊ %s</string>
     <string name="trans_intro_title">မေးလေ့ရှိသော မေးခွန်းများ</string>
-    <string name="trans_intro_question_1">၁. iOS စက်ပစ္စည်းမှ ဒေတာများကို Mi Mover ဖြင့် ဘယ်လိုပြောင်းရွှေ့ရမလဲ?</string>
+    <string name="trans_intro_question_1">%d. How do I use Mi Mover to move data from an iOS device?</string>
     <string name="trans_intro_desc_1">Mi ဖုန်းအား Wi-Fiသို့ ချိတ်ဆက်၍ \"ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ သင်၏ iOS စက်ပစ္စည်းကို ရွေးပြီး iCloud သို့ ဆိုင်းအင်ဝင်၍ ဒေတာ တင်သွင်းပါ။</string>
-    <string name="trans_intro_question_2">၂. Android စက်ပစ္စည်းမှ ဒေတာများကို Mi Mover ဖြင့် ဘယ်လိုပြောင်းရွှေ့ရမလဲ?</string>
+    <string name="trans_intro_question_2">%d. How do I use Mi Mover to move data from an Android device?</string>
     <string name="trans_intro_title_new">ဖုန်းအသစ်တွင်-</string>
     <string name="trans_intro_desc_new">\"ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ QR ကုဒ် တစ်ခု ထွက်ပေါ်လာမည်။</string>
     <string name="trans_intro_title_old">ဖုန်းအဟောင်းတွင်-</string>
     <string name="trans_intro_desc_old">\"ကျွန်ုပ်သည် ပေးပို့သူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
-    <string name="trans_intro_question_3">၃. Mi Moverသည် တစ်နေရာရာတွင် ရှေ့ဆက်၍မရပါက ဘယ်လိုလုပ်ရမလဲ?</string>
+    <string name="trans_intro_question_3">%d. What should I do if Mi Mover got stuck on a certain step?</string>
     <string name="trans_intro_desc_3">လွှဲပြောင်းမှုအား ဖျက်သိမ်း၍ Mi Mover မှ ထွက်ပြီး ပြန်စပါ။ လွှဲပြောင်းမှုအသစ်တွင် တူညီသောဖိုင်များ ထပ်နေမည် မဟုတ်ပါ။</string>
-    <string name="trans_intro_question_4">၄. အဘယ်ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရသနည်း?</string>
+    <string name="trans_intro_question_4">"%d. Why can't I use Wi-Fi during transfers?"</string>
     <string name="trans_intro_desc_4">Mi Mover သည် Wi-Fi ဖြင့် ဖိုင်များကို လွှဲပြောင်းသည်။ ထို့ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရပါ။ သို့သော် မိုဘိုင်းဒေတာကို အသုံးပြုနိုင်သည်။ နောက်ဆုံးပေါ် စက်အချို့ (ဥပမာ-Mi 6)တွင် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi ဖြင့် အင်တာနက်သို့ ချိတ်ဆက်နိုင်ပါသည်။</string>
-    <string name="trans_intro_question_5">၅. အဘယ်ကြောင့် ကျွန်ုပ်၏ဖုန်းအဟောင်းတွင် နေရာလွတ်မလုံလောက်ပါဟု Mi Mover မှ သတိပေးနေသနည်း?</string>
+    <string name="trans_intro_question_5">"%d. Why does Mi Mover tell me there isn't enough storage space on my old phone?"</string>
     <string name="trans_intro_desc_5">လွှဲပြောင်းမှုလုပ်ရာတွင် ပက်ကေ့ချ်များ လိုအပ်ပါသည်။ ထို့အတွက် လွှဲပြောင်းမှု မလုပ်မီ သင်၏ဖုန်းဟောင်းတွင် နေရာလွတ် အနည်းဆုံး 500MB မှ 1GB အထိ ရှိရမည်။</string>
-    <string name="trans_intro_question_6">၆. အဘယ်ကြောင့် အချို့အက်ပ်များသည် လွှဲပြောင်းရာတွင် မအောင်မြင်သနည်း?</string>
+    <string name="trans_intro_question_6">"%d. Why aren't some apps transferred successfully?"</string>
     <string name="trans_intro_desc_6">ဤသို့ဖြစ်ပေါ်ရခြင်း၏ အကြောင်းရင်းများမှာ- စနစ်ဗားရှင်း၊ အက်ပ်ဗားရှင်း၊ ကွန်ရက် ပြဿနာများ၊ စက်အချို့၏ လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများ စသည်တို့ဖြစ်သည်။</string>
-    <string name="trans_intro_question_7">၆. အဘယ်ကြောင့် စက်အသစ်ပေါ်တွင် အချို့အက်ပ်များကို သုံး၍မရသနည်း?</string>
+    <string name="trans_intro_question_7">"%d. Why won't some apps start on a new device?"</string>
     <string name="trans_intro_desc_7">အချို့အက်ပ်များ၏ ပရိုဖိုင်(ဥပမာ-အွန်လိုင်းဘဏ်နှင့် ဘဏ္ဍာရေးအက်ပ်)သည် လုံခြုရေးအတွက်စက်နှင့် ချိတ်ဆက်ထားရသည်။ ထိုအက်ပ်ဒေတာများကို ရှင်းလင်းပါ သို့မဟုတ် စက်အသစ်ပေါ်တွင် ပြန်လည်ထည့်သွင်းပါ။</string>
-    <string name="trans_intro_question_8">၈. အဘယ်ကြောင့် WeChat သမိုင်းအပြည့်အစုံကို လွှဲပြောင်း၍ မရပါသနည်း?</string>
+    <string name="trans_intro_question_8">"%d. Why isn't WeChat history fully transferred?"</string>
     <string name="trans_intro_desc_8">Mi Mover ဖြင့် WeChat အက်ပ်ဒေတာနှင့် ချက်တင်သမိုင်းအပြည့်အစုံကို လွှဲပြောင်း၍ မရနိုင်ပါ။ လွှဲပြောင်းမှု အောင်မြင်စေရန် WeChat ဆက်တင်သို့သွား၍ သင်၏အကောင့်မှ ဆိုင်းအောက်ထွက်ပါ။</string>
-    <string name="trans_intro_question_9">၉. မည်သည့်အိုင်တမ်များကို လွှဲပြောင်း၍ မရနိုင်ပါသနည်း?</string>
+    <string name="trans_intro_question_9">"%d. Which items can't be transferred?"</string>
     <string name="trans_intro_title_account">အကောင့်များ နှင့် စကားဝှက်များ</string>
     <string name="trans_intro_desc_account">လုံခြုရေးအတွက် သင်၏အကောင့်များ (ဥပမာ- Mi အကောင့်၊ Exchange အကောင့်၊ Google အကောင့်)ကို စက်အသစ်ပေါ်တွင် ထပ်မံဆိုင်းအင်ဝင်ရမည်။</string>
     <string name="trans_intro_title_private">ဝှက်ထားသော အယ်လ်ဘမ်-</string>
@@ -415,14 +418,16 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="icloud_backup_tip">iOS စက်ဟောင်း၏ iCloud အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="icloud_how_to_backup_tip_title">အကြံပြုချက်များ-</string>
     <string name="icloud_how_to_backup_tip_summary">iOS မှ ဒေတာတင်သွင်းရန် iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။</string>
-    <string name="icloud_how_to_backup_tip_steps">"၁. iOS စက်တွင် ဆက်တင်ကို ဖွင့်ပြီး iCloud ကို ရွေးပါ။
-၂. အဆက်အသွယ်များခလုတ်ကို ဖွင့်ပါ။
-၃. ဓာတ်ပုံများကို ရွေးပြီး iCloud ဓာတ်ပုံပြခန်းကို ဖွင့်ပါ။"</string>
+    <string name="icloud_how_to_backup_tip_steps">"၁။ iOS စက်တွင် ဆက်တင်ကို ဖွင့်ပြီး iCloud ကို ရွေးပါ။
+၂။ အဆက်အသွယ်များနှင့်အခြားအိုင်တမ်များအတွက် ခလုတ်များကို ဖွင့်ပါ။
+၃။ ဓာတ်ပုံများကို ရွေးပြီး iCloud ဓာတ်ပုံပြခန်းကို ဖွင့်ပါ။"</string>
     <string name="user_name">Apple ID သို့မဟုတ် အီးမေးလ်</string>
     <string name="password">စကားဝှက်</string>
     <string name="user_name_null">အသုံးပြုသူအမည် ဖြည့်ရမည်</string>
     <string name="password_null">စကားဝှက် ဖြည့်ရမည်</string>
     <string name="name_password_not_consistent">အသုံးပြုသူအမည် သို့မဟုတ် စကားဝှက် မှားနေသည်</string>
+    <string name="view_password_description">စကားဝှက်အား ပြပါ</string>
+    <string name="hide_password_description">စကားဝှက်အား ကွယ်ဝှက်ပါ</string>
     <string name="login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="logining">ဆိုင်းအင်ဝင်နေသည်…</string>
     <string name="login_failed">ဆိုင်းအင်ဝင်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -443,7 +448,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="hsa_send_again">ထပ်မံပေးပို့ပါ</string>
     <string name="hsa_send_again_countdown">ထပ်မံပေးပို့ပါ (%ds)</string>
     <string name="hsa_sending">ပေးပို့နေသည်…</string>
-    <string name="hsa_send_failed">အတည်ပြုကုဒ် ပေးပို့၍မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="hsa_send_failed">အတည်ပြုကုဒ် ပေးပို့၍မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="hsa_tip_title">အကြံပြုချက်များ-</string>
     <string name="hsa_tip_message">"၁. အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော စက်သို့ ပေးပို့ထားသည်။
 ၂. အတည်ပြုကုဒ် မအောင်မြင်ပါက လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ။"</string>
@@ -459,7 +464,8 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="icloud_need_sync">"iOS မှ ဒေတာတင်သွင်းရန်
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="import_tip_title">အကြံပြုချက်များ-</string>
-    <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ အဆက်အသွယ်နှင့် ဓာတ်ပုံများသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>
@@ -467,6 +473,8 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="select_item_contacts">အဆက်အသွယ်များ</string>
     <string name="select_item_photos">ဓာတ်ပုံများ</string>
     <string name="select_item_empty_summary">အိုင်တမ် မရှိပါ</string>
+    <string name="select_item_calendar">ပြက္ခဒိန်</string>
+    <string name="select_item_notes">မှတ်စု</string>
     <string name="cancel_moving_dialog_title">တင်သွင်းမှုကို ရပ်ပါ</string>
     <string name="cancel_moving_dialog_message">တင်သွင်းမှုကို ယခု ရပ်ပစ်မလား?</string>
     <string name="notif_icloud_saving_summary">ဒေတာများကို ပြန်လည်ရယူနေသည်…</string>
@@ -478,4 +486,7 @@ Wi-Fi ကို မပိတ်ပါနှင့်"</string>
     <string name="save_finish_with_failing_items">"လွှဲပြောင်းမှု ပြတ်တောက်သွားသည်။
 မသွင်းရသေးသောဒေတာများကို ပြန်သွင်းရမည်။"</string>
     <string name="import_again">ပြန်တင်သွင်းပါ</string>
+    <string name="error_permissions">ဤအက်ပ်သည် ပြက္ခဒိန်သို့ ဝင်ရောက်ရန် ခွင့်ပြုချက်များ လိုအပ်သည်။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များအား စစ်ဆေးကြည့်ပါ။</string>
+    <string name="succ_description">အောင်မြင်ပါပြီ</string>
+    <string name="failed_description">မအောင်မြင်ပါ</string>
 </resources>

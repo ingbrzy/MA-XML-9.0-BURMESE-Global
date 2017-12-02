@@ -22,11 +22,12 @@
     <string name="find_device_noise_title">စက်ရှာတွေ့မှု အနှိုးစက်</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် SIM ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
     <string name="unlock_error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
-    <string name="unlock_error_device_id">စက်အိုင်ဒီ မရနိုင်ခဲ့ပါ</string>
+    <string name="unlock_error_device_id">စက်ID မရနိုင်ခဲ့ပါ</string>
     <string name="unlock_error_ssl_hand_shake">ဆာဗာသို့ မချိတ်ဆက်နိုင်ခဲ့ပါ၊ အချိန်နှင့်ရက်စွဲအား ကိုယ်တိုင်ဆက်မှတ်ခြင်းဖြင့် ကြိုးစားကြည့်ပါ</string>
     <string name="unlock_bad_authentication">ဘောင်မဝင်သော သုံးသူအမည် (သို့) စကားဝှက်</string>
     <string name="unlock_error_server">ဆာဗာချွတ်ယွင်းမှု</string>
@@ -40,7 +41,7 @@
     <string name="unlock_error_passport_sdk_timeout">Mi အကောင့် SDK မှ တုန့်ပြန်မှုမရှိပါ</string>
     <string name="activate_xiaomi_account">ဤစက်အား အသက်သွင်းပါ</string>
     <string name="login_extra_steps">ဆိုင်းအင် အတည်ပြုမှု</string>
-    <string name="phone_locked">ဤစက်မှာ လက်ရှိရှိနေပြီးသော Miအကောင့်အိုင်ဒီ (%s)နှင့် ချိတ်ဆက်နေ။ ဤစက်အား အသက်သွင်းရန် ဆိုင်းအင်ဝင်ပါ။</string>
+    <string name="phone_locked">ဤစက်မှာ လက်ရှိရှိနေပြီးသော Miအကောင့်ID (%s)နှင့် ချိတ်ဆက်နေ။ ဤစက်အား အသက်သွင်းရန် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="phone_locked_account_email">၊ဆက်စပ်အီးမေးလ်−%s</string>
     <string name="phone_locked_account_phone">၊ဆက်စပ်ဖုန်းနံပါတ်−%s</string>
     <string name="password">စကားဝှက်</string>
@@ -52,7 +53,7 @@
     <string name="adding_or_updating_account">အကောင့်အား အသစ်မွမ်းမံနေ…</string>
     <string name="unlocking">အသက်သွင်းနေသည်…</string>
     <string name="unlock">အသက်သွင်း</string>
-    <string name="verify_password_failed">Mi အကောင့်အိုင်ဒီအား အတည်ပြု၍မရပါ။%s</string>
+    <string name="verify_password_failed">Mi အကောင့်IDအား အတည်ပြု၍မရပါ။%s</string>
     <string name="login_failed">ဆိုင်းအင်ဝင်လို့ မရပါ%s</string>
     <string name="change_find_device_status_failed">သော့ဖြေ၍မရနိုင်ခဲ့ပါ။%s</string>
     <string name="unlock_help_title">သော့ဖြည်အကူအညီ−</string>

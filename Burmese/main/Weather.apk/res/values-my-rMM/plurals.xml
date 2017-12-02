@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">%1$s ရက်အတွက် ကြိုတင်ခန့်မှန်းချက်</item>
+        <item quantity="other">%1$s-day forecast</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d မိနစ်အကြာက</item>
+        <item quantity="other">%d minutes ago</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_day">
         <item quantity="other">%d နာရီအကြာက</item>

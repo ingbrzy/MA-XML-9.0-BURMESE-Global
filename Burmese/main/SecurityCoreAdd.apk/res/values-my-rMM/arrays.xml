@@ -15,4 +15,9 @@
         <item>လက်ရှိနေရာသို့ အက်ပ်ကို ရွေ့လိုက်ပါက အက်ပ်ဒေတာများ ဆုံးရှုံးသွားလိမ့်မည်။</item>
         <item>အက်ပ်များအား နှစ်နေရာလုံးတွင် အသုံးပြုပါသည်</item>
     </string-array>
+    <string-array name="choose_ask_type">
+        <item>အမြဲမေးပါ</item>
+        <item>ပုံသေအက်ပ်</item>
+        <item>နှစ်ခုတွဲအက်ပ်</item>
+    </string-array>
 </resources>

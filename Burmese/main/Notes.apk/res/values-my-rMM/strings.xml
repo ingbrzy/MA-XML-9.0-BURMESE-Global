@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Weibo အကောင့် သက်တမ်းကုန်သွားပြီ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ</string>
     <string name="sina_token_invalid_warning">Weiboအကောင့် ဘောင်မဝင်ပါ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ။</string>
     <string name="sina_share_fail_content_repeat">ဤအရာကို သင် ဝေမျှပြီးပြီ</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">မှတ်စုများ၊မီမို</string>
     <string name="search_path_notes">စနစ်အက်ပ်များ/မှတ်စုများ</string>
     <string name="dlg_move_message">ရွှေ့နေဆဲ…</string>
@@ -76,7 +77,7 @@
     <string name="app_name">မှတ်ချက်များ</string>
     <string name="app_widget">မှတ်ချက်များ</string>
     <string name="widget_havenot_content">မှတ်စုတစ်ခုဖန်တီးရန် ထိနှိပ်ပါ။ အရွယ်အစားပြောင်းရန် ဝစ်ဂျက်အား ထိနှိပ်ထားပါ။</string>
-    <string name="widget_content_loading">စက္ကန့်မျှသာ…</string>
+    <string name="widget_content_loading">ခဏစောင့်ပါ…</string>
     <string name="notelist_string_info">...</string>
     <string name="note_alert_expired">သက်တမ်းကုန်နေသည်</string>
     <string name="notealert_ok">ရပ်နား</string>
@@ -117,6 +118,7 @@
     <string name="error_unsupport_content">ဤမှတ်စုတွင် မပံ့ပိုးထားသော အကြောင်းအရာများပါရှိပါသည်၊ အသစ်မွမ်းမံရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
     <string name="error_contact_not_exist">အဆက်အသွယ် ရှိမနေပါ</string>
     <string name="sync_tips">မှတ်ချက်ကို Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ရန် နှိပ်ပါ။</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">ဖောင့်အရွယ်အစား</string>
     <string name="call_folder_name">ဖုန်းခေါ်မှတ်ချက်များ</string>
     <string name="trash_folder_name">အမှိုက်</string>
@@ -149,7 +151,7 @@
     <string name="permdesc_accessNote">အမျိုးအမည်မသိအက်ပ်များမှ ဤအရာကိုသုံးပြီး သင့်ကိုယ်ရေးဒေတာများအား ရယူနိုင်သည်။</string>
     <string name="undo">ပြန်မလုပ်</string>
     <string name="redo">ပြန်လုပ်</string>
-    <string name="loading_text">စက္ကန့်မျှသာ…</string>
+    <string name="loading_text">ခဏစောင့်ပါ…</string>
     <string name="sns_title_edit">ခေါင်းစဥ် တည်းဖြတ်ပါ</string>
     <string name="sns_title_send">မက်ဆေ့ခ်ျ ပို့ပါ</string>
     <string name="sns_action_send">ပို့ပါ</string>

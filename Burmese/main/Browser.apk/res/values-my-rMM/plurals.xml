@@ -10,7 +10,10 @@
         <item quantity="other">လွန်ခဲ့သော %d ရက်</item>
     </plurals>
     <plurals name="matches_found">
-        <item quantity="other">ကိုက်ညီမှု ၁ ခုရှိ</item>
+        <item quantity="other">စုစုပေါင်း %1$dခု ထဲမှ %2$dခု</item>
+    </plurals>
+    <plurals name="transfer_prompt">
+        <item quantity="other">နောက်ထပ် %1$dစက္ကန့်တွင် ဗီဒီယိုအား ဖွင့်မည်</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d ခုကို ရွေးချယ်ပြီးပါပြီ</item>

@@ -81,6 +81,7 @@
     <string name="birthday_alarm_summary">သင့်မွေးနေ့တွင် ပုံမှန်နှိုးစက်သံမမြည်ဘဲ \"Happy Birthday\" သီချင်းအားဖွင့်ပါ</string>
     <string name="turn_off_a_repeat_alarm">ထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="skip_alarm_once_hint">%s တွင် တစ်ကြိမ်ပိတ်ပါ</string>
+    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="turn_off_this_repeat_alarm">ဤထပ်ခါထပ်ခါ နှိုးစက်အား ပိတ်ပါ</string>
     <string name="today">ယနေ့</string>
     <string name="tomorrow">မနက်ဖြန်</string>
@@ -109,10 +110,11 @@
     <string name="life_post_setting_wake_up_list_title">နှိုးထသည့် သမိုင်း</string>
     <string name="percentage_sign">%</string>
     <string name="life_post_setting_FBE_remind">စနစ်၏ကန့်သတ်မှုကြောင့် စက်ပိတ်ပြီးပြန်စလျှင် နံနက်ခင်းမိုးလေဝသ သတင်းအချက်အလက်များ မှားနိုင်ချေရှိသည်။</string>
-    <string name="install_weather_app_loading">တစ်စက္ကန့်မျှသာ…</string>
+    <string name="install_weather_app_loading">ခဏစောင့်ပါ…</string>
     <string name="install_weather_app_error">အက်ပ်ကို ဖွင့်၍မရပါ</string>
     <string name="more_setting">နောက်ထပ် ဆက်တင်များ</string>
     <string name="go_back">နောက်သို့</string>
+    <string name="invalid_time">မမှန်ကန်သောအချိန်- %3$s %1$d- %2$d</string>
     <string name="app_label">နာရီ</string>
     <string name="alarm_list_title">နှိုးစက်</string>
     <string name="add_alarm">နှိုးစက်ထည့်ရန်</string>

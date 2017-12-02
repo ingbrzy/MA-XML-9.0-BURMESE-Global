@@ -98,6 +98,7 @@
     <string name="record_quliaty_preference_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="cloud_record_tip">မှတ်တမ်းတင်ထားမှုများအား Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_record_open">မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်လုပ်နေ</string>
+    <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync recording files.</string>
     <string name="cloud_status_full_dialog_title">Mi ကလောက်သိုလှောင်မှု ပြည့်နေပြီ</string>
     <string name="cloud_status_full_dialog_msg">သင့်ကလောက်သိုလှောင်မှု ပြည့်နေပါပြီ၊ မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်မလုပ်နိုင်ပါ။ သိုလှောင်မှုနေရာများ ပိုမိုရရှိနိုင်ရန် သင့်အကောင့်အား အဆင့်မြှင့်တင်ပါ။</string>
     <string name="cloud_status_full_dialog_cancel">ယခုမလုပ်သေး</string>

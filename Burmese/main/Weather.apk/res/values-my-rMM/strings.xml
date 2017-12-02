@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="temperature_unit">%1$s°</string>
+    <string name="temperature_unit_C">%1$s℃</string>
+    <string name="temperature_unit_F">%1$s℉</string>
     <string name="app_name">ရာသီဥတု</string>
     <string name="gps_hint">လက်ရှိတည်နေရာ</string>
     <string name="add_city">ထည့်ပါ</string>
@@ -37,6 +38,10 @@
     <string name="activity_main_update_time_expire">ဒေတာ သက်တမ်းကုန်သွားသော</string>
     <string name="activity_main_update_time_right_now">အခုလေးတင်</string>
     <string name="refresh_fail">ကွန်ရက်နှင့် ချိတ်ဆက်၍ မရနိုင်ပါ</string>
+    <string name="pull_fresh_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="pull_fresh_updated">အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
+    <string name="updating">အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="updated_a_moment_ago">Updated a moment ago</string>
     <string name="activity_find_city_dialog_cancel">ပယ်ဖျက်ပါ</string>
     <string name="activity_find_city_dialog_set">ဆက်တင်များ</string>
     <string name="activity_find_city_dialog_title">တည်နေရာကြည့်ရှုမှု</string>
@@ -55,6 +60,7 @@
     <string name="share_title">ရာသီဥတုအကြောင်းမျှဝေပါ</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
     <string name="sunrise">နေထွက်ချိန်</string>
     <string name="sunset">နေဝင်ဆည်းဆာ</string>
@@ -148,9 +154,11 @@
     <string name="install">တပ်ဆင်</string>
     <string name="open">ဖွင့်</string>
     <string name="open_now">ဖွင့်</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="daily_forecast_detail_date">M/d</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="aqi_publish_source">CNEMC မှ %1$s တွင် အသစ်မွမ်းမံခဲ့သော</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="aqi_data_source">Colorful Clouds မှ အားပေးထားသော</string>
     <string name="traffic_controls">လမ်းနေရာအချိုးကျခြင်း</string>
     <string name="traffic_control_today_numbers">ယနေ့−%1$s</string>
@@ -167,6 +175,7 @@
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="pressure_connect">%1$s mb</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="weather_alert">ရာသီဥတု သတိပေးချက်များ</string>
     <string name="edit_alert_city_title">သတိပေးချက်များအား စီမံ</string>
     <string name="aqi_detail_unit">ယူနစ်−µg/m³</string>
@@ -199,7 +208,7 @@
     <string name="unit_wind">လေတိုက်နှိုန်းကန့်သတ်ချက်</string>
     <string name="set">ဆက်တင်များ</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
-    <string name="common_loading_text">ခဏလောက်စောင့်…</string>
+    <string name="common_loading_text">ခဏစောင့်ပါ…</string>
     <string name="change_alert">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="yes_vote_ratio">ရရှိမှု %1$s%%</string>
@@ -233,6 +242,8 @@
     <string name="minute_rain_pull_down_refresh">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="minute_rain_refreshing_now">ပြန်လန်းဆန်းနေ…</string>
     <string name="minute_rain_let_go_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="alert_detail_title">သတိပေးချက်အသေးစိတ်များ</string>
     <string name="aqi_quality_map_title">လေထုအရည်အသွေး မြေပုံ</string>
     <string name="aqi_station_min_distance_station">အနီးဆုံးဌာန</string>
@@ -254,4 +265,6 @@
     <string name="city_exceeded_warning">မြို့ ၁၀ မြို့အထိပေါင်းထည့်နိုင်ပါသည်</string>
     <string name="xiaomi_weather_description_title">မိုးလေဝသအကြောင်း</string>
     <string name="xiaomi_weather_description_content">မိုးလေဝသသည် တိကျမှန်ကန်သောရာသီဥတုအချက်အလက်များအား သင့်ထံပေးပို့နိုင်ပါသည်။ ဤအက်ပ်မရှိပါက အခြေနေပြဘားနှင့်အိမ်မျက်နှာပြင်မိုးလေဝသဝစ်ဂတ်သည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
+    <string name="real_time_sunrise">နေထွက်ချိန် %1$s</string>
+    <string name="real_time_sunset">နေဝင်ချိန် %1$s</string>
 </resources>

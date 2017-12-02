@@ -53,7 +53,7 @@
     <string name="resource_ringtone_playing_error">အမှား</string>
     <string name="online_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="online_search_hint">အွန်လိုင်းအရင်းအမြစ်များ ရှာပါ</string>
-    <string name="loading">ခဏလောက်စောင့်…</string>
+    <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="download_failed">ဒေါင်းလုဒ်လုပ်ခြင်း မအောင်မြင်ပါ</string>
     <string name="download_preview_failed">အစမ်းကြည့်မြင်ကွင်းကို ဆွဲချလို့ မရပါ</string>
     <string name="resource_delete_confirm">ဒီအရင်းအမြစ်များကို ဖျက်ပစ်မလား။?</string>
@@ -125,7 +125,7 @@
     <string name="resource_select_alarm_audio_confirm">ဤအသိပေးအချက်ပြအသံအား ရွေးချယ်မည်လား?</string>
     <string name="resource_select_boot_audio_confirm">ဤအရှိုန်မြှင့်တင်ခြင်း အသံအားရွေးချယ်မည်လား?</string>
     <string name="resource_select_audio_confirm_picker">ဤအသံအား ရွေးမည်လား?</string>
-    <string name="loading_resource_detail_info">ခဏလောက်စောင့်…</string>
+    <string name="loading_resource_detail_info">ခဏစောင့်ပါ…</string>
     <string name="loading_resource_detail_fail">အရင်းအမြစ် ဆွဲချလို့ မရပါ</string>
     <string name="add_resource_detail_fail">အရင်းအမြစ်ပေါင်းထည့်၍မရနိုင်ပါ</string>
     <string name="resource_expand_full_text">တိုးချဲ့ပါ</string>
@@ -133,7 +133,7 @@
     <string name="resource_account_switch">ကူးပြောင်းပါ</string>
     <string name="resource_account_login_title">ဆိုင်းအင်ဝင်ခြင်း</string>
     <string name="resource_account_fail_to_add">အကောင့် ပေါင်းထည့်လို့ မရပါ</string>
-    <string name="resource_account_abnormal_state">အကောင့် အမှား။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="resource_account_abnormal_state">အကောင့် မှားယွင်းမှု ဖြစ်ပေါ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="resource_account_login_before_action">သင်၏ Mi အကောင့်သို့ ယခု ဆိုင်းအင်ဝင်ပါ</string>
     <string name="resource_send">ပို့ပါ</string>
     <string name="resource_save_to_note">မှတ်စုများတွင် သိမ်းဆည်းပါ</string>
@@ -186,7 +186,7 @@
     <string name="resource_comment_edit_text_default">မှတ်ချက်တစ်ခု ရေးပါ</string>
     <string name="resource_comment_publish">ပို့ရန်</string>
     <string name="resource_comment_name_default">သုံးသူ %1$s</string>
-    <string name="resource_comment_loading_list">ခဏလောက်စောင့်…</string>
+    <string name="resource_comment_loading_list">ခဏစောင့်ပါ…</string>
     <string name="resource_comment_rate">အဆင့်သတ်မှတ်ခြင်း-</string>
     <string name="resource_comment_entry_tips">မှတ်ချက်များ (%1$s)</string>
     <string name="resource_comment_rating_star_tips">အဆင့်သတ်မှတ်ရန် ကြယ်များ တို့ထိပါ-</string>
@@ -298,6 +298,7 @@
     <string name="theme_batch_update_dlg_content_single">%1$s ကိုယခု အဆင့်မြှင့်လိုပါသလား?</string>
     <string name="theme_current_using_has_update">အဆင့်မြှင့်သင်းမ်ရရှိနိုင်သည်</string>
     <string name="theme_immediately_apply_tip">အဆင့်မြှင့်သင်းမ်ကို ယခုသုံးလိုပါသလား။</string>
+    <string name="theme_name">%1$s</string>
     <string name="theme_fresh_man_notifaction">သင်းမ်အသစ်များရရှိနိုင်သည်</string>
     <string name="selected_resource_file_invalid">ရွေးချယ်ထားသောရင်းမြစ်ဖိုင်ကိုအသုံးပြုမရပါ</string>
     <string name="apply_theme_with_ringtones">သင်းမ်ဖုန်းမြည်သံများအသုံးပြုပါ</string>
@@ -321,7 +322,7 @@
     <string name="theme_favorite_delete_fail">စိတ်ကြိုက် သင်းမ်များအား ဖယ်ရှား၍မရပါ</string>
     <string name="theme_favorite_list_empty">အကြိုက်ဆုံးများသို့ မည်သည့်သင်းမ်မှ မပေါင်းထည့်ရသေးပါ။</string>
     <string name="theme_favorite_delete">အကြိုက်ဆုံးများမှ ဖယ်ရှားမည်</string>
-    <string name="theme_favorite_waiting">ခဏလောက်စောင့်ပါ…</string>
+    <string name="theme_favorite_waiting">ခဏစောင့်ပါ…</string>
     <string name="theme_empty_redirect">သင်းမ်များသို့ ပြန်သွားပါ</string>
     <string name="theme_purchased_non_local">အွန်လိုင်း</string>
     <string name="theme_purchased_list_empty">မည်သည့်သင်းမ်များမှ သင်မဝယ်ရသေးပါ.</string>
@@ -342,7 +343,7 @@
     <string name="gift_present_success_no_sms_dlg_content">သင့်ရဲ့အကောင့်စာမျက်နှာမှာ လက်ဆောင်သမိုင်းအား စာရင်းပြုစုထားပါသည်။</string>
     <string name="gift_present_fail_dlg_title">လက်ဆောင်ပို့မရပါ</string>
     <string name="gift_present_fail_dlg_content">ဤလက်ဆောင်ပို့မရပါ။</string>
-    <string name="gift_present_dlg_input_hint">Mi အကောင့်အိုင်ဒီ/ဖုန်း</string>
+    <string name="gift_present_dlg_input_hint">Mi အကောင့်ID/ဖုန်း</string>
     <string name="gift_present_dlg_no_fee">လက်ဆောင်များပေးပို့သည်အတွက် သင့်ရဲ့သယ်ဆောင်သူအား အဖိုးကြေးငွေပေးစရာမလိုပါ</string>
     <string name="gift_present_dlg_anonymous">အမည်မသိလက်ဆောင်</string>
     <string name="gift_present_dlg_share">ကုဒ်နံပါတ်ဖန်တီးပြီး လက်ဆောင်မျှဝေပါ</string>
@@ -352,7 +353,7 @@
     <string name="gift_unbind_fail_dlg_title">ကုဒ်နံပါတ်ဖန်တီးမရပါ</string>
     <string name="gift_operation_fail_dlg_retry">ထပ်မံကြိုးစားပါ</string>
     <string name="gift_operation_fail_dlg_abandon">ပယ်ဖျက်ရန်</string>
-    <string name="gift_operation_waiting">ခဏလောက်စောင့်ပါ…</string>
+    <string name="gift_operation_waiting">ခဏစောင့်ပါ…</string>
     <string name="gift_purchased_list_empty_with_received_list_empty">လက်ဆောင်များမရှိပါ။</string>
     <string name="gift_purchased_list_empty">သင့်ဆီသို့ မည်သည့်လက်ဆောင်များမှ ပို့မထားပါ။</string>
     <string name="gift_received_list_empty">မည်သည့်လက်ဆောင်များကိုမှ သင်မရခဲ့ပါ။</string>
@@ -369,7 +370,7 @@
     <string name="theme_apply_success">သော့ခတ်မျက်နှာပြင်သတ်မှတ်ပြီးပြီ</string>
     <string name="theme_apply_failured">သော့ခတ်မျက်နှာပြင်နောက်ခံပုံအဖြစ် အသုံးချ၍မရပါ</string>
     <string name="theme_applying">အသုံးချနေ…</string>
-    <string name="provision_loading_tips">ခဏလောက်စောင့်…</string>
+    <string name="provision_loading_tips">ခဏစောင့်ပါ…</string>
     <string name="provision_title">သင်းမ်တစ်ခု ရွေးပါ</string>
     <string name="provision_second_title">မူလသင်းမ်များထဲမှ တစ်ခုရွေးပါ</string>
     <string name="provision_default_theme_title">မူလသတ်မှတ်ချက်</string>
@@ -433,7 +434,7 @@
     <string name="wallpaper_settings_no_history">မှတ်တမ်း မရှိပါ</string>
     <string name="card_loading">ခဏစောင့်ပါ…</string>
     <string name="card_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍မရနိုင်ခဲ့ပါ။ ကွန်ရက်ဆက်တင်များအား စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
-    <string name="card_data_request_error">အမှားတစ်ခု ဖြစ်ပေါ်သည်။ တစ်မိနစ်၊ နှစ်မိနစ်ခန့်စောင့်ပြီး ထပ်ကြိုးစားပါ။</string>
+    <string name="card_data_request_error">အကောင့် မှားယွင်းမှု ဖြစ်ပေါ်ခဲ့သည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="card_retry">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="in_the_end">ထပ်ပြရန် အိုင်တမ်များ မရှိပါ</string>
     <string name="item_resource_audio_divider">│</string>
@@ -461,8 +462,8 @@
     <string name="online_precust_building">အဆောက်အဦး</string>
     <string name="online_precust_lifestyle">နေထိုင်ပုံ</string>
     <string name="online_precust_abstract">Abstract</string>
-    <string name="region_not_support">သင့်ဒေသတွင် ဤသင်းမ်များကို သုံး၍ မရပါ။</string>
-    <string name="hide_free">အခမဲ့သင်းမ်များကို မပြပါနှင့်</string>
-    <string name="hide_incompatible">ကိုက်ညီမှုမရှိသော သင်းမ်များကို မပြပါနှင့်</string>
+    <string name="hide_free">Hide free %1$s</string>
+    <string name="hide_incompatible">Hide incompatible %1$s</string>
     <string name="current_version_incompatible">ဤသင်းမ်သည် ကိုက်ညီမှုမရှိပါ</string>
+    <string name="region_not_support">သင့်ဒေသတွင် ဤသင်းမ်များကို သုံး၍ မရပါ။</string>
 </resources>

@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကတ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -213,8 +214,11 @@
     <string name="feedback_select_suggestion">အကြံပြုချက်များ</string>
     <string name="feedback_select_problem">ပြဿနာများ</string>
     <string name="feedback_choose_module">အိုင်တမ်များရွေး</string>
+    <string name="feedback_choose_third_app_name">အက်ပ်အမည် ရွေးပါ</string>
     <string name="toast_module_required">အိုင်တမ်ရွေး</string>
     <string name="feedback_choose_module_hint">လိုအပ်သော</string>
+    <string name="feedback_choose_reproductivity">မျိုးပွားနိုင်စွမ်း</string>
+    <string name="feedback_title_reproductivity">Select reproductivity</string>
     <string name="feedback_report_remind_login_desc">ကျွန်ုပ်တို့ အင်ဂျင်နီယာမှ သင့်အား ဆက်သွယ်နိုင်ရန် သင့် Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="feedback_report_remind_login_desc2">အစီရင်ခံစာနှင့်ပတ်သတ်၍ \"ကျွန်ုပ်၏အစီရင်ခံစာများ\" ထဲတွင် ကြည့်ရှု့နိုင်ပါသည်</string>
     <string name="feedback_history_remind_login_desc">သင့်အစီရင်ခံစာအခြေနေ အသေးစိတ်များအား ကြည့်ရှု့ရန် Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
@@ -224,6 +228,7 @@
     <string name="feedback_title_hint">ကိစ္စအား အသေးစိတ်ဖော်ပြပါ</string>
     <string name="feedback_description_suggest_hint">ကျွန်ုပ်လုပ်ဆောင်ချက်သွင်ပြင်အသစ် တစ်ချို့ ()ပေါင်းထည့်ချင်ပါသည် အဘယ့်ကြောင့်ဆိုသော () ၍ဖြစ်ပါသည်</string>
     <string name="feedback_description_bugreport_hint">အချို့အခြေနေများတွင်(…)ကျွန်ုပ်ဖုန်းသည် လွဲမှားစွာလုပ်ဆောင်သည်(…)</string>
+    <string name="feedback_description_hint">"Describe the issue you've encountered"</string>
     <string name="toast_title_required">အကြောင်းကိစ္စ ဖော်ပြပါ</string>
     <string name="toast_problem_class_required">အမျိုးအစားရွေးချယ်ပါ</string>
     <string name="feedback_third_packagename_hint">မည်သည့် တတိယပါတီအက်ပ်မှ ပြဿနာ ဖြစ်စေပါသနည်း?</string>
@@ -240,6 +245,7 @@
     <string name="feedback_status_replyed">စာပြန်ခဲ့သည်</string>
     <string name="feedback_status_jira_comment">မှတ်ချက်ပေါင်းထည့်ပါ</string>
     <string name="feedback_status_forum_reply">စာပြန်</string>
+    <string name="feedback_status_submit_attachment">Submitted attachment successfully</string>
     <string name="feedback_status_change_notification_title">သင့်အစီရင်ခံစာပေးပို့မှု အသစ်မွမ်းမံခဲ့သည်</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s ကိစ္စ \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s အကြံပြုချက်\"%2$s\"</string>
@@ -297,9 +303,11 @@
     <string name="toast_log_not_exists">လိုအပ်သော လော့ဂ်အား ဖျက်လိုက်သည် သို့မဟုတ် မတည်ရှိပါ</string>
     <string name="toast_pic_not_exists">ယာယီရုပ်ပုံအား ဖျက်ခဲ့သည်</string>
     <string name="toast_screenshot_too_large">10MB ထက်ကြီးသော ဖိုင်များကို တင်၍မရပါ။</string>
+    <string name="toast_log_too_large">"Can't upload. The file is too big."</string>
     <string name="title_bbs_feedback_main">Mi ဖုန်းအကြောင်း ပိုမိုလေ့လာပါ</string>
     <string name="title_customer_service">သုံးစွဲသူဝန်ဆောင်မှု</string>
     <string name="customer_service_apply">သုံးစွဲသူဝန်ဆောင်မှု တောင်းခံမည်</string>
     <string name="customer_service_complain">သုံးစွဲသူဝန်ဆောင်မှု အစီရင်ခံမည်</string>
     <string name="customer_service_station">ဝန်ဆောင်မှုဌာနများ</string>
+    <string name="select_system_app_tag">တက်ဂ် ရွေးပါ</string>
 </resources>

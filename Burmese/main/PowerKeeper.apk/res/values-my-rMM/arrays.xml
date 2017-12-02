@@ -87,4 +87,8 @@
         <item>လက်ရှိ အပူချိန်ထိန်းချုပ်မှုမုဒ်</item>
         <item>လက်ရှိအသုံးပြုသောမုဒ်</item>
     </string-array>
+    <string-array name="power_mode_entries">
+        <item>Performance</item>
+        <item>Balanced</item>
+    </string-array>
 </resources>

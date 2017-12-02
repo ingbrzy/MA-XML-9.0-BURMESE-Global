@@ -51,8 +51,8 @@
     <string name="status_downloaded">ဒေါင်းလုဒ်လုပ်ထားသော</string>
     <string name="status_installing">တပ်ဆင်နေဆဲ</string>
     <string name="app_already_exist">အက်ပ်ရှိပြီးသား</string>
-    <string name="loading_desktop">စက္ကန့်မျှသာ…</string>
-    <string name="loading_wallpaper">စက္ကန့်မျှသာ…</string>
+    <string name="loading_desktop">ခဏစောင့်ပါ…</string>
+    <string name="loading_wallpaper">ခဏစောင့်ပါ…</string>
     <string name="start_activity_failed">စတင်ပျိုးစက်ကို စတင်လို့ မရပါ</string>
     <string name="gadget_error_text">ဝစ်ဂတ်ကို ဆွဲချလို့ မရပါ</string>
     <string name="mtzgadget_missing_text">ဝစ်ဂတ် မရနိုင်ပါ</string>

@@ -13,14 +13,14 @@
     <string name="download_error">မအောင်မြင်ခဲ့ပါ</string>
     <string name="download_error_insufficient_space">နေရာလွတ် မလုံလောက်ပါ</string>
     <string name="download_error_download_file_not_exists">ဖိုင်မတွေ့ပါ</string>
-    <string name="dialog_title_not_available">ဒေါင်းလုဒ်လုပ်ရာတွင် မအောင်မြင်ပါ</string>
-    <string name="dialog_failed_body">နောက်မှ ဒေါင်းလုဒ်ပြန်လုပ်မလား? သို့မဟုတ် တန်းစီထားသည်ကို ဖျက်ပစ်မလား?</string>
+    <string name="dialog_title_not_available">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
+    <string name="dialog_failed_body">ဤဖိုင်အား နောက်မှ ဒေါင်းလုဒ်လုပ်ရန် ကြိုးစားမလား သို့မဟုတ် တန်းစီထားခြင်းမှ ဖယ်ရှားမလား?</string>
     <string name="dialog_title_queued_body">ဖိုင်ကို သုံး၍ မရသေးပါ</string>
     <string name="dialog_queued_body">နောင်တွင်ဒေါင်းလုဒ်လုပ်ရန် ဖိုင်ကို တန်းစီထားသည်။</string>
-    <string name="dialog_file_missing_body">ဒေါင်းလုဒ်လုပ်ထားသော ဖိုင်ကို ရှာမတွေ့ပါ။</string>
-    <string name="dialog_insufficient_space_on_external">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ အပြင်ပိုင်းသိုလှောင်ခန်းနေရာ အလုံအလောက်မရှိပါ။</string>
-    <string name="dialog_insufficient_space_on_cache">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ အတွင်းပိုင်းသိုလှောင်ခန်းနေရာ အလုံအလောက်မရှိပါ။</string>
-    <string name="dialog_cannot_resume">ဒေါင်းလုဒ် ကြားဖြတ်ခံခဲ့ရသည်။ ပြန်ရယူ၍ မရတော့ပါ။</string>
+    <string name="dialog_file_missing_body">ဒေါင်းလုဒ်လုပ်ထားသောဖိုင်ကို ရှာမတွေ့ပါ။</string>
+    <string name="dialog_insufficient_space_on_external">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ အပြင်ပိုင်းသိုလှောင်ခန်းနေရာလွတ် အလုံအလောက်မရှိပါ။</string>
+    <string name="dialog_insufficient_space_on_cache">ဒေါင်းလုဒ်အား အဆုံးမသတ်နိုင်ပါ။ အတွင်းပိုင်းသိုလှောင်ခန်းနေရာလွတ် အလုံအလောက်မရှိပါ။</string>
+    <string name="dialog_cannot_resume">ဒေါင်းလုဒ် ပြတ်တောက်သွားသည်။ ပြန်ရယူ၍ မရတော့ပါ။</string>
     <string name="dialog_file_already_exists">ဒေါင်းလုဒ်လုပ်၍ မရပါ။ ဤဖိုင်သည် ရှိနေပြီးသားဖြစ်သည်။</string>
     <string name="dialog_media_not_found">ဒေါင်းလုဒ်လုပ်၍ မရပါ။ အပြင်မီဒီယာ မရနိုင်ပါ။</string>
     <string name="download_no_application_title">ဖိုင်အား ဖွင့်၍မရပါ</string>
@@ -106,6 +106,7 @@
     <string name="package_filter">ပက်ကေ့ချ်များ</string>
     <string name="other_filter">အခြား</string>
     <string name="xunlei_brand">Xunlei ဖြင့် အားဖြည့်ထားသော</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Xunlei ဒေါင်းလုဒ်အင်ဂျင်</string>
     <string name="turn_off_xunlei_title">Xunlei အားပိတ်ပါ</string>
     <string name="turn_off_xunlei_message">ဒေါင်းလုဒ်အရှိန်နှေးသွားခြင်းကို တွေ့ကြုံနိုင်သည်။</string>
@@ -147,7 +148,7 @@
     <string name="download_list_open_xl_ok">အိုကေ</string>
     <string name="download_list_open_xl_cancel">ဖျက်သိမ်း</string>
     <string name="download_list_intoAuth">သင့်အကောင့်အား အတည်ပြုပါ</string>
-    <string name="download_list_intoAuthAlert">လုပ်ဆောင်နေသည်</string>
+    <string name="download_list_intoAuthAlert">ခဏစောင့်ပါ…</string>
     <string name="unbind_xunlei_success">Xunlei အကောင့်မှ ဆိုင်းအောက်လုပ်ထွက်ပါ</string>
     <string name="unbind_xunlei_2_success">Xunlei အကောင့်အား ထည့်သွင်းပြီး</string>
     <string name="privacy_tip_title">Xunlei ဒေါင်းလုတ်အရှိန်မြှင့်အား အသုံးပြုမည်လား။?</string>
@@ -294,7 +295,7 @@
     <string name="sniff_search_install">တပ်ဆင်</string>
     <string name="sniff_shortcut_tip">ဝက်ဘ်ရှာဖွေမှုအတွက် အိမ်မျက်နှာပြင်ရှော့ကဒ် ပေါင်းထည့်နိုင်သည်</string>
     <string name="sniff_shortcut_tip2">သင့်အိမ်မျက်နှာပြင်မှ ဒေါင်းလုဒ်များအတွက် အရင်းအမြစ်များအား ရှာဖွေပါ။</string>
-    <string name="sniff_shortcut_cloudconfig_title">ခဏလောက်စောင့်…</string>
+    <string name="sniff_shortcut_cloudconfig_title">ခဏစောင့်ပါ…</string>
     <string name="sniff_shortcut_cloudconfig_context">အရင်းမြစ်အား အသစ်မွမ်းမံနေ…</string>
     <string name="sniff_shortcut_cloudconfig_btn">ရပြီ</string>
     <string name="sniff_shortcut_create">ရှော့ကဒ် ဖန်တီးပြီးပြီ</string>
@@ -331,6 +332,8 @@
     <string name="xl_vip_open">ဝယ်ယူ</string>
     <string name="xl_vip_pay">ချဲ့ကား</string>
     <string name="xl_vip_overdue">သက်တမ်းကုန်နေသည်</string>
+    <string name="download_num_size">%1$s | %2$s</string>
+    <string name="app_size">%1$s</string>
     <string name="ad_title">လူအများသည် ၄င်းတို့အား %1$s ဖြင့်လည်း ဒေါင်းလုဒ်လုပ်ကြပါသည်</string>
     <string name="rank_data_empty">အဆင့်သတ်မှတ်ခြင်း မရှိသော</string>
     <string name="net_error">ကွန်ရက်သို့ချိတ်ဆက်မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>

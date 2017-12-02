@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ဘက်ထရီချွေတာသူ</string>
+    <string name="app_name">Battery and Performance</string>
     <string name="activity_title_poweroptimize">ဘက်ထရီချွေတာသူ</string>
     <string name="activity_title_poweranalyze">ဘက်ထရီစမ်းသပ်</string>
     <string name="activity_title_powerconfigure">ဘက်ထရီဆက်တင်များ</string>
@@ -12,7 +12,7 @@
     <string name="no_applications">ဘာမှ မရှိပါ</string>
     <string name="add_applications">အက်ပ်များ ရွေးပါ</string>
     <string name="add_apps_title">အက်ပ်များ</string>
-    <string name="settings_safetylegal_activity_loading">ခဏလောက်စောင့်…</string>
+    <string name="settings_safetylegal_activity_loading">ခဏစောင့်ပါ…</string>
     <string name="power_chooser_user_define_title">မုဒ်အသစ်</string>
     <string name="power_event_user_define_title">လုပ်ငန်းစဉ်အသစ်</string>
     <string name="power_mode_view_user_define_title">လုပ်ငန်းစဉ်အသစ်</string>
@@ -107,7 +107,7 @@
     <string name="mode_settings">ဆက်တင်များ</string>
     <string name="hide_mode_desc">နောက်ခံတွင် အက်ပ်အလုပ်လုပ်နေစဉ်၊ ၄င်းလုပ်ဆောင်ချက်များအား စောင့်ကြည့်လိမ့်မည်ဖြစ်ပြီး ဘက်ထရီအသုံးပြုမှုအား လျှော့ချပါလိမ့်မည်။</string>
     <string name="hide_mode_ultimate_desc">Ultimate မုဒ်တားဖွင့်ထားသည်။ ဤအက်ပ်သည်နောက်ခံတွင် ခဲနေလိမ့်မည်။ Ultimate မုဒ်မှထွက်ရန် ဘက်ထရီချွေတာသူမှာ ထွက်လိုက်ပါ။</string>
-    <string name="power_hide_mode_title">အက်ပ်ဘက်ထရီသုံးစွဲမှုအား စီမံ</string>
+    <string name="power_hide_mode_title">Battery &amp; performance</string>
     <string name="power_hide_mode_summary">နောက်ခံတွင်အလုပ်လုပ်နေသော အက်ပ်များ၏လုပ်ငန်းများ၊ Wi-Fi၊ မိုဘိုင်း​ဒေတာချိတ်ဆက်ခြင်းများနှင့်GPSတို့ အား ကန့်သတ်ခြင်းဖြင့် ဘက်ထရီချွေတာပါ</string>
     <string name="power_config_apps">ဘက်ထရီ ချွေတာခြင်း</string>
     <string name="app_list_title">အက်ပ်များ ရွေးပါ</string>
@@ -125,6 +125,10 @@
     <string name="sleep_config_enhance_description">MIUI သည် သင်အိပ်စက်နေသည်ကို သိရှိပါက နောက်ခံအက်ပ်များကို ပိတ်ပြီး NFC၊ ဘလူးတုသ်၊ GPS၊ မိုဘိုင်းဒေတာနှင့် Wi-Fi သုံးစွဲမှုကို ကန့်သတ်လိမ့်မည်။ အသိပေးချက်များအတွက်မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
     <string name="nonui_mode_config_title">အပြန်အလှန်မရှိ မုဒ်</string>
     <string name="nonui_mode_config_description">MIUI သည် သင်စက်မသုံးနေသည်ကို သိရှိပါက LED မီး၊ လက်ဗွေအာရုံခံကိရိယာနှင့် ထိန်းချုပ်မှုခလုတ်ကို ပိတ်ပြီး အသိပေးချက်များအတွက် မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
+    <string name="power_center">ပါဝါ</string>
+    <string name="power_usage">Power usage</string>
+    <string name="power_mode">Power settings</string>
+    <string name="performance_category">Performance</string>
     <string name="scenario_policies_warmcontrol">အပူချိန်ထိန်းချုပ်မှု</string>
     <string name="warm_configure">အပူချိန်ထိန်းချုပ်မှု ဆက်တင်များ</string>
     <string name="important_warning">သတိပြုပါ</string>
@@ -146,7 +150,7 @@
     <string name="extreme_power_config_mode_title">အစွန်းရောက်မုဒ်</string>
     <string name="extreme_power_config_mode_desc">အစွန်းရောက်မုဒ်သို့ ပြောင်းပါက ဆင့်ခ်လုပ်ခြင်း၊ ဘလူးတုသ်၊ GPS၊ NFC၊ နှစ်ကြိမ်ဆက်တိုက်ထိနှိပ်ခြင်း၊ ခလုတ်အလင်းများ၊ အသိပေးချက်များကြောင့် သော့ခတ်မျက်နှာပြင်နှိုးထစေခြင်းနှင့် သတိပေးချက်အလင်းများကို ပိတ်ထားလိမ့်မည်။ MIUI သည် ဘက်ထရီချွေတာမှုကိုသာ အလေးထားမည်။</string>
     <string name="empty_title_apps_container_list">အက်ပ်များ မရှိပါ</string>
-    <string name="hints_loading_text">ခဏလောက်စောင့်…</string>
+    <string name="hints_loading_text">ခဏစောင့်ပါ…</string>
     <string name="config_mode_title">နောက်ခံဆက်တင်များ</string>
     <string name="config_suggest_title">ဘက်ထရီချွေတာသူ</string>
     <string name="config_suggest_suffix_title">ဘက်ထရီချွေတာသူ ( အကြံပြုထားသော)</string>

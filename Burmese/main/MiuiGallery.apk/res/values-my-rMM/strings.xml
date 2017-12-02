@@ -90,13 +90,13 @@
     <string name="people_page_unname">အမည်မပေးပါ</string>
     <string name="face_album_rename_hint">အမည်ကိုထည့်သွင်းပါ</string>
     <string name="face_album_use_tip">ပုံထဲတွင်ပါဝင်နေသောလူများအလိုက် ပုံအားစီစဉ်ပါ</string>
-    <string name="face_album_detecting_tip">ခဏလောက်စောင့်…</string>
+    <string name="face_album_detecting_tip">ခဏစောင့်ပါ…</string>
     <string name="face_album_empty">"လူပုဂ္ဂိုလ်အား အလိုအလျောက်ခွဲခြားသိရှိနိုင်ရန် ဓါတ်ပုံမလုံလောက်ပါ။
  သင့်သူငယ်ချင်းများ၏ ဓါတ်ပုံအား များများ ရိုက်ထည့်ပေးပါ!"</string>
     <string name="face_album_empty_syncing">ဒေတာ ဆင့်ခ်လုပ်နေ၊ ခဏနေပြန်လာပါမည်</string>
     <string name="face_album_empty_syncing_when_connect_wifi">အချက်အလက်များအား ဆင့်ခ်လုပ်ရန် ကွန်ရက်ချိတ်ဆက်ပါ။</string>
     <string name="start_to_use_face_albumset">လူဖြင့်စီပါ</string>
-    <string name="enabling_face_feature">ခဏလောက်စောင့်ပါ…</string>
+    <string name="enabling_face_feature">ခဏစောင့်ပါ…</string>
     <string name="face_album_pending_enable_tip">စက်ကို Wi-Fi နှင့်ချိတ်ဆက်လိုက်သည့်အခါ ဓါတ်ပုံများကို စီပါလိမ့်မည်</string>
     <string name="view_queuing_status">ခြေအနေအား စစ်ဆေး</string>
     <string name="setup_network_connection">ကွန်ရက်ဆက်တင်</string>
@@ -123,6 +123,7 @@
     <string name="more_face">ပုံစံတူလူပုဂ္ဂိုလ်များ</string>
     <string name="face_confirm">လူအတူတူဖြစ်ပါသည်</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="confirm_hidden_recommend_group">အိုကေ</string>
@@ -133,7 +134,7 @@
     <string name="empty_recommend_back">နောက်ပြန်</string>
     <string name="pick_from_contact">အဆက်အသွယ်များမှ ရွေးပါ</string>
     <string name="create_new_face">လူသစ်</string>
-    <string name="preparing_data">ခဏလောက်စောင့်ပါ…</string>
+    <string name="preparing_data">ခဏစောင့်ပါ…</string>
     <string name="ignore_face">ဤလူကို လျစ်လျူရှုပါ</string>
     <string name="change_to_visible">ဤပုဂ္ဂိုလ်ကို ပြန်ရယူမည်လား?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>
@@ -160,7 +161,7 @@
     <string name="set_group">အုပ်စုအသစ်သတ်မှတ်</string>
     <string name="how_to_set_relation">အုပ်စုတစ်ခုဖန်တီးရန် အယ်လ်ဘမ်တစ်ခုအား ဖိပြီး&amp;ထိနှိပ်လျက်ထားပါ</string>
     <string name="define_by_user">ကိုယ်တိုင်လုပ်ပါ</string>
-    <string name="load_relations">ခဏလောက်စောင့်…</string>
+    <string name="load_relations">ခဏစောင့်ပါ…</string>
     <string name="input_relation_name">အုပ်စုအမည်ထည့်ပါ</string>
     <string name="default_relation_name">အုပ်စုအသစ်</string>
     <string name="empty_relation">အုပ်စုအမည်အား ဗလာထား၍မရပါ</string>
@@ -259,7 +260,7 @@
     <string name="hybrid_locating_fail">သင့်တည်နေရာကိုရှာမရပါ</string>
     <string name="hybrid_pull_to_refresh_pull_label">ပြန်လန်းဆန်းရန်ဆွဲလိုက်ပါ…</string>
     <string name="hybrid_pull_to_refresh_release_label">ပြန်လန်းဆန်းရန်လွှတ်လိုက်ပါ…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">ခဏလောက်စောင့်…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">ခဏစောင့်ပါ…</string>
     <string name="album_videos_name">ဗီဒီယိုများ</string>
     <string name="album_pano_name">မြင်ကွင်းကျယ်</string>
     <string name="album_faces_name">လူပုဂ္ဂိုလ်</string>
@@ -411,12 +412,14 @@
     <string name="app_is_launching">%s ကို ဖွင့်နေသည်…</string>
     <string name="app_is_launching_common">အက်ပ်ကို ဖွင့်နေသည်…</string>
     <string name="title_warn">သတိပေးချက်</string>
+    <string name="title_tip">အကြံပေးချက်</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">KB</string>
     <string name="megabyteShort">MB</string>
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="tip_capture_time">ရိုက်ခဲ့ချိန်−</string>
     <string name="tip_file_info">ဖိုင်အချက်အလက်−</string>
     <string name="tip_capture_params">EXIF ဒေတာ:</string>
@@ -517,7 +520,7 @@
     <string name="public_url_descript">ဤ URL ကိုအသုံးပြုပြီး သင့်ရဲ့ အယ်လ်ဘမ်ကို လူတိုင်းကြည့်နိုင်သည်</string>
     <string name="share_public_url_text">ကျွန်ုပ်သည် အယ်လ်ဘမ် %1$s ကို သင်နှင့်အတူ မျှဝေထားသည်။ ၎င်းကို %2$s တွင်ကြည့်ပါ</string>
     <string name="unpublishing">ပယ်ဖျက်နေသည်…</string>
-    <string name="operation_too_often">ခဏစောင့်ပါ! သင့် IP လိပ်စာမှ တောင်းဆိုမှုပေါင်းများစွာကို ပြုလုပ်နေသည်။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="operation_too_often">ခဏစောင့်ပါ! သင့် IP လိပ်စာမှ တောင်းဆိုမှုပေါင်းများစွာကို ပြုလုပ်နေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="cannot_remove_creator">ဖန်တီးသူကို ဖယ်ရှားလို့မရနိုင်ပါ</string>
     <string name="exit">ထွက်ရန်</string>
     <string name="album_share_exit_confirm">ဤအယ်လ်ဘမ်မှ ထွက်မှာလား?</string>
@@ -571,7 +574,7 @@
     <string name="backup_sync_dialog_title">ဆင့်ခ် ပိတ်ထားသည်။</string>
     <string name="backup_sync_dialog_tips">အရန်သိမ်းခြင်းဆက်တင်ကိုပြောင်းလဲရန် Mi Cloudဆင့်ခ်ဖွင့်ပါ။</string>
     <string name="backup_sync_dialog_confirm">ဖွင့်မည်။</string>
-    <string name="backup_automatically_title">အလိုလိုအရန်သိမ်းပါ</string>
+    <string name="backup_automatically_title">အလိုအလျောက် အရန်သိမ်းမည်</string>
     <string name="backup_automatically_summary">စက်အားလုံးမှ ဓါတ်ပုံများနှင့် ဗီဒီယိုများ အား Mi Cloud သို့ အရန်သိမ်းပါ။ ထိုသို့ဖြင့်၊ သင်သည် သင်၏စက်အားလုံးပေါ်ရှိ ဓါတ်ပုံများ၊ ဗီဒီယိုများ အဆင်ပြေစွာ ရှာဖွေခြင်း၊ စီစဉ်ခြင်း၊ တည်းဖြတ်ခြင်းနှင့် ဝေမျှခြင်းများ ပြုလုပ်နိုင်မည်ဖြစ်ပါသည်</string>
     <string name="backup_only_in_wifi">Wi‑Fi ရှိမှသာ ဓါတ်ပုံနှင့် ဗီဒီယိုများအား အရန်သိမ်းပါ</string>
     <string name="backup_only_in_wifi_summary">ဓါတ်ပုံနှင့် ဗီဒီယိုများအား အရန်သိမ်းရန် မိုဘိုင်းဒေတာအား ဘယ်တော့မှ မသုံးပါနှင့်</string>
@@ -596,6 +599,7 @@
     <string name="welcome_to_slim">အတွင်းသိုလှောင်မှုအား ချဲ့ထွင်</string>
     <string name="slim_introduce">ရီဆိုလူးရှင်းအပြည့်ရှိသောပုံအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု နေရာအများအပြား ချွေတာနိုင်ပါသည်။</string>
     <string name="slim_introduce_with_specific_size">ရီဆိုလူးရှင်းအပြည့်ရှိသောဖိုင်များအား Mi Cloud သို့အရန်သိမ်းပြီးနောက် ချုံ့လိုက်ပါ။ ရီဆိုလူးရှင်းအပြည့်ပုံအား Mi Cloud တွင် ရရှိနိုင်မည်ဖြစ်ပြီး၊ ဤသို့ပြုလုပ်ခြင်းသည် သိုလှောင်မှု %1$s ချွေတာနိုင်ပါသည်။ဤသို့ပြုလုပ်ရန် (Mi အကောင့်လိုအပ်ပါသည်)</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="auto_backup_introduce">ဓါတ်ပုံများနှင့် ဗီဒီယိုများအား အလိုအလျောက်အရန်သိမ်းဆည်းပါ။(Mi အကောင့်လိုအပ်ပါသည်)</string>
     <string name="next">နောက်ထပ်</string>
     <string name="login_and_enable_service">Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>
@@ -673,6 +677,7 @@
     <string name="cloud_storage_ok_append_desc">ရရှိနိုင်သော %s</string>
     <string name="cloud_storage_warn_title">Mi ကလောက်သိုလှောင်မှု မလုံလောက်ပါ</string>
     <string name="cloud_storage_warn_desc">သိုလှောင်မှုပိုမိုရယူရန် ကလောက် VIP အားဝယ်ယူပါ</string>
+    <string name="percent_sign">%</string>
     <string name="cloud_storage_extend">Cloud နေရာလွတ် ချဲ့မည်</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="user_agreement4">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
@@ -783,6 +788,8 @@
     <string name="search_request_open">စမ်းသပ်မှုအဖွဲ့သို့ ဝင်ရောက်မည်။</string>
     <string name="search_request_applied">အသုံးချထားသည်</string>
     <string name="search_title_more">နောက်ထပ်</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_icon">search_icon</string>
     <string name="search_mark_feedback_false_positive_title">ပြုပြင်မည်</string>
     <string name="search_mark_feedback_false_negative_title">အိုကေ</string>
     <string name="search_feedback_false_negative_title">ရွေးထားသော အိုင်တမ်များသည် \"%s\"ဖြစ်သည်</string>
@@ -791,19 +798,24 @@
     <string name="search_feedback_false_positive_text">\"%s\"မှ ဓာတ်ပုံများ ဖယ်ရှားမလား?</string>
     <string name="search_feedback_false_negative_text">\"%s\"သို့ ဓာတ်ပုံများ ပေါင်းထည့်မလား?</string>
     <string name="search_feedback_contribute">ဓာတ်ပုံများကို AI တွက်နည်း ဒေတာဘေ့စ်သို့ ပေါင်းထည့်မည်</string>
-    <string name="search_feedback_task_finish_title">ဆုလာဘ်များ လက်ခံရရှိရန် ထိနှိပ်ပါ!</string>
+    <string name="search_feedback_task_progress">မစ်ရှင် %1$d/%2$d</string>
+    <string name="search_feedback_task_complete">မစ်ရှင်အားလုံး ပြီးမြောက်ပါပြီ</string>
     <string name="search_feedback_likely_title">ဤဓာတ်ပုံများသည် \"%s\"ဖြစ်နိုင်သည်</string>
     <string name="search_feedback_likely_check_title">စစ်ဆေးပါ</string>
     <string name="search_feedback_false_positive_title">ဤအရာများသည် \"%s\"ဖြစ်နိုင်သည်</string>
     <string name="search_feedback_task_requesting_award">ဆုလာဘ်များ ရယူနေသည်…</string>
     <string name="search_feedback_task_request_award_failed">ဆုလာဘ်များ ရယူ၍ မရပါ။ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="search_feedback_user_policy">MIUI Gallery AI Algorithm Program Privacy Policy</string>
+    <string name="search_feedback_user_notice">အောက်ပါများကို ကျွန်ုပ်ဖတ်ရှုပြီး၍ သဘောတူပါသည်-%s</string>
     <string name="grant_permission_title">အသုံးပြုဝင်ရောက်မှုအား ခွင့်ပြုပါ</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_unlock_and_set">Unlock and set</string>
     <string name="loading">ခဏစောင့်ပါ</string>
-    <string name="loading_dots">ခဏလောက်စောင့်…</string>
+    <string name="loading_dots">ခဏစောင့်ပါ…</string>
     <string name="load_failed">အချက်အလက်အား မရယူနိုင်ခဲ့ပါ၊ ထပ်လုပ်ရန် ထိနှိပ်ပါ</string>
     <string name="load_complete">အိုင်တမ်များ မရှိတော့ပါ</string>
     <string name="people_jump_failed">လူပုံပါသော ဓါတ်ပုံများ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ပြီးသည် အထိစောင့်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
@@ -846,7 +858,7 @@
     <string name="error_socket_timeout_tip">ချိတ်ဆက်မှု အချိန်လွန်သွားသည်။</string>
     <string name="error_socket_timeout_msg">အခြားကွန်ရက်တစ်ခုသို့ ချိတ်ဆက်ပြီး နောက်တစ်ကြိမ်ကြိုးစားကြည့်ပါ။</string>
     <string name="error_socket_timeout_action">ကွန်ရက် ရွေးချယ်သတ်မှတ်ပါ။</string>
-    <string name="error_over_quota_tip">တောင်းဆိုမှုအလွန်များနေသည်။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="error_over_quota_tip">တောင်းဆိုမှု အလွန်များနေသည်။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="error_build_thumbnail_tip">ပုံငယ်ကို ဒေါင်းလုဒ်လုပ်၍မရပါ။</string>
     <string name="error_build_thumbnail_msg">ပုံငယ် ဒေါင်းလုဒ်လုပ်၍မရပါ။ မူရင်းဖိုင်ကို ဒေါင်းလုဒ်လုပ်ကြည့်ပါ။</string>
     <string name="error_build_thumbnail_action">မူရင်းဖိုင်ကို ဒေါင်းလုဒ်လုပ်မည်။</string>
@@ -854,7 +866,7 @@
     <string name="error_unknown_msg">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်။ ကျွန်ုပ်တို့ထံ တုံ့ပြန်အကြံပြုချက်ပေးပို့မည်။</string>
     <string name="error_unknown_action">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="error_not_synced_tip">အချက်အလက်များ ဆင့်ခ်မလုပ်ရသေးပါ။</string>
-    <string name="error_not_synced_msg">အချက်အလက်များ ဆင့်ခ်မလုပ်ရသေးပါ။ ခဏစောင့်ဆိုင်းပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="error_not_synced_msg">အချက်အလက်များအား ဆင့်ခ်မလုပ်ရသေးပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="error_not_synced_action">ယခု ဆင့်ခ်လုပ်မည်</string>
     <string name="error_download_tip">ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="people_mark_mode_title">ရွေးချယ်ပြီး \"%s\" သတ်မှတ်ပါ။</string>

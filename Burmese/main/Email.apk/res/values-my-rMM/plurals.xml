@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="actionbar_unread_messages">
-        <item quantity="other">မက်ဆေ့ချ်အသစ် %1$dစောင်</item>
+        <item quantity="other">%1$d စောင်ကို မဖတ်ရသေးပါ</item>
     </plurals>
     <plurals name="confirm_archive_conversation">
         <item quantity="other">ဤစကားပြောဆိုထားမှု %1$d ခုကို မှတ်တမ်းထဲသို့ သိမ်းဆည်းမလား?</item>
@@ -10,40 +10,40 @@
         <item quantity="other">ဤ %1$d စကားပြောဆိုထားမှုများကို ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="confirm_delete_conversation_with_sub">
-        <item quantity="other">စကားပြောဆိုမှုတွင် မက်ဆေ့ချ်အများကြီးပါဝင်ပါသည်၊ မည်သို့ပင်မဆိုဖျက်မည်လား?</item>
+        <item quantity="other">ဤစကားပြောဆိုထားမှုများတွင် ပေါင်းစပ်ထားသော အရာများပါဝင်သည်။ မည်သို့ဆိုစေ ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="confirm_delete_draft">
         <item quantity="other">ဤစာကြမ်း %1$d စောင်ကို ဖျက်ပစ်မည်လား?</item>
     </plurals>
     <plurals name="contact_num_selected">
-        <item quantity="other">ရွေးချယ်ထားသော %d အိုင်တမ်</item>
+        <item quantity="other">%d ကို ရွေးချယ်ထားပါသည်</item>
     </plurals>
     <plurals name="conversation_archived">
-        <item quantity="other">စကားပြောဆိုမှု %1$d အားမှတ်တမ်းတင်ထားခဲ့သည်။</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> ကို မှတ်တမ်းထဲသို့ သိမ်းပြီးပါပြီ။</item>
     </plurals>
     <plurals name="conversation_deleted">
-        <item quantity="other">စကားပြောဆိုမှု %1$d အား ဖျက်ခဲ့သည်</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> ခုကို ဖျက်ပြီးပါပြီ။</item>
     </plurals>
     <plurals name="conversation_folder_changed">
-        <item quantity="other">ဖိုလ်ဒါပြောင်းခဲ့သည်</item>
+        <item quantity="other">ဖိုင်တွဲများကို ပြောင်းလိုက်ပါပြီ။</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
         <item quantity="other">အပါအဝင် လူ %1$d ဦး</item>
     </plurals>
     <plurals name="conversation_muted">
-        <item quantity="other">စကားပြောဆိုမှု%1$d အားလစ်လျူရှုခဲ့သည်။</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> အသံပိတ်လိုက်သည်</item>
     </plurals>
     <plurals name="conversation_not_important">
-        <item quantity="other">စကားပြောဆိုမှု %1$dအား အရေးကြီးသည်မှ ပြန်ဖြုတ်ခဲ့သည်</item>
+        <item quantity="other">မက်ဆေ့ချ် &lt;b>%1$d&lt;/b> အား \"အရေးကြီး\" ဖိုင်တွဲမှ ဖယ်ရှားလိုက်သည်</item>
     </plurals>
     <plurals name="conversation_not_spam">
-        <item quantity="other">စကားပြောဆိုမှု %1$dအား စပန်မှ ပြန်ဖြုတ်ခဲ့သည်</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b>" ကို 'စပမ်း' ဖိုင်တွဲထဲမှ ဖယ်ရှားပြီးပါပြီ"</item>
     </plurals>
     <plurals name="conversation_phished">
-        <item quantity="other">စကားပြောဆိုမှု %1$d အားအနှောက်ယှက်အဖြစ် တိုင်ကြားခဲ့သည်။</item>
+        <item quantity="other">မက်ဆေ့ချ် &lt;b>%1$d&lt;/b> စောင်ကို စပမ်းအဖြစ် အစီရင်ခံပြီးပါပြီ</item>
     </plurals>
     <plurals name="conversation_spammed">
-        <item quantity="other">စကားပြောဆိုမှု%1$d အား စပန်အဖြစ် တိုင်ကြားခဲ့သည်။</item>
+        <item quantity="other">&lt;b>%1$d&lt;/b> ကို စပမ်းအဖြစ် မှတ်ထားပြီးပါပြီ</item>
     </plurals>
     <plurals name="day">
         <item quantity="other">%d ရက်</item>
@@ -64,13 +64,13 @@
         <item quantity="other">%d လ</item>
     </plurals>
     <plurals name="move_conversation">
-        <item quantity="other">စကားပြောဆိုထားမှု %1$d ခုကို ရွေ့ပါ</item>
+        <item quantity="other">စကားပြောဆိုထားမှု %1$d ခုကို ရွှေပါ</item>
     </plurals>
     <plurals name="new_incoming_messages_many">
-        <item quantity="other">မက်ဆေ့ချ်အသစ် %1$dစောင်</item>
+        <item quantity="other">မက်ဆေ့ချ်အသစ် %1$d စောင်ကိုပြပါ။</item>
     </plurals>
     <plurals name="num_selected">
-        <item quantity="other">ရွေးချယ်ထားသော %d အိုင်တမ်</item>
+        <item quantity="other">%d ခုကို ရွေးချယ်ထားပါသည်</item>
     </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">မက်ဆေ့ချ်အဟောင်း %1$d စောင်</item>

@@ -44,4 +44,5 @@
     <string name="unbind_device_alert_ok">အတွဲဖြုတ်ပါ</string>
     <string name="unbind_device_alert_cancel">ပယ်ဖျက်</string>
     <string name="ok_button">အိုကေ</string>
+    <string name="bluetooth_device_context_unpair">တွဲချိတ်ခြင်းကို ဖြုတ်ပါ</string>
 </resources>

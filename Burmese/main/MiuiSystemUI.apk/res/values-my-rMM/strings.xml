@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -88,7 +90,7 @@
     <string name="tether_settings_title_wifi">အိတ်ဆောင်ဟော့စ်ပေါ့</string>
     <string name="tether_settings_title_bluetooth">ဘလူးတုသ် ဒေတာချိတ်ဆက်ခြင်း</string>
     <string name="tether_settings_title_usb_bluetooth">ဒေတာချိတ်ဆက်ခြင်း</string>
-    <string name="tether_settings_title_all">ဒေတာချိတ်ဆက်ခြင်း &amp; ခရီးဆောင် ဟော့စပေါ့</string>
+    <string name="tether_settings_title_all">ဒေတာချိတ်ဆက်ခြင်း &amp; ခရီးဆောင် ဟော့စ်ပေါ့</string>
     <string name="managed_user_title">အက်ပ်များအလုပ်အားလုံး</string>
     <string name="user_guest">ဧည့်သည်</string>
     <string name="unknown">အမည်မသိ</string>
@@ -339,8 +341,8 @@
     <string name="accessibility_recent">မကြာမီက အက်ပ်များ</string>
     <string name="accessibility_search_light">ရှာပါ</string>
     <string name="accessibility_camera_button">ကင်မရာ</string>
-    <string name="accessibility_bluetooth_connected">ဘလူးတုသ်ချိတ်ဆက်ထားသော</string>
-    <string name="accessibility_bluetooth_disconnected">ဘလူးတုသ် ချိတ်ဆက်မှု ဖြုတ်လိုက်သော</string>
+    <string name="accessibility_bluetooth_connected">ဘလူးတုသ်ချိတ်ဆက်ထားသည်။</string>
+    <string name="accessibility_bluetooth_disconnected">ဘလူးတုသ် ချိတ်ဆက်မှု ဖြုတ်လိုက်သည်။</string>
     <string name="accessibility_no_phone">ဖုန်းမရှိပါ။</string>
     <string name="accessibility_phone_one_bar">ဖုန်းဘားတစ်ခု။</string>
     <string name="accessibility_phone_two_bars">ဖုန်းဘားနှစ်ခု။</string>
@@ -396,7 +398,7 @@
     <string name="status_bar_safepay_safe">ပေးချေမှု အန္တရာယ်တွေ့ရှိခဲ့သည်</string>
     <string name="status_bar_safepay_risk">ပေးချေမှု အန္တရာယ်တွေ့ရှိခဲ့သည်</string>
     <string name="status_bar_safepay_unknown">ငွေပေးချေမှု ပတ်ဝန်းကျင်အားမစစ်ဆေးနိုင်ခဲ့ပါ။</string>
-    <string name="loading_desktop">တစ်စက္ကန့်မျှသာ…</string>
+    <string name="loading_desktop">ခဏစောင့်ပါ…</string>
     <string name="status_bar_recent_remove_item_title">စာရင်းမှ ဖယ်ရှားလိုက်ပါ။</string>
     <string name="status_bar_recent_inspect_item_title">အက်ပ်အချက်အလက်</string>
     <string name="status_bar_accessibility_dismiss_recents">မကြာသေးမီကအက်ပ်များ ထုတ်ပစ်မည်။</string>
@@ -536,6 +538,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်ခန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
     <string name="ext_media_mountable_notification_message">အိပ်ပလိုရာ၌ ဖွင့်ရန် တို့ထိပါ။</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">ယနေ့: %1$s</string>
@@ -551,10 +554,9 @@ d MMMM"</string>
     <string name="expanded_confirm_disable_notification">ကွယ်ဝှက်</string>
     <string name="block_record_notification_title">အသိပေးအချက်ပြချက်များအား　ကွယ်ဝှက်ထား</string>
     <string name="block_record_notification_text">%1$sမှ　အသိပေးအချက်ပြချက်များအား　ကွယ်ဝှက်နေ</string>
-    <string name="notification_hidden_text">အသိပေးချက်အား　ကွယ်ဝှက်ထားသည်</string>
+    <string name="notification_hidden_text">မက်ဆေ့ချ်အသစ်တစ်စောင် ရှိသည်</string>
     <string name="block_notification_text">ကွယ်ဝှက်</string>
     <string name="block_notification_content_text">%1$s ၏ အသိပေးချက်များသည် ထပ်မံပြသတော့မည်မဟုတ်ပါ။ ဤအရာအား ဆက်တင်များထဲတွင် ဝင်ပြောင်းနိုင်ပါသည်</string>
-    <string name="block_notification_desc">အက်ပ်အသိပေးချက်များသည် ထပ်မံပြသတော့မည်မဟုတ်ပါ။ ဤအရာအား ဆက်တင်များထဲတွင် ဝင်ပြောင်းနိုင်ပါသည်</string>
     <string name="notification_otg_mouse_in">မောက်စ် ချိတ်ဆက်နေသည်</string>
     <string name="notification_otg_keyboard_in">ကီးဘုတ် ချိတ်ဆက်နေသည်</string>
     <string name="notification_otg_gamestick_in">ဂိမ်းအထိန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
@@ -588,8 +590,8 @@ d MMMM"</string>
     <string name="notification_low_battery_open_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
     <string name="notification_low_battery_action_btn">ဖွင့်</string>
     <string name="notification_low_battery_need_charge">ဘက်ထရီအားနည်းနေသည်။ သင့်စက်အား အားသွင်းပါ။</string>
-    <string name="oldman_airplane_mode_text">လေယာဉ်</string>
-    <string name="oldman_incall_text">အဝင်ဖုန်း</string>
+    <string name="oldman_airplane_mode_text">လေယာဥ်</string>
+    <string name="oldman_incall_text">ခေါ်ဆိုမှုသို့ ပြန်သွားပါ</string>
     <string name="demo_mode">အစမ်းမုဒ်</string>
     <string name="show_demo_mode">အစမ်းမုဒ် ပြသပါ</string>
     <string name="no_multi_window_app">မျက်နှာပြင်ခွဲခြင်းလုပ်နိုင်သည့် အက်ပ်မရှိသေးပါ။</string>
@@ -615,6 +617,7 @@ d MMMM"</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="no_weather_description">ရာသီဥတုအချက်အလက်များအား ရယူမည်></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="screenshot_long_screenshot">စာလိပ်</string>
     <string name="screenshot_edit">တည်းဖြတ်</string>
     <string name="screenshot_send">ပေးပို့</string>
@@ -657,7 +660,4 @@ d MMMM"</string>
     <string name="unimportant_desc">အရေးမကြီးသောအသိပေးချက်အားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်။</string>
     <string name="important_desc">အရေးကြီးသောအသိပေးချက်အားလုံး အသိပေးချက်ရှိတ်တွင် တိုက်ရိုက်ပေါ်လာလိမ့်မည်။</string>
     <string name="cancel">ပယ်ဖျက်ပါ</string>
-    <string name="search_hint">ဝက်ဘ်ဆိုက်များ၊ အက်ပ်များ၊ အဆက်အသွယ်များနှင့် ဗီဒီယိုများကို ရှာ​ဖွေမည်</string>
-    <string name="description_image_button_reject">ငြင်းဆိုမည်</string>
-    <string name="description_image_button_answer">ဖြေဆိုမည်</string>
 </resources>

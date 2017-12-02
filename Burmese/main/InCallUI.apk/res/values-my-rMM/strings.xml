@@ -42,7 +42,6 @@
     <string name="onscreen_audio_mode_handset">နားကြပ်</string>
     <string name="onscreen_audio_mode_headset">နားကြပ်</string>
     <string name="onscreen_audio_mode_speaker">စပီကာ</string>
-    <string name="onscreen_audio_switch_mode">အော်ဒီယိုပြောင်း</string>
     <string name="onscreen_call_record">မှတ်တမ်းတင်</string>
     <string name="sip_call_not_support_record">SIP ခေါ်ဆိုမှုများအား မှတ်တမ်းတင်၍မရပါ</string>
     <string name="onscreen_hold_text">ကိုင်ထား</string>
@@ -56,7 +55,6 @@
     <string name="conference_call_description" formatted="false">%s,%s စသည်ဖြင့်၊ ပေါင်း %s</string>
     <string name="conference_call_single_description" formatted="false">%s စသည်ဖြင့်။ စုစုပေါင်း %s</string>
     <string name="separate_from_conference">သီးခြားခေါ်ဆိုခြင်း</string>
-    <string name="callUnanswered_forwarded">မဖြေလိုက်ရသော ခေါ်ဆိုမှုအား ဆင့်ကမ်းခဲ့သည်</string>
     <string name="caller_manage_header">ကွန်ဖရင့်ခေါ်ဆိုခြင်း %s</string>
     <string name="incall_call_type_label_sip">အင်တာနက် ခေါ်ဆိုခြင်း</string>
     <string name="incoming_call_forwarded_title">လွှဲပြောင်းအဝင်ခေါ်ဆိုခြင်း</string>
@@ -65,7 +63,6 @@
     <string name="card_title_conf_call">ကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_video_conf_call">ဗီဒီယိုကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_threeway_call">သုံးဖက် ခေါ်ဆိုခြင်း</string>
-    <string name="card_title_incoming_call">အဝင်ခေါ်ဆိုခြင်း</string>
     <string name="card_title_answering">ဖုန်းဖြေဆိုနေသည်</string>
     <string name="card_title_answering_time_out">ဖုန်းဖြေဆို၍မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="card_title_call_ended">"ခေါ်ဆိုခြင်းပြီးပြီ "</string>
@@ -79,7 +76,6 @@
     <string name="card_title_in_video">ဗီဒီယို</string>
     <string name="card_video_hold_swap">ဖုန်းပြောင်း</string>
     <string name="onscreenEndCallText">ပြီး</string>
-    <string name="calling_via_template">%s မှတစ်ဆင့်ခေါ်ဆိုနေသည်</string>
     <string name="respond_via_sms_custom_message">စိတ်ကြိုက် SMS</string>
     <string name="manageConferenceLabel">ကွန်ဖရင့်ခေါ်ဆိုခြင်း ကို စီမံမည်</string>
     <string name="emergency_call_dialog_number_for_display">အရေးပေါ်နံပါတ်</string>
@@ -152,12 +148,6 @@
     <string name="antispam_provider">%s မှ သတ်မှတ်ထားပါသည်</string>
     <string name="antispam_notification_title">အမည်မသိ နံပါတ်</string>
     <string name="suspect_info">သင့်ကိုယ်ရေးအချက်အလက်များနှင့် ပတ်သတ်၍ သတိထားပါ</string>
-    <string name="ivr_menu_list_title">အသံမီနူး</string>
-    <string name="ivr_menu_dialing_msg">လွှဲပြောင်းပေးနေသည်…</string>
-    <string name="ivr_menu_dialing_msg_no_mute">ရွေးချယ်ထားသောဝန်ဆောင်မှုသို့သွားမည်…[အလိုအလျောက် အမှားပြင်ခြင်းဖွင့်ထား]</string>
-    <string name="ivr_menu_list_sub_menu_count_format">တက်ပ်%s</string>
-    <string name="non_ivr_menu_view_menu">ကြည့်သော မီနူး</string>
-    <string name="non_ivr_menu_collapse_menu">ပျက်ကျသော မီနူး</string>
     <string name="livetalk_dial">ငွေဖြည့်ပက်ကေ့ချ်အားအသုံးပြုနေ</string>
     <string name="areacode_set_default">မူလအတိုင်းသတ်မှတ်ပါ</string>
     <string name="default_area_code_setting">မူလပုံသေ ဧရိယာကုဒ်</string>
@@ -166,9 +156,6 @@
     <string name="not_activate_sim_card_content_with_operator">ငွေဖြည့်ပက်ကေ့ချ်အား သုံးပြီး ခေါ်ဆိုမှု ပြုလုပ်ရန် SIM %1$s (%2$s) အား အတည်ပြုစစ်ဆေးပါ။ ပုံမှန်ခေါ်ဆိုမှုများအား ပုံမှန်နှုန်းထားများအတိုင်း ပြုလုပ်နိုင်ဦးမည်ဖြစ်သည်။</string>
     <string name="dialog_call_ordinary_telephone">ပုံမှန်ခေါ်ဆိုမှု</string>
     <string name="dialog_activate_livetalk">ဝန်ဆောင်မှု နံပါတ်</string>
-    <string name="no_balance_title">ငွေကြေးမလုံလောက်သော</string>
-    <string name="no_balance_message">ငွေဖြည့်ပက်ကေ့ချ်တွင် လက်ကျန်ငွေမလုံလောက်တော့ပါ။ ထိုအစား ပုံမှန်ခေါ်ဆိုမှုကို အသုံးပြုနိုင်ပါည်။</string>
-    <string name="dialog_purchase">ငွေဖြည့်</string>
     <string name="not_support_title">ဤနံပါတ်အား မထောက်ပံ့ထားပါ</string>
     <string name="not_support_message">လက်ရှိငွေဖြည့်ပက်ကေ့ချ်သည် ဤနံပါတ်အား လက်ရှိမထောက်ပံ့ထားပါ။ ထိုအစားပုံမှန် ခေါ်ဆိုမှုအား အသုံးပြုနိုင်ပါသည်။</string>
     <string name="livetalk_hangup">ချလိုက်</string>
@@ -182,7 +169,6 @@
     <string name="can_not_call_oneself">အမည်မသိသောနံပါတ်ကို ခေါ်ဆိုလို့မရပါ</string>
     <string name="card_title_video_call_paused">ဗီဒီယိုခေတ္တရပ်တန့်ခဲ့</string>
     <string name="card_title_incoming_conference_call">အဝင်ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
-    <string name="video_switch_to_voice_call_prompt">အသံဖြင့်ခေါ်ဆိုမှုသို့ ပြောင်းလဲပါ</string>
     <string name="onscreen_change_to_voice">အသံဖုန်းများ</string>
     <string name="onscreen_change_to_video">ဗီဒီယိုခေါ်ဆိုခြင်း</string>
     <string name="onscreen_switch_camera">ကင်မရာပြောင်းလဲ</string>
@@ -194,9 +180,7 @@
     <string name="notification_incoming_video_call">အဝင်ဗီဒီယိုခေါ်ဆိုမှုများ</string>
     <string name="onscreen_message_text">မက်ဆေ့ချ်များ</string>
     <string name="onscreen_close_preview_camera">ကင်မရာအားပိတ်</string>
-    <string name="video_call_not_allowed_if_tty_enabled">TTY မုဒ်အား ဦးစွာပိတ်ပါ</string>
     <string name="upgrade_vt_prompt">ဗီဒီယိုခေါ်ဆိုမှုသို့ ပြောင်းလဲမည်လား?</string>
-    <string name="conference_caller_name_me">ကျွန်ုပ်</string>
     <string name="incoming_answer_voice_text">အသံဖြင့်ဖြေဆို</string>
     <string name="picking_participant">အကောင့်အချက်လက်ရယူနေ…</string>
     <string name="conference_caller_info_name">%1$s၏ကွန်းဖရင့်စ်ခေါ်ဆိုမှု</string>
@@ -240,6 +224,10 @@
     <string name="dial_with_gsm_phone">ပုံမှန်ခေါ်ဆိုမှု</string>
     <string name="livetalk_left_minute">%s မိနစ်ကျန်သေးသည်</string>
     <string name="miprofile_stranger_card">သူစိမ်းကဒ်</string>
+    <string name="no_balance_message">ငွေဖြည့်ပက်ကေ့ချ်တွင် လက်ကျန်ငွေမလုံလောက်တော့ပါ။ ထိုအစား ပုံမှန်ခေါ်ဆိုမှုကို အသုံးပြုနိုင်ပါည်။</string>
     <string name="purchase_now">ငွေဖြည့်</string>
+    <string name="video_switch_to_voice_call_prompt">အသံဖြင့်ခေါ်ဆိုမှုသို့ ပြောင်းလဲပါ</string>
     <string name="onscreen_rcs_text">မက်ဆေ့ချ်များ</string>
+    <string name="video_call_not_allowed_if_tty_enabled">TTY မုဒ်အား ဦးစွာပိတ်ပါ</string>
+    <string name="conference_caller_name_me">ကျွန်ုပ်</string>
 </resources>

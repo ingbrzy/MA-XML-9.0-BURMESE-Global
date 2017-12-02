@@ -25,7 +25,7 @@
     <string name="avl_dialog_dbupdate" />
     <string name="avl_dialog_url">http://api.sec.miui.com/policy/proxy?p=antiy&amp;l=en_US</string>
     <string name="avast_dialog_title">"Avast's ၏ကိုယ်ရေးမူဝါဒ"</string>
-    <string name="avast_dialog_header">ဤလုပ်ဆောင်ချက်သည် သင့်စက်အိုင်ဒီအား ကုဒ်ဖွဲ့လိုက်ပြီး Avast ဆာဗာသို့ တင်လိုက်သည်(%s)</string>
+    <string name="avast_dialog_header">ဤလုပ်ဆောင်ချက်သည် သင့်စက်IDအား ကုဒ်ဖွဲ့လိုက်ပြီး Avast ဆာဗာသို့ တင်လိုက်သည်(%s)</string>
     <string name="avast_dialog_policy">ကိုယ်ရေးသီးသန့်ပေါ်လစီကို ကြည့်ပါ</string>
     <string name="avast_dialog_cloudscan" />
     <string name="avast_dialog_dbupdate" />

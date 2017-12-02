@@ -12,7 +12,7 @@
     <string name="network_not_available">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
-    <string name="usage_sorted_loading_text">ခဏလောက်စောင့်…</string>
+    <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
     <string name="month_report_activity_label">လစဉ်အစီရင်ခံစာ</string>
     <string name="month_report_disconnect_tip">ကွန်ရက်အားမချိတ်ဆက်နိုင်ပါ</string>
     <string name="month_report_click_reconnect_network">ထပ်ကြိုးစားပါ</string>
@@ -22,7 +22,7 @@
     <string name="month_report_history_activity_label">အစီရင်ခံစာ သမိုင်းအားဖွင့်ပါ</string>
     <string name="month_report_result_share">မျှဝေခြင်း</string>
     <string name="month_report_share_img_fail">မျှဝေ၍ မရနိုင်ပါ</string>
-    <string name="month_report_share_loading">ခဏလောက်စောင့်…</string>
+    <string name="month_report_share_loading">ခဏစောင့်ပါ…</string>
     <string name="month_report_network_dialog_title">တိုင်ကြားခြင်းအချက်အလက်များအား မရရှိနိုင်ပါ</string>
     <string name="month_report_network_dialog_description">တိုင်ကြားချက်အချက်အလက်များအား ရရှိနိုင်ရန် ဤအက်ပ်အား အင်တာနက်သို့ ချိတ်ဆက်ရန်ခွင့်ပြုပါ?</string>
     <string name="month_report_network_dialog_positive">ခွင့်ပြု</string>

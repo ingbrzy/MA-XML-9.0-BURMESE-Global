@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="fw_blocked">ဘလော့စာရင်း</string>
+    <string name="fw_oversea">Block calls from abroad</string>
     <string name="fw_blocked_count">"ဘလော့လုပ်ထားသော "</string>
     <string name="fw_blocked_join">" နှင့် "</string>
+    <string name="fw_oversea_content">Block incoming calls from foreign phone numbers</string>
     <string name="tab_title">ဘလော့စာရင်း</string>
     <string name="tab_blacklist">ဘလော့စာရင်း</string>
     <string name="tab_sms">SMS</string>
@@ -132,6 +134,7 @@
     <string name="call_contact_block">အဆက်အသွယ်မှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="call_transfer_block">လိုင်းလွှဲပေးသော ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
     <string name="call_cloud_block">Cloud ဘလော့စာရင်း</string>
+    <string name="call_oversea_block">Block calls from abroad</string>
     <string name="mark_fraud_block">စပမ်းအဖြစ်ဟု မှတ်သားထားသည်</string>
     <string name="mark_agent_block">အေဂျင်စီအဖြစ်မှတ်သားထားသည်</string>
     <string name="mark_sell_block">ဖုန်းမှစျေးကွက်ရှာဖွေသူအဖြစ် မှတ်သားထားသည်</string>
@@ -271,6 +274,7 @@
     <string name="st_call_settings">ဖုန်းခေါ်ဆိုမှု ဘလော့စာရင်း</string>
     <string name="st_call_intercept_stranger">သူစိမ်းမှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_forwarding">လိုင်းလွှဲပေးသော ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
+    <string name="st_call_intercept_oversea">Block calls from abroad</string>
     <string name="st_call_intercept_reported">သတင်းပို့ထားသောနံပါတ်များမှ ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_contacts">အဆက်အသွယ်မှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_unknown">ဗလာနံပါတ်များမှ ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
@@ -282,6 +286,7 @@
     <string name="st_confirm_dialog_btn_open">ဖွင့်မည်။</string>
     <string name="st_confirm_dialog_summary_stranger_call">သူစိမ်းမှ ဖုန်းခေါ်ဆိုမှုအားလုံး ကိုဘလော့လုပ်မည်</string>
     <string name="st_confirm_dialog_summary_contact_call">အဆက်အသွယ်မှ ဖုန်းခေါ်ဆိုမှုအားလုံး ကိုဘလော့လုပ်မည်</string>
+    <string name="st_confirm_dialog_summary_oversea_call">Turn on to block all incoming calls from foreign phone numbers.</string>
     <string name="cta_dialog_title">အင်တာနက်ချိတ်ဆက်မှု</string>
     <string name="cta_dialog_msg">လုံခြုံရေးသည် အသစ်မွမ်းမံမှုများ ရရှိရန်အတွက် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပြီး ပုံမှန်အလုပ်လုပ်ဆောင်ရန်အတွက် တည်နေရာဝန်ဆောင်မှုအား သုံးစွဲရန်လိုအပ်ပါသည်။</string>
     <string name="cta_settings">အင်တာနက်ချိတ်ဆက်မှုကို ခွင့်ပြုပါ</string>
@@ -364,9 +369,9 @@
     <string name="firewall_mobile_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် မိုဘိုင်းဒေတာကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="firewall_wifi_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် Wi-Fi ကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="usage_sorted_activity_lable">ဒေတာအသုံးစွဲမှု</string>
-    <string name="usage_sorted_loading_text">ခဏလောက်စောင့်…</string>
+    <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
     <string name="usage_sorted_empty_text">မရှိသော</string>
-    <string name="person_hotpot">မိုဘိုင်း ဟော့စပေါ့များ</string>
+    <string name="person_hotpot">မိုဘိုင်း ဟော့စ်ပေါ့များ</string>
     <string name="system_app">စနစ် အက်ပ်များ</string>
     <string name="deleted_apps">အက်ပ်များကို ဖျက်ပစ်ပြီးပါပြီ</string>
     <string name="root">Root သို့ဝင်ရောက်ခြင်း</string>
@@ -385,6 +390,7 @@
     <string name="detail_app_button">အက်ပ်အချက်အလက်</string>
     <string name="pref_about_traffic_title">ဒေတာအသုံးပြုမှုဆက်တင်များ</string>
     <string name="pref_traffic_manage_title">ဒေတာအသုံးစွဲမှု</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">မိုဘိုင်းဒေတာကန့်သတ်ချက်</string>
     <string name="pref_adjust_traffic_data">ဒေတာသုံးစွဲမှုကို သတ်မှတ်ပါ</string>
     <string name="pref_category_title_other">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -648,7 +654,7 @@ Rolled over extra data"</string>
     <string name="traffic_warning_purchase_title">မိုဘိုင်းဒေတာ သုံးစွဲမှုသတိပေးခြင်း</string>
     <string name="traffic_purchase_body">သင့်လက်ကျန်ငွေကို ငွေဖြည့်ရန် ထိပါ။</string>
     <string name="traffic_over_purchase_link">"သင့်မိုဘိုင်း အစီအစဉ်၏ဒေတာ အသုံးပြုမှုကန့်သတ်ချက်သို့ ရောက်ရှိနေပါပြီ။&lt;br/> အကယ်၍ သင်စီစဉ်ထားသော ဒေတာအကန့်အသတ်ထက် ပို၍ သုံးပါက၊ သင်၏ဖုန်းကာရီယာသည် သင့်ဆီမှ နောက်ထပ် အခကြေးငွေ တောင်းပါလိမ့်မည်။&lt;br/>&lt;br/>&lt;font color='#ccffffff'>&lt;U>သင့်လက်ကျန်ကို ငွေဖြည့်ရန်ထိပါ။&lt;/U>&lt;/font>"</string>
-    <string name="repair_loading_text">ခဏလောက်စောင့်…</string>
+    <string name="repair_loading_text">ခဏစောင့်ပါ…</string>
     <string name="network_diagnostics">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="btn_start_diagnostic">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="btn_stop_diagnostic">ရပ်ပါ</string>
@@ -886,6 +892,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"ဤအက်ပ်သည် သင်၏စက်ကို
 နှေးကွေးစေသည်"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ဖြုတ်ပါ %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ဘက်ထရီသုံးစွဲမှုဆိုင်ရာကိစ္စများ ဖြေရှင်းရန် ဤအက်ပ်ကို ဖြုတ်ပါ။</string>
     <string name="om_ill_proc_type_wakelock_title">ဤအက်ပ်သည် အိပ်စက်ခြင်းမုဒ်ကို ပိတ်ပင်ထားသောကြောင့် ဘက်ထရီအားမခံပါ</string>
@@ -964,7 +971,7 @@ Rolled over extra data"</string>
     <string name="battery_history_seconds">%1$dစက္ကန့်</string>
     <string name="delete">ဖျက်ပါ</string>
     <string name="every_day">နေ့တိုင်း</string>
-    <string name="legal_workday">အားလပ်ရက်များ</string>
+    <string name="legal_workday">Legal workdays</string>
     <string name="never">၁ ကြိမ်</string>
     <string name="power_20s_shutdown">ကိရိယာက စက္ကန့် %d အကြာမှာ ပါဝါပိတ်လိမ့်မည်</string>
     <string name="boot_reminder">စီစဉ်ထားသော အချိန်တစ်ရပ်တွင် သင့်ကိရိယာ ပါဝါဖွင့်မည်</string>
@@ -1274,6 +1281,7 @@ Rolled over extra data"</string>
     <string name="keywords_gamebooster">ဂိမ်း;အရှိန်မြှင့်တင်မှု;King of Glory;လုပ်ဆောင်ရည် မုဒ်;မနှောင့်ယှက်ပါနှင့်;ဂိမ်းများ;ဂိမ်းကစားခြင်း;ဂိမ်းအရှိန်;မြှင့်တင်မှု</string>
     <string name="path_gamebooster">စနစ် အက်ပ်များ/လုံခြုရေး/ဂိမ်းအရှိန်မြှင့်တင်မှု</string>
     <string name="app_name_securitycenter">လုံခြုံရေး</string>
+    <string name="back_description_securitycenter">နောက်သို့</string>
     <string name="ok">အိုကေ</string>
     <string name="exit">ထွက်</string>
     <string name="cancel">ပယ်ဖျက်ပါ</string>
@@ -1287,6 +1295,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">ဒေတာအသုံးပြုမှု</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1319,7 +1328,7 @@ Rolled over extra data"</string>
     <string name="suggest_scan_again">လုံခြုံရေးအန္တရာယ်များကင်းရှင်းရန် စကန်ပြီးအောင်ဖတ်ပါ။</string>
     <string name="hints_handle_item_text_virus">အန္တရာယ်</string>
     <string name="hints_scan_result_safe">လုံခြုံသည်</string>
-    <string name="descx_quick_scan_preparation">ခဏလောက်စောင့်…</string>
+    <string name="descx_quick_scan_preparation">ခဏစောင့်ပါ…</string>
     <string name="descx_quick_scan_cancel">စကန်ဖတ်ခြင်းကိုပယ်ဖျက်ပြီးပြီ</string>
     <string name="dialog_title_stop_virus_scan">လုံခြုရေးစကန် ရပ်လိုက်ပါ။</string>
     <string name="dialog_msg_stop_virus_scan">လုပ်ဆောင်မှုမပြီးသေးခင် လုံခြုရေးစကန်ဖတ်ခြင်းကိုရပ်မည်လော?</string>
@@ -1500,14 +1509,14 @@ Rolled over extra data"</string>
     <string name="title_find_device">စက်ကို ရှာပါ</string>
     <string name="summary_find_device">မည်သည့်နေရာမှမဆို သင့်စက်အား တည်နေရာရှာခြင်းနှင့် သော့ခတ်ခြင်းတို့ ပြုလုပ်နိုင်</string>
     <string name="title_realname_verify">ID အတည်ပြုခြင်း</string>
-    <string name="summary_realname_verify">ပေးချေမှု ပိုမိုလုံခြုံစေရန် သင့်အိုင်ဒီအား အတည်ပြုပါ</string>
+    <string name="summary_realname_verify">ပေးချေမှု ပိုမိုလုံခြုံစေရန် သင့်IDအား အတည်ပြုပါ</string>
     <string name="title_mifi_insurance">အာမခံသက်တမ်းတိုး ခဲ့သည်</string>
     <string name="summary_mifi_insurance">ဟာ့ဒ်ဝဲလ်ပျက်စီးမှုများအတွက် ၁ နှစ် အစားထိုးလဲလည်မှု အစီစဉ်အား ရယူပါ</string>
     <string name="title_cloud_space_almost_full">ကလောက်သိုလှောင်မှု ပြည့်လုနီးပါးရှိနေပါပြီ၊ အိုင်တမ်များအား ဆင့်ခ်လုပ်လိမ့်မည်မဟုတ်</string>
     <string name="summary_cloud_space_almost_full">သိုလှောင်မှုနေရာ ရယူပါ</string>
     <string name="title_cloud_space_full">ကလောက် ပြည့်နေပြီ</string>
     <string name="summary_cloud_space_full">သိုလှောင်သောနေရာ ပိုမိုရယူပါ ပြီးနောက် လုပ်ဆောင်ချက်များ ကိုလည်းရယူပါ</string>
-    <string name="title_auto_update">အလိုလို အသစ်မွမ်းမံလုပ်ပါ</string>
+    <string name="title_auto_update">အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="summary_auto_update">MIUI သည်အသစ်မွမ်းမံမှုများအား ဒေါင်းလုဒ်လုပ်ပြီး တပ်ဆင်ရန် အသင့်တော်ဆုံးအချိန်ကို အသုံးပြုပါသည်</string>
     <string name="title_miui_update_latest">MIUI သည် နောက်ဆုံးပေါ်ဖြစ်သည်</string>
     <string name="title_miui_update">အသစ်မွမ်းမံ ရှိနေပါသည်</string>
@@ -1647,6 +1656,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ရှင်းလင်း</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>
@@ -1842,11 +1852,9 @@ Rolled over extra data"</string>
     <string name="app_manager_details_electric_title">ဘက်ထရီ</string>
     <string name="app_manager_card_permission_title">ခွင့်ပြုချက်များ</string>
     <string name="app_manager_permission_startself_title">အော်တိုစတင်ပါ</string>
-    <string name="app_manager_permission_startself_summary">အလိုအလျောက်စတင်သော အက်ပ်များသည် RAM ကိုသုံးစွဲထားပြီး ဘက်ထရီကို ပိုမိုအကုန်မြန်စေပါသည်</string>
     <string name="app_manager_permission_manager_title">ခွင့်ပြုချက်များ</string>
     <string name="app_manager_permission_notify_title">အသိပေးချက်များ</string>
     <string name="app_manager_permission_power_saving_title">ဘက်ထရီချွေတာသူ</string>
-    <string name="app_manager_permission_power_saving_summary">MIUI ဘက်ထရီချွေတာသူ</string>
     <string name="app_manager_default_open_title">သတ်မှတ်ပုံစံကို ရှင်းပစ်ပါ</string>
     <string name="app_manager_default_close_summary">မည်သည့် မူလပုံစံမှ မရှိပါ</string>
     <string name="app_manager_default_open_summary">ဤအက်ပ်အား အချို့လုပ်ဆောင်ချက်များအတွက် မူလပုံသေအတိုင်း ဖွင့်ရန် သင်ခွင့်ပြုထားသည်</string>
@@ -1872,7 +1880,6 @@ Rolled over extra data"</string>
     <string name="app_manager_stop_wakepath_success">အောင်မြင်စွာ ကန့်သတ်ခဲ့သည်</string>
     <string name="app_maanger_app_uninstalled_toast">ဤအက်ပ်အား ဖြုတ်ထားသည်</string>
     <string name="app_manager_start_by">%s မှ စတင်ခဲ့သော</string>
-    <string name="app_manager_not_record">ခွင့်ပြုချက်လိုအပ်သော အက်ပ်များရှာမတွေ့ပါ</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">ဆက်စပ်နှစ်ခုတွဲအက်ပ်များသည် အက်ပ်ဒေတာနှင့်အတူ ပျက်သွားလိမ့်မည်</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">နှစ်ခုတွဲ အက်ပ်အား ဖြုတ်ချ</string>
@@ -1886,7 +1893,6 @@ Rolled over extra data"</string>
     <string name="app_manager_menu_clear_data">ဒေတာရှင်းပါ</string>
     <string name="app_manager_clear_data_dlg_title">အက်ပ်ဒေတာကို ဖျက်မည်လား?</string>
     <string name="app_manager_clear_data_dlg_message">ဤအက်ပ်ဒေတာအားလုံးကို ထာဝရဖျက်ပစ်လိမ့်မည်။ ဖိုင်အားလုံး၊ဆက်တင်များ၊ အကောင့်များနှင့် ဒေတာဘေ့စ်များ စသည်တို့ ပါဝင်ပါသည်။</string>
-    <string name="app_manager_clear_failed_dlg_title">ဒေတာရှင်းပါ</string>
     <string name="app_manager_clear_failed_dlg_message">အက်ပ်အတွက်ဒေတာကို မရှင်းလင်းနိုင်ခဲ့ပါ</string>
     <string name="app_manager_manage_space">နေရာလွတ်အတွက် စီမံပါ</string>
     <string name="app_manager_permission_summary_reject">အားလုံးအားကန့်သတ်ပါ</string>
@@ -1894,7 +1900,6 @@ Rolled over extra data"</string>
     <string name="app_manager_powerkeeper_miui_auto">MIUI ဘက်ထရီချွေတာသူ</string>
     <string name="app_manager_powerkeeper_restrict_bg">နောက်ခံအက်ပ်များအား ကန့်သတ်</string>
     <string name="app_manager_powerkeeper_no_bg">နောက်ခံလုပ်ဆောင်ချက်များအား ကန့်သတ်</string>
-    <string name="app_manager_sort">ဤအချက်အလိုက် စီထားပါသည်-</string>
     <string name="app_manager_instruction">ညွှန်ကြားချက်</string>
     <string name="app_manager_app_storage">"သိုလှောင်ခန်း-  "</string>
     <string name="app_manager_app_traffic">"ဒေတာသုံးစွဲမှု-  "</string>
@@ -2098,6 +2103,11 @@ Rolled over extra data"</string>
     <string name="game_booster_close">ဂိမ်းအရှိန်မြှင့်တင်မှု ပိတ်ထားသည်</string>
     <string name="databooster_tips_title">သတိပြုရန်</string>
     <string name="databooster_tips_message">ဒေတာကဒ်မှလွဲ၍ ကျန် SIM ကဒ်အားလုံးကို ကန့်သတ်ထားမည်။ ဂိမ်းပုံမှန်ကစား၍ မရပါက ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါ။</string>
+    <string name="app_manager_permission_startself_summary">အလိုအလျောက်စတင်သော အက်ပ်များသည် RAM ကိုသုံးစွဲထားပြီး ဘက်ထရီကို ပိုမိုအကုန်မြန်စေပါသည်</string>
+    <string name="app_manager_permission_power_saving_summary">MIUI ဘက်ထရီချွေတာသူ</string>
+    <string name="app_manager_not_record">ခွင့်ပြုချက်လိုအပ်သော အက်ပ်များရှာမတွေ့ပါ</string>
+    <string name="app_manager_clear_failed_dlg_title">ဒေတာရှင်းပါ</string>
+    <string name="app_manager_sort">ဤအချက်အလိုက် စီထားပါသည်-</string>
     <string name="power_center_consume_rank">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="power_center_custom_title">ဘက်ထရီ ပရိုဖိုင်များ</string>
     <string name="power_center_auto_shutdown_summary_default">သင့်ကိရိယာကို စီစဥ်ထားသော အချိန်အတိုင်း ပါဝါ ဖွင့်ပါ (သို့) ပိတ်ပါ။</string>
