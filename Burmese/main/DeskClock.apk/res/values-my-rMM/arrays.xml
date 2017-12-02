@@ -37,16 +37,6 @@
         <item>အလွန်အားနည်းသော</item>
         <item>ပြင်းထန်သော</item>
     </string-array>
-    <string-array name="weather_tips_value">
-        <item>အပြင်ဘက်လှုပ်ရှားမှုများအား လျော့ချပါ</item>
-        <item>လမ်းလျှော်နေပါသည်</item>
-        <item>မုန်တိုင်းရှိနိုင်ပါသည်၊ ဂရုစိုက်ပါ</item>
-        <item>လေထုညစ်ညမ်းနေပါသည်၊ မျက်နှာဖုံးစွပ်ပါ</item>
-        <item>အပြင်ထွက်ပါက ထီးယူသွားပါ</item>
-        <item>လမ်းပေါ်တွင် သတိထားပါ</item>
-        <item>သဲမုန်တိုင်းလာနေပြီ၊ မျက်နှာဖုံးစွတ်ပါ!</item>
-        <item>ကောင်းမွန်သောနေ့လေးတစ်နေ့ ဖြစ်ပါစေ!</item>
-    </string-array>
     <string-array name="alarm_set">
         <item>တစ်မိနစ်အကြာတွင် နှိုးစက်မြည်လိမ့်မည်။</item>
         <item>%1$s အကြာတွင် နှိုးစက်မြည်လိမ့်မည်။</item>
@@ -66,15 +56,6 @@
         <item>၂၅ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
     </string-array>
-    <string-array name="snooze_duration_values">
-        <item>1</item>
-        <item>5</item>
-        <item>10</item>
-        <item>15</item>
-        <item>20</item>
-        <item>25</item>
-        <item>30</item>
-    </string-array>
     <string-array name="auto_silence_entries">
         <item>ဘယ်တော့မှ</item>
         <item>၁ မိနစ်</item>
@@ -89,10 +70,5 @@
         <item>ဘာမှမလုပ်</item>
         <item>တစ်မှေးအိပ်</item>
         <item>ရပ်နား</item>
-    </string-array>
-    <string-array name="volume_button_setting_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
     </string-array>
 </resources>
