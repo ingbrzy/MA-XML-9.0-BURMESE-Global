@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Battery and Performance</string>
+    <string name="app_name">ဘက်ထရီနှင့် စွမ်းဆောင်ရည်</string>
     <string name="activity_title_poweroptimize">ဘက်ထရီချွေတာသူ</string>
     <string name="activity_title_poweranalyze">ဘက်ထရီစမ်းသပ်</string>
     <string name="activity_title_powerconfigure">ဘက်ထရီဆက်တင်များ</string>
@@ -107,7 +107,7 @@
     <string name="mode_settings">ဆက်တင်များ</string>
     <string name="hide_mode_desc">နောက်ခံတွင် အက်ပ်အလုပ်လုပ်နေစဉ်၊ ၄င်းလုပ်ဆောင်ချက်များအား စောင့်ကြည့်လိမ့်မည်ဖြစ်ပြီး ဘက်ထရီအသုံးပြုမှုအား လျှော့ချပါလိမ့်မည်။</string>
     <string name="hide_mode_ultimate_desc">Ultimate မုဒ်တားဖွင့်ထားသည်။ ဤအက်ပ်သည်နောက်ခံတွင် ခဲနေလိမ့်မည်။ Ultimate မုဒ်မှထွက်ရန် ဘက်ထရီချွေတာသူမှာ ထွက်လိုက်ပါ။</string>
-    <string name="power_hide_mode_title">Battery &amp; performance</string>
+    <string name="power_hide_mode_title">ဘက်ထရီ &amp; စွမ်းဆောင်ရည်</string>
     <string name="power_hide_mode_summary">နောက်ခံတွင်အလုပ်လုပ်နေသော အက်ပ်များ၏လုပ်ငန်းများ၊ Wi-Fi၊ မိုဘိုင်း​ဒေတာချိတ်ဆက်ခြင်းများနှင့်GPSတို့ အား ကန့်သတ်ခြင်းဖြင့် ဘက်ထရီချွေတာပါ</string>
     <string name="power_config_apps">ဘက်ထရီ ချွေတာခြင်း</string>
     <string name="app_list_title">အက်ပ်များ ရွေးပါ</string>
@@ -126,9 +126,9 @@
     <string name="nonui_mode_config_title">အပြန်အလှန်မရှိ မုဒ်</string>
     <string name="nonui_mode_config_description">MIUI သည် သင်စက်မသုံးနေသည်ကို သိရှိပါက LED မီး၊ လက်ဗွေအာရုံခံကိရိယာနှင့် ထိန်းချုပ်မှုခလုတ်ကို ပိတ်ပြီး အသိပေးချက်များအတွက် မျက်နှာပြင်ကိုလည်း မလင်းစေပါ။</string>
     <string name="power_center">ပါဝါ</string>
-    <string name="power_usage">Power usage</string>
-    <string name="power_mode">Power settings</string>
-    <string name="performance_category">Performance</string>
+    <string name="power_usage">ပါဝါ သုံးစွဲမှု</string>
+    <string name="power_mode">ပါဝါ ဆက်တင်များ</string>
+    <string name="performance_category">စွမ်းဆောင်ရည်</string>
     <string name="scenario_policies_warmcontrol">အပူချိန်ထိန်းချုပ်မှု</string>
     <string name="warm_configure">အပူချိန်ထိန်းချုပ်မှု ဆက်တင်များ</string>
     <string name="important_warning">သတိပြုပါ</string>

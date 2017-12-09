@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="adblock_notification">
+        <item quantity="other">ကြော်ငြာ %dခုကို ဘလော့လုပ်ထားသည်</item>
+    </plurals>
     <plurals name="adblock_rules_number_text">
         <item quantity="other">ပစ္စည်း %d ကို ဘလော့လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">လုပ်ငန်း %dခုကို ဖျက်မလား?</item>
     </plurals>
     <plurals name="find_on_page_matches">
         <item quantity="other">%d ခု ကိုက်ညီသည်</item>
@@ -12,25 +18,37 @@
     <plurals name="matches_found">
         <item quantity="other">စုစုပေါင်း %1$dခု ထဲမှ %2$dခု</item>
     </plurals>
-    <plurals name="transfer_prompt">
-        <item quantity="other">နောက်ထပ် %1$dစက္ကန့်တွင် ဗီဒီယိုအား ဖွင့်မည်</item>
+    <plurals name="pref_adblock_counts">
+        <item quantity="other">%dခု ဘလော့လုပ်ထားသည်</item>
+    </plurals>
+    <plurals name="suggest_access_item_album_songs">
+        <item quantity="other">သီချင်း %dပုဒ်</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_albums">
+        <item quantity="other">အယ်လ်ဘမ် %dခု</item>
+    </plurals>
+    <plurals name="suggest_access_item_singer_pop">
+        <item quantity="other">လူကြိုက်များသော သီချင်း %dပုဒ်</item>
     </plurals>
     <plurals name="v5_edit_mode_title">
         <item quantity="other">%1$d ခုကို ရွေးချယ်ပြီးပါပြီ</item>
     </plurals>
     <plurals name="video_download_clear_info">
-        <item quantity="other">%1$d ဗီဒီယိုအား အောင်မြင်စွာ ဖယ်ရှားခဲ့သည်။</item>
+        <item quantity="other">ဗီဒီယို %1$dခုအား ဖယ်ရှားပြီးပါပြီ။</item>
     </plurals>
     <plurals name="video_download_clear_prompt">
-        <item quantity="other">ဗီဒီယို %1$dအား ရှင်းလင်းမည်လား?</item>
+        <item quantity="other">ဗီဒီယို %1$dခုအား ရှင်းလင်းမလား?</item>
     </plurals>
     <plurals name="video_history_clear_info">
-        <item quantity="other">သမိုင်းမှ အိုင်တမ် %1$d ခု ဖျက်လိုက်ပါသည်</item>
+        <item quantity="other">သမိုင်းမှ အိုင်တမ် %1$dခုကို ဖျက်လိုက်သည်။</item>
     </plurals>
     <plurals name="video_history_clear_prompt">
-        <item quantity="other">အိုင်တမ် %1$dခုအား မှတ်တမ်းမှရှင်းမည်လား?</item>
+        <item quantity="other">သမိုင်းမှ အိုင်တမ် %1$dခုအား ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
-        <item quantity="other">%d မိနစ် ကျန်ရှိနေသည်</item>
+        <item quantity="other">%dမိနစ် ကျန်ရှိသည်</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">နေသာသော</item>
     </plurals>
 </resources>

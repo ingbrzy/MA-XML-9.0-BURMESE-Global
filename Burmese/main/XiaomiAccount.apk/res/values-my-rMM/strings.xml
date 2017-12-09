@@ -54,7 +54,7 @@
     <string name="passport_change_phone_number">နံပါတ်ပြောင်း</string>
     <string name="passport_forget_password"><u>စကားဝှက် မေ့နေသည်</u></string>
     <string name="passport_forget_password_no_underline">စကားဝှက် မေ့နေသည်</string>
-    <string name="passport_reg_type_email">Email address</string>
+    <string name="passport_reg_type_email">အီးမေးလ်လိပ်စာ</string>
     <string name="passport_register_by_email"><u>အီးမေးလ်လိပ်စာသုံးပြီး အကောင့်တစ်ခု ဖန်တီးပါ</u></string>
     <string name="passport_account_not_actived">သင်၏အကောင့်အသက်မသွင်းရသေးပါ</string>
     <string name="passport_active_email_visit">သင်၏စာတိုက်ပုံးကို %s မှာ စစ်ဆေးပါ</string>
@@ -190,11 +190,15 @@
     <string name="passport_user_reg_region_warning">အကောင့်အား ဖန်တီးပြီးနောက် သင်၏နိုင်ငံ/ဒေသကို ပြောင်းလဲ၍ ရနိုင်လိမ့်မည်မဟုတ်ပါ။</string>
     <string name="passport_sync_account_data">အကောင့်အချက်အလက်ကို ဆင့်ခ်လုပ်နေသည်…</string>
     <string name="passport_sync_account_data_failed_warning">အကောင့်အချက်အလက်ကို ဆင့်ခ်လုပ်နေသည်၊ သင်၏ Mi အကောင့် ID ဖြင့် ဆိုင်းအင်ဝင်နိုင်ပါသည်။ သင့်ဖုန်းနံပါတ် သို့မဟုတ် အီးမေးလ်ဖြင့် ဆိုင်းအင်ဝင်လိုပါက အချက်အလက် ဆင့်ခ်လုပ်ပြီးသည်အထိ စောင့်ပါ။</string>
-    <string name="passport_confirm_recycle_account_msg">%s &lt;font color=Red>疑似&lt;/font>是运营商回收后再次收买的号码，该号码下已有小米帐号，这个帐号是你的吗？</string>
+    <string name="passport_confirm_recycle_account_msg">"&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier, and there's a Mi Account associated with it. Is this account yours?"</string>
     <string name="passport_login_recycle_account_yes">ဟုတ်ပါတယ်</string>
-    <string name="passport_login_recycle_account_no">မဟုတ်ပါ</string>
+    <string name="passport_login_recycle_account_no">No</string>
     <string name="passport_reg_recycle_account_yes">ဟုတ်ပါတယ်</string>
-    <string name="passport_reg_recycle_account_no">မဟုတ်ပါ</string>
+    <string name="passport_reg_recycle_account_no">No</string>
+    <string name="passport_get_innetdate_title">Check when the number went online</string>
+    <string name="passport_get_innetdate_msg">&lt;font color=Red>Looks like&lt;/font> the number %s has been recycled by your carrier. Check when the number went online?</string>
+    <string name="passport_get_innetdate_agree">Check</string>
+    <string name="passport_get_innetdate_disagree">No</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
     <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
@@ -254,6 +258,7 @@
     <string name="account_error_invalid_user_name">အမည်တွင် &lt;၊ >၊ / တို့ပါဝင်၍ မရပါ</string>
     <string name="account_error_shorter_user_name">အမည်တွင် အက္ခရာ ၂ လုံးထက် ပိုရှည်ရမည်</string>
     <string name="account_error_longer_user_name">အမည်တွင် အက္ခရာအလုံးရေ ၂၀ ထက် မကျော်ရ</string>
+    <string name="account_error_user_name">The name you entered is invalid</string>
     <string name="account_error_user_birthday">သင်ထည့်သွင်းသော မွေးနေ့က မမှန်ပါ</string>
     <string name="account_limit_update_birthday">မွေးနေ့အား ယခုအသစ်မွမ်းမံခြင်းမပြုနိုင်ပါ</string>
     <string name="account_user_other_info">အရင်းအမြစ်ထပ်မံ၍</string>
@@ -274,7 +279,7 @@
     <string name="account_user_avatar_from_album">ဓာတ်ပုံ ရွေးပါ</string>
     <string name="account_crop_user_avatar">ဓာတ်ပုံ ဖြတ်ထုတ်ပါ</string>
     <string name="sns_access_token_expired_warning">အကောင့် ဆိုင်းအင်ဝင်ခြင်းက သက်တမ်းကုန်နေသည်။ ဒီအကောင့်ကို ပြန်ချိတ်ဆက်ရန်၊ ထပ်မံ ဆိုင်းအင်ဝင်ရမည်။</string>
-    <string name="user_avatar_uploading">စက္ကန့်မျှသာ…</string>
+    <string name="user_avatar_uploading">ခဏစောင့်ပါ…</string>
     <string name="user_avatar_update_title">ပရိုဖိုင်ပုံ ပြောင်းပါ</string>
     <string name="photoPickerNotFoundText">ဓါတ်ပုံမရှိပါ</string>
     <string name="account_none_binded_info">တစ်ခုမှမဟုတ်</string>
@@ -297,7 +302,7 @@
     <string name="error_dup_binded_email">ဒီအီးမေးလ်လိပ်စာသည် အခြား Mi အကောင့်ဖြင့် တွဲသုံးထားပြီးသား ဖြစ်သည်။</string>
     <string name="error_invalid_bind_address">သင် ထည့်သွင်းသော အီးမေးလ်လိပ်စာက မမှန်ပါ။</string>
     <string name="get_phone_bind_exceed_limit">ဖုန်းနံပါတ်တစ်ခုဖြင့် Mi အကောင့်သုံးခုသာ ဆက်စပ်နိုင်ပါသည်။ အကောင့်အသစ် ထည့်သွင်းလို့မရတော့ပါ။</string>
-    <string name="just_a_second">စက္ကန့်မျှသာ…</string>
+    <string name="just_a_second">ခဏစောင့်ပါ…</string>
     <string name="get_phone_verifycode_exceed_limit">အတည်ပြုကုဒ် အများအပြားကို ဒီနံပါတ်သို့ ပို့ထားသည်။ ၂၄ နာရီခန့် စောင့်ပြီးနောက်၊ ထပ်ကြိုးစားပါ။</string>
     <string name="mi_account_identity_title">သင် မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုပါ</string>
     <string name="exceed_binded_phone_times_notice">ဒီဖုန်းနံပါတ်သည် အခြား Mi အကောင့်ဖြင့် ဆက်စပ်သုံးထားပြီးသား ဖြစ်သည်။</string>
@@ -446,5 +451,9 @@
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
     <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် Mi အကောင့်သို့ ဆိုင်းအင်ဝင်နိုင်ရန် သင်၏ဖုန်းနံပါတ်ကို ပေါင်းထည့်ပါ။</string>
-    <string name="account_notification_message">ဆိုင်းအင်ပြန်ဝင်ပါ။</string>
+    <string name="account_notification_message">>Session expired. Sign in again.</string>
+    <string name="sim_changed_notification_title">Changed phone number?</string>
+    <string name="sim_changed_notification_msg">Tap to update your recovery phone and keep your account more secure.</string>
+    <string name="recycle_phone_notification_title">Mi Account security risk</string>
+    <string name="recycle_phone_notification_msg">Looks like your phone number has been recycled. Tap to update.</string>
 </resources>

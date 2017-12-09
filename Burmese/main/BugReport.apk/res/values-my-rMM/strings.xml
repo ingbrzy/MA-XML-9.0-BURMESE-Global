@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကတ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -152,7 +153,7 @@
     <string name="network_err">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ။</string>
     <string name="refresh">ပြန်လန်းဆန်း</string>
     <string name="announcement">သတိပြုပါ</string>
-    <string name="app_empty">မည်သည့်အက်ပ်ကိုမှ သင် ဒေါင်းလုဒ်မလုပ်ရသေးပါ။</string>
+    <string name="app_empty">အက်ပ်များကို ရှာမတွေ့ပါ။</string>
     <string name="screen_lock">မျက်နှာပြင်သော့</string>
     <string name="systemui">အသိပေးချက်ရှိတ်</string>
     <string name="cta_dialog_title">အင်တာနက်ချိတ်ဆက်မှု</string>
@@ -279,6 +280,7 @@
     <string name="title_answer_feedback_main">အဖြေတွေ့ပါပြီ!</string>
     <string name="title_same_question_feedback_main">MIUI ဖိုရမ်ရှိ အလားတူကိစ္စများ</string>
     <string name="related_question_answer_details">ဆက်စပ်ကိစ္စများ</string>
+    <string name="issue_search">Search</string>
     <string name="module_item_more">ပိုမို၍</string>
     <string name="module_item_less">ကွယ်ဝှက်</string>
     <string name="feedback_guess">ကျွန်ုပ်တို့၏ ခန့်မှန်းချက်</string>
@@ -296,6 +298,7 @@
     <string name="module_more">ပိုမို၍</string>
     <string name="module_search">ရှာပါ</string>
     <string name="module_google_apps">Google အက်ပ်များ</string>
+    <string name="app_search">အက်ပ်များကို ရှာမည်</string>
     <string name="feedback_submit_hint">သင်ဖုန်းပြဿနာ ကြုံရပါက ကျွန်ုပ်တို့မှ အမြန်ဖြေရှင်းပေးနိုင်ရန် ပြဿနာအား တင်ပြပေးပါ</string>
     <string name="feedback_submit_hint_gone">မက်ဆေ့ချ်ကို ဖျောက်ထားပါ</string>
     <string name="toast_post_deleted">ဤခေါင်းစဉ်ရှိမနေပါ၊ ဖျက်လိုက်သည် သို့မဟုတ် တည်းဖြတ်ခဲ့သည်</string>

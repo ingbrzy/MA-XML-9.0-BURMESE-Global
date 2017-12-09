@@ -179,6 +179,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -204,7 +205,7 @@
     <string name="hybrid_network_access_denied">ကွန်ရက်ဝင်သုံးခြင်းကိုငြင်းခံရပါသည်</string>
     <string name="hybrid_network_unavaliable">ကွန်ရက်သို့မချိတ်ဆက်နိုင်ပါ</string>
     <string name="hybrid_pull_to_refresh_pull_label">ပြန်လန်းဆန်းရန်ဆွဲလိုက်ပါ…</string>
-    <string name="hybrid_pull_to_refresh_refreshing_label">ခဏလောက်စောင့်…</string>
+    <string name="hybrid_pull_to_refresh_refreshing_label">ခဏစောင့်ပါ…</string>
     <string name="hybrid_pull_to_refresh_release_label">ပြန်လန်းဆန်းရန်လွှတ်လိုက်ပါ…</string>
     <string name="hybrid_service_unavailiable">ဝန်ဆောင်မှုမရရှိပါ</string>
     <string name="hybrid_try_again">ထပ်မံကြိုးစားပါ</string>
@@ -218,9 +219,9 @@
     <string name="invalid_recipient_message">လက်ခံသူများကို အမှန်ဖြစ်အောင်ပြင်ပါ (သို့) သူတို့သည် မက်ဆေ့ချ်ကို လက်ခံရရှိလိမ့်မည် မဟုတ်ပါ။</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"စလိုက်ရှိုး သင်းမ် "</string>
-    <string name="loading_all_messages">ခဏလောက်စောင့်…</string>
-    <string name="loading_conversations">ခဏလောက်စောင့်…</string>
-    <string name="loading_mms">ခဏလောက်စောင့်ပါ…</string>
+    <string name="loading_all_messages">ခဏစောင့်ပါ…</string>
+    <string name="loading_conversations">ခဏစောင့်ပါ…</string>
+    <string name="loading_mms">ခဏစောင့်ပါ…</string>
     <string name="manage_permission_app_label">စက်ခွင့်ပြုချက်များ</string>
     <string name="me">ကျွန်ုပ်ကို</string>
     <string name="menu_add_black">ဒီနံပါတ်ကို ဘလော့လုပ်ပါ</string>
@@ -528,6 +529,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>

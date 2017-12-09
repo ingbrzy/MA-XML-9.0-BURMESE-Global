@@ -38,7 +38,7 @@
     <string name="low_memory">သင့်တွင် သိုလှောင်မှု 200MB ထက်နည်းလာနေသည်။ ၅ မိနစ်အထိ မှတ်တမ်းတင်နိုင်ပါသည်။</string>
     <string name="low_memory_dior">သင့်တွင် သိုလှောင်မှု 500MB ထက်နည်းနေသည်။ ၁၂ မိနစ်အထိသာ မှတ်တမ်းတင်နိုင်သည်။</string>
     <string name="low_memory_title">သိုလှောင်ရန်နေရာမလုံလောက်ပါ</string>
-    <string name="low_momery_warning">သိုလှောင်ရန် နေရာမလုံလောက်ပါ။ မှတ်တမ်းတင်ခြင်းအား ရပ်ဆဲပြီး ဗီဒီယိုအား သိမ်းခဲ့သည်။</string>
+    <string name="low_momery_warning">နေရာလွတ် မလုံလောက်ပါ။ မှတ်တမ်းတင်ခြင်းအား ရပ်ဆဲပြီး ဗီဒီယိုအား သိမ်းဆည်းလိုက်သည်။</string>
     <string name="memory_not_allowed">သိုလှောင်မှုနေရာ မရရှိနိုင်သော။ မှတ်တမ်းတင်ရန် သိုလှောင်ရန်နေရာ တစ်ချို့ ရှင်းလိုက်ပါ။</string>
     <string name="mic_sound">Mic</string>
     <string name="no_recorder_info">မည်သည့်ဗီဒီယိုမှ မမျှဝေထားပါ</string>

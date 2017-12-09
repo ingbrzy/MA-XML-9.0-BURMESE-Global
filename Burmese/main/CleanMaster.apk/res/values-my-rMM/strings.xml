@@ -184,8 +184,8 @@
     <string name="toast_backup_uninstall_success">အရန်သိမ်းခြင်းနှင့် ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="activity_title_cache_data">အက်ပ်ဒေတာ</string>
     <string name="deepclean_cache_header_left">ဒေတာဖိုင်များ − %d</string>
-    <string name="notification_title_of_garbage_cleanup">%s of trash files</string>
-    <string name="notification_summary_of_garbage_cleanup">Tap to free up space.</string>
+    <string name="notification_title_of_garbage_cleanup">အမှိုက်ဖိုင် %s</string>
+    <string name="notification_summary_of_garbage_cleanup">နေရာလွတ်ရှင်းရန် ထိနှိပ်ပါ။</string>
     <string name="notification_summary_after_auto_cleanup">%s ကို ရှင်းပစ်ထားသည်။</string>
     <string name="toast_uninstall_success">ဖြုတ်ထုတ်ခြင်း ပြီးမြောက်ပါပြီ</string>
     <string name="toast_app_no_residual_on_sdcard">အက်ပ်သည် မည်သည့်ဖိုင်များကိုမှ သင်၏ SD ကဒ်၌ သိုလှောင်ထားခြင်း မရှိပါ</string>
@@ -308,7 +308,7 @@
     <string name="seton_immediately">ဖွင့်ပါ</string>
     <string name="notify_when">အမှိုက် 100MB သို့ရောက်ပါက အသိပေးချက်ပေးပါ</string>
     <string name="goto_set">သတ်မှတ်</string>
-    <string name="virus_scan">Security scan</string>
+    <string name="virus_scan">လုံခြုရေးစကန်</string>
     <string name="tips_of_virus_scan">သင့်စက်အားလုံခြုံနေစေရန် ပုံမှန်ဗိုင်းရပ်စ်စကန်ဖတ်ပါ</string>
     <string name="conn_of_function_safe">လုံခြံရေးအတွက် ကွန်ရက်ချိတ်ဆက်မှု</string>
     <string name="tips_of_connect">အင်တာနက်သို့ချိတ်ဆက်ပြီး လုံခြုံရေးဆိုင်ရာ လုပ်ဆောင်ရည်အား အပြည့်အဝအသုံးချပါ</string>
@@ -423,7 +423,6 @@
     <string name="wechat_cache_files">WeChat ကက်ချ်</string>
     <string name="qq_cache_files">QQ ကက်ချ်</string>
     <string name="wechat_qq_chat_files">ချက်တင်သမိုင်း</string>
-    <string name="wechat_chat_clean_done">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေပါသည်</string>
     <string name="analying">ခွဲခြမ်းစိတ်ဖြာနေ…</string>
     <string name="open_file_error">ဤဖိုင်အား ဖွင့်သည့် အက်ပ်ရှာမတွေ့ပါ</string>
     <string name="location_not_found">ဖိုင်ရှာ၍မတွေ့ပါ</string>
@@ -474,4 +473,5 @@
     <string name="app_description_title">သန့်ရှင်းရေးစက်အကြောင်း</string>
     <string name="app_description_content">သန့်ရှင်းစက်သည် သင့်စက်ထဲရှိ အမှိုက်များကိုရှာဖွေနိုင်ပြီး သိုလှောင်ခန်းနေရာလွတ်စေရန် ရှင်းလင်းပေးနိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
     <string name="engine_init">စတင်လုပ်ဆောင်နေသည်…</string>
+    <string name="wechat_chat_clean_done">အရာရာတိုင်း ကြည့်ရတာ အဆင်ပြေပါသည်</string>
 </resources>

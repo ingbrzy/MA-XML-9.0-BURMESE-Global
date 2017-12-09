@@ -43,6 +43,7 @@
 
 Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် ဒေါင်းလုဒ်စတင်ရန်။"</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
+    <string name="download_percent">%d%%</string>
     <string name="notification_need_wifi_for_size">ဤဒေါင်းလုဒ်အရွယ်အစားသည် Wi-Fi လိုအပ်ပါသည်။</string>
     <string name="download_unknown_title">&lt;ခေါင်းစဉ်မဲ့></string>
     <string name="root_downloads">ဒေါင်းလုဒ်များ</string>
@@ -929,7 +930,7 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="recognize_calling_fail">No information of this song was found now. We will add as soon as possible</string>
     <string name="recognition_reverted_title">Intelligent optimize album and lyric</string>
     <string name="recognition_reverted_message">"Song' info, album and lyric have been reverted. You can revert all info of songs that have been optimize in Settings."</string>
-    <string name="go_to_settings">Go to settings</string>
+    <string name="go_to_settings">ဆက်တင်သို့ သွားပါ</string>
     <string name="recognize_switch_off_alert_title">Intelligent optimize album and lyric</string>
     <string name="recognize_switch_off_alert_not_now">Not now</string>
     <string name="recognize_switch_off_alert_revert">Revert</string>
@@ -939,8 +940,8 @@ Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် �
     <string name="individuation_recommend_switch_message">Turning off this service will affect personal radio and recommendations. Turn off anyway?</string>
     <string name="karaoke_title">Introducing Karaoke</string>
     <string name="karaoke_message">You need to download and install the Karaoke Plugin to enable this feature.</string>
-    <string name="karaoke_negative_text">Later</string>
-    <string name="karaoke_positive_text">OK</string>
+    <string name="karaoke_negative_text">နောက်မှ</string>
+    <string name="karaoke_positive_text">အိုကေ</string>
     <string name="karaoke_my_studio">My Karaoke Studio</string>
     <string name="filter_size_unit">%dKB</string>
 </resources>

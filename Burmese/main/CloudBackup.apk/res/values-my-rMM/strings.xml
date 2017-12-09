@@ -105,7 +105,6 @@
     <string name="as_new_device_summary">ယခင် Mi ကလောက် အရန်သိမ်းများအား ဖျက်ပါ</string>
     <string name="restore_data_summary">ဤလုပ်ဆောင်ချက်သည် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်</string>
     <string name="query_restore_summary">ဤစက်အတွက် Mi ကလောက် အရန်သိမ်းအား တွေ့ရှိခဲ့သည်။ အိမ်မျက်နှာပြင် အက်ပ်များနှင့် ဆက်တင်များအား ပြန်လည်ရယူပါ သို့မဟုတ် စက်အသစ်အဖြစ်ဖြင့် ဆက်လက်အသုံးပြီး ယခင် Mi ကလောက် အရန်သိမ်းများအား ဖျက်မည်လား?</string>
-    <string name="query_restore_back_view">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="restore_home_screen_apps">Mi Cloud အရန်သိမ်းခြင်းမှ ပြန်လည်ရယူပါ</string>
     <string name="query_restore_description">အိမ်မျက်နှာပြင်အက်ပ်များနှင့် ဆက်တင်များအား ဤအရန်သိမ်းအားအသုံးပြုပြီး ပြန်လည်ရယူပါ။ ဤသို့လုပ်ဆောင်ခြင်းသည် လက်ရှိရှိပြီးသားအက်ပ်များအား အရန်သိမ်းနှင့် တူညီမှု ရှိပါက အစားထိုးလိုက်လိမ့်မည်။ ဤအရန်သိမ်းတွင် မပါဝင်သော အက်ပ်များအား နောက်မျက်နှာပြင် တစ်ခုသို့ ရွေ့လိုက်လိမ့်မည်။</string>
     <string name="restore_from_this_device">ဤအရန်သိမ်းခြင်းအား သုံးပြီး ပြန်လည်ရယူပါ</string>
@@ -143,7 +142,6 @@
     <string name="download_meta_again">အရန်သိမ်းထားသည်များအား မရယူနိုင်ပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="cancel_restore_home">ဖျက်သိမ်းနေသည်…</string>
     <string name="cancel_backup">အရန်သိမ်းခြင်းကို ဖျက်သိမ်းနေသည်…</string>
-    <string name="cloud_backup_title">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="cloud_backup">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="restore_cloud_backup_to_phone">Mi Cloud မှ အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>

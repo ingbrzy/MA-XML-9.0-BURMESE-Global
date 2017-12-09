@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Weibo အကောင့် သက်တမ်းကုန်သွားပြီ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ</string>
     <string name="sina_token_invalid_warning">Weiboအကောင့် ဘောင်မဝင်ပါ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ။</string>
     <string name="sina_share_fail_content_repeat">ဤအရာကို သင် ဝေမျှပြီးပြီ</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">မှတ်စုများ၊မီမို</string>
     <string name="search_path_notes">စနစ်အက်ပ်များ/မှတ်စုများ</string>
     <string name="dlg_move_message">ရွှေ့နေဆဲ…</string>
@@ -73,6 +74,7 @@
     <string name="note_description_content">မှတ်စုအက်ပ်သည် သင့်စိတ်ကူးများကို မှတ်တမ်းတင်ထားရန်အတွက် အကောင်းဆုံးအရာ ဖြစ်သည်။ ၎င်းတွင် မူလကတည်းက ထည့်သွင်းထားသော သတိပေးချက်ဝန်ဆောင်မှု ပါရှိပြီး သင်မှတ်ထားသော အရာများကို Mi Cloud ထဲတွင် ဆင့်ခ်လုပ်သည့်အတွက် ၎င်းတို့ကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက် အသုံးပြုနိုင်ပါသည်။ အက်ပ်ကို မဖျက်မီ သင်သည် ၎င်းဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
     <string name="db_downgrade_clear_date_reminder">MIUIဗားရှင်းအသစ် မသုံးခင် မှတ်စုဒေတာများ ရှင်းလင်းရန် လိုအပ်သည်။ ဒေတာများ မရှင်းလင်းမီ သင်၏မှတ်စုများကို Mi Cloudသို့ အရန်သိမ်းထားခြင်းရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="db_downgrade_clear_button">အက်ပ်ဒေတာ ရှင်းပစ်မည်</string>
+    <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync notes.</string>
     <string name="app_name">မှတ်ချက်များ</string>
     <string name="app_widget">မှတ်ချက်များ</string>
     <string name="widget_havenot_content">မှတ်စုတစ်ခုဖန်တီးရန် ထိနှိပ်ပါ။ အရွယ်အစားပြောင်းရန် ဝစ်ဂျက်အား ထိနှိပ်ထားပါ။</string>
@@ -117,6 +119,7 @@
     <string name="error_unsupport_content">ဤမှတ်စုတွင် မပံ့ပိုးထားသော အကြောင်းအရာများပါရှိပါသည်၊ အသစ်မွမ်းမံရန် ဤနေရာတွင် ထိနှိပ်ပါ</string>
     <string name="error_contact_not_exist">အဆက်အသွယ် ရှိမနေပါ</string>
     <string name="sync_tips">မှတ်ချက်ကို Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ရန် နှိပ်ပါ။</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">ဖောင့်အရွယ်အစား</string>
     <string name="call_folder_name">ဖုန်းခေါ်မှတ်ချက်များ</string>
     <string name="trash_folder_name">အမှိုက်</string>

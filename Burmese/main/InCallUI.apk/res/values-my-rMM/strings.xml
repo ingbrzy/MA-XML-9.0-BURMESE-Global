@@ -119,7 +119,7 @@
 "</string>
     <string name="pause_prompt_yes">ဟုတ်ပါတယ်</string>
     <string name="pause_prompt_no">မဟုတ်ပါ</string>
-    <string name="waiting_close_airplane_mode">ခဏလောက်စောင့်…</string>
+    <string name="waiting_close_airplane_mode">ခဏစောင့်ပါ…</string>
     <string name="unlock_phone">ကိရိယာကို လော့ခ်ဖွင့်မည်</string>
     <string name="remind_unlock_message">သင့်စက်ကို ယခုသော့ခတ်ထားသည်။ သင်စက်ကို သော့ဖြည်ပြီးနောက် \"%s\" ကို ရရှိလိမ့်မည်။ သော့ဖြည်မည်လား?</string>
     <string name="user_locked_prompt">အဆက်အသွယ်များသို့ ဝင်ရန်စက်ကို သော့ဖြည်ပါ။</string>

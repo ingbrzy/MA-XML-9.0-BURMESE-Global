@@ -4,15 +4,21 @@
         <item>ယောက်ျားလေး</item>
         <item>မိန်းကလေး</item>
     </string-array>
-    <string-array name="owner_relation">
-        <item>အဖေ</item>
-        <item>အမေ</item>
-        <item>အဖေဘက်မှ အဖိုး</item>
-        <item>အဖေဘက်မှ အဖွား</item>
-        <item>အမေဘက်မှ အဖိုး</item>
-        <item>အမေဘက်မှ အဖွား</item>
+    <string-array name="collage_month">
+        <item>ဇန်နဝါရီ</item>
+        <item>ဖေဖော်ဝါရီ</item>
+        <item>မတ်</item>
+        <item>ဧပြီ</item>
+        <item>မေ</item>
+        <item>ဇွန်</item>
+        <item>ဇူလိုင်</item>
+        <item>သြဂုတ်</item>
+        <item>စက်တင်ဘာ</item>
+        <item>အောက်တိုဘာ</item>
+        <item>နိုဝင်ဘာ</item>
+        <item>ဒီဇင်ဘာ</item>
     </string-array>
-    <string-array name="sharer_relation_addressive">
+    <string-array name="owner_relation">
         <item>အဖေ</item>
         <item>အမေ</item>
         <item>အဖေဘက်မှ အဖိုး</item>
@@ -29,18 +35,12 @@
         <item>သူငယ်ချင်းများ</item>
         <item>အုပ်စုဖြုတ်ခဲ့သည်</item>
     </string-array>
-    <string-array name="collage_month">
-        <item>ဇန်နဝါရီ</item>
-        <item>ဖေဖော်ဝါရီ</item>
-        <item>မတ်</item>
-        <item>ဧပြီ</item>
-        <item>မေ</item>
-        <item>ဇွန်</item>
-        <item>ဇူလိုင်</item>
-        <item>သြဂုတ်</item>
-        <item>စက်တင်ဘာ</item>
-        <item>အောက်တိုဘာ</item>
-        <item>နိုဝင်ဘာ</item>
-        <item>ဒီဇင်ဘာ</item>
+    <string-array name="sharer_relation_addressive">
+        <item>အဖေ</item>
+        <item>အမေ</item>
+        <item>အဖေဘက်မှ အဖိုး</item>
+        <item>အဖေဘက်မှ အဖွား</item>
+        <item>အမေဘက်မှ အဖိုး</item>
+        <item>အမေဘက်မှ အဖွား</item>
     </string-array>
 </resources>

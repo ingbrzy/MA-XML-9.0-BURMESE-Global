@@ -55,7 +55,7 @@
     <string name="loading_space">ခဏစောင့်ပါ…</string>
     <string name="private_space_setting">စီမံခန့်ခွဲမည်</string>
     <string name="exit_private_space">ကူးပြောင်းပါ</string>
-    <string name="wating">ခဏလောက်စောင့်…</string>
+    <string name="wating">ခဏစောင့်ပါ…</string>
     <string name="Active">သက်ဝင်လှုပ်ရှားသည်</string>
     <string name="ok_button">အိုကေ</string>
     <string name="cancel_button">ဖျက်သိမ်း</string>
@@ -293,7 +293,7 @@
     <string name="same_qr_code_enter_space">အလုပ်နေရာ သို့သွားပါ</string>
     <string name="same_qr_code_create_space">အခြားတစ်ခုဖန်တီးပါ</string>
     <string name="not_support_air_space">ဤအင်္ဂါရပ်ကို သင့်ဖုန်းတွင် မပံ့ပိုးပေးထားသေးပါ</string>
-    <string name="loading">ခဏလောက်စောင့်…</string>
+    <string name="loading">ခဏစောင့်ပါ…</string>
     <string name="contact_us">ကျွန်ုပ်တို့ထံ ဆက်သွယ်ပါ</string>
     <string name="space_deleted">ဤကွက်လပ်အား ဖျက်လိုက်သည့်</string>
     <string name="function_not_support">ဤစက်ပေါ်တွင် မထောက်ပံ့ထားပါ</string>

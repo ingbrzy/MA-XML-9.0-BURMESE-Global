@@ -34,7 +34,7 @@
     <string name="find_device_status_ok_international">www.mi.com/micloud တွင် သင့်စက်ကို မည်သည့်နေရာမှမဆို ရှာဖွေပါ</string>
     <string name="account">အကောင့်</string>
     <string name="verify">မှန်ကြောင်း အတည်ပြုပါ</string>
-    <string name="next">နောက်ထပ်</string>
+    <string name="next">ရှေ့သို့</string>
     <string name="password">သင့် စကားဝှက်ကိုထည့်သွင်းပါ</string>
     <string name="vcode">အတည်ပြုကုဒ်</string>
     <string name="bad_authentication">အကောင့် (သို့မဟုတ်) စကားဝှက် မှားနေသည်</string>
@@ -65,6 +65,8 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">ဆင့်ခ်</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 "</string>
     <string name="sync_dspt_entrance_provision">Mi Cloud သည် သင့် ဓာတ်ပုံ၊ အဆက်အသွယ်နှင့် အခြားအိုင်တမ်များကို ဆင့်ခ်လုပ်ပေးနိုင်သည်။ ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များကို %s တွင် ဝင်ကြည့်နိုင်ပါသည်။</string>
@@ -76,6 +78,8 @@
     <string name="sync_dspt_entrance_provision_skip">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် မိုဘိုင်းဒေတာချိတ်ဆက်မှုနှင့် Wi-Fi ဖွင့်ရန် လိုအပ်သည်။</string>
     <string name="find_device_dspt_provision">သင်စက်ပျောက်သွားပါက၊ စက်အားရှာဖွေရန် %s သို့သွားပါ၊ သို့မဟုတ် ပြန်သတ်မှတ်ပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင်အချိန်မရွေးဖွင့်ပိတ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 ."</string>
     <string name="find_device_dspt_provision_4">သင် SIM ကဒ်များကို ဖလှယ်လိုက်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
@@ -130,15 +134,17 @@
     <string name="find_device_error_server">ဆာဗာ အမှား</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် SIM ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
     <string name="find_device_disabled_title">စက်ကိုရှာပါကို ပိတ်ထားသည်</string>
     <string name="find_device_disabled_notice">သင်သည် ဤအရာအား Mi ကလောက် ဆက်တင်များထဲတွင် အချိန်မရွေးဖွင့်နိုင်ပိတ်နိုင်ပါသည်။</string>
     <string name="button_cancel">ပယ်ဖျက်ပါ</string>
-    <string name="enable_micloud">Mi Cloud ကိုသုံးပါ</string>
+    <string name="enable_micloud">Mi Cloud သုံးရန် ဆိုင်းအင်ဝင်ပါ</string>
     <string name="micloud_more">နောက်ထပ် လေ့လာရန်</string>
     <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service_subtitle">အရေးကြီးသော အိုင်တမ်အားလုံး တစ်နေရာတည်းတွင် စုထားမည်</string>
     <string name="micloud_dspt">ဒေတာကို ဆင့်ခ်လုပ်ရန် Mi Cloud ကိုသုံးပါ၊ သင့်စက်တည်နေရာကို ရှာဖွေပါ၊</string>
     <string name="cmcc_micloud_dspt">ဒေတာကို ဆင့်ခ်လုပ်ရန် Mi Cloud ကိုသုံးပါ၊ သင့်စက်တည်နေရာကို ရှာဖွေပါ၊ သူငယ်ချင်းများနှင့် မျှဝေခံစားပါ။</string>
     <string name="micloud_sec_dspt">ပြီးနောက် သူငယ်ချင်းများနှင့် မျှဝေခံစားပါ။</string>
@@ -481,6 +487,8 @@
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_close_fail">စက်ရှာဖွေခြင်းအား ပိတ်၍မရပါ။</string>
     <string name="micloud_find_device_finish">ပြီးပါပြီ</string>
@@ -574,4 +582,5 @@
     <string name="ks_update_fail_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ks_update_fail_request_timeout">ချိတ်ဆက်ရန် တောင်းဆိုမှုအချိန် ကုန်လွန်ပါပြီ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ks_update_fail_code">အသိမှတ်ပြုလက်မှတ်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ။ အမှားကုဒ်နံပါတ်- %d</string>
+    <string name="title_back">နောက်သို့</string>
 </resources>

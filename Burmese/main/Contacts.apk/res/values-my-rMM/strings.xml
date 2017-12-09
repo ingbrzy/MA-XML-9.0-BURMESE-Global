@@ -97,6 +97,7 @@
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">အလုပ်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_work_mobile">အလုပ်မိုဘိုင်းဖုန်းကို ခေါ်ပါ</string>
@@ -180,7 +181,7 @@
     <string name="cloud_antispam_title">ခေါ်သူ ID</string>
     <string name="cloud_recommend_msg">Mi Cloud နှင့်အဆက်အသွယ်များကို ဆင့်ခ်လုပ်ရန် ထိပါ။</string>
     <string name="cloud_state_disabled">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်း ပိတ်ထားသည်</string>
-    <string name="cloud_state_loading">ခဏလောက်စောင့်…</string>
+    <string name="cloud_state_loading">ခဏစောင့်ပါ…</string>
     <string name="cloud_state_sync_finished">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_state_syncing">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="combined_title_and_miprofile_swaped">%1$s, %2$s</string>
@@ -245,7 +246,7 @@
     <string name="contact_editor_prompt_zero_accounts">မိုဘိုင်းထဲမှာ (သို့) အွန်လိုင်းအကောင့်သစ်တစ်ခုမှာ သိုလှောင်ပါ</string>
     <string name="contact_import_methods_dialog_bluetooth">ဘလူးတုသ်</string>
     <string name="contact_import_methods_dialog_mi_mover">Mi Mover</string>
-    <string name="contact_import_methods_dialog_title">Select import method</string>
+    <string name="contact_import_methods_dialog_title">သွင်းမည့်နည်းလမ်းကို ရွေးပါ</string>
     <string name="contact_is_readOnly">ဖတ်ရန်-သီးသန့် အဆက်အသွယ်များကို ပြုပြင်လို့မရပါ</string>
     <string name="contact_list_loading">ဆွဲချနေဆဲ…</string>
     <string name="contact_pick_photo">ဓာတ်ပုံ</string>
@@ -264,7 +265,7 @@
     <string name="contacts_unavailable_add_account">အကောင့်တစ်ခုသို့ ဆိုင်းအင်ဝင်ပါ</string>
     <string name="contacts_unavailable_create_contact">အဆက်အသွယ်သစ်တစ်ခု ဖန်တီးပါ</string>
     <string name="contacts_unavailable_import_contacts">ဖိုင်တစ်ဖိုင်မှတင်သွင်းပါ</string>
-    <string name="contacts_unavailable_import_from_old_device">Import from an older device</string>
+    <string name="contacts_unavailable_import_from_old_device">စက်ဟောင်းမှ သွင်းမည်</string>
     <string name="contacts_unavailable_import_sim_contacts">SIM အဆက်အသွယ်များကို သွင်းမည်</string>
     <string name="convenient_service">ဝန်ဆောင်မှုများ</string>
     <string name="copy_number">ကော်ပီ</string>
@@ -386,7 +387,7 @@
     <string name="dialer_addAnotherCall">ခေါ်ဖုန်းကို ပေါင်းထည့်ပါ</string>
     <string name="dialer_copy_view_delete_description">ကော်ပီကူးထားသော နံပါတ်အား ရှင်းလင်းပါ</string>
     <string name="dialer_digits_copy_number_label">ကော်ပီကူးလိုက်သော နံပါတ</string>
-    <string name="dialer_empty_text_loading">ခဏလောက်စောင့်…</string>
+    <string name="dialer_empty_text_loading">ခဏစောင့်ပါ…</string>
     <string name="dialer_empty_text_no_call_log">မကြာမီက အဆက်အသွယ်များမရှိပါ</string>
     <string name="dialer_empty_text_no_search_result">အဆက်အသွယ်များ မတွေ့ပါ</string>
     <string name="dialer_menu_description">မီနူးများ ပြပါ</string>
@@ -481,6 +482,7 @@
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="foundTooManyContacts">%d ဦးထက်မက တွေ့ရှိသည်။</string>
     <string name="frequentList">မကြာခဏ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="generic_no_account_prompt">သင့်ဖုန်း ပျောက်ဆုံးသွားရင်တောင်မှ၊ သင့်အဆက်အသွယ်များ စိတ်ချစွာဖြင့် ဆက်ရှိနေအောင်: အွန်လိုင်းဝန်ဆောင်မှုတစ်ခုနှင့် ဆင့်ခ်လုပ်ထားပါ။</string>
@@ -578,10 +580,10 @@
     <string name="list_filter_customize">သုံးသူစိတ်ကြိုက်ရွေးပါ</string>
     <string name="list_filter_phones">ဖုန်းနံပါတ်ရှိသော အဆက်အသွယ်အားလုံး</string>
     <string name="list_filter_single">အဆက်အသွယ်</string>
-    <string name="loading_accounts">ခဏလောက်စောင့်ပါ…</string>
-    <string name="loading_group_members">ခဏလောက်စောင့်ပါ…</string>
-    <string name="loading_groups">ခဏလောက်စောင့်ပါ…</string>
-    <string name="loading_recent">ခဏလောက်စောင့်ပါ…</string>
+    <string name="loading_accounts">ခဏစောင့်ပါ…</string>
+    <string name="loading_group_members">ခဏစောင့်ပါ…</string>
+    <string name="loading_groups">ခဏစောင့်ပါ…</string>
+    <string name="loading_recent">ခဏစောင့်ပါ…</string>
     <string name="local_invisible_directory">အခြား</string>
     <string name="local_profile_title">ကျွန်ုပ်၏ပရိုဖိုင်</string>
     <string name="local_search_label">အဆက်အသွယ်အားလုံး</string>
@@ -663,6 +665,7 @@
     <string name="miprofile_contact_header">ဆက်သွယ်ကဒ်များပါဝင်သည့် အဆက်သွယ်များ</string>
     <string name="miprofile_contact_meaasge">စက်ထဲရှိအဆက်သွယ်များ</string>
     <string name="miprofile_contact_verifying">အတည်ပြုနေ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_error_accept_self">သင့်ကိုယ်ပိုင်၏ အဆက်သွယ်ကဒ်အား ဖလှယ်၍မရနိုင်ပါ</string>
     <string name="miprofile_error_no_miaccount">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -805,6 +808,8 @@
     <string name="path_wipe_data">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဒေတာရှင်းလင်း</string>
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
@@ -1038,6 +1043,7 @@
     <string name="sim_unloaded">SIM ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1046,7 +1052,7 @@
     <string name="smart_group_frequency_4">လွန်ခဲ့သော ၆လကျော်က</string>
     <string name="smart_group_frequency_label">လတ်တလောအရာများ</string>
     <string name="smart_group_label">စမတ်အုပ်စုများ</string>
-    <string name="smart_group_loading">ခဏလောက်စောင့်…</string>
+    <string name="smart_group_loading">ခဏစောင့်ပါ…</string>
     <string name="smart_group_location_label">တည်နေရာများ</string>
     <string name="smart_group_location_unavailable">တည်နေရာအချက်အလက်မရှိပါ</string>
     <string name="sms">စာသားမက်ဆေ့ချ်</string>
@@ -1169,6 +1175,7 @@
     <string name="voip_audio_description">VoIP ခေါ်ဆိုမှု</string>
     <string name="voip_video_description">VoIP ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationIconLabel">ဖုန်းလမ်းညွှန်</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>
