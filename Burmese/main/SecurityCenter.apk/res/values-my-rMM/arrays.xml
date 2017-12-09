@@ -50,20 +50,6 @@
         <item>စက်အားသော့ခတ်စဉ် သို့မဟုတ် အက်ပ်မှထွက်ပြီးနောက်</item>
         <item>စက်သော့ခတ်စဉ် သို့မဟုတ် အက်ပ်မှထွက်ပြီး တစ်မိနစ် ကြာပြီးနောက်</item>
     </string-array>
-    <string-array name="sort_type">
-        <item>အခြေအနေ</item>
-        <item>အက်ပ်အမည်</item>
-        <item>သုံးစွဲမှုကြိမ်နှုန်း</item>
-        <item>သုံးဆွဲပြီးသော သိုလှောင်ခန်း</item>
-        <item>တပ်ဆင်သည့်အချိန်</item>
-    </string-array>
-    <string-array name="sort_title">
-        <item>အခြေအနေဖြင့်စီပါ</item>
-        <item>အက်ပ်အမည်ဖြင့်စီပါ</item>
-        <item>သုံးစွဲမှုကြိမ်နှုန်းဖြင့်စီပါ</item>
-        <item>သုံးဆွဲပြီးသောသိုလှောင်ခန်း ဖြင့်စီပါ</item>
-        <item>တပ်ဆင်ချိန်အလိုက် စီမည်</item>
-    </string-array>
     <string-array name="key_app_info">
         <item>install_source</item>
         <item>install_time</item>
