@@ -51,6 +51,8 @@
     <string name="self_phone">ဤဖုန်း</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="device_xiaomi">Mi Phone</string>
+    <string name="device_corrupt">Mi Phone (Data corrupt)</string>
+    <string name="size_unknown">Size unknown</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="start_recover">%s ကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="latest_backup_time_loading">ဆွဲချနေဆဲ…</string>
@@ -58,7 +60,6 @@
     <string name="backing_up_to_micloud">အရန်သိမ်းခြင်းလုပ်နေဆဲ…</string>
     <string name="restore_from_cloud">Mi Cloud အရန်သိမ်းခြင်းမှ နဂိုနေရာပြန်ထားပါ</string>
     <string name="backup_to_cloud">အက်ပ်ကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
-    <string name="restoring_file_tile">ဖိုင် %dခုအား ပြန်လည်ရယူနေသည်</string>
     <string name="menu_item_sort">ဖြင့် မျိုးတူစုပါ</string>
     <string name="menu_item_sort_name">အမည်</string>
     <string name="menu_item_sort_size">အရွယ်အစား</string>

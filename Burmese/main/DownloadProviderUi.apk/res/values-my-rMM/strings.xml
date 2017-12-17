@@ -106,6 +106,7 @@
     <string name="package_filter">ပက်ကေ့ချ်များ</string>
     <string name="other_filter">အခြား</string>
     <string name="xunlei_brand">Xunlei ဖြင့် အားဖြည့်ထားသော</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_switch">Xunlei ဒေါင်းလုဒ်အင်ဂျင်</string>
     <string name="turn_off_xunlei_title">Xunlei အားပိတ်ပါ</string>
     <string name="turn_off_xunlei_message">ဒေါင်းလုဒ်အရှိန်နှေးသွားခြင်းကို တွေ့ကြုံနိုင်သည်။</string>
@@ -331,6 +332,8 @@
     <string name="xl_vip_open">ဝယ်ယူ</string>
     <string name="xl_vip_pay">ချဲ့ကား</string>
     <string name="xl_vip_overdue">သက်တမ်းကုန်နေသည်</string>
+    <string name="download_num_size">%1$s | %2$s</string>
+    <string name="app_size">%1$s</string>
     <string name="ad_title">လူအများသည် ၄င်းတို့အား %1$s ဖြင့်လည်း ဒေါင်းလုဒ်လုပ်ကြပါသည်</string>
     <string name="rank_data_empty">အဆင့်သတ်မှတ်ခြင်း မရှိသော</string>
     <string name="net_error">ကွန်ရက်သို့ချိတ်ဆက်မရပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>

@@ -84,8 +84,8 @@
     <string name="passport_delete_account">ထွက်ပါ</string>
     <string name="passport_vcode_notification_title">သင်၏အကောင့်သို့ဝင်ရန် အတည်ပြုကုဒ် မပြည့်စုံပါ</string>
     <string name="passport_account_name">အကောင့်- %1$s</string>
-    <string name="passport_account_hint_text">အီးမေးလ်လိပ်စာ၊ ဖုန်းနံပါတ် သို့မဟုတ် Mi အကောင့် ID</string>
-    <string name="passport_email_or_id_hint_text">အီးမေးလ်လိပ်စာ သို့မဟုတ် Mi အကောင့် ID</string>
+    <string name="passport_account_hint_text">Email/Phone number/Mi Account ID</string>
+    <string name="passport_email_or_id_hint_text">Email/Mi Account ID</string>
     <string name="passport_phone_num_hint_text">ဖုန်းနံပါတ်</string>
     <string name="passport_input_password_hint">စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="passport_input_captcha_hint">ကုဒ် ရိုက်ထည့်ပါ</string>
