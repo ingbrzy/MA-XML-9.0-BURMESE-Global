@@ -100,7 +100,6 @@
     <string name="ui_main_toast_operation_failed">မကြိုက်ဟုသတ်မှတ်၍ မရပါ %1$s</string>
     <string name="rename_failed">%1$s ကို အမည်ပြန်ပေးလို့ မရပါ</string>
     <string name="error_open_file_failed_no_app_found">ဤလုပ်ဆောင်မှုကို ကိုင်တွယ်ဖြေရှင်းရန်၊ မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ။</string>
-    <string name="directory_info_divider">"  |  "</string>
     <string name="no_enough_storage_title">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
     <string name="no_enough_storage_indication">ကိရိယာ၏ သိုလှောင်ခန်းနေရာ ပြည့်နေပါပြီ။</string>
     <string name="used">သုံးထားပြီးသော</string>
@@ -161,7 +160,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">တီရာဘိုက်</string>
     <string name="petabyteShort">ပီတာဘိုက်</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="tab_local">အတွင်းပိုင်း</string>
     <string name="sys_size_enable">" ရနိုင်သည်"</string>
     <string name="tools">တူးလ်များ</string>
@@ -421,7 +419,6 @@
     <string name="video_upload_btn_hint">MP4 ဗီဒီယိုများသည် 3s မှ 10min အကြာရှိသင့်ပါသည်</string>
     <string name="video_upload_btn">နောက်ထပ်</string>
     <string name="video_upload_title">ဗီဒီယို ရွေးပါ</string>
-    <string name="video_upload_item_title">%1$s (%2$s)</string>
     <string name="video_comment_topic">\#ခေါင်းစဉ်ပေါင်း#</string>
     <string name="video_comment_hint">ခေါင်းစဉ်ရွေး</string>
     <string name="video_comment_publish">ပေးပို့</string>
@@ -495,7 +492,6 @@
     <string name="video_topic_hint">လူများသို့မဟုတ် ခေါင်းစဉ်များကို ရှာဖွေပါ</string>
     <string name="comment_reply">စာပြန်%1$s−</string>
     <string name="comment_hint">မှတ်ချက်ပေါင်းထည့်ပါ</string>
-    <string name="origin_name">%1$s−</string>
     <string name="hot_comments">လူကြိုက်များသော မှတ်ချက်များ</string>
     <string name="new_comments">မှတ်ချက်အသစ်များ</string>
     <string name="copy_text">စာကို ကူးပါ</string>
@@ -561,14 +557,12 @@
     <string name="recommend">အကြံပြုထားသော</string>
     <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">ကျွန်ုပ် ကြိုက်ထားသည်များ</string>
-    <string name="message_my_received_praise_count">+%1$s</string>
     <string name="message_comment_prefix">"မှတ်ချက်− "</string>
     <string name="message_reply_prefix">စာပြန်</string>
     <string name="topic_followed">လိုက်အားပေးနေသည်</string>
     <string name="topic_follow">လိုက်အားပေး</string>
     <string name="reply_success">မှတ်ချက်ပေါင်းထည့်ခဲ့သည်</string>
     <string name="operation_reply">မှတ်ချက်</string>
-    <string name="message_reply_suffix">": "</string>
     <string name="message_praise_video">" ဤဗီဒီယိုအား ကြိုက်ခဲ့သည်"</string>
     <string name="message_praise_comment">" ဤမှတ်ချက်အား ကြိုက်ခဲ့သည်"</string>
     <string name="get_user_info_err">ဤပုဂ္ဂိုလ်အကြောင်း မည်သည့်အချက်အလက်မျှ မရနိုင်ခဲ့ပါ</string>
@@ -755,7 +749,6 @@
     <string name="finish_str">ပြီးပြီ</string>
     <string name="tab_msg">မက်ဆေ့ချ်များ</string>
     <string name="msg_page_video_default_title">ကျွနု်ပ်ဗီဒီယိုတစ်ခု လုတ်တင်ခဲ့သည်၊ တစ်ချက်လောက်ကြည့်ပါ!</string>
-    <string name="recommend_users">%1$s+</string>
     <string name="follow_success_tip">အောင်မြင်စွာလိုက်အားပေးခဲ့သည်</string>
     <string name="comment_fail">မှတ်ချက်အား မထုတ်ဝေနိုင်ခဲ့ပါ၊ နောက်မှ ပြန်ကြိုးစားပါ</string>
     <string name="comment_fail_banned_temporary">မသင့်တော်သော မှတ်ချက်များပေးသည့်အတွက် သင့်အား ယာယီပိတ်ဆို့ထားပါသည်</string>
