@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="assistant_day">
+        <item quantity="other">%dရက် အကြာတွင်</item>
+    </plurals>
+    <plurals name="days_ago">
+        <item quantity="other">%1$d ရက်အကြာက</item>
+    </plurals>
+    <plurals name="hours_ago">
+        <item quantity="other">%1$d နာရီအကြာက</item>
+    </plurals>
+    <plurals name="main_delete_desc">
+        <item quantity="other">အိုင်တမ် %sခုကို အကြိုက်ဆုံးများမှ ဖယ်ရှားမလား?</item>
+    </plurals>
+    <plurals name="main_mark_fav_num">
+        <item quantity="other">အိုင်တမ် %sခုကို အရေးကြီးကြောင်း မှတ်ထားပါ</item>
+    </plurals>
+    <plurals name="main_mark_select_num">
+        <item quantity="other">ရွေးထားသော အိုင်တမ် %s ခု</item>
+    </plurals>
+    <plurals name="mins_ago">
+        <item quantity="other">%1$d မိနစ် အကြာက</item>
+    </plurals>
+    <plurals name="sms_hour_suffix">
+        <item quantity="other">%dနာရီ အကြာတွင်</item>
+    </plurals>
+    <plurals name="sms_minute_suffix">
+        <item quantity="other">%dမိနစ် အကြာတွင်</item>
+    </plurals>
+    <plurals name="sms_title_hours">
+        <item quantity="other">%d နာရီ</item>
+    </plurals>
+    <plurals name="sms_title_minutes">
+        <item quantity="other">%d မိနစ်</item>
+    </plurals>
+    <plurals name="step_km">
+        <item quantity="other">%d km</item>
+    </plurals>
+    <plurals name="steps">
+        <item quantity="other">%d|လှမ်း</item>
+    </plurals>
+    <plurals name="time_hour_ago">
+        <item quantity="other">%d နာရီအကြာက</item>
+    </plurals>
+    <plurals name="time_minute_ago">
+        <item quantity="other">%d မိနစ်အကြာက</item>
+    </plurals>
+</resources>
