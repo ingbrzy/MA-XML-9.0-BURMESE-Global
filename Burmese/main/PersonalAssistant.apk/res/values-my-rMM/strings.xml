@@ -249,9 +249,7 @@
     <string name="express_booking_txt">အိမ်အရောက် လာယူစေမည်</string>
     <string name="express_code_txt">ကုဒ်-</string>
     <string name="express_complete">လက်ခံပြီးပြီ</string>
-    <string name="express_complete_flag">၃</string>
     <string name="express_delivery">ပေးပို့ပြီး</string>
-    <string name="express_delivery_flag">၅</string>
     <string name="express_icon_tip">ပါဆယ်ပို့ဆောင်မှု အချက်အလက်ကို သင်၏ဖုန်းနံပါတ်နှင့် အော်ဒါအချက်အလက်ဖြင့် ပြန်လည်ရယူပါ။</string>
     <string name="express_icon_tip_link">လုံခြုရေး &amp; ကိုယ်ရေးကိုယ်တာ</string>
     <string name="express_install_cainiao_description">%sသည် Cainiao အက်ပ် ထည့်သွင်းရန် လိုအပ်သည်။ ယခု ထည့်သွင်းမလား?</string>
@@ -498,7 +496,6 @@
     <string name="payment_total_today_desc">ယနေ့</string>
     <string name="payment_unit_cny">CNY</string>
     <string name="personalAssistant_mainpage">ပင်မစာမျက်နှာ</string>
-    <string name="personalAssistant_path">com.miui.home.launcher.assistant</string>
     <string name="place_label">သွားနေကျ နေရာများ</string>
     <string name="plan">အချိန်သတ်မှတ်ထားသော</string>
     <string name="preferences">ဦးစားပေးမှု</string>
@@ -646,7 +643,6 @@
     <string name="steps_vip_des">အခြားအက်ပ်များ ထည့်သွင်းရန် မလိုဘဲ ခြေလှမ်းများကို ရေတွက်မည်။</string>
     <string name="stock_card_add">ကုမ္ပဏီများပေါင်းထည့်ပါ</string>
     <string name="stock_card_title">စတော့ရှယ်ယာ</string>
-    <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">အရောင် အစီအစဉ်</string>
     <string name="stock_list_empty_text">မည်သည့်ကုမ္ပဏီကိုမျှ သင် လိုက်အားမပေးသေးပါ။</string>
     <string name="stock_search_empty">ရလဒ်များ ရှာမတွေ့ပါ</string>
