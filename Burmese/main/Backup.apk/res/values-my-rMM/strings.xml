@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -45,7 +48,7 @@
     <string name="restore_telephony_hit">နဂိုနေရာပြန်ထားခြင်းသည် သင့်ဖုန်းအက်ပ်ကို ပြန်စတင်လိမ့်မည်။</string>
     <string name="restore_launcher_layout_hit">စတင်ကိရိယာ ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="settings_summary">ဖုန်းနှင့်မက်ဆေ့ချ်ပို့ခြင်း ဆက်တင်များ</string>
-    <string name="camera_summary">ကင်မရာဆက်တင်များ (ဓာတ်ပုံများမပါဝင်ပါ)</string>
+    <string name="camera_summary">ကင်မရာဆက်တင်များ (ဓာတ်ပုံများ မပါဝင်ပါ)</string>
     <string name="account_summary">Google အကောင့်၊ Mi အကောင့်နှင့် အခြားဒေတာကို အရန်သိမ်းခြင်းလုပ်ပါ</string>
     <string name="cloud_app_name">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="cloud_home_title">Mi Cloud</string>
@@ -162,7 +165,7 @@
     <string name="cloud_search">ရှာဖွေနေဆဲ…</string>
     <string name="cloud_no_backup">အရန်သိမ်းခြင်းများ မရှိပါ</string>
     <string name="current_account">ဟိုင်း %s</string>
-    <string name="current_sim">လက်ရှိ SIM ကဒ်</string>
+    <string name="current_sim">လက်ရှိ ဆင်းမ်ကဒ်</string>
     <string name="date_format">HH:mm:ss MM-dd-yyyy</string>
     <string name="dir_date_format">yyyyMMdd_HHmmss</string>
     <string name="no_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
@@ -205,7 +208,7 @@
     <string name="system_backup_info">စက်စနစ်ဆက်တင်များနှင့် အိမ်မျက်နှာပြင် အဆင်အပြင်</string>
     <string name="software_backup_info">အက်ပ်ဒေတာ</string>
     <string name="account_contact_backup_info">Google အကောင့်၊ Mi အကောင့်နှင့် အဆက်အသွယ်များ ဒေတာ</string>
-    <string name="files_backup_info">SD ကဒ်ထဲရှိဖိုင်အားလုံး(ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်ဖြင့်)</string>
+    <string name="files_backup_info">SD ကဒ်ထဲရှိဖိုင်အားလုံး (ဓါတ်ပုံများ၊ သီချင်းများ၊ ဗီဒီယိုများနှင့် အက်ပ်ဒေတာ စသည်တို့ ပါဝင်သည်)</string>
     <string name="select_backup_item">အမယ်များ ရွေးပါ</string>
     <string name="restore_data">အမယ်များကို နဂိုနေရာပြန်ထားရန် ရွေးပါ</string>
     <string name="backup_data">အမယ်များကို အရန်သိမ်းခြင်းလုပ်ရန် ရွေးပါ</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -287,10 +291,30 @@
     <string name="trans_time_spent">"
 သုံးစွဲချိန်−%s"</string>
     <string name="trans_restoring_no_items">အိုင်တမ်များအား ဆင့်ခ်လုပ်နေသည်</string>
-    <string name="trans_detail_category_sysdata">စနစ်ဒေတာ</string>
+    <string name="trans_detail_category_sysdata">စနစ်ဒေတာ (မက်ဆေ့ချ်များ၊ အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုသမိုင်း ပါဝင်သည်)</string>
     <string name="trans_detail_category_userdata">အက်ပ်များ</string>
     <string name="trans_detail_category_account">အကောင့်များနှင့် ဆက်သွယ်မှုများ</string>
     <string name="trans_detail_category_files">ဖိုင်များ</string>
+    <string name="trans_detail_category_audio_video_doc">အော်ဒီယို၊ ဗီဒီယိုနှင့် ဖိုင်များ</string>
+    <string name="trans_detail_category_wechat_qq">WeChat နှင့် QQ ဒေတာ (ချက်တင်သမိုင်း ပါဝင်သည်)</string>
+    <string name="trans_detail_category_user_app_data">အက်ပ်ဒေတာ</string>
+    <string name="trans_detail_wechat_data">WeChat ဒေတာ (ချက်တင်သမိုင်း ပါဝင်သည်)</string>
+    <string name="trans_detail_qq_data">QQ ဒေတာ (ချက်တင်သမိုင်း ပါဝင်သည်)</string>
+    <string name="trans_detail_app_data_useless_tip">အက်ပ်မှ ပြန်လည်ရယူနိုင်ပါသည်။ လွှဲပြောင်းရန် မလိုအပ်ပါ။</string>
+    <string name="trans_detail_item_app_data_too_large_tip">ဤအိုင်တမ်မှာ ကြီးလွန်းသောကြောင့် လွှဲပြောင်း၍ မရနိုင်ပါ။</string>
+    <string name="trans_detail_item_app_data_selected_tip">သက်ဆိုင်ရာ အက်ပ်များကို ရွေးပြီးပါပြီ။</string>
+    <string name="trans_detail_list_footer">မှတ်ချက်- အက်ပ်များကို သီးခြားစီ လွှဲပြောင်းနိုင်ပါသည်။ အက်ပ်ဒေတာကို ရွေးပါက သက်ဆိုင်ရာ အက်ပ်များလည်း လွှဲပြောင်းလိမ့်မည်ဖြစ်သည်။</string>
+    <string name="trans_detail_page_tip">လွှဲပြောင်းမှု ကြာရှည်ချိန်သည် သင် ရွေးချယ်သောအိုင်တမ်များအပေါ် မူတည်ပါသည်။</string>
+    <string name="trans_detail_sys_data_list_title">စနစ် အက်ပ်များ</string>
+    <string name="trans_detail_app_data_list_title">အက်ပ်ဒေတာ</string>
+    <string name="trans_detail_app_apk_list_title">ထည့်သွင်းထားသော အက်ပ်များ</string>
+    <string name="trans_detail_wechat_qq_list_title">WeChat နှင့် QQ</string>
+    <string name="trans_detail_audio_video_doc_list_title">အော်ဒီယို၊ ဗီဒီယိုနှင့် ဖိုင်များ</string>
+    <string name="trans_detail_sys_data_page_title">စနစ် အက်ပ်များကို ရွေးပါ</string>
+    <string name="trans_detail_app_data_page_title">အက်ပ်ဒေတာကို ရွေးပါ</string>
+    <string name="trans_detail_app_apk_page_title">အက်ပ်များကို ရွေးပါ</string>
+    <string name="trans_detail_wechat_qq_page_title">WeChat၊ QQ နှင့် အက်ပ်ဒေတာကို ရွေးပါ</string>
+    <string name="trans_detail_audio_video_doc_page_title">အော်ဒီယို၊ ဗီဒီယိုနှင့် ဖိုင်များကို ရွေးပါ</string>
     <string name="trans_sending_completed">အောင်မြင်စွာပေးပို့ပြီး</string>
     <string name="trans_receiving_completed">အောင်မြင်စွာလက်ခံရရှိခဲ့</string>
     <string name="trans_time_format_second">၁ မိနစ်ထက်နည်းသော</string>
@@ -307,6 +331,7 @@
     <string name="trans_progress_subdescript_transing_receiver_finish">လက်ခံရရှိခဲ့ %sခု၊ ပြရယူရန် စောင့်နေ…</string>
     <string name="trans_cancel_confirm">လွှဲပြောင်းခြင်းလုပ်ဆောင်နေ၊ ယခုရပ်မည်လား?</string>
     <string name="trans_cancelling">ပယ်ဖျက်နေသည်…</string>
+    <string name="trans_pausing">ခေတ္တရပ်ဆိုင်းထားသည်…</string>
     <string name="trans_device_disconnected">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်</string>
     <string name="trans_device_wait_for_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ဆက်လက်လုပ်ဆောင်ရန် ပြန်ချိတ်ဆက်ပါ။</string>
     <string name="trans_device_auto_reconnecting">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ အလိုအလျောက် ပြန်ချိတ်ဆက်နေသည်…</string>
@@ -335,6 +360,8 @@
 စက်သစ်ပေါ်တွင် တူညီသော ဖိုင်များရှိပါက ထပ်ရေးလိုက်လိမ့်မည်"</string>
     <string name="trans_select_data_no_space">"စက်အသစ်ပေါ်တွင် နေရာအလုံအလောက်မရှိပါ
  ဖိုင်အား ထပ်မံရွေးချယ်ပါ သို့မဟုတ် စက်အသစ်ပေါ်တွင် %sသိုလှောင်ရန်နေရာအား ရှင်းလင်းပစ်ပါ"</string>
+    <string name="trans_select_data_too_large">"လွှဲပြောင်းရန် ရွေးထားသော အိုင်တမ် အလွန်များနေသည်။
+လွှဲပြောင်းမှု ပိုမြန်စေရန် အရေးကြီးသော အိုင်တမ်များကိုသာ ရွေးပါ။"</string>
     <string name="trans_calculating_base_size">ဒေတာအရွယ်အစားအား တွက်ချက်နေ</string>
     <string name="trans_calculating">တွက်ချက်နေ…</string>
     <string name="trans_native_no_space">"ဤစက်ပေါ်တွင် နေရာအလုံအလောက်မရှိပါ။
@@ -459,8 +486,9 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="loading_data">ဒေတာ ရယူနေသည်</string>
     <string name="icloud_need_sync">"iOS မှ ဒေတာတင်သွင်းရန်
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
-    <string name="import_tip_title">အကြံပြုချက်များ-</string>
+    <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>
@@ -484,4 +512,20 @@ Wi-Fi ကို မပိတ်ပါနှင့်"</string>
     <string name="error_permissions">ဤအက်ပ်သည် ပြက္ခဒိန်သို့ ဝင်ရောက်ရန် ခွင့်ပြုချက်များ လိုအပ်သည်။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များအား စစ်ဆေးကြည့်ပါ။</string>
     <string name="succ_description">အောင်မြင်ပါပြီ</string>
     <string name="failed_description">မအောင်မြင်ပါ</string>
+    <string name="notif_connect_miasist">Connected to Mi PC Suite</string>
+    <string name="notif_disconnect_miasist">Not connected to Mi PC Suite</string>
+    <string name="notif_sending_transingsd">Sending %1$s (%2$s)…</string>
+    <string name="notif_receiving_transingsd">Receiving %1$s (%2$s)…</string>
+    <string name="notif_calculating_app">Caculating %1$s (%2$s)…</string>
+    <string name="notif_parse_select_descript_error">"Couldn't sync the list of backed up items."</string>
+    <string name="alert_miasist_occupy_backup">Backing up items using Mi PC Suite… Wait until the backup is complete and try again.</string>
+    <string name="alert_miasist_occupy_restore">Restoring items using Mi PC Suite… Wait until the items are restored and try again.</string>
+    <string name="alert_phone_occupy_backup">"Can't use Mi PC Suite now. Complete backing up or restoring items on your phone and try again."</string>
+    <string name="alert_second_space_not_support_miasist">"Can't use Mi PC Suite in Second space. Switch to First space."</string>
+    <string name="alert_title_backup_to_miasist">Back up items using Mi PC Suite?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite is requesting permission to create a backup on a computer. Allow?</string>
+    <string name="alert_title_restore_from_miasist">Restore items on your phone?</string>
+    <string name="alert_message_restore_from_miasist">Mi PC Suite is requesting permission to restore items on your phone. Allow?</string>
+    <string name="alert_button_deny">Decline</string>
+    <string name="alert_button_agree_and_continue">Allow</string>
 </resources>

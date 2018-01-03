@@ -73,7 +73,7 @@
         <item quantity="other">လိုက်အားပေးသူ %d ဦး</item>
     </plurals>
     <plurals name="songs_count">
-        <item quantity="other">%dsongs</item>
+        <item quantity="other">သီချင်း %d ပုဒ်</item>
     </plurals>
     <plurals name="Nunbackup_audios">
         <item quantity="other">သီချင်း %1$d ပုဒ် အရန်မသိမ်းရသေးပါ (%2$.1fMB)\"</item>
@@ -97,9 +97,9 @@
         <item quantity="other">သီချင်း %d ပုဒ်ကျော်သွားသည်။၄င်းတို့ကို နားဆင်ရန် ဆက်တင်များထဲရှိ အွန်လိုင်းဝန်ဆောင်မှုများကို ဖွင့်ပါ။</item>
     </plurals>
     <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">Has shutdown optimize album and lyric. Do you want to revert optimized info, album and lyric of %d songs?</item>
+        <item quantity="other">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားများကို အလိုအလျောက်ရှာဖွေခြင်းအား ပိတ်ထားသည်။ သီချင်း %d ပုဒ်၏အချက်အလက်အား ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="Nassociate_songs">
-        <item quantity="other">Matching album and lyric (%1$d/%2$d songs)</item>
+        <item quantity="other">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားကို ရှာဖွေနေသည် (%1$d/%2$d ပုဒ်)</item>
     </plurals>
 </resources>

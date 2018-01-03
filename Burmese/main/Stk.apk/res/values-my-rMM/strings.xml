@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">SIM တူးကစ်</string>
+    <string name="app_name">ဆင်းမ်တူးကစ်</string>
     <string name="menu_end_session">ဆက်ရှင်အားအဆုံးသတ်</string>
     <string name="help">အကူအညီ</string>
     <string name="menu_back">နောက်ပြန်</string>
@@ -17,7 +17,7 @@
     <string name="stk_app_state">အပလီကေးရှင်းအခြေအနေ</string>
     <string name="enable_app">ဖွင့်ထားပါသည်</string>
     <string name="disable_app">ပိတ်ထားပါသည်</string>
-    <string name="stk_dialog_title">SIM တူးကစ်</string>
+    <string name="stk_dialog_title">ဆင်းမ်တူးကစ်</string>
     <string name="default_tone_dialog_msg">အသံ ဖွင့်နေသည်…</string>
     <string name="default_open_channel_msg">(ဆက်သွယ်ရေး) လမ်းကြောင်း ဖွင့်မလား?</string>
     <string name="default_send_data_msg">ဒေတာ ပေးပို့နေသည်…</string>
@@ -25,9 +25,9 @@
     <string name="default_close_channel_msg">(ဆက်သွယ်ရေး) လမ်းကြောင်း ပိတ်ထားသည်</string>
     <string name="stk_dialog_accept">ဟုတ်သည်</string>
     <string name="stk_dialog_reject">မလုပ်</string>
-    <string name="no_sim_card_inserted">SIM တူးကစ်အား စတင်အသုံးပြုရန် SIM ကဒ် ထည့်သွင်းပါ။</string>
+    <string name="no_sim_card_inserted">ဆင်းမ်တူးကစ်အား စတင်အသုံးပြုရန် ဆင်းမ်ကဒ် ထည့်သွင်းပါ။</string>
     <string name="stk_intent_permission">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
-    <string name="sim_type_sim_name">SIM တူးကစ်</string>
-    <string name="sim_type_usim_name">USIM တူးကစ်</string>
+    <string name="sim_type_sim_name">ဆင်းမ်တူးကစ်</string>
+    <string name="sim_type_usim_name">USIMတူးကစ်</string>
     <string name="sim_type_uim_name">UIM တူးကစ်</string>
 </resources>

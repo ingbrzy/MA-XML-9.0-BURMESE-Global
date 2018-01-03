@@ -16,7 +16,7 @@
     <string name="callFailed_noSignal">လိုင်းမမိ</string>
     <string name="callFailed_limitExceeded">ACM ကန့်သတ်ချက်လွန်ပြီး</string>
     <string name="callFailed_powerOff">အန်တီနာပိတ်ထားသည်</string>
-    <string name="callFailed_simError">SIM ကဒ်အမှား</string>
+    <string name="callFailed_simError">ဆင်းမ်ကဒ်အမှား</string>
     <string name="callFailed_outOfService">ဆက်သွယ်မှုဧရိယာပြင်ပ</string>
     <string name="callFailed_fdn_only">ပြင်ပခေါ်ဆိုခြင်းကို FDN ဖြင့်တားမြစ်ထား</string>
     <string name="callFailed_dialToUssd">ခလုတ်နိုပ်ခေါ်ဆိုမှု တောင်းခံမှုအား USSD တောင်းခံမှုသို့ ပြုပြင်ပြောင်းလဲခဲ့။</string>
@@ -124,10 +124,10 @@
     <string name="remind_unlock_message">သင့်စက်ကို ယခုသော့ခတ်ထားသည်။ သင်စက်ကို သော့ဖြည်ပြီးနောက် \"%s\" ကို ရရှိလိမ့်မည်။ သော့ဖြည်မည်လား?</string>
     <string name="user_locked_prompt">အဆက်အသွယ်များသို့ ဝင်ရန်စက်ကို သော့ဖြည်ပါ။</string>
     <string name="package_not_available">\"%s\" မရနိုင်ပါ</string>
-    <string name="select_voice_call_sim">SIMကဒ်ရွေးချယ်ပါ</string>
+    <string name="select_voice_call_sim">ဆင်းမ်ကဒ်ရွေးချယ်ပါ</string>
     <string name="msim_select_default_time_left">(%d စက္ကန့်)</string>
     <string name="select_sim_hint">SIM %1$d အသုံးပြုနေစဉ်တွင် SIM %2$d အား အသုံးပြု၍မရနိုင်ပါ၊</string>
-    <string name="select_one_sim_title">SIM %1$d ကိုသာအသုံးပြုနိုင်ပါသည်</string>
+    <string name="select_one_sim_title">ဆင်းမ်%1$d ကိုသာအသုံးပြုနိုင်ပါသည်</string>
     <string name="can_not_use">အသုံးမပြုနိုင်ပါ</string>
     <string name="call_description_recording">အသံဖမ်းယူနေ…</string>
     <string name="call_recording_error_privacy">ဧည့်သည်ပုံစံတွင်ဖြစ်နေပါက မှတ်တမ်းမတင်ပါနှင့်</string>
@@ -153,7 +153,7 @@
     <string name="default_area_code_setting">မူလပုံသေ ဧရိယာကုဒ်</string>
     <string name="not_activate_sim_card_content_title">ဖုန်းနံပါတ်အား အတည်မပြုရသေးပါ</string>
     <string name="not_activate_sim_card_content">ငွေဖြည့်ပက်ကေ့ချ်အား စတင်အသုံးပြုရန် သင့်ဖုန်းအား အတည်ပြုစစ်ဆေးပါ။ ပုံမှန်ခေါ်ဆိုမှုများအား ပုံမှန်နှုန်းထားများအတိုင်း ပြုလုပ်နိုင်ဦးမည်ဖြစ်သည်။</string>
-    <string name="not_activate_sim_card_content_with_operator">ငွေဖြည့်ပက်ကေ့ချ်အား သုံးပြီး ခေါ်ဆိုမှု ပြုလုပ်ရန် SIM %1$s (%2$s) အား အတည်ပြုစစ်ဆေးပါ။ ပုံမှန်ခေါ်ဆိုမှုများအား ပုံမှန်နှုန်းထားများအတိုင်း ပြုလုပ်နိုင်ဦးမည်ဖြစ်သည်။</string>
+    <string name="not_activate_sim_card_content_with_operator">ငွေဖြည့်ပက်ကေ့ချ်အား သုံးပြီး ခေါ်ဆိုမှု ပြုလုပ်ရန် ဆင်းမ်%1$s (%2$s) အား အတည်ပြုစစ်ဆေးပါ။ ပုံမှန်ခေါ်ဆိုမှုများအား ပုံမှန်နှုန်းထားများအတိုင်း ပြုလုပ်နိုင်ဦးမည်ဖြစ်သည်။</string>
     <string name="dialog_call_ordinary_telephone">ပုံမှန်ခေါ်ဆိုမှု</string>
     <string name="dialog_activate_livetalk">ဝန်ဆောင်မှု နံပါတ်</string>
     <string name="not_support_title">ဤနံပါတ်အား မထောက်ပံ့ထားပါ</string>
@@ -190,6 +190,7 @@
     <string name="close_camera_requesting">ကင်မရာ ပိတ်နေသည်…</string>
     <string name="close_camera_failed">ကင်မရာ မပိတ်နိုင်ခဲ့ပါ…</string>
     <string name="change_to_voice_tips_when_background">အခြားဘက်မှ အသံခေါ်ဆိုမှုသို့ ပြောင်းလိုက်သည်</string>
+    <string name="video_crbt_title">%s Color ring back tone</string>
     <string name="call_button_tools_text">လုပ်ဆောင်ချက်များ</string>
     <string name="call_button_dialer_text">ကီးဘုတ်</string>
     <string name="call_button_mute_text">အသံတိတ်</string>
@@ -212,7 +213,7 @@
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
     <string name="no_vm_number">အသံမေးလ်နံပါတ် ပျောက်နေသည်</string>
-    <string name="no_vm_number_msg">SIM ကဒ်ထဲတွင် မည်သည့် အသံမေးလ်နံပါတ်မျှ သိမ်းမထားပါ</string>
+    <string name="no_vm_number_msg">ဆင်းမ်ကဒ်ထဲတွင် မည်သည့် အသံမေးလ်နံပါတ်မျှ သိမ်းမထားပါ</string>
     <string name="add_vm_number_str">နံပါတ် ပေါင်းထည့်မည်</string>
     <string name="alert_dialog_yes">ဟုတ်သည်</string>
     <string name="alert_dialog_no">မဟုတ်ပါ</string>

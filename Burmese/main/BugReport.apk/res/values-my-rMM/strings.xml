@@ -55,8 +55,9 @@
     <string name="save_pic">သိမ်းဆည်း</string>
     <string name="michat_finish_text">ပြီးပါပြီ</string>
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
-    <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကတ်အား စစ်ဆေးပါ</string>
+    <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကဒ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -184,7 +185,7 @@
     <string name="plus_one_submit_dialog_content">အမှားလော့များနှင့်အတူ သင့်တုန့်ပြန်ချက်အား Mi ဆာဗာသို့ ပေးပို့ပါလိမ့်မည်။</string>
     <string name="plus_one_submit_dialog_not_show_again">ဦးစားပေးချက်ကို မှတ်ထားပါ</string>
     <string name="toast_fill_brackets">"သင့်ရီပို့တွင် အင်ဖိုအချို့  လပ်နေသည်"</string>
-    <string name="tab_title_chat">FAQ</string>
+    <string name="tab_title_chat">မေးလေ့ရှိသော မေးခွန်းများ</string>
     <string name="tab_title_report">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="tab_title_my_reports">ကျွန်ုပ်၏အစီရင်ခံစာများ</string>
     <string name="nothing">--</string>
@@ -310,5 +311,5 @@
     <string name="customer_service_apply">သုံးစွဲသူဝန်ဆောင်မှု တောင်းခံမည်</string>
     <string name="customer_service_complain">သုံးစွဲသူဝန်ဆောင်မှု အစီရင်ခံမည်</string>
     <string name="customer_service_station">ဝန်ဆောင်မှုဌာနများ</string>
-    <string name="select_system_app_tag">တက်ဂ် ရွေးပါ</string>
+    <string name="select_system_app_tag">Select an issue</string>
 </resources>

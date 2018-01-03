@@ -51,8 +51,8 @@
     <string name="self_phone">ဤဖုန်း</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="device_xiaomi">Mi Phone</string>
-    <string name="device_corrupt">Mi Phone (Data corrupt)</string>
-    <string name="size_unknown">Size unknown</string>
+    <string name="device_corrupt">Mi ဖုန်း (ဒေတာပျက်စီးသော)</string>
+    <string name="size_unknown">အရွယ်အစား မသိသော</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="start_recover">%s ကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="latest_backup_time_loading">ဆွဲချနေဆဲ…</string>
@@ -126,9 +126,12 @@
     <string name="btn_back">နောက်သို့</string>
     <string name="btn_continue">ဆက်လုပ်ပါ</string>
     <string name="btn_skip">ဤအဆင့်ကို ကျော်ပါ</string>
+    <string name="btn_retry">ပြန်လည်စစ်ဆေးပါ</string>
     <string name="can_not_restore_in_lite_mode">Lite မုဒ်တွင် ပြန်လည်ရယူ၍ မရနိုင်ပါ။</string>
     <string name="can_not_backup_in_lite_mode">Lite မုဒ်တွင် ပြန်လည်ရယူ၍ မရနိုင်ပါ။</string>
     <string name="restore_data_title">ဒေတာအား ပြန်လည်ရယူမည်</string>
+    <string name="provision_error_connect_msg">ကွန်ရက်ကို စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ ကွန်ရက်မရှိပါက အရန်သိမ်းခြင်း မလုပ်ဆောင်နိုင်ပါ။</string>
+    <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
     <string name="no_backup">Mi Cloud တွင် အရန်သိမ်းထားခြင်း မရှိပါ။</string>

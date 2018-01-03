@@ -36,7 +36,8 @@
     <string name="dlg_clear_current_call">ဤနံပါတ်မှ ဘလော့လုပ်ထားသော ခေါ်ဆိုမှုများအားလုံးကို ရှင်းပစ်မှာလား?</string>
     <string name="dlg_clear_all_ok">အားလုံး ရှင်းပစ်ပါ</string>
     <string name="dlg_clear_current_ok">ရှင်းလင်း</string>
-    <string name="dlg_no_block">ဤနံပါတ်ကို ဘလော့လုပ်ထားခြင်းမှ ဖြုတ်ပြီး ဤနံပါတ်မှ ခေါ်ဆိုမှုများကို ခေါ်ဆိုမှု မှတ်တမ်းထဲသို့ ပြန်လည်ထားရှိမလား?</string>
+    <string name="dlg_no_block">"Unblock this phone number ?
+It will be added to exceptions, but previously blocked items won't appear in call history."</string>
     <string name="dlg_no_block_ok">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
     <string name="dlg_add_blacklist_title">ဘလော့စာရင်းသို့ ထည့်ပါ</string>
     <string name="dlg_add_blacklist">ဒီနံပါတ်ကို ဘလော့လုပ်မည်လား?</string>
@@ -62,6 +63,14 @@
     <string name="dlg_antispam_mode_delete_message">စည်းမျဉ်းများကို ဖျက်ပစ်ပြီးနောက် ၎င်းတို့ကို ပြန်လည်ရယူ၍ မရနိုင်ပါ။</string>
     <string name="dlg_antispam_using_mode_delete_message">သင်လက်ရှိအသုံးပြုနေသော စည်းမျဥ်းများကို ဖျက်ပစ်ပြီးနောက် ဘလော့စာရင်း၏ မူလသတ်မှတ် နည်းလမ်းများကို အသုံးပြုမည်လား?</string>
     <string name="dlg_antispam_using_mode_international_delete_message">သင်လက်ရှိအသုံးပြုနေသော စည်းမျဥ်းများကို ဖျက်ပစ်ပြီးနောက် ဘလော့စာရင်း၏ မူလသတ်မှတ် နည်းလမ်းများကို အသုံးပြုမည်လား?</string>
+    <string name="back_sound_success">Success!</string>
+    <string name="back_sound_fail">Failed！</string>
+    <string name="back_sound_support">"The current network operators doesn't support it！"</string>
+    <string name="back_sound_data">It requires cellular mobile network, please retry!</string>
+    <string name="dlg_move_to_white">Add to exceptions</string>
+    <string name="dlg_add_white">"New calls and messages from the numbers added to exceptions will be shown in call history and Messaging inbox. However, previously blocked items won't appear there. Add selected numbers to exceptions?"</string>
+    <string name="dlg_not_block_sms">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in Messaging inbox."</string>
+    <string name="dlg_not_block_call">"Unblock selected numbers? They will be added to exceptions, but previously blocked items won't appear in call history."</string>
     <string name="menu_call">ခေါ်ဆို</string>
     <string name="menu_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="menu_bl_call_log">ဘလော့လုပ်ထားသောခေါ်ဆိုမှုများကိုကြည့်ပါ</string>
@@ -73,6 +82,7 @@
     <string name="menu_remove">ဖျက်ပါ</string>
     <string name="st_settings_name">ဘလော့စာရင်းဆက်တင်များ</string>
     <string name="st_filter_keywords_setting_summary1">အမည်မသိသော ဖုန်းနံပါတ်မှပေးပို့လာသော မက်ဆေ့ချ်ထဲတွင် ဤစာရင်းရှိ စာလုံးပါရှိနေပါက ဘလော့လုပ်ထားလိမ့်မည်။</string>
+    <string name="st_filter_keywords_setting_summary3">Messages from unknown numbers that contain the words in this list will be allowed in.</string>
     <string name="st_filter_keywords_setting_summary2">"
 (များပြားလှသော အဓိကစာလုံးများကို သီးခြားခွဲထုတ်ရန် ကော်မာကို အသုံးပြုပါ)"</string>
     <string name="label_callwait">ခေါ်ဆိုမှုစောင့်ဆိုင်းနေကြောင်း အသိပေးချက်</string>
@@ -103,10 +113,10 @@
     <string name="st_title_back_sound_stop">ဝန်ဆောင်မှုထဲတွင် မရှိပါ</string>
     <string name="st_title_call_wait_setting">ခေါ်ဆိုစောင့်ဆိုင်းခြင်း</string>
     <string name="st_title_call_wait">ခေါ်ဆိုမှုစောင့်ဆိုင်းနေကြောင်း အသိပေးချက်</string>
-    <string name="st_title_sim_card">%1$s - SIM %2$s</string>
+    <string name="st_title_sim_card">%1$s - ဆင်းမ်%2$s</string>
     <string name="st_title_not_sim">မရှိသော</string>
     <string name="st_sum_call_wait">မအားလပ်သည့်အချိန်များတွင် မည်သည့်ခေါ်ဆိုမှုမျိုးကိုမဆို မအားလပ်သည့်ပါ ဟုတုန့်ပြန်မက်ဆေ့ချ် ပေးပို့ပါလိမ့်မည်။</string>
-    <string name="sim_not_ready_toast">SIM ကဒ်အဆင်သင့်မဖြစ်သေးပါ</string>
+    <string name="sim_not_ready_toast">ဆင်းမ်ကဒ်အဆင်သင့်မဖြစ်သေးပါ</string>
     <string name="st_antispam_bw_man_add">ဖုန်းနံပါတ် ပေါင်းထည့်ပါ</string>
     <string name="st_antispam_bw_head_add">ရှေ့ဆက်စကားလုံး ထည့်ပါ</string>
     <string name="st_antispam_bw_pick_add">အဆက်အသွယ်ထည့်ရန်</string>
@@ -163,7 +173,8 @@
     <string name="st_title_open_antispam">ဘလော့စာရင်း</string>
     <string name="st_title_antispam_mode">စည်းမျဉ်းများ</string>
     <string name="st_sub_title_whiteblack_list_group">ဘလော့စာရင်း</string>
-    <string name="st_title_keywords_blacklist">အဓိကစာလုံး စစ်ထုတ်သည့်အရာ</string>
+    <string name="st_title_keywords_blacklist">Keyword blacklist</string>
+    <string name="st_title_keywords_whitelist">Keyword whitelist</string>
     <string name="st_title_blacklist_numbers">ဘလော့လုပ်ထားသောနံပါတ်များ</string>
     <string name="st_title_whitelist_numbers">ခြွင်းချက်များ</string>
     <string name="st_title_backsound_group">အဝေးရောက်မက်ဆေ့ချ်</string>
@@ -265,12 +276,14 @@
     <string name="note">မှတ်စု</string>
     <string name="antispam_xpace_text">ပိတ်ဆို့စာရင်း သတ်မှတ်ရန် ပထမနေရာသို့ ပြောင်းရွှေ့ပါ</string>
     <string name="antispam_mode_details">ဘလော့စာရင်း အသေးစိတ်များ</string>
-    <string name="st_share_settings">SIM ၁ ဆက်တင်ကိုသုံးမည်</string>
+    <string name="st_share_settings">ဆင်းမ်၁ ဆက်တင်ကိုသုံးမည်</string>
     <string name="st_msg_settings">SMS ဘလော့စာရင်း</string>
     <string name="st_msg_intercept_contacts">အဆက်အသွယ်မှ SMS ကိုဘလော့လုပ်မည်</string>
     <string name="st_msg_stranger_group">သူစိမ်းမှ SMS ကိုဘလော့လုပ်မည်</string>
     <string name="st_msg_other_group">အခြား</string>
-    <string name="st_msg_keyword_group">အဓိကစာလုံး ဘလော့စာရင်း</string>
+    <string name="st_msg_keyword_group">Keywords</string>
+    <string name="st_msg_keyword_black">Keyword Blocklist</string>
+    <string name="st_msg_keyword_white">Keyword Exceptions</string>
     <string name="st_call_settings">ဖုန်းခေါ်ဆိုမှု ဘလော့စာရင်း</string>
     <string name="st_call_intercept_stranger">သူစိမ်းမှ ဖုန်းခေါ်ဆိုမှု ကိုဘလော့လုပ်မည်</string>
     <string name="st_call_intercept_forwarding">လိုင်းလွှဲပေးသော ခေါ်ဆိုမှုများကို ဘလော့လုပ်မည်</string>
@@ -282,7 +295,7 @@
     <string name="st_call_other_group">အခြား</string>
     <string name="st_group_list_management">ဘလော့စာရင်း စီမံမည်</string>
     <string name="st_call_backsound_group">ဘလော့စာရင်းအသံ</string>
-    <string name="st_tab_title">%1$s (SIM %2$d)</string>
+    <string name="st_tab_title">%1$s (ဆင်းမ်%2$d)</string>
     <string name="st_confirm_dialog_btn_open">ဖွင့်မည်။</string>
     <string name="st_confirm_dialog_summary_stranger_call">သူစိမ်းမှ ဖုန်းခေါ်ဆိုမှုအားလုံး ကိုဘလော့လုပ်မည်</string>
     <string name="st_confirm_dialog_summary_contact_call">အဆက်အသွယ်မှ ဖုန်းခေါ်ဆိုမှုအားလုံး ကိုဘလော့လုပ်မည်</string>
@@ -308,7 +321,7 @@
     <string name="main_button_usage_adjusting_bill">ပြောင်းလဲနေသည်…</string>
     <string name="main_button_usage_adjust_manual">ဒေတာအသုံးပြုမှုကန့်သတ်ချက်ကို သတ်မှတ်ပါ</string>
     <string name="main_button_usage_package_setting">ဒေတာအသုံးပြုမှုကန့်သတ်ချက်ကို သတ်မှတ်ပါ</string>
-    <string name="main_alert_message_no_imsi">မည်သည့် SIM ကဒ်မှ ရှာမတွေ့ပါ။</string>
+    <string name="main_alert_message_no_imsi">မည်သည့် ဆင်းမ်ကဒ်မှ ရှာမတွေ့ပါ။</string>
     <string name="main_primary_message_traffic_remain">မိုဘိုင်းဒေတာ</string>
     <string name="main_primary_message_traffic_warning">မိုဘိုင်းဒေတာ သတိပေးချက်</string>
     <string name="main_primary_message_traffic_overlimit">ဒေတာကန့်သတ်ချက်ထက် ကျော်သွားသည်</string>
@@ -347,11 +360,11 @@
     <string name="main_daily_package">နေ့စဉ် အစီအစဉ်</string>
     <string name="main_indicator_title">အသက်သွင်းရန် စောင့်နေသည်</string>
     <string name="main_tobe_added_desc">မိုဘိုင်းဒေတာ ¥0.03/MB</string>
-    <string name="main_button_mi_sim_close">Mi SIM ကို အသက်သွင်းပါ</string>
+    <string name="main_button_mi_sim_close">Mi ဆင်းမ်ကို အသက်သွင်းပါ</string>
     <string name="main_button_mi_sim_open">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="firewall_activity_lable">ဒေတာအသုံးပြုခြင်းအား အက်ပ်အလိုက်ကန့်သတ်ပါ</string>
     <string name="firewall_applist">အက်ပ်များ</string>
-    <string name="firewall_mobile">Mobile data</string>
+    <string name="firewall_mobile">မိုဘိုင်းဒေတာ</string>
     <string name="firewall_wifi">Wi-Fi</string>
     <string name="firewall_fragment_sys_listempty">မရှိသော</string>
     <string name="firewall_fragment_nonesys_listempty">မရှိသော</string>
@@ -362,6 +375,7 @@
     <string name="firewall_restrict_android_dialog_content">သင့်စက်ပုံမှန်အလုပ်လုပ်နေကြောင်းသေချာစေရန်၊ Android အက်ပ်အနည်းငယ်သည် အင်တာနက်သို့ ချိတ်ဆက်နေအုန်းမည် ဖြစ်ပါသည်။ ၄င်းအက်ပ်များသည် သင့်မိုလ်ဘိုင်းဒေတာအား သုံးလိမ့်မည် ဖြစ်ပြီးသင့်ဖုန်းကာရီယာမှ ဝန်ဆောင်ခတစ်ချို့ တောင်းခံနိုင်ပါသည်။</string>
     <string name="background_restrict_app_dialog_message">နောက်ခံကွန်ရက်ဝင်ရောက်မှုကို ကန့်သတ်ပါက ဤအက်ပ်သည် မက်ဆေ့ချ်လက်ခံရရှိခြင်း၊ အကြောင်းအရာဒေါင်းလုဒ်လုပ်ခြင်းစသည်တို့ကို ပုံမှန်လုပ်ဆောင်နိုင်တော့မည် မဟုတ်ပါ။ ကန့်သတ်မည်လား?</string>
     <string name="firewall_allow_network">ခွင့်ပြုမည်</string>
+    <string name="app_bg_restrict_dialog_message">Restricting background network connection may prevent the app from working normally. For example, it might no longer be able to receive messages or update content. Restrict anyway?</string>
     <string name="firewall_network_allow">%1$sကို %2$sချိတ်ဆက်မှု သုံးရန် ခွင့်ပြုပေးပါ</string>
     <string name="search_result_text">မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ</string>
     <string name="firewall_mobile_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် မိုဘိုင်းဒေတာကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
@@ -389,7 +403,8 @@
     <string name="detail_app_button">အက်ပ်အချက်အလက်</string>
     <string name="pref_about_traffic_title">ဒေတာအသုံးပြုမှုဆက်တင်များ</string>
     <string name="pref_traffic_manage_title">ဒေတာအသုံးစွဲမှု</string>
-    <string name="pref_package_traffic_settings">မိုဘိုင်းဒေတာကန့်သတ်ချက်</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
+    <string name="pref_package_traffic_settings">Data plan</string>
     <string name="pref_adjust_traffic_data">ဒေတာသုံးစွဲမှုကို သတ်မှတ်ပါ</string>
     <string name="pref_category_title_other">ထပ်ဆောင်းဆက်တင်များ</string>
     <string name="pref_title_update_notification">ဒေတာအသုံးပြုခြင်းအသိပေးချက်</string>
@@ -397,7 +412,8 @@
     <string name="pref_title_traffic_speed_state">ကွန်ရက်အမြန်နှုန်းကိုပြပါ</string>
     <string name="pref_title_declaration">အရေးကြီးသော မသက်ဆိုင်ကြောင်းရှင်းလင်းချက်</string>
     <string name="pref_new_installed_preconfig_title">အက်ပ်အသစ်များ၏ ပုံသေဆက်တင်များ</string>
-    <string name="pref_mi_sim_settings">Mi SIM ဆက်တင်များ</string>
+    <string name="pref_bg_network_title">Background connection</string>
+    <string name="pref_mi_sim_settings">Mi ဆင်းမ်ဆက်တင်များ</string>
     <string name="pref_title_upload_data_usage">ဒေတာအသုံးပြုမှု အခြေနေကို အစီရင်ခံပါ</string>
     <string name="pref_summary_upload_data_usage">ဒေတာသုံးစွဲမှုအခြေအနေကို သတင်းပို့ခြင်းဖြင့် MIUI အား ပိုတိုးတက်အောင်ကူညီပါ။ သတင်းပေးပို့မှုအား ကိုယ်ရေးအချက်အလက်ပေါ်လစီနှင့်အညီ စောင့်ရှောက်ပါမည်။</string>
     <string name="pref_manual_adjust">ဒေတာသုံးစွဲမှု ကိန်းဂဏန်းအချက်အလက်ကို လက်ဖြင့်ရွေးချယ်သတ်မှတ်ပါ</string>
@@ -516,9 +532,9 @@
     <string name="traffic_correction_success">ဒေတာသုံးစွဲမှု အသစ်မွမ်းမံပြီးပြီ</string>
     <string name="traffic_correction_failed">အချက်အလက်ကို မရယူနိုင်ပါ</string>
     <string name="traffic_correction_success_notify_message">အသေးစိတ်ကိုကြည့်ရန်ထိနှိပ်ပါ</string>
-    <string name="sim_location_error_notify_title">SIM ကဒ်အမှား</string>
-    <string name="sim_location_error_notify_message">SIM တည်နေရာအား ပြောင်းလဲရန် ထိနှိပ်ပါ</string>
-    <string name="sim_location_error_dialog_message">သင်အသုံးပြုနေသော SIM မှာ %1$s ဖြစ်ပါသည်။ ဤနေရာမှာ သင်ကိုယ်တိုင်သတ်မှတ်ထားသော တည်နေရာ(%2$s) မှကွဲပြားမှုရှိနေပါသည်။ SIM တည်နေရာအား %3$s သို့ ပြောင်းလဲမည်လား?</string>
+    <string name="sim_location_error_notify_title">ဆင်းမ်ကဒ်အမှား</string>
+    <string name="sim_location_error_notify_message">ဆင်းမ်တည်နေရာအား ပြောင်းလဲရန် ထိနှိပ်ပါ</string>
+    <string name="sim_location_error_dialog_message">သင်အသုံးပြုနေသော ဆင်းမ်မှာ %1$s ဖြစ်ပါသည်။ ဤနေရာမှာ သင်ကိုယ်တိုင်သတ်မှတ်ထားသော တည်နေရာ(%2$s) မှကွဲပြားမှုရှိနေပါသည်။ ဆင်းမ်တည်နေရာအား %3$s သို့ ပြောင်းလဲမည်လား?</string>
     <string name="package_change_notification_title">ဒေတာကန့်သတ်ချက်အား အလိုအလျောက် ချိန်ညှိပါ</string>
     <string name="package_change_notification_summary">ပိုမိုသိရှိနိုင်ရန် ထိနှိပ်ပါ။</string>
     <string name="package_setted_error_notification_titile">ဒေတာအစီအစဉ်အား မသတ်မှတ်နိုင်ခဲ့ပါ</string>
@@ -555,9 +571,9 @@ Rolled over extra data"</string>
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_unicom">10010</string>
     <string name="operator_number_telcom">10000</string>
-    <string name="operator_mi_sim">Mi SIM</string>
-    <string name="dual_setting_simcard1">SIM 1</string>
-    <string name="dual_setting_simcard2">SIM 2</string>
+    <string name="operator_mi_sim">Mi ဆင်းမ်</string>
+    <string name="dual_setting_simcard1">ဆင်းမ်1</string>
+    <string name="dual_setting_simcard2">ဆင်းမ်2</string>
     <string name="mi_service_app_detail">ဒေတာသုံးစွဲမှု အသေးစိတ်များ</string>
     <string name="mi_service_traffic_detail">Framework အသေးစိတ်များ</string>
     <string name="label_mi_stats">Mi ခွဲခြမ်းစိတ်ဖြာမှု</string>
@@ -632,7 +648,7 @@ Rolled over extra data"</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="roaming_allow_network_dialog_title">ဒေတာရွန်းမင်းအား အသုံးပြုမည်လား?</string>
     <string name="title_limit_traffic_per_day">နေ့စဉ် ဒေတာသုံးစွဲမှု ကန့်သတ်ချက်</string>
-    <string name="daily_limit_and_lock_screen">ဒေတာကန့်သတ်ချက် &amp; အသိပေးချက်များ</string>
+    <string name="daily_limit_and_lock_screen">Data usage warning</string>
     <string name="pref_title_traffic_limit_number">အရွယ်အစား</string>
     <string name="pref_title_over_traffic_limit_warning">ကျော်လွန်သွားသည့်အခါ</string>
     <string name="reach_daily_limit_value_title">နေ့စဉ် ဒေတာကန့်သတ်ချက် ရောက်ရှိနေပါသည်</string>
@@ -647,7 +663,7 @@ Rolled over extra data"</string>
     <string name="lock_screen_warning_switch_title">သော့ခတ်မျက်နှာပြင်တွင် သတိပေးချက်များအား ပြသပါ</string>
     <string name="lock_screen_warning_switch_summary">​ဒေတာသုံးစွဲမှု ပမာဏတစ်ချို့သို့ရောက်ရှိသည်နှင့် သော့ခတ်မျက်နှာပြင်တွင် သတိပေးချက်များအားပြသပါ</string>
     <string name="lock_screen_warning_value">ဒေတာအသုံးပြမှု သတိပေးချက်</string>
-    <string name="pref_normal_traffic_limit">နေ့စဉ်ဒေတာအစီအစဉ် သုံးပြီးနောက်</string>
+    <string name="pref_normal_traffic_limit">When data plan is used up</string>
     <string name="pref_over_traffic_limit">ဒေတာအစီစဉ်ထက် ကျော်သွားပါက</string>
     <string name="traffic_warning_purchase_title">မိုဘိုင်းဒေတာ သုံးစွဲမှုသတိပေးခြင်း</string>
     <string name="traffic_purchase_body">သင့်လက်ကျန်ငွေကို ငွေဖြည့်ရန် ထိပါ။</string>
@@ -703,8 +719,8 @@ Rolled over extra data"</string>
     <string name="network_blocked_switch_wifi">ကွန်ရက်များ ပြောင်းပါ</string>
     <string name="wifi_network_blocked_notification_title">အင်တာနက် ချိတ်ဆက်မှု မရှိပါ</string>
     <string name="data_network_blocked_notification_title">အင်တာနက် ချိတ်ဆက်မှု မရှိပါ</string>
-    <string name="sim_state_exception_summary">SIM အခြေအနေက သင့် SIM ကဒ်နှင့်အတူ တစ်စုံတစ်ခု မှားယွင်းသွားကြောင်း ညွှန်ပြနေသည်။</string>
-    <string name="network_operator_exception_summary">SIM ကတ်ကို အသက်မသွင်းနိုင်ပါ။ သင့် SIM ကတ်ကို သေချာထည့်သွင်းထားကြောင်းနှင့် သင့်မိုဘိုင်းဒေတာ အစီအစဉ်ကို ဖုန်းကာရီယာမှ အသက်သွင်းထားကြောင်း သေချာပါစေ။</string>
+    <string name="sim_state_exception_summary">ဆင်းမ်အခြေအနေက သင့် ဆင်းမ်ကဒ်နှင့်အတူ တစ်စုံတစ်ခု မှားယွင်းသွားကြောင်း ညွှန်ပြနေသည်။</string>
+    <string name="network_operator_exception_summary">ဆင်းမ်ကဒ်ကို အသက်မသွင်းနိုင်ပါ။ သင့် ဆင်းမ်ကဒ်ကို သေချာထည့်သွင်းထားကြောင်းနှင့် သင့်မိုဘိုင်းဒေတာ အစီအစဉ်ကို ဖုန်းကာရီယာမှ အသက်သွင်းထားကြောင်း သေချာပါစေ။</string>
     <string name="network_blocked_connected_open_wifi">အများသုံးကွန်ရက်ကို ချိတ်ဆက်ခဲ့သည်</string>
     <string name="network_connected_exception_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="protocol_exception_title">ကွန်ရက် ပရိုတိုကော ချို့ယွင်းမှုပြင်ဆင်ချက်များ</string>
@@ -722,13 +738,13 @@ Rolled over extra data"</string>
 ၂။ သင့်စက်ကို ယခုလေးတင် ပိုက်ဆံ ဖြည့်ထားပါက စက်ကို ပိတ်ပြီး ပြန်ဖွင့်လိုက်ပြီး ကြိုးစားကြည့်ပါ။
 
 ၃။ သင့်ဖုန်းကာရီယာ လိုင်းသည် သင်ရောက်ရှိနေသော နေရာတွင် အားနည်းနေခြင်း ဖြစ်နိုင်သည်။"</string>
-    <string name="network_sim_exception_detail">"သင့် SIM ကတ်တွင် ပြဿနာတစ်ခု ရှိနေနိုင်ပါသည်−
+    <string name="network_sim_exception_detail">"သင့် ဆင်းမ်ကဒ်တွင် ပြဿနာတစ်ခု ရှိနေနိုင်ပါသည်−
 
 ၁။သင့်အကောင့်ကို သင့်ဖုန်းကာရီယာနှင့် တွဲဖက်နိုင်ကြောင်း သေချာပါစေ။ သင့်သူငယ်ချင်းများတွင် ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးကြည့်ပါ။
 
-၂။သင့်တွင် SIM ကတ်နှစ်ခု ရှိပါက အခြားတစ်ခုကို ထည့်ကြည့်ပြီး အလုပ်လုပ်မလုပ် စစ်ဆေးကြည့်ပါ။
+၂။သင့်တွင် ဆင်းမ်ကဒ်နှစ်ခု ရှိပါက အခြားတစ်ခုကို ထည့်ကြည့်ပြီး အလုပ်လုပ်မလုပ် စစ်ဆေးကြည့်ပါ။
 
-၃။သင့်SIM ကတ်နှင့်သင့်စက်၏ SIM ထည့်ခွက်တွင် ပျက်စီးမှု ရှိမရှိ စစ်ဆေးကြည့်ပါ။ SIMကို အသေချာ ဆိုက်ထားကြောင်း သေချာအောင်လုပ်ပါ။"</string>
+၃။သင့်ဆင်းမ်ကဒ်နှင့်သင့်စက်၏ ဆင်းမ်ထည့်ခွက်တွင် ပျက်စီးမှု ရှိမရှိ စစ်ဆေးကြည့်ပါ။ ဆင်းမ်ကို အသေချာ ဆိုက်ထားကြောင်း သေချာအောင်လုပ်ပါ။"</string>
     <string name="network_route_exception_detail">"သင်ချိတ်ဆက်မည့် ရောက်တာတွင် ပြဿနာ ရှိနိုင်သည်-
 
 "<b>၁။ အများသုံး Wi-Fi ကွန်ရက် ပြဿနာများ</b>"
@@ -745,8 +761,8 @@ Rolled over extra data"</string>
 
 "<b>၅။ သင့်ရောက်တာကို သေချာစွာ ချိတ်ဆက်ထားကြောင်း သေချာပါစေ</b>"
 သင့်ရောက်တာနှင့် ချိတ်ဆက်ရန် အခြား အီသာနက်ကြိုးကို စမ်းသုံးကြည့်ပါ။ သင့်အိမ်တွင် ချိတ်ဆက်မှုနှင့် ပတ်သက်၍ ပြဿနာရှိသည်ဟု သံသယရှိလျှင် သင့် အင်တာနက်ဝန်ဆောင်မှုပေးသူထံ ဆက်သွယ်ပါ။"</string>
-    <string name="permission_exception_title">ကွန်ရက် ခွင့်ပြုချက်များကို ကြည့်ပါ</string>
-    <string name="permission_exception_summary">အချို့အက်ပ်များတွင် အင်တာနက်နှင့် ချိတ်ဆက်ရန် ခွင့်ပြုချက်မရှိပါ</string>
+    <string name="permission_exception_title">Restricted connection for apps</string>
+    <string name="bg_network_exception_title">Restricted background connection</string>
     <string name="networkchanged_exception_title">ချိတ်ဆက်မှု ပြောင်းသွားသည်</string>
     <string name="networkchanged_exception_summary">ကွန်ရက်ချိတ်ဆက်မှု ပြောင်းလဲခဲ့သည်။ ထပ်မံစမ်းသပ်ပါ။</string>
     <string name="network_test_speed">Wi-Fi အရှိန် စမ်းသပ်မည်</string>
@@ -803,8 +819,6 @@ Rolled over extra data"</string>
     <string name="diagnostic_attention_dialog_message">%1$sအတွက် ချွတ်ယွင်းချက်ပြင်ဆင်ခြင်းကို လုပ်ဆောင်နေပါသည်။ ပြီးဆုံးအောင်စောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="correction_attention_dialog_message">ဆက်တင်မျာအား ယခု ညှိပါ။ လုပ်ငန်းစဉ်ပြီးဆုံးသည်အထိစောင့်ပြီး ထပ်ကြိုးစားကြည့်ပါ။</string>
     <string name="text_button">ရပြီ</string>
-    <string name="vpn_unbale_get_phonenum">သတ်မှတ်ထားသောဒေတာအစီအစဉ်ဖြင့် ဖုန်းနံပါတ် ရယူ၍မရပါ</string>
-    <string name="vpn_disabled_by_user">သတ်မှတ်ထားသောဒေတာအစီအစဉ်ကို ပိတ်ထားသည်</string>
     <string name="btn_back">နောက်ပြန်သွားရန်</string>
     <string name="firewall_allow_data">မိုဘိုင်းဒေတာကို အသုံးပြုခွင့် ပေးရန်</string>
     <string name="firewall_restrict_data">မိုဘိုင်းဒေတာ အသုံးပြုခွင့်ကို ကန့်သတ်ထားရန်</string>
@@ -830,14 +844,14 @@ Rolled over extra data"</string>
     <string name="status_bar_network_flow_content">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;လက်ကျန်- %2$s</string>
     <string name="status_bar_network_flow_content_not_setting">ယနေ့- %1$s&amp;nbsp;&amp;nbsp;&amp;nbsp;ဤလ- %2$s</string>
     <string name="status_bar_network_flow_today">ယနေ့- %1$s</string>
-    <string name="pref_key_tethering_setting">One-time data limit</string>
-    <string name="pref_key_tethering_title">One-time data limit</string>
+    <string name="pref_key_tethering_setting">တစ်ကြိမ် ဒေတာကန့်သတ်ချက်</string>
+    <string name="pref_key_tethering_title">တစ်ကြိမ် ဒေတာကန့်သတ်ချက်</string>
     <string name="tether_limit_value_custom">Custom</string>
-    <string name="tether_limit_dialog_title">Mobile data limit</string>
-    <string name="tether_custom_dialog_title">Mobile data limit</string>
+    <string name="tether_limit_dialog_title">မိုဘိုင်းဒေတာကန့်သတ်ချက်</string>
+    <string name="tether_custom_dialog_title">မိုဘိုင်းဒေတာကန့်သတ်ချက်</string>
     <string name="tether_over_limit_warning_notify_title">Reached hotspot data limit</string>
     <string name="tether_over_limit_warning_notify_message">Turn off portable hotspot.</string>
-    <string name="tether_over_limit_dialog_title">Data usage warning</string>
+    <string name="tether_over_limit_dialog_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
     <string name="tether_over_limit_dialog_message">You reached portable hotspot data limit.</string>
     <string name="tether_over_limit_dialog_cancle_btn">Reset hotspot</string>
     <string name="optimize_manage_title">အရှိန်မြှင့်</string>
@@ -901,6 +915,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"ဤအက်ပ်သည် သင်၏စက်ကို
 နှေးကွေးစေသည်"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ဖြုတ်ပါ %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ဘက်ထရီသုံးစွဲမှုဆိုင်ရာကိစ္စများ ဖြေရှင်းရန် ဤအက်ပ်ကို ဖြုတ်ပါ။</string>
     <string name="om_ill_proc_type_wakelock_title">ဤအက်ပ်သည် အိပ်စက်ခြင်းမုဒ်ကို ပိတ်ပင်ထားသောကြောင့် ဘက်ထရီအားမခံပါ</string>
@@ -1303,6 +1318,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">ဒေတာအသုံးပြုမှု</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1663,6 +1679,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ရှင်းလင်း</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>
@@ -1870,35 +1887,18 @@ Rolled over extra data"</string>
     <string name="app_manager_force_stop_dlg_text">အကယ်၍အက်ပ်တစ်ခုအား အတင်းပိတ်လိုက်ပါက၊ ၄င်း၏လုပ်ဆောင်ရည်ကို ထိခိုက်နိုင်ပါသည်။</string>
     <string name="app_manager_dlg_ok">အိုကေ</string>
     <string name="app_manager_dlg_cancel">ဖျက်သိမ်း</string>
-    <string name="app_manager_wake_path_card_title">ချိတ်တွဲ စတင်မှု သမိုင်း(၂ရက်)</string>
     <string name="app_manager_show_detail_infos">အားလုံးကို ကြည့်ပါ</string>
-    <string name="app_manager_wakepath_dialog_title">ချိတ်တွဲစတင်မှု အကြောင်း</string>
-    <string name="app_manager_wakepath_dialog_summary">ချိတ်တွဲစတင်မှုဆိုသည်မှာ အက်ပ်တစ်ခုသည် နောက်အက်ပ်တစ်ခုအား နောက်ခံတွင် ဖွင့်လိုက်ခြင်းဖြစ်ပါသည်။ ၄င်းသည် ဘက်ထရိအကုန်မြန်စေပြီး ဖုန်းလုပ်ဆောင်ရည်ကို ထိခိုက်စေနိုင်ပါသည်။ MIUI သည်ပုံမှန်အားဖြင့် ချိတ်တွဲစတင်မှုကို ပိတ်ဆို့ထားပါသည်။</string>
-    <string name="app_manager_wakepath_dialog_buttontext">ရပြီ</string>
-    <string name="app_manager_stop_wakepath_dialog_title">ချတ်တွဲစတင်မှုကို ကန့်သတ်ပါ</string>
-    <string name="app_manager_stop_wakepath_dialog_summary">ချိတ်တွဲစတင်မှုကို ကန့်သတ်ရန် %s ကိုဖြုတ်ချလိုက်မည်လား?</string>
-    <string name="app_manager_stop_wakepath_dlg_msg_with_xspace_app">ဤအက်ပ်ကို ဖြတ်ချလိုက်ခြင်းဖြင့် ချိတ်တွဲစတင်မှုကို ကန့်သတ်လိုက်လိမ့်မည်။ ၄င်းနှင့် ဆက်စပ်သည့် နှစ်ခုတွဲအက်ပ်ကိုလဲ ဖြုတ်ချလိုက်လိမ့်မည်။ %s ကိုဖြတ်ချမည်လား?</string>
-    <string name="app_manager_stop_wp_dialog_cancel">ဖျက်သိမ်း</string>
-    <string name="app_manager_stop_wp_dialog_uninstall">ဖြုတ်ပါ</string>
-    <string name="app_manager_reduce_wakepath_dialog">ချိတ်တွဲစတင်မှုကို အသေးဖွဲ့ပါ</string>
-    <string name="app_manager_reduce_wakepath_summary">အလိုအလျောက်စတင်ခြင်းကို ကန့်သတ်ခြင်းသည် ချိတ်တွဲစတင်မှုကို အသေးဖွဲ့လိုက်လိမ့်မည်။%s အတွက် အလိုအလျောက်စတင်မှုကို ကန့်သတ်မည်လား?</string>
-    <string name="app_manager_rebide_wakepath">ကန့်သတ်</string>
-    <string name="app_manager_stop_wakepath_success">အောင်မြင်စွာ ကန့်သတ်ခဲ့သည်</string>
-    <string name="app_maanger_app_uninstalled_toast">ဤအက်ပ်အား ဖြုတ်ထားသည်</string>
     <string name="app_manager_start_by">%s မှ စတင်ခဲ့သော</string>
     <string name="app_manager_uninstall_xspace_app_dlg_msg">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
     <string name="app_manager_uninstall_with_xspace_app_dlg_msg">ဆက်စပ်နှစ်ခုတွဲအက်ပ်များသည် အက်ပ်ဒေတာနှင့်အတူ ပျက်သွားလိမ့်မည်</string>
     <string name="app_manager_uninstall_xspace_app_dlg_title">နှစ်ခုတွဲ အက်ပ်အား ဖြုတ်ချ</string>
-    <string name="app_manager_reject_count_over">100000+ ကြိမ် ဘလော့လုပ်ခဲ့သည်</string>
-    <string name="app_manager_start_count_over">100000+ ကြိမ်</string>
-    <string name="app_manager_loading_data">ဒေတာရယူနေသည်…</string>
     <string name="app_manager_appupdate_remind">အသစ်မွမ်းမှုအကြောင်း အသိပေးပါ</string>
     <string name="app_usage_never">ဘယ်တော့မှ မသုံးပါ</string>
     <string name="app_usage_recently">မကြာမီကသုံးပြီး</string>
     <string name="app_manager_have_not_consume">မရှိ</string>
     <string name="app_manager_menu_clear_data">ဒေတာရှင်းပါ</string>
     <string name="app_manager_clear_data_dlg_title">ဒေတာအားလုံးကို ဖျက်မလား?</string>
-    <string name="app_manager_clear_data_dlg_message">All app data, including files, settings, accounts, databases, and cache will be permanently deleted.</string>
+    <string name="app_manager_clear_data_dlg_message">ဖိုင်များ၊ ဆက်တင်များ၊ အကောင့်များ၊ ဒေတာဘေ့စ်နှင့် ကက်ချ်အပါအဝင် အက်ပ်ဒေတာအားလုံးကို အပြီးအပိုင် ဖျက်ပစ်မည်။</string>
     <string name="app_manager_clear_dlg_title">Clear data</string>
     <string name="app_manager_clear_failed_dlg_message">အက်ပ်အတွက်ဒေတာကို မရှင်းလင်းနိုင်ခဲ့ပါ</string>
     <string name="app_manager_manage_space">နေရာလွတ်အတွက် စီမံပါ</string>
@@ -1907,7 +1907,6 @@ Rolled over extra data"</string>
     <string name="app_manager_powerkeeper_miui_auto">MIUI ဘက်ထရီချွေတာသူ</string>
     <string name="app_manager_powerkeeper_restrict_bg">နောက်ခံအက်ပ်များအား ကန့်သတ်</string>
     <string name="app_manager_powerkeeper_no_bg">နောက်ခံလုပ်ဆောင်ချက်များအား ကန့်သတ်</string>
-    <string name="app_manager_instruction">ညွှန်ကြားချက်</string>
     <string name="app_manager_app_storage">"သိုလှောင်ခန်း-  "</string>
     <string name="app_manager_app_traffic">"ဒေတာသုံးစွဲမှု-  "</string>
     <string name="app_manager_app_power">"ဘက်ထရီသုံးစွဲမှု-  "</string>
@@ -1977,6 +1976,9 @@ Rolled over extra data"</string>
     <string name="app_manager_support_uninstall">You can uninstall these apps</string>
     <string name="app_manager_not_support_uninstall">"Can't uninstall this apps"</string>
     <string name="app_manager_comuting_size">Computing…</string>
+    <string name="app_manager_show_all_apps_opened">Showing results from all apps…</string>
+    <string name="app_manager_search_prompt">"Couldn't find results? Try showing results from all apps."</string>
+    <string name="app_manager_open_show_all_apps_immediate">Show all results</string>
     <string name="ad_btn_default_text">ပိုမိုလေ့လာမည်</string>
     <string name="open_activity_err">အပလီကေးရှင်းကို ရှာမတွေ့ခဲ့ပါ</string>
     <string name="low_memory_warning_dialog_title">နေရာလွတ်အလုံအလောက်မရှိပါ</string>
@@ -2050,6 +2052,8 @@ Rolled over extra data"</string>
     <string name="more_game">နောက်ထပ် ဂိမ်းများ</string>
     <string name="sys_title_gamebooster_unit_gb">G</string>
     <string name="sys_title_gamebooster_unit_mb">M</string>
+    <string name="gmscore_support_service">Google Services</string>
+    <string name="gmscore_support_remind">Turn this feature on if you experience problems with using Gmail, Google Maps, and other Google apps. It will slightly reduce battery life.</string>
     <string name="google_base_app_install_choice">\"%s\" သည် ပုံမှန်အလုပ်လုပ်ရန် Google ဝန်ဆောင်မှု Framework လိုအပ်ပါသည်။ ဒေါင်းလုဒ်လုပ်ပြီး တပ်ဆင်မည်လား?</string>
     <string name="application_item_disable">ကန့်သတ်ထားသော</string>
     <string name="application_item_already_permission">ခွင့်ပြုထားသော</string>
@@ -2067,6 +2071,8 @@ Rolled over extra data"</string>
     <string name="scan_installed_games">ထည့်သွင်းထားသော ဂိမ်းအားလုံးအား စစ်ဆေးနေသည်…</string>
     <string name="boostering">အရှိန်မြှင့်နေသည်…</string>
     <string name="booster_suc">အောင်မြင်စွာ ရှိန်မြှင့်တင်ပြီးပြီ</string>
+    <string name="auto_booster_suc">Boosted successfully</string>
+    <string name="auto_back_booster">Stop boosting</string>
     <string name="support_game_booster_tips">အရှိန်မြှင့်ခြင်း&amp;ဂိမ်းစကားမှုအတွေ့အကြုံကိုတိုးတက်အောင်လုပ်ခြင်း</string>
     <string name="setting">ဆက်တင်များ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
@@ -2106,7 +2112,7 @@ Rolled over extra data"</string>
     <string name="game_anti_disturb_msg">ဂိမ်း မနှောင့်ယှက်ပါနှင့်</string>
     <string name="gamebooster_main_activity_back">နောက်သို့</string>
     <string name="data_booster_title">ဒေတာချိတ်ဆက်မှုအရှိန်တင်သည်</string>
-    <string name="data_booster_desc">ချိတ်ဆက်မှုတည်ငြိမ်ရန် အခြား SIM အထိုင်ကို ပိတ်ပါ</string>
+    <string name="data_booster_desc">ချိတ်ဆက်မှုတည်ငြိမ်ရန် အခြား ဆင်းမ်အထိုင်ကို ပိတ်ပါ</string>
     <string name="international_Ad">Ad</string>
     <string name="thermal_tips_title">သတိပြုရန်</string>
     <string name="thermal_tips_message">လုပ်ဆောင်ရည်မုဒ်အောက်တွင် ဂိမ်းကစားခြင်းသည် စက်အား အပူလွန်စေနိုင်သည်။</string>
@@ -2117,7 +2123,13 @@ Rolled over extra data"</string>
     <string name="game_ad_recommendation">လူတိုင်း ကစားနေသည်</string>
     <string name="game_booster_close">ဂိမ်းအရှိန်မြှင့်တင်မှု ပိတ်ထားသည်</string>
     <string name="databooster_tips_title">သတိပြုရန်</string>
-    <string name="databooster_tips_message">ဒေတာကဒ်မှလွဲ၍ ကျန် SIM ကဒ်အားလုံးကို ကန့်သတ်ထားမည်။ ဂိမ်းပုံမှန်ကစား၍ မရပါက ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါ။</string>
+    <string name="databooster_tips_message">ဒေတာကဒ်မှလွဲ၍ ကျန် ဆင်းမ်ကဒ်အားလုံးကို ကန့်သတ်ထားမည်။ ဂိမ်းပုံမှန်ကစား၍ မရပါက ဤအင်္ဂါရပ်ကို ပိတ်လိုက်ပါ။</string>
+    <string name="gb_description_image_button_answer">Answer</string>
+    <string name="gb_description_image_button_video_answer">Video call</string>
+    <string name="gb_description_image_button_reject">Decline</string>
+    <string name="gs_autobooster">Boost automatically</string>
+    <string name="gs_autobooster_detail">Boost speed for selected games automatically</string>
+    <string name="gs_autobooster_dialog_message">"If you're using Xunyou speed boost, open games on the designated page."</string>
     <string name="power_center_consume_rank">ဘက်ထရီ သုံးပုံသုံးနည်း</string>
     <string name="power_center_custom_title">ဘက်ထရီ ပရိုဖိုင်များ</string>
     <string name="power_center_auto_shutdown_summary_default">သင့်ကိရိယာကို စီစဥ်ထားသော အချိန်အတိုင်း ပါဝါ ဖွင့်ပါ (သို့) ပိတ်ပါ။</string>

@@ -10,11 +10,11 @@
     <string name="user_agreement">ဝန်ဆောင်မှုသတ်မှတ်ချက်များ</string>
     <string name="privacy_policy">ကိုယ်ရေးသီးသန့်ပေါ်လစီ</string>
     <string name="user_manual">သုံးသူလမ်းညွှန်</string>
-    <string name="no_sim">မည်သည့် SIM ကဒ်မှ ရှာမတွေ့ပါ။</string>
-    <string name="sim_locked">SIM ကဒ် သော့ခတ်ထားသည်။</string>
+    <string name="no_sim">မည်သည့် ဆင်းမ်ကဒ်မှ ရှာမတွေ့ပါ။</string>
+    <string name="sim_locked">ဆင်းမ်ကဒ် သော့ခတ်ထားသည်။</string>
     <string name="sim_in_airplane_mode">လေယာဉ်သုံးနည်းပုံစံကို ပိတ်ပါ</string>
-    <string name="sim_not_ready">SIM ကဒ် မအားပါ။ နောက်မှ ထပ်ကြိုးစားပါ။</string>
-    <string name="sim_unavailable">SIM ကဒ် ရှိမနေပါ။</string>
+    <string name="sim_not_ready">ဆင်းမ်ကဒ် မအားပါ။ နောက်မှ ထပ်ကြိုးစားပါ။</string>
+    <string name="sim_unavailable">ဆင်းမ်ကဒ် ရှိမနေပါ။</string>
     <string name="activating">သက်ဝင်ခလုတ်ဖွင့်နေဆဲ…</string>
     <string name="sync_one_time_sync">ဆင့်ခ်လုပ်ရန် ( %1$s ) အား ထိနှိပ်ပါ</string>
     <string name="select_item">အိုင်တမ်များရွေး</string>
@@ -45,6 +45,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">တီရာဘိုက်</string>
     <string name="size_peta_byte">ပီတာဘိုက်</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">ပြီးပါပြီ</string>
     <string name="date_picker_dialog_title">နေ့စွဲ သတ်မှတ်ပါ</string>
     <string name="time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>

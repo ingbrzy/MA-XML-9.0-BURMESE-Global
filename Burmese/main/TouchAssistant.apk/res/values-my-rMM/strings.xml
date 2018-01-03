@@ -37,7 +37,7 @@
     <string name="name_wechat_payment_code">WeChat ပေးချေမှု</string>
     <string name="name_wechat_scan">WeChat စကန်နာ</string>
     <string name="nfc_all_mipay_card_not_in_use">Mi Pay အား အသက်မသွင်းရသေး</string>
-    <string name="nfc_trans_card_not_in_use">သယ်သူပို့ဆောင်ရေးကတ် အသက်မသွင်းရသေး</string>
+    <string name="nfc_trans_card_not_in_use">သယ်သူပို့ဆောင်ရေးကဒ် အသက်မသွင်းရသေး</string>
     <string name="not_working">%s (အလုပ်မလုပ်နေပါ)</string>
     <string name="open">ဖွင့်မည်</string>
     <string name="open_panel">အလွယ်စက်လုံးအား ဖွင့်ပါ</string>

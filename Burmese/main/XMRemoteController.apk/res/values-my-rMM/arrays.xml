@@ -25,4 +25,29 @@
         <item>အဘယ်ကြောင့် A/Cအား ဖွင့်၍ရပြီး ပိတ်၍မရသနည်း?</item>
         <item>Mi 3, Mi 2, နှင့် Redmi တို့အား ရီမုဒ်အဖြစ်အသုံးပြု၍ ရနိုင်ပါသလား?</item>
     </string-array>
+    <string-array name="voice_ac_help">
+        <item>ဧည့်ခန်း၌ ရှိသော Haier အဲကွန်းကိုဖွင့်ပါ</item>
+        <item>အပူချိန်ကို ၂၅ ဒီဂရီသို့သတ်မှတ်ပါ</item>
+        <item>လေဦးတည်ရာကို \"အပေါ်\"သို့ ပြောင်းပါ</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Gree အဲကွန်းကို ဖွင့်ပါ</item>
+        <item>ပန်ကာခေါင်းကို လှည့်ပါ</item>
+        <item>ပန်ကာ အရှိန်မြှင့်ပါ</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>ရုပ်သံဖမ်းစက်ကို ဖွင့်ပါ</item>
+        <item>Hunan TV ကြည့်ချင်သည်</item>
+        <item>လိုင်း၁၅ သို့ ပြောင်းပါ</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>AC ဖွင့်ပါ</item>
+        <item>Shenzhen TV ကြည့်ချင်သည်</item>
+        <item>လိုင်း၁၂ သို့ ပြောင်းပါ</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>အိပ်ခန်းထဲမှ TV ကို ဖွင့်ပါ</item>
+        <item>TV ပိတ်ပါ</item>
+        <item>TV အသံချဲ့ပါ</item>
+    </string-array>
 </resources>

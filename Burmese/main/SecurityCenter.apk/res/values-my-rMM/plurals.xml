@@ -24,6 +24,12 @@
     <plurals name="traffic_setting_app_count">
         <item quantity="other">အက်ပ် %dခု</item>
     </plurals>
+    <plurals name="bg_network_allow_count">
+        <item quantity="other">%d apps can connect to the network in the background</item>
+    </plurals>
+    <plurals name="bg_network_restrict_count">
+        <item quantity="other">"%d apps can't connect to the network in the background"</item>
+    </plurals>
     <plurals name="daily_sim_over_limit_notify_title">
         <item quantity="other">သင်သည် နေ့စဉ်ဒေတာကန့်သတ်ချက် %s ကို သုံးပြီးနေပါပြီ။</item>
     </plurals>
@@ -43,6 +49,9 @@
     </plurals>
     <plurals name="hints_roaming_found_app_count_title">
         <item quantity="other">အက်ပ် %d ခုကို တွေ့ရှိခဲ့သည်</item>
+    </plurals>
+    <plurals name="network_restrict_count">
+        <item quantity="other">"Network access is restricted for &lt;font color='#ff0000'>%d:&lt;/font> apps"</item>
     </plurals>
     <plurals name="om_ill_proc_multi_app_title">
         <item quantity="other">အက်ပ် %d ခု ပုံမှန်အလုပ်မလုပ်သဖြင့် ဘက်ထရီအားမခံပါ</item>
@@ -193,9 +202,6 @@
     </plurals>
     <plurals name="app_manager_start_count">
         <item quantity="other">%d ကြိမ်</item>
-    </plurals>
-    <plurals name="app_manager_reject_count">
-        <item quantity="other">%d ကြိမ်ပိတ်ဆို့ခဲ့သည်</item>
     </plurals>
     <plurals name="app_usage_day">
         <item quantity="other">လွန်ခဲ့သော %d ရက်က သုံးထားသည်</item>

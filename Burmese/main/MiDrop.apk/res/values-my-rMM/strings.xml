@@ -22,6 +22,7 @@
     <string name="search_menu_title">ရှာဖွေပါ</string>
     <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="app_name">Mi Drop</string>
+    <string name="btn_save">သိမ်းဆည်းမည်</string>
     <string name="cancel_confirm">လွှဲပြောင်းမှုအား ပယ်ဖျက်မည်</string>
     <string name="cancel_lang">ပယ်ဖျက်မည်</string>
     <string name="cancel_message">လွှဲပြောင်းမှုကို ဖျက်သိမ်းလျှင် အခြားသူသည်ဖိုင်များကို လက်ခံနိုင်မည်မဟုတ်ပါ။ လွှဲပြောင်းမှုကို ဖျက်သိမ်းမလား?</string>
@@ -37,10 +38,14 @@
     <string name="default_lang">စနစ် ဘာသာစကား</string>
     <string name="delete">ဖျက်မည်</string>
     <string name="delete_item_desc">ဤဖိုင်ကို လွှဲပြောင်းမှုစာရင်းမှ ဖျက်မလား?</string>
+    <string name="dialog_btn_setup">သတ်မှတ်မည်</string>
     <string name="dialog_close_data">မိုဘိုင်းဒေတာကို ပိတ်မည်</string>
     <string name="dialog_mobile_data_warn">သင်မိုဘိုင်းဒေတာကို ဆက်ဖွင့်ထားလျှင် အခြားသူသည် သင်၏မိုဘိုင်းဒေတာကို သုံးနိုင်သည်။</string>
     <string name="dialog_mobile_data_warn_title">မိုဘိုင်းဒေတာကို ပိတ်မည်</string>
+    <string name="dialog_msg_need_find_friend_permission">အနီးအနားရှိ သူငယ်ချင်းများကို ရှာနိုင်ရန် Mi Drop မှ ခွင့်ပြုချက်အချို့ လိုအပ်ပါသည်။</string>
+    <string name="dialog_msg_need_set_hotspot_permission">ခရီးဆောင် ဟော့စ်ပေါ့ကို သတ်မှတ်နိုင်ရန် Mi Drop မှ ခွင့်ပြုချက်အချို့ လိုအပ်ပါသည်။</string>
     <string name="dialog_ok">ဆက်လက် လုပ်ဆောင်ပါ</string>
+    <string name="dialog_title_permission_required">လိုအပ်သော ခွင့်ပြုချက်များ</string>
     <string name="enable_ap_message">Android ၇.၁ နှင့်အထက် ဗားရှင်းများသည် Wi-Fi ဟော့စပေါ့အလိုအလျောက်ဖွင့်ခြင်းကို မထောက်ပံ့ပါ။ ကိုယ်တိုင်ဖွင့်ပါ။</string>
     <string name="enable_ap_quit">ထွက်မည်</string>
     <string name="enable_ap_set">သတ်မှတ်မည်</string>
@@ -73,6 +78,7 @@
 
 Android ၆.၀ နှင့်အထက် ဗားရှင်းများတွင် ဖိုင်လွှဲပြောင်းမှုလုပ်ရန် တည်နေရာဝန်ဆောင်မှုကို ဖွင့်ရမည်။"</string>
     <string name="location_skip">ကျော်သွားမည်</string>
+    <string name="max_send_file">၉၉+</string>
     <string name="never_remind">ထပ်ပြီး မပြပါနှင့်</string>
     <string name="no_file">ဗလာ</string>
     <string name="no_network">"ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။
@@ -87,6 +93,7 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="other_files">ဖိုင်များ</string>
     <string name="popup_window_bottom_bar_send">ပေးပို့မည်</string>
     <string name="popup_window_header_clear_all">ရှင်းပစ်မည်</string>
+    <string name="prompt_grant_write_settings_permission">Mi Drop အား စနစ်ဆက်တင် မွမ်းမံခွင့်ပြုမည်။</string>
     <string name="receive">လက်ခံမည်</string>
     <string name="receive_exit_dialog_message">သင်လွှဲပြောင်းမှုကို ဖျက်သိမ်းလျှင် ဖိုင်များပေးပိုမည် မဟုတ်ပါ။ ဖျက်သိမ်း မလား?</string>
     <string name="receive_exit_dialog_negative_btn">ဆက်လက် လက်ခံမည်</string>
@@ -133,7 +140,11 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="sender_transfer_interrupt">လွှဲပြောင်းမှု ပြတ်တောက်သွားသည်။ ဖိုင်များ လွှဲပြောင်းနေစဥ် Wi-Fi ကို မပိတ်ပါနှင့်။</string>
     <string name="sender_wait">ဖိုင်များ ပေးပို့နေသည်…</string>
     <string name="sender_wait_queue">ပေးပို့တော့မည်…</string>
+    <string name="setname_enter_name_hint">အမည်ပြောင်တစ်ခု ရိုက်ထည့်ပါ</string>
+    <string name="setname_enter_name_prompt">အမည်ပြောင်သည် အခြားသူများ သင့်ကိုရှာဖွေရာတွင် လွယ်ကူစေသည်။</string>
+    <string name="setname_title">အမည်ပြောင်ကို ပြင်မည်</string>
     <string name="setting_now">သတ်မှတ်မည်</string>
+    <string name="settings_set_name">အမည်ပြောင်</string>
     <string name="share_desc">မိုဘိုင်းဒေတာ မသုံးဘဲ Mi Drop အား မျှဝေမည်</string>
     <string name="share_mi_drop">Mi Drop ကို သူငယ်ချင်းများထံ မျှဝေမည်</string>
     <string name="step_1">"အဆင့် ၁- 
@@ -166,6 +177,4 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="want_send">ဖိုင်များ ပေးပို့မည်</string>
     <string name="wifi_name">Wi-Fi အမည်-</string>
     <string name="wifi_psw">စကားဝှက်-</string>
-    <string name="date_format_ddmmyyyy">dd/MM/yyyy</string>
-    <string name="date_format_ddmmyyyyhmma">dd/MM/yyyy h:mm a</string>
 </resources>

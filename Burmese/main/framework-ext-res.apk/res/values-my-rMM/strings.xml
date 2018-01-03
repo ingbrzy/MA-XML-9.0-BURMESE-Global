@@ -74,7 +74,7 @@
     <string name="screen_button_notification_title">လမ်ကြောင်းပြခလုတ်များ ပိတ်နေဆဲပါ</string>
     <string name="screen_button_notification_text">၄င်းတို့ကိုဖွင့်ရန် ပင်မခလုတ်နှင့်ပါဝါခလုတ်အား တပြိုင်နက် နှိပ်ပါ။</string>
     <string name="screen_paper_mode_enter_toast">စာဖတ်ခြင်းမုဒ်အား ဖွင့်ထားသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဆက်တင်များ>ပြသခြင်း>စာဖတ်ခြင်းမုဒ် သို့သွားရောက်ပါ</string>
-    <string name="sim_added_reboot_title">သင်၏စက်အား ပြန်လည်စဖွင့်ပြီးနောက် SIM ကဒ် အသက်ဝင်ပါလိမ့်မည်။</string>
+    <string name="sim_added_reboot_title">သင်၏စက်အား ပြန်လည်စဖွင့်ပြီးနောက် ဆင်းမ်ကဒ် အသက်ဝင်ပါလိမ့်မည်။</string>
     <string name="sim_added_reboot_confirm">ပိတ်ပြီးတဖန်ပြန်စပါ</string>
     <string name="softap_notifif_title">ကြိုးမဲ့အင်တာနက်ဖြန့်ကျက်နေသည့်ခလုတ် \"%s\" ပွင့်နေသည်</string>
     <string name="softap_notifif_summary">%d ချိတ်ဆက်နေသည်</string>
@@ -99,7 +99,7 @@
     <string name="international_livetalk_enable">ပြည်ပခေါ်ဆိုမှုများအတွက် ငွေဖြည့်ပက်က​ေ့ချ်အား အသုံးပြုခြင်း</string>
     <string name="all_call_livetalk_enable">ပြည်တွင်း/ပြည်ပခေါ်ဆိုမှုများအတွက် ငွေဖြည့်ပက်က​ေ့ချ်အား အသုံးပြုခြင်း</string>
     <string name="all_call_livetalk_remain_mins">ကျန်ရှိနေသော မိနစ်−%1$s ပြည်တွင်း | %2$s ပြည်ပ</string>
-    <string name="enable_livetalk_title">ငွေဖြည့်ကတ်အား ဖွင့်ပါ</string>
+    <string name="enable_livetalk_title">ငွေဖြည့်ကဒ်အား ဖွင့်ပါ</string>
     <string name="enable_livetalk_summary">သင့်ဖုန်းခေါ်ဆိုများ၏70%အား ခ​ျွေတာပါ</string>
     <string name="cancel_action">ပယ်ဖျက်ပါ</string>
     <string name="set_password_action">စကားဝှက်သတ်မှတ်</string>
@@ -108,7 +108,7 @@
     <string name="apply_password_confirm_dlg_title">%sစကားဝှက်</string>
     <string name="apply_password_confirm_dlg_msg">%sအတွက် ဆက်တင်များသို့ ဝင်ရောက်ရန် သင်၏လက်ရှိ မျက်နှာပြင်သော့ခတ် စကားဝှက်အား အသုံးပြုပါ</string>
     <string name="apply_password_action">အိုကေ</string>
-    <string name="subinfo_default_name">SIM %d</string>
+    <string name="subinfo_default_name">ဆင်းမ်%d</string>
     <string name="ignore_home_when_fingerprint_enrolling_msg">သင့်လက်ချောင်းကို ဟုမ်းခလုတ်ပေါ်တွင် တင်ထားပါ</string>
     <string name="maml_component_customization_title">ဆက်တင်များ</string>
     <string name="default_name">မူလသတ်မှတ်ချက်</string>
@@ -164,11 +164,11 @@
     <string name="configure_input_methods">ကီးဘုတ်များရွေးချယ်ပါ</string>
     <string name="miui_upgrading_notification_title">စနစ်ကို လုဒ်တင်နေသည်၊ အချို့အင်္ဂါရပ်များ ပုံမှန်အလုပ်မလုပ်နိုင်ပါ။</string>
     <string name="miui_screen_ratio_hint">မျက်နှာပြင်အချိုးစား ဆိုင်ရာကိစ္စရပ်များ</string>
-    <string name="miui_screen_ratio_hint_message">This app is allowed to run in the fullscreen mode, which may cause it to be displayed incorrectly. You can change this in Settings > Full screen display.</string>
+    <string name="miui_screen_ratio_hint_message">ဤအက်ပ်သည် မျက်နှာပြင်အပြည့်မုဒ် သုံး၍ရသည်၊ သို့သော် ပြသမှု မှားနိုင်ခြေရှိသည်။ ဆက်တင်များ > မျက်နှာပြင်အပြည့်သို့သွား၍ ပြောင်းလဲနိုင်သည်။</string>
     <string name="miui_screen_ratio_hint_dont_show_again">နောက်ထပ် မပြပါနှင့်</string>
     <string name="miui_screen_ratio_hint_ok">အိုကေ</string>
     <string name="miui_screen_ratio_hint_go_to_settings">ဆက်တင်သို့ သွားပါ</string>
     <string name="switching_tv">ပြောင်းနေသည်…</string>
     <string name="switch_desc_tv">စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။</string>
-    <string name="switch_brand_desc_tv">Security services provided by Spaces Mobile</string>
+    <string name="switch_brand_desc_tv">Spaces Mobile မှ လုံခြုရေးဝန်ဆောင်မှုများကို ပံ့ပိုးသည်</string>
 </resources>

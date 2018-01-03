@@ -5,8 +5,8 @@
     <string name="account_container_title">သွင်းယူသောနေရာ</string>
     <string name="account_default">ဖုန်း</string>
     <string name="account_phone">ဖုန်း-မျှသာ၊ ဆင့်ခ်လုပ်မထားပါ</string>
-    <string name="account_sim">SIM ကဒ်</string>
-    <string name="account_sim2">SIM ကဒ် %d</string>
+    <string name="account_sim">ဆင်းမ်ကဒ်</string>
+    <string name="account_sim2">ဆင်းမ်ကဒ် %d</string>
     <string name="account_type_format">%1$s အဆက်အသွယ်</string>
     <string name="actionIncomingCall">အဝင်ဖုန်းများ</string>
     <string name="action_menu_overflow_description">နောက်ထပ် ရွေးစရာများ</string>
@@ -90,13 +90,14 @@
     <string name="call_radio">ရေဒီယိုဖုန်းကို ခေါ်ပါ</string>
     <string name="call_record_setting_miui">ဆက်တင်များကို မှတ်ထားပါ</string>
     <string name="call_settings">ဆက်တင်များ</string>
-    <string name="call_sim1_description">SIM 1</string>
-    <string name="call_sim1_menu_title">SIM1 မှခေါ်ပါ</string>
-    <string name="call_sim2_description">SIM 2</string>
-    <string name="call_sim2_menu_title">SIM2 မှခေါ်ပါ</string>
+    <string name="call_sim1_description">ဆင်းမ်1</string>
+    <string name="call_sim1_menu_title">ဆင်းမ်1 မှခေါ်ပါ</string>
+    <string name="call_sim2_description">ဆင်းမ်2</string>
+    <string name="call_sim2_menu_title">ဆင်းမ်2 မှခေါ်ပါ</string>
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">အလုပ်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_work_mobile">အလုပ်မိုဘိုင်းဖုန်းကို ခေါ်ပါ</string>
@@ -132,7 +133,7 @@
     <string name="callrecordview_menu_edit_call_note">ခေါ်ဆိုမှုမှတ်စုကို ပြုပြင်ပါ</string>
     <string name="callrecordview_menu_ip">အော်တို IP ခေါ်ဆိုမှု</string>
     <string name="callrecordview_menu_livetalk">ငွေဖြည့်သွင်းသည့် ပက်ကေ့ချ်</string>
-    <string name="callrecordview_menu_misim">Mi SIM</string>
+    <string name="callrecordview_menu_misim">Mi ဆင်းမ်</string>
     <string name="callrecordview_menu_mobiledata">ဒေတာဝယ်ယူပါ</string>
     <string name="callrecordview_menu_paste">ကူးထည့်</string>
     <string name="callrecordview_menu_recharge">ငွေဖြည့်မည်</string>
@@ -179,7 +180,7 @@
     <string name="cloud_antispam_marked">အလံပြခဲ့သည်</string>
     <string name="cloud_antispam_title">ခေါ်သူ ID</string>
     <string name="cloud_recommend_msg">Mi Cloud နှင့်အဆက်အသွယ်များကို ဆင့်ခ်လုပ်ရန် ထိပါ။</string>
-    <string name="cloud_state_disabled">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်း ပိတ်ထားသည်</string>
+    <string name="cloud_state_disabled">Mi Cloud ဖြင့် အဆက်အသွယ်များကို ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_state_loading">ခဏစောင့်ပါ…</string>
     <string name="cloud_state_sync_finished">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_state_syncing">Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
@@ -215,7 +216,7 @@
     <string name="contact_detail_miprofile_accept_success_toast">ဖလှယ်ထားသော ဆက်သွယ်ကဒ်များ။</string>
     <string name="contact_detail_miprofile_binded_label">အတည်ပြုပြီးသော</string>
     <string name="contact_detail_miprofile_exchange_closed">"မည်သည့်နံပါတ်မှ ဤMi အက​ောင့်ဖြင့် ဆက်စပ်နေမှုမရှိပါ။
- အဆက်သွယ်ကတ်များ ပိတ်ထားပါသည်။"</string>
+ အဆက်သွယ်ကဒ်များ ပိတ်ထားပါသည်။"</string>
     <string name="contact_detail_miprofile_privacy_settings">ကြည့်ရှု့ရန်ခွင့်ပြုချက်လိုအပ်ပါသည်</string>
     <string name="contact_detail_miprofile_request">ဆက်အသွယ်ကဒ်များ ဖလှယ်ပါ</string>
     <string name="contact_detail_miprofile_request_fail_toast">တောင်းခံမှုအားမပေးပို့နိုင်ခဲ့ပါ</string>
@@ -265,7 +266,7 @@
     <string name="contacts_unavailable_create_contact">အဆက်အသွယ်သစ်တစ်ခု ဖန်တီးပါ</string>
     <string name="contacts_unavailable_import_contacts">ဖိုင်တစ်ဖိုင်မှတင်သွင်းပါ</string>
     <string name="contacts_unavailable_import_from_old_device">စက်ဟောင်းမှ သွင်းမည်</string>
-    <string name="contacts_unavailable_import_sim_contacts">SIM အဆက်အသွယ်များကို သွင်းမည်</string>
+    <string name="contacts_unavailable_import_sim_contacts">ဆင်းမ်အဆက်အသွယ်များကို သွင်းမည်</string>
     <string name="convenient_service">ဝန်ဆောင်မှုများ</string>
     <string name="copy_number">ကော်ပီ</string>
     <string name="copy_text">ကလစ်ဘုတ်သို့ ကော်ပီကူးပါ</string>
@@ -297,10 +298,10 @@
     <string name="delete_group_dialog_message">အုပ်စု \"%1$s ကို ဖျက်ပစ်ပါ\"၊ သူတို့ကိုယ်တိုင်က အဆက်အသွယ်များဆိုလျှင် ဖျက်ပစ်လိမ့်မည်မဟုတ်ပါ။</string>
     <string name="delete_group_dialog_title">အုပ်စု ဖျက်ပစ်ပါ</string>
     <string name="delete_selected_sim_entry_miui">ရွေးချယ်ထားသော အဆက်အသွယ်များကို ဖျက်ပစ်ပါ</string>
-    <string name="delete_sim_entries_finish">SIM ကဒ်ပေါ်မှ အဆက်အသွယ်များကို ဖျက်ပစ်လိုက်သည်</string>
+    <string name="delete_sim_entries_finish">ဆင်းမ်ကဒ်ပေါ်မှ အဆက်အသွယ်များကို ဖျက်ပစ်လိုက်သည်</string>
     <string name="delete_sim_entry_miui">ဖျက်ပစ်ပါ</string>
     <string name="delete_unknown_contact_calllog_title">ခေါ်ဆိုမှုမှတ်တမ်းအား ရှင်းလင်းမလား?</string>
-    <string name="deleting_sim_entry_miui">SIM ကဒ်ပေါ်ရှိ အဆက်အသွယ်များကို ဖျက်ပစ်နေသည်…</string>
+    <string name="deleting_sim_entry_miui">ဆင်းမ်ကဒ်ပေါ်ရှိ အဆက်အသွယ်များကို ဖျက်ပစ်နေသည်…</string>
     <string name="deleting_sim_entry_miui_prepare">အဆက်အသွယ်များကို ပြင်ဆင်နေသည်…</string>
     <string name="description_add_contact">အဆက်အသွယ် ပေါင်းထည့်ပါ</string>
     <string name="description_call">%1$s ကို ဖုန်းခေါ်ပါ</string>
@@ -328,8 +329,8 @@
     <string name="description_image_button_plus">အပေါင်း</string>
     <string name="description_image_button_pound">စတာလင်ပေါင်</string>
     <string name="description_image_button_seven">ခုနစ်</string>
-    <string name="description_image_button_sim1_dial">SIM1 သုံး၍ခေါ်ဆို</string>
-    <string name="description_image_button_sim2_dial">SIM2 သုံး၍ခေါ်ဆို</string>
+    <string name="description_image_button_sim1_dial">ဆင်းမ်1 သုံး၍ခေါ်ဆို</string>
+    <string name="description_image_button_sim2_dial">ဆင်းမ်2 သုံး၍ခေါ်ဆို</string>
     <string name="description_image_button_six">ခြောက်</string>
     <string name="description_image_button_star">ကြယ်ပွင့်</string>
     <string name="description_image_button_three">သုံး</string>
@@ -374,11 +375,11 @@
 ၂။ Android စက်ပစ္စည်းများတွင် ရှာဖွေနိုင်သော မုဒ်ကိုလည်း ဖွင့်ထားရပါမည်။ 
 
 ၃။ \"ရှေ့သို့\" ကို နှိပ်ပြီး အဆက်အသွယ်များအား လိုအပ်သော ခွင့်ပြုချက်များပေးပါ။"</string>
-    <string name="device_transfer_by_sim_message">"\"၁။ အခြားစက်မှ အဆက်အသွယ်များအား SIMကဒ်ပေါ်တွင် ဦးစွာ သိမ်းဆည်းပါ။ 
+    <string name="device_transfer_by_sim_message">"\"၁။ အခြားစက်မှ အဆက်အသွယ်များအား ဆင်းမ်ကဒ်ပေါ်တွင် ဦးစွာ သိမ်းဆည်းပါ။ 
 
- ၂။ အဆက်အသွယ်အက်ပ်ရှိ ဆက်တင်များကို ဖွင့်ပါ ပြီးနောက် \"အဆက်အသွယ် တင်သွင်း/တင်ပို့\" သို့သွားရောက်၍ −−\"SIMကဒ်မှတင်သွင်း\"၊ ၄င်းကို ရွေးချယ်ရန် မည်သည့်SIM ကဒ်ကို မဆို ထိနှိပ်လိုက်ပါ၊ လိုအပ်သော အဆက်အသွယ်အားလုံးကို ရွေးချယ်ပါ ပြီးနောက် \"တင်သွင်း\"ကို ထိနှိပ်ပါ။"</string>
+ ၂။ အဆက်အသွယ်အက်ပ်ရှိ ဆက်တင်များကို ဖွင့်ပါ ပြီးနောက် \"အဆက်အသွယ် တင်သွင်း/တင်ပို့\" သို့သွားရောက်၍ −−\"ဆင်းမ်ကဒ်မှတင်သွင်း\"၊ ၄င်းကို ရွေးချယ်ရန် မည်သည့်ဆင်းမ်ကဒ်ကို မဆို ထိနှိပ်လိုက်ပါ၊ လိုအပ်သော အဆက်အသွယ်အားလုံးကို ရွေးချယ်ပါ ပြီးနောက် \"တင်သွင်း\"ကို ထိနှိပ်ပါ။"</string>
     <string name="device_version_header_bluetooth">ဘလူးတုသ်မှတစ်ဆင့်တင်သွင်းပါ</string>
-    <string name="device_version_header_no_bluetooth">SIM ကဒ်မှတင်သွင်း</string>
+    <string name="device_version_header_no_bluetooth">ဆင်းမ်ကဒ်မှတင်သွင်း</string>
     <string name="dial">ခေါ်ရန်</string>
     <string name="dialerDialpadHintText">ခေါ်ဖုန်းပေါင်းထည့်ရန် နံပါတ်နှိပ်ခေါ်ပါ</string>
     <string name="dialerIconLabel">မကြာမီက</string>
@@ -415,7 +416,7 @@
     <string name="display_options_view_family_name_first">ပထမဦးဆုံး မိသားစုအမည်</string>
     <string name="display_options_view_given_name_first">ပထမဦးဆုံး ပေးထားသည့်အမည်</string>
     <string name="display_options_view_names_as">အဖြစ် အဆက်အသွယ်အမည်များကို ကြည့်ပါ</string>
-    <string name="display_sim_contacts">SIM အဆက်အသွယ်များကို ပြပါ</string>
+    <string name="display_sim_contacts">ဆင်းမ်အဆက်အသွယ်များကို ပြပါ</string>
     <string name="display_ungrouped">အခြား အဆက်အသွယ်အားလုံး</string>
     <string name="display_warn_remove_ungrouped">Removingဆင့်ခ်နေရာမှ \"%s\" ကို ဖယ်ရှားခြင်းသည် ဆင့်ခ်နေရာ၌ အုပ်စုဖွဲ့မထားသော အဆက်အသွယ်တိုင်းကိုလည်းပဲ ဖယ်ရှားပါမည်။.</string>
     <string name="duplicate_group_name">ထိုအမည်ဖြင့် အုပ်စုသည် ရှိပြီးသားဖြစ်သည်</string>
@@ -445,9 +446,9 @@
     <string name="export_sim_contact_finish">အဆက်အသွယ်များ ပို့ပြီးပါပြီ</string>
     <string name="export_sim_contact_finish_msg">%1$d လွှဲပြောင်းခဲ့ | %2$d ပွားယူခဲ့ | %4$sမှ %3$d ကျန်ရှိနေ</string>
     <string name="export_to_sdcard">သိုလှောင်ခန်းသို့ တင်ပို့ပါ</string>
-    <string name="export_to_sim">SIM ကဒ်သို့ ပို႔ပါ</string>
-    <string name="export_to_sim1">SIM ကဒ် ၁ သို့ ပို႔ပါ</string>
-    <string name="export_to_sim2">SIM ကဒ် ၂ သို့ ပို႔ပါ</string>
+    <string name="export_to_sim">ဆင်းမ်ကဒ်သို့ ပို့ပါ</string>
+    <string name="export_to_sim1">ဆင်းမ်ကဒ် ၁ သို့ ပို့ပါ</string>
+    <string name="export_to_sim2">ဆင်းမ်ကဒ် ၂ သို့ ပို့ပါ</string>
     <string name="export_to_sim_prepare_title">ပြင်ဆင်နေ…</string>
     <string name="export_to_sim_title">ပို့နေသည်…</string>
     <string name="export_vcard_description">ဖုန်းသိုလှောင်ခန်းသို့ vCard ကို ပို့ပါ</string>
@@ -481,6 +482,7 @@
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="foundTooManyContacts">%d ဦးထက်မက တွေ့ရှိသည်။</string>
     <string name="frequentList">မကြာခဏ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="generic_no_account_prompt">သင့်ဖုန်း ပျောက်ဆုံးသွားရင်တောင်မှ၊ သင့်အဆက်အသွယ်များ စိတ်ချစွာဖြင့် ဆက်ရှိနေအောင်: အွန်လိုင်းဝန်ဆောင်မှုတစ်ခုနှင့် ဆင့်ခ်လုပ်ထားပါ။</string>
@@ -530,16 +532,16 @@
     <string name="import_from_onekey_migrate">Mi Mover အားသုံးပြီး တင်သွင်းပါ</string>
     <string name="import_from_other_phone">အခြားဖုန်းမှ သွင်းပါ</string>
     <string name="import_from_sdcard">သိုလှောင်ခန်းမှ တင်သွင်းပါ</string>
-    <string name="import_from_sim">SIM ကဒ်မှ သွင်းပါ</string>
-    <string name="import_from_sim1">SIM ကဒ် ၁ မှ သွင်းပါ</string>
-    <string name="import_from_sim2">SIM ကဒ် ၂ မှသွင်းပါ</string>
+    <string name="import_from_sim">ဆင်းမ်ကဒ်မှ သွင်းပါ</string>
+    <string name="import_from_sim1">ဆင်းမ်ကဒ် ၁ မှ သွင်းပါ</string>
+    <string name="import_from_sim2">ဆင်းမ်ကဒ် ၂ မှသွင်းပါ</string>
     <string name="import_multiple_vcard_string">vCard ဖိုင်မျိုးစုံကို သွင်းမည်</string>
     <string name="import_name">အမည်</string>
     <string name="import_one_vcard_string">vCard ဖိုင်တစ်ခု တင်သွင်းပါ</string>
     <string name="import_percent">0%</string>
     <string name="import_selected_sim_entries_miui">ရွေးချယ်ထားသော အဆက်အသွယ်များကို သွင်းပါ</string>
-    <string name="import_sim_contacts_hint_title">SIM အဆက်အသွယ်များကို သွင်းမည်</string>
-    <string name="import_sim_entries_finish">SIM ကဒ်မှအဆက်အသွယ်များကို သွင်းပြီးပါပြီ</string>
+    <string name="import_sim_contacts_hint_title">ဆင်းမ်အဆက်အသွယ်များကို သွင်းမည်</string>
+    <string name="import_sim_entries_finish">ဆင်းမ်ကဒ်မှအဆက်အသွယ်များကို သွင်းပြီးပါပြီ</string>
     <string name="import_sim_entry_miui">သွင်းပါ</string>
     <string name="import_to_xiaomi_account_confirm">သွင်းပါ</string>
     <string name="import_to_xiaomi_account_progress_finish">အဆက်အသွယ်ကို သွင်းပြီးပါပြီ</string>
@@ -548,7 +550,7 @@
     <string name="import_to_xiaomi_account_title">Mi အကောင့်သို့သွင်းပါ</string>
     <string name="import_vcard_description">ဖုန်းသိုလှောင်ခန်းမှ အဆက်အသွယ်များကို သွင်းပါ</string>
     <string name="import_vcard_dialog_message">vCard အား တင်သွင်းမည်လား?</string>
-    <string name="importing_sim_contacts_miui">SIM ကဒ်မှအဆက်အသွယ်များကို သွင်းနေသည်…</string>
+    <string name="importing_sim_contacts_miui">ဆင်းမ်ကဒ်မှအဆက်အသွယ်များကို သွင်းနေသည်…</string>
     <string name="importing_sim_contacts_miui_prepare">အဆက်အသွယ်များကို ပြင်ဆင်နေသည်…</string>
     <string name="importing_vcard_canceled_title">%s တင်သွင်းခြင်းကို ပယ်ဖျက်ပြီးပြီ</string>
     <string name="importing_vcard_description">%s ကို တင်သွင်းနေဆဲ</string>
@@ -588,7 +590,7 @@
     <string name="locale_change_in_progress">အဆက်အသွယ်စာရင်းကို ဘာသာစကားအပြောင်းအလဲဖြင့် ထင်ဟပ်နေအောင် အသစ်မွမ်းမံလုပ်ထားပေးသည်။</string>
     <string name="login_ok">ဆိုင်းအင်ဝင်မည်</string>
     <string name="low_memory_toast">မှတ်ဉာဏ်နည်းနေသည့်အတွက် ဤလုပ်ဆောင်ချက်အား အသုံးပြု၍မရ နိုင်ပါ</string>
-    <string name="lunarBirthdayLabelsGroup">လူနာ မွေးနေ့</string>
+    <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
     <string name="make_primary">ဒီရွေးပိုင်ခွင့်ကို မှတ်ထားပါ</string>
     <string name="map_custom">%s လိပ်စာကို ကြည့်ပါ</string>
     <string name="map_home">အိမ်လိပ်စာကို ကြည့်ပါ</string>
@@ -663,6 +665,7 @@
     <string name="miprofile_contact_header">ဆက်သွယ်ကဒ်များပါဝင်သည့် အဆက်သွယ်များ</string>
     <string name="miprofile_contact_meaasge">စက်ထဲရှိအဆက်သွယ်များ</string>
     <string name="miprofile_contact_verifying">အတည်ပြုနေ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_error_accept_self">သင့်ကိုယ်ပိုင်၏ အဆက်သွယ်ကဒ်အား ဖလှယ်၍မရနိုင်ပါ</string>
     <string name="miprofile_error_no_miaccount">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -750,7 +753,7 @@
 • သင်၏ အဆက်အသွယ်များကို သေသေချာချာ အရန်သိမ်းခြင်းလုပ်ပေးပါသည်။"</string>
     <string name="no_contact_details">ဒီအဆက်အသွယ်အတွက် နောက်ထပ် အချက်အလက် မရှိတော့ပါ။</string>
     <string name="no_contact_in_other_phone">အဆက်အသွယ်များ မဖျက်ထားပါ</string>
-    <string name="no_contacts_dialog_message">အဆက်အသွယ်များကို သင့် SIM ကဒ်ထဲတွင် သိမ်းထားခြင်းဖြစ်နိုင်သည်။ သင့် SIM ကဒ်ထဲမှ သင့်ဖုန်း စက်တွင်းသိုလှောင်ခန်းထဲသို့ သွင်းယူရန် ကြိုးစားပြီး ထပ်ကြိုးစားပါ။</string>
+    <string name="no_contacts_dialog_message">အဆက်အသွယ်များကို သင့် ဆင်းမ်ကဒ်ထဲတွင် သိမ်းထားခြင်းဖြစ်နိုင်သည်။ သင့် ဆင်းမ်ကဒ်ထဲမှ သင့်ဖုန်း စက်တွင်းသိုလှောင်ခန်းထဲသို့ သွင်းယူရန် ကြိုးစားပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="no_contacts_dialog_title">အဆက်အသွယ်များမတွေ့ပါ</string>
     <string name="no_contacts_selected">မည်သည့်အဆက်အသွယ်များမှ ရွေးမထားပါ။</string>
     <string name="no_sdcard_message">မည်သည့် SD ကဒ်မှ ရှာမတွေ့ပါ။</string>
@@ -786,25 +789,27 @@
     <string name="path_contacts_recovery">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များ ပြန်ရယူ</string>
     <string name="path_contacts_setting">စနစ်အက်ပ်များ/အဆက်အသွယ်များ</string>
     <string name="path_display_only_phones">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များ ပြသခြင်း/မပြည့်စုံသော နံပါတ်များအား ပြသပါနှင့်</string>
-    <string name="path_display_sim_contacts">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များပြသခြင်း/SIM အဆက်အသွယ်များအား ပြသပါ</string>
+    <string name="path_display_sim_contacts">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များပြသခြင်း/ဆင်းမ်အဆက်အသွယ်များအား ပြသပါ</string>
     <string name="path_export_to_sdcard">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/တင်သွင်း/တင်ပို့ သိမ်းဆည်းထားသော အဆက်အသွယ်များ တင်ပို့/သိုလှောင်မှုမှ တင်ပို့</string>
-    <string name="path_export_to_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/တင်သွင်း/တင်ပို့ SIM ကဒ်မှ အဆက်အသွယ်များ တင်ပို့</string>
+    <string name="path_export_to_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/တင်သွင်း/တင်ပို့ ဆင်းမ်ကဒ်မှ အဆက်အသွယ်များ တင်ပို့</string>
     <string name="path_import_export">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များ တင်သွင်း/တင်ပို့</string>
     <string name="path_import_from_other_phone">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အခြားဖုန်းမှ အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
     <string name="path_import_from_sdcard">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/သိမ်းဆည်းထားသော အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
-    <string name="path_import_from_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/SIM ကဒ်မှ အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
+    <string name="path_import_from_sim">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ဆင်းမ်ကဒ်မှ အဆက်အသွယ်များ တင်ပို့/တင်သွင်း</string>
     <string name="path_key_photo_word">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်ဓါတ်ပုံများ သတ်မှတ်ပါ</string>
     <string name="path_key_rebuild_t9_index_title">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/အညွှန်းဒေတာအား ပြန်ဆောက်</string>
-    <string name="path_key_sim_manage">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/SIM ကဒ်များ</string>
+    <string name="path_key_sim_manage">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဆင်းမ်ကဒ်များ</string>
     <string name="path_preference_contacts_filter">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များပြသခြင်း/အဆက်အသွယ် စာရင်းအားစီမံ</string>
     <string name="path_remove_duplicate">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/တူညီသော အဆက်သွယ်များအား ပေါင်းစည်းလိုက်ပါ</string>
     <string name="path_share_visible_contacts">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ အဆက်အသွယ်များ တင်သွင်း/တင်ပို့/ဝေမျှထားသော အဆက်အသွယ်များ</string>
-    <string name="path_sim_capacity">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/SIM ကဒ်သိုလှောင်မှု</string>
+    <string name="path_sim_capacity">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ဆင်းမ်ကဒ်သိုလှောင်မှု</string>
     <string name="path_simple_mode">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ဓါတ်ပုံများနှင့် အချက်အလက်များ ပြသခြင်း</string>
     <string name="path_smart_group_title">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များပြသခြင်း/စမတ်အုပ်စုများ</string>
     <string name="path_wipe_data">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဒေတာရှင်းလင်း</string>
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
@@ -842,9 +847,9 @@
     <string name="pref_key_photo_word_title">အဆက်အသွယ်ဓာတ်ပုံများကို သတ်မှတ်ပါ</string>
     <string name="pref_key_rebuild_t9_index_message">ရှာဖွေ ပြဿနာများကို ဖြေရှင်းရန် အညွှန်းကို ပြန်ဆောက်ပါ</string>
     <string name="pref_key_rebuild_t9_index_title">အညွှန်းဒေတာကို ပြန်ဆောက်ပါ</string>
-    <string name="pref_key_sim_manage">SIM ကဒ်များ</string>
-    <string name="pref_key_sim_manage1">SIM ကဒ် ၁ ကို တည်ဆောက်ပါ</string>
-    <string name="pref_key_sim_manage2">SIM ကဒ် ၂ ကို တည်ဆောက်ပါ</string>
+    <string name="pref_key_sim_manage">ဆင်းမ်ကဒ်များ</string>
+    <string name="pref_key_sim_manage1">ဆင်းမ်ကဒ် ၁ ကို တည်ဆောက်ပါ</string>
+    <string name="pref_key_sim_manage2">ဆင်းမ်ကဒ် ၂ ကို တည်ဆောက်ပါ</string>
     <string name="pref_summary_import_from_account">Google မှ အဆက်အသွယ်များကို ရွှေ့ပြောင်းပြီး ကျွန်ုပ်၏ Mi အကောင့်ထဲသို့ ဖလှယ်ပါ</string>
     <string name="pref_title_account_import">အဆက်အသွယ်ကိုသွင်းပါ</string>
     <string name="pref_title_import_from_account">Mi အကောင့်သို့သွင်းပါ</string>
@@ -911,7 +916,7 @@
     <string name="quit_dialog_confirm_title">အဆက်သွယ်များ ပေါင်းစပ်ခြင်းအား ပယ်ဖျက်ပါ</string>
     <string name="readOnlyContactDeleteConfirmation">ဒီအဆက်အသွယ်တွင် အကောင့်အများအပြားမှ အချက်အလက်တွေ ပါရှိနေသည်။ ဖတ်ရန်-သာ အကောင့်များမှ အချက်အလက်တွေကို သင့်အဆက်အသွယ်များ၏ စာရင်းများ၌ ဝှက်ထားနိုင်သော်လည်း၊ ဖျက်ပစ်လို့မရနိုင်ပါ။</string>
     <string name="readOnlyContactWarning">ဖတ်ရန်-သာ အကောင့်များမှ အဆက်အသွယ်များကို ဖျက်ပစ်လို့မရပါ၊ သို့သော် ၎င်းတို့ကို သင့်အဆက်အသွယ်များ၏ စာရင်းများ၌ ဝှက်ထားနိုင်သည်။</string>
-    <string name="readingSimContacts">SIM ကဒ်ကို ဖတ်နေဆဲ…</string>
+    <string name="readingSimContacts">ဆင်းမ်ကဒ်ကို ဖတ်နေဆဲ…</string>
     <string name="reading_vcard_canceled_title">vCard ဒေတာ ဖတ်ခြင်းကို ပယ်ဖျက်ပြီးပြီ</string>
     <string name="reading_vcard_failed_title">vCard ဒေတာကို ဖတ်မရပါ</string>
     <string name="rebuild_t9_index_dialog_message">ပြန်ဆောက်ဆဲ…</string>
@@ -960,15 +965,15 @@
     <string name="search_contacts_display">အဆက်အသွယ်များ−ပြသ</string>
     <string name="search_contacts_more">စီမံ−အဆက်အသွယ်များ</string>
     <string name="search_contacts_recovery">အဆက်အသွယ်များ</string>
-    <string name="search_contacts_setting">အဆက်အသွယ် ဆက်တင်များ၊ ဓာတ်ပုံများပြသခြင်းနှင့်အချက်အလက်၊ အဆက်အသွယ် ဓာတ်ပုံများသတ်မှတ်ခြင်း၊တင်သွင်းနှင့်တင်ပို့၊မျှဝေခြင်း၊ SD ကဒ်မှတင်သွင်း၊SIM ကဒ်မှတင်သွင်း၊အခြားဖုန်းမှတင်သွင်း၊SD ကဒ်မှတင်ပို့၊SIM ကဒ်မှတင်ပို့၊အဆက်အသွယ်များမျှဝေခြင်း၊ ပြသစိတ်ကြိုက်များ၊မပြည့်စုံသောနံပါတ်များအား ကွယ်ဝှက်၊SIMအဆက်အသွယ်များပြသ၊အဆက်အသွယ် စာရင်းအားစီမံ၊စမတ် အုပ်စုများ၊အဆက်အသွယ်များအား စီမံခန့်ခွဲ၊ ပွားယူထားသောအဆက်အသွယ်များအား ပေါင်းစပ်ပါ၊အစုလိုက်ဖယ်ရှားပါ၊ဒေတာအားရှင်းပစ်ပါ၊အညွှန်းကိန်းဒေတာအား ပြန်တည်ဆောက်၊ SIM ကဒ်များ၊SIM ကဒ်သိုလှောင်ခန်း၊အဆက်အသွယ်များပြန်ရယူမှု မိတ်ဆက်၊အဆက်အသွယ် ဓာတ်ပုံများ</string>
+    <string name="search_contacts_setting">အဆက်အသွယ် ဆက်တင်များ၊ ဓာတ်ပုံများပြသခြင်းနှင့်အချက်အလက်၊ အဆက်အသွယ် ဓာတ်ပုံများသတ်မှတ်ခြင်း၊တင်သွင်းနှင့်တင်ပို့၊မျှဝေခြင်း၊ SD ကဒ်မှတင်သွင်း၊ဆင်းမ်ကဒ်မှတင်သွင်း၊အခြားဖုန်းမှတင်သွင်း၊SD ကဒ်မှတင်ပို့၊ဆင်းမ်ကဒ်မှတင်ပို့၊အဆက်အသွယ်များမျှဝေခြင်း၊ ပြသစိတ်ကြိုက်များ၊မပြည့်စုံသောနံပါတ်များအား ကွယ်ဝှက်၊ဆင်းမ်အဆက်အသွယ်များပြသ၊အဆက်အသွယ် စာရင်းအားစီမံ၊စမတ် အုပ်စုများ၊အဆက်အသွယ်များအား စီမံခန့်ခွဲ၊ ပွားယူထားသောအဆက်အသွယ်များအား ပေါင်းစပ်ပါ၊အစုလိုက်ဖယ်ရှားပါ၊ဒေတာအားရှင်းပစ်ပါ၊အညွှန်းကိန်းဒေတာအား ပြန်တည်ဆောက်၊ ဆင်းမ်ကဒ်များ၊ဆင်းမ်ကဒ်သိုလှောင်ခန်း၊အဆက်အသွယ်များပြန်ရယူမှု မိတ်ဆက်၊အဆက်အသွယ် ဓာတ်ပုံများ</string>
     <string name="search_display_only_phones">အဆက်အသွယ်များ−ပြသ</string>
     <string name="search_display_sim_contacts">အဆက်အသွယ်များ−ပြသ</string>
     <string name="search_export_to_sdcard">အဆက်အသွယ်များ−တင်ပို့−သိုလှောင်ခန်း</string>
-    <string name="search_export_to_sim">အဆက်အသွယ်များ−တင်ပို့−SIM ကဒ်</string>
+    <string name="search_export_to_sim">အဆက်အသွယ်များ−တင်ပို့−ဆင်းမ်ကဒ်</string>
     <string name="search_import_export">တင်သွင်း−တင်ပို့−ဝေမျှ</string>
     <string name="search_import_from_other_phone">အဆက်အသွယ်များ−တင်ပို့−အခြားဖုန်း</string>
     <string name="search_import_from_sdcard">အဆက်အသွယ်များ−တင်ပို့−သိုလှောင်ခန်း</string>
-    <string name="search_import_from_sim">အဆက်အသွယ်များ−တင်သွင်း−SIM ကဒ်</string>
+    <string name="search_import_from_sim">အဆက်အသွယ်များ−တင်သွင်း−ဆင်းမ်ကဒ်</string>
     <string name="search_input_hint">သင်ဖုန်းနံပါတ်များ သို့မဟုတ် ဝန်ဆောင်မှုများအား ရှာဖွေနိုင်ပါသည်</string>
     <string name="search_key_photo_word">သတ်မှတ်ခြင်း−အဆက်အသွယ်−ဓါတ်ပုံများ−အဆက်အသွယ်များ</string>
     <string name="search_key_rebuild_t9_index_title">စီမံ−အဆက်အသွယ်များ−t9</string>
@@ -982,7 +987,7 @@
     <string name="search_simple_mode">ပြသင်ခြင်း−အချက်အလက်−ဓါတ်ပုံများ−အဆက်အသွယ်များ</string>
     <string name="search_smart_group_title">အဆက်အသွယ်များ−ပြသ</string>
     <string name="search_wipe_data">စီမံ−အဆက်အသွယ်များ</string>
-    <string name="searching_vcard_message">SD ကတ်ပေါ်က vCard ဒေတာကို ရှာနေဆဲ…</string>
+    <string name="searching_vcard_message">SD ကဒ်ပေါ်က vCard ဒေတာကို ရှာနေဆဲ…</string>
     <string name="select_all">အားလုံးကိုရွေးချယ်ပါ</string>
     <string name="select_all_exceed">အများဆုံး %1$d ရွေးနိုင်သည်၊ အားလုံးမရွေးနိုင်ပါ</string>
     <string name="select_exceed">အများဆုံး %1$d ရွေးနိုင်သည်</string>
@@ -1009,35 +1014,36 @@
     <string name="shortcutDialContact">"တိုက်ရိုက် ခေါ်ဆိုမည် "</string>
     <string name="shortcutMessageContact">တိုက်ရိုက် မက်ဆေ့ခ်ျ</string>
     <string name="showAllContactsJoinItem">အဆက်အသွယ်အားလုံး ပြပါ</string>
-    <string name="simContacts_airplaneMode">SIM ကဒ်မှ အဆက်အသွယ်များကိုသွင်းရန် လေယာဉ်မုဒ်ကို ပိတ်ထားပါ</string>
-    <string name="simContacts_empty">SIM ကဒ်ထဲတွင် အဆက်အသွယ်များမရှိပါ</string>
-    <string name="simContacts_emptyLoading">SIM ကဒ်မှ အဆက်အသွယ်များ ဆွဲချနေဆဲ…</string>
-    <string name="simContacts_title">SIM ကဒ် အဆက်အသွယ်များ</string>
-    <string name="sim_account_name">SIM</string>
-    <string name="sim_capacity">SIM ကဒ်နေရာလွတ်ကို ကြည့်ပါ</string>
+    <string name="simContacts_airplaneMode">ဆင်းမ်ကဒ်မှ အဆက်အသွယ်များကိုသွင်းရန် လေယာဉ်မုဒ်ကို ပိတ်ထားပါ</string>
+    <string name="simContacts_empty">ဆင်းမ်ကဒ်ထဲတွင် အဆက်အသွယ်များမရှိပါ</string>
+    <string name="simContacts_emptyLoading">ဆင်းမ်ကဒ်မှ အဆက်အသွယ်များ ဆွဲချနေဆဲ…</string>
+    <string name="simContacts_title">ဆင်းမ်ကဒ် အဆက်အသွယ်များ</string>
+    <string name="sim_account_name">ဆင်းမ်</string>
+    <string name="sim_capacity">ဆင်းမ်ကဒ်နေရာလွတ်ကို ကြည့်ပါ</string>
     <string name="sim_capacity_content" formatted="false">%d စုစုပေါင်း | %d သုံးစွဲထားမှု</string>
     <string name="sim_card_no_free_space_message">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
-    <string name="sim_card_no_free_space_title">SIM ကဒ်ပြည့်နေပါပြီ</string>
+    <string name="sim_card_no_free_space_title">ဆင်းမ်ကဒ်ပြည့်နေပါပြီ</string>
     <string name="sim_contact_existing">အဆက်အသွယ် ရှိပြီးသားဖြစ်သည်</string>
-    <string name="sim_contact_invalid">SIM အဆက်အသွယ်မမှန်ပါ</string>
+    <string name="sim_contact_invalid">ဆင်းမ်အဆက်အသွယ်မမှန်ပါ</string>
     <string name="sim_contact_search_error">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်</string>
-    <string name="sim_contacts">SIM ကဒ် အဆက်အသွယ်များ</string>
-    <string name="sim_error_anr_full">SIM ကဒ်ထဲတွင် နေရာလွတ်မလုံလောက်တော့ပါ</string>
-    <string name="sim_error_email_full">SIM ကဒ်ထဲတွင် နေရာလွတ်မလုံလောက်တော့ပါ</string>
+    <string name="sim_contacts">ဆင်းမ်ကဒ် အဆက်အသွယ်များ</string>
+    <string name="sim_error_anr_full">ဆင်းမ်ကဒ်ထဲတွင် နေရာလွတ်မလုံလောက်တော့ပါ</string>
+    <string name="sim_error_email_full">ဆင်းမ်ကဒ်ထဲတွင် နေရာလွတ်မလုံလောက်တော့ပါ</string>
     <string name="sim_error_email_too_long">အီးမေးလ်အရမ်းရှည်သည်</string>
     <string name="sim_error_generic_failure">မှားယွင်းမှုတစ်ခု ဖြစ်ပေါ်သည်</string>
-    <string name="sim_error_not_ready">SIM အဆက်အသွယ်များကို ရယူနေသည်…</string>
+    <string name="sim_error_not_ready">ဆင်းမ်အဆက်အသွယ်များကို ရယူနေသည်…</string>
     <string name="sim_error_number_too_long">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="sim_error_password_error">သင်ထည့်သည့် စကားဝှက်မှန်ကန်မှုမရှိပါ</string>
-    <string name="sim_error_storage_full">SIM ကဒ်သိုလှောင်ခန်း ပြည့်နေသည်</string>
+    <string name="sim_error_storage_full">ဆင်းမ်ကဒ်သိုလှောင်ခန်း ပြည့်နေသည်</string>
     <string name="sim_error_text_too_long">အမည်အရမ်းရှည်သည်</string>
-    <string name="sim_export_error">SIM အဆင်သင့်မဖြစ်သေးပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="sim_export_error">ဆင်းမ်အဆင်သင့်မဖြစ်သေးပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="sim_export_loading">UIM ကဒ်ကို ဖတ်နေဆဲ…</string>
-    <string name="sim_indexed_contact_not_exist">SIM ကဒ်ထဲရှိ နေရာအကွာအဝေး %1$d သည် အကျုံးမဝင်ပါ။ နေရာအကွာအဝေးသည် %2$d နှင့် %3$d ကြားဖြစ်ရမည်။</string>
-    <string name="sim_no_contact">SIM ကဒ်ထဲတွင် အဆက်အသွယ်များမရှိပါ</string>
-    <string name="sim_unloaded">SIM ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
+    <string name="sim_indexed_contact_not_exist">ဆင်းမ်ကဒ်ထဲရှိ နေရာအကွာအဝေး %1$d သည် အကျုံးမဝင်ပါ။ နေရာအကွာအဝေးသည် %2$d နှင့် %3$d ကြားဖြစ်ရမည်။</string>
+    <string name="sim_no_contact">ဆင်းမ်ကဒ်ထဲတွင် အဆက်အသွယ်များမရှိပါ</string>
+    <string name="sim_unloaded">ဆင်းမ်ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1119,13 +1125,13 @@
     <string name="type_voicemail">အသံမေးလ်</string>
     <string name="unable_get_device_id">IMEI ရရှိရန် မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="unfold_all">အားလုံးပြပါ</string>
-    <string name="unknow_phone_number_call_failed">အမည်မသိသောနံပါတ်ကို ခေါ်ဆိုလို့မရပါ</string>
-    <string name="unknow_phone_number_mms_failed">အမည်မသိသော နံပါတ်သို့ မက်ဆေ့ချ်ပို့လို့မရပါ</string>
+    <string name="unknow_phone_number_call_failed">အမည်မသိနံပါတ်များကို ခေါ်ဆို၍မရပါ</string>
+    <string name="unknow_phone_number_mms_failed">အမည်မသိနံပါတ်သို့ မက်ဆေ့ချ်ပို့၍ မရပါ</string>
     <string name="unknown">အမည်မသိ</string>
     <string name="unknown_contact_name">အမည်မသိသော အဆက်အသွယ်</string>
     <string name="unknown_details_add_to_contact">တည်ရှိသော</string>
     <string name="unknown_details_new_contact">အသစ်</string>
-    <string name="update_sim_contact_photo_toast">SIM အဆက်သွယ်များအတွက် ပရိုဖိုင်ပုံကို သတ်မှတ်၍မရပါ</string>
+    <string name="update_sim_contact_photo_toast">ဆင်းမ်အဆက်သွယ်များအတွက် ပရိုဖိုင်ပုံကို သတ်မှတ်၍မရပါ</string>
     <string name="upgrade_in_progress">အဆက်အသွယ်စာရင်းကို အသစ်မွမ်းမံလုပ်ထားပေးသည်။</string>
     <string name="upgrade_out_of_memory">"အဆက်အသွယ်များက အဆင့်မြှင့်တင်နေဆဲ လုပ်ငန်းစဥ်လမ်းကြောင်းတွင် ရှိနေသည်။ 
 
@@ -1169,6 +1175,7 @@
     <string name="voip_audio_description">VoIP ခေါ်ဆိုမှု</string>
     <string name="voip_video_description">VoIP ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationIconLabel">ဖုန်းလမ်းညွှန်</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>

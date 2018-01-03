@@ -310,7 +310,7 @@
     <string name="outgoing_call_error_no_phone_number_supplied">ခေါ်ဆိုမှု ပြုလုပ်ရန်၊ ဘောင်ဝင်သော နံပါတ်တစ်ခုအား ရိုက်ထည့်ပါ</string>
     <string name="duplicate_video_call_not_allowed">နောက်ထပ်ခေါ်ဆိုမှုများ ပေါင်းထည့်၍ မရပါ</string>
     <string name="no_vm_number">အသံမေးလ်နံပါတ် ပျောက်နေပါသည်</string>
-    <string name="no_vm_number_msg">မည်သည့် အသံမေးလ် နံပါတ်ကိုမှ SIM ကဒ်ထဲတွင် မသိမ်းထားပါ။</string>
+    <string name="no_vm_number_msg">မည်သည့် အသံမေးလ် နံပါတ်ကိုမှ ဆင်းမ်ကဒ်ထဲတွင် မသိမ်းထားပါ။</string>
     <string name="add_vm_number_str">နံပါတ်ထည့်မည်</string>
     <string name="change_default_dialer_dialog_title">%s အား မူလသတ်မှတ်ထားသော ဖုန်းအက်ပ်အဖြစ် အသုံးပြုမည်လား?</string>
     <string name="change_default_dialer_with_previous_app_set_text">%2$s အစား %1$s ကိုသင့်ရဲ့ စက်ရုံထုတ်ဖုန်းခေါ်အပ်ဖ်အဖြစ် သုံးလိုပါသလား</string>
@@ -356,7 +356,7 @@
     <string name="voice_dial_out">ရိုးရိုးအသံဖြင့်ခေါ်ဆို</string>
     <string name="notification_AllMissedCallTitle">လွတ်သွားသော ခေါ်ဆိုမှုအားလုံး</string>
     <string name="close">ပိတ်မည်</string>
-    <string name="callFailed_simError">SIM ကဒ် အမှား</string>
+    <string name="callFailed_simError">ဆင်းမ်ကဒ် အမှား</string>
     <string name="incall_error_supp_service_unknown">ဤဝန်ဆောင်မှုကို မပံ့ပိုးထားပါ။</string>
     <string name="incall_error_power_off">ဖုန်းခေါ်ရန် လေယာဉ်ပျံမုဒ်ကို ပိတ်ပါ</string>
     <string name="change_default_dialer_dialog_affirmative">မူလသတ်မှတ်ထားသော ဖုန်းအက်ပ်အဖြစ် အသုံးပြုမည်</string>

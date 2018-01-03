@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -47,7 +49,7 @@
     <string name="bluetooth_profile_pbap_summary">အဆက်အသွယ်များကို ဝေမျှရန် အသုံးပြုနေပါသည်</string>
     <string name="bluetooth_profile_pan_nap">အင်တာနက်ချိတ်ဆက်မှုကို ဝေမျှရန် အသုံးပြုနေပါသည်</string>
     <string name="bluetooth_profile_map">မက်ဆေ့ချ်များကို ဖတ်ရှုရန် အသုံးပြုနေပါသည်</string>
-    <string name="bluetooth_profile_sap">SIM သို့ဝင်ရောက်ရန်အသုံးပြုခဲ့သည်</string>
+    <string name="bluetooth_profile_sap">ဆင်းမ်သို့ဝင်ရောက်ရန်အသုံးပြုခဲ့သည်</string>
     <string name="bluetooth_profile_dun">ကွန်ရက်များသို့ ချိတ်ဆက်ရန် အသုံးပြုခဲ့သည်</string>
     <string name="bluetooth_a2dp_profile_summary_connected">မီဒီယာအော်ဒီယိုသို့ ချိတ်ဆက်ပါ</string>
     <string name="bluetooth_headset_profile_summary_connected">ဖုန်းအော်ဒီယို ချိတ်ထားသော</string>
@@ -61,7 +63,7 @@
     <string name="bluetooth_dun_profile_summary_connected">DUN ဆာဗာသို့ ချိတ်ဆက်ထားသော</string>
     <string name="bluetooth_pan_profile_summary_use_for">အင်တာနက်ဝင်ရောက်သုံးစွဲရန်အတွက် သုံးမည်</string>
     <string name="bluetooth_map_profile_summary_use_for">မြေပုံအတွက် အသုံးပြု</string>
-    <string name="bluetooth_sap_profile_summary_use_for">SIMသို့ဝင်ရောက်ရန် သုံးသည်</string>
+    <string name="bluetooth_sap_profile_summary_use_for">ဆင်းမ်သို့ဝင်ရောက်ရန် သုံးသည်</string>
     <string name="bluetooth_a2dp_profile_summary_use_for">မီဒီယာအော်ဒီယို အတွက် အသုံးပြုသည်</string>
     <string name="bluetooth_headset_profile_summary_use_for">ဖုန်းအော်ဒီယိုအတွက် အသုံးပြုသည်</string>
     <string name="bluetooth_opp_profile_summary_use_for">ဖိုင်လွှဲပြောင်းခြင်းအတွက်သုံး</string>
@@ -349,7 +351,7 @@
     <string name="status_bar_settings_show_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား ပြသပါ</string>
     <string name="status_bar_settings_custom_carrier">သင့်ဖုန်းလိုင်းကုမ္ပဏီအမည်အား တည်းဖြတ်ပါ</string>
     <string name="status_bar_settings_no_carrier">တစ်ခုမှ မဟုတ်</string>
-    <string name="status_bar_settings_carrier_sim">"SIM %1$s: "</string>
+    <string name="status_bar_settings_carrier_sim">"ဆင်းမ်%1$s: "</string>
     <string name="status_bar_settings_show_carrier_summary">ဖုန်းလိုင်းကုမ္ပဏီအမည်အား ဤလုပ်ဆောင်ချက်ပိတ်လိုက်စဉ် သော့ခတ်မျက်နှာပြင်နှင့် အသိပေးအချက်ပြအရိပ်တွင် ပြသနေဆဲဖြစ်ပါသည်။</string>
     <string name="status_bar_settings_show_wifi_name">Wi-Fi ပြပါ</string>
     <string name="status_bar_settings_custom_wifi_name">Wi-Fiအမည် တည်းဖြတ်ပါ</string>
@@ -360,22 +362,22 @@
     <string name="status_bar_screen_key_home">ပင်မခလုတ်</string>
     <string name="status_bar_screen_key_recent_apps">မကြာမီက အက်ပ်များခလုတ်</string>
     <string name="status_bar_screen_key_back">ဘက်ပြန်ခလုတ်</string>
-    <string name="status_bar_screen_button_key_force_immersive">Hide soft buttons</string>
-    <string name="status_bar_screen_button_force_immersive_desc">Swipe up from the bottom of the screen to show soft buttons</string>
-    <string name="screen_max_aspect_ratio_title">Fullscreen mode</string>
-    <string name="screen_max_aspect_ratio_desc">Allow selected apps to work in fullscreen mode</string>
+    <string name="status_bar_screen_button_key_force_immersive">ဆော့ဖ်ခလုတ်များကို ကွယ်ဝှက်ပါ</string>
+    <string name="status_bar_screen_button_force_immersive_desc">ဆော့ဖ်ခလုတ်များကို ထုတ်ဖော်ရန် မျက်နှာပြင်အောက်ခြေမှ ဆွဲတင်ပါ</string>
+    <string name="screen_max_aspect_ratio_title">မျက်နှာပြင်အပြည့်မုဒ်</string>
+    <string name="screen_max_aspect_ratio_desc">ရွေးထားသောအက်ပ်များကို မျက်နှာပြင်အပြည့်မုဒ်အောက်တွင် အလုပ်လုပ်ခွင့်ပေးမည်</string>
     <string name="switch_screen_button_order">မှန်ခလုတ်များ</string>
-    <string name="switch_screen_button_order_desc">မှန်နောက်နှင့် မီနူးခလုတ်</string>
-    <string name="unrestrict_max_aspect_ratio_title">These apps are optimized for fullscreen mode</string>
-    <string name="suggest_unrestrict_max_aspect_ratio_title">These apps work best in fullscreen mode</string>
-    <string name="restrict_max_aspect_ratio_title">"These apps don't work well in fullscreen mode"</string>
-    <string name="max_aspect_settings_all_app_display_loading">Just a sec…</string>
-    <string name="force_immersive_compatibility_hint_title">Compatibility issues</string>
-    <string name="force_immersive_compatibility_hint_message">Some apps might not work properly if you choose to hide soft buttons.</string>
-    <string name="force_immersive_compatibility_hide">Hide</string>
-    <string name="force_immersive_compatibility_dont_hide">"Don't hide"</string>
-    <string name="infinity_display_settings">Full display</string>
-    <string name="infinity_display_slogan">Innovation on full display</string>
+    <string name="switch_screen_button_order_desc">နောက်ဆုတ်ခလုတ်နှင့် မီနူးခလုတ် အနေအထားပြောင်းမည်</string>
+    <string name="unrestrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့်မုဒ်အတွက် ဤအက်ပ်များကို အကောင်းဆုံးပြင်ထားသည်</string>
+    <string name="suggest_unrestrict_max_aspect_ratio_title">ဤအက်ပ်များသည် မျက်နှာပြင်အပြည့်မုဒ်အောက်တွင် အကောင်းဆုံးအလုပ်လုပ်နိုင်သည်</string>
+    <string name="restrict_max_aspect_ratio_title">ဤအက်ပ်များသည် မျက်နှာပြင်အပြည့်မုဒ်အောက်တွင် ကောင်းစွာအလုပ်မလုပ်ပါ</string>
+    <string name="max_aspect_settings_all_app_display_loading">ခဏစောင့်ပါ…</string>
+    <string name="force_immersive_compatibility_hint_title">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများ</string>
+    <string name="force_immersive_compatibility_hint_message">ဆော့ဖ်ခလုတ်များကွယ်ဝှက်ရန် ရွေးချယ်ပါက အချို့အက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။</string>
+    <string name="force_immersive_compatibility_hide">ကွယ်ဝှက်ပါ</string>
+    <string name="force_immersive_compatibility_dont_hide">မကွယ်ဝှက်ပါနှင့်</string>
+    <string name="infinity_display_settings">မျက်နှာပြင်အပြည့်</string>
+    <string name="infinity_display_slogan">မျက်နှာပြင်အပြည့်ရဲ့ နောက်ထပ် ဆန်းသစ်တီထွင်မှုများ</string>
     <string name="settings_toggle_position_divider_list">ဤဘားအထက်က အထိန်းခလုတ်များသည် အလုပ်လုပ်ပါသည်</string>
     <string name="status_bar_settings_user_fold">အသိပေးချက် ဖိုလ်ဒါ</string>
     <string name="status_bar_settings_user_fold_summary">အရေးမကြီးသောအသိပေးချက်များအားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်</string>
@@ -391,6 +393,23 @@
     <string name="unimportant">အရေးမကြီးသော</string>
     <string name="check_importance">အရေးကြီးကြောင်း မှတ်သားမလား?</string>
     <string name="statusbar_permission_desc">အောက်ပါခွင့်ပြုချက်များသည် အရေးကြီးသော အသိပေးချက်များအတွက်သာ ဖြစ်သည်။</string>
+    <string name="navigation_type_settings">System navigation ways</string>
+    <string name="navigation_type_radio_text_virtual_key">Classic navigation bar</string>
+    <string name="navigation_type_radio_text_full_screen">Full screen gestures</string>
+    <string name="navigation_guide_dialog_title">Learn gesture</string>
+    <string name="navigation_guide_dialog_summary">Use gesture instead of virtual key.</string>
+    <string name="navigation_guide_dialog_ok">Learn</string>
+    <string name="navigation_guide_dialog_skip">Skip</string>
+    <string name="navigation_guide_dialog_dont_show_again">"Don't show again"</string>
+    <string name="navigation_guide_back_anim_title">Back gesture animation</string>
+    <string name="navigation_guide_back_anim_summary">Back gesture with animation</string>
+    <string name="navigation_guide_settings">Lessons</string>
+    <string name="navigation_guide_home_title">Back to home</string>
+    <string name="navigation_guide_home_summary">Swipe up from the bottom of the screen</string>
+    <string name="navigation_guide_recent_title">Switch to recents</string>
+    <string name="navigation_guide_recent_summary">Swipe up from the bottom of the screen and pause</string>
+    <string name="navigation_guide_back_title">Go back last page</string>
+    <string name="navigation_guide_back_summary">Swipe left or right from screen</string>
     <string name="abc_action_mode_done">ပြီးဆုံးပါပြီ</string>
     <string name="abc_action_bar_home_description">မူလနေရာကို သွားရန်</string>
     <string name="abc_action_bar_up_description">အပေါ်သို့သွားရန်</string>
@@ -694,6 +713,7 @@
     <string name="security_enable_widgets_title">ဝဒ်ဂျက်များဖွင့်ရန်</string>
     <string name="security_enable_widgets_disabled_summary">အက်ဒ်မင်မှ အသုံးမပြုနိုင်ရန် ပိတ်ထားခြင်း</string>
     <string name="owner_info_settings_summary">မရှိ</string>
+    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">ဥပမာ၊ Joe ၏ Android</string>
     <string name="user_info_settings_title">သုံးစွဲသူအကြောင်း</string>
     <string name="show_profile_info_on_lockscreen_label">သော့ခတ်ထားသောမျက်နှာပြင်ပေါ်သုံးစွဲသူ၏အကြောင်းပြရန်</string>
@@ -827,7 +847,7 @@
     <string name="unlock_setup_wizard_fingerprint_details">ဖုန်းမျက်နှာပြင်လော့ချမှုစလုပ်သည့်အခါ ပြင်ဆင်ရွေးချယ်ရေးနှင့်လုံခြံရေးတွင် သင့်လက်ဗွေဖြင့်လည်းလော့ချနိုင်သည်။</string>
     <string name="unlock_disable_lock_title">မျက်နှာပြင်သော့ပိတ်မည်</string>
     <string name="unlock_disable_frp_warning_title">ကိရိယာအား ကာကွယ်မှုကို ဖယ်ရှားမလား။</string>
-    <string name="unlock_disable_frp_warning_title_profile">ပရိုဖိုင်ကာကွယ်ခြင်းကို ဖယ်ရှားမလား။</string>
+    <string name="unlock_disable_frp_warning_title_profile">Remove profile protection?</string>
     <string name="unlock_disable_frp_warning_content_pattern">ကိရိယာအား ကာကွယ်ရေး အင်္ဂါရပ်များမှာ သင်၏ ပုံစံမရှိဘဲ အလုပ်မလုပ်နိုင်ပါ။</string>
     <string name="unlock_disable_frp_warning_content_pattern_fingerprint">"ကိရိယာအား ကာကွယ်ရေး အင်္ဂါရပ်များမှာ သင်၏ ပုံစံမရှိဘဲ အလုပ်မလုပ်နိုင်ပါ။   သင်၏ သိမ်းဆည်းထားသည့် လက်ဗွေများကိုပါ ကိရိယာထဲမှ ဖယ်ရှားလိုက်လျက် သင်သည် ၎င်းတို့ဖြင့် သင်၏ ဖုန်းကို သော့ဖွင့်ခြင်း၊ ဈေးဝယ်မှုကို အတည်ပြုခြင်း၊ သို့မဟုတ် အက်ပ်များထဲသို့ လက်မှတ်ထိုးဝင်ခြင်းကို မလုပ်နိုင်တော့ပါ။\""</string>
     <string name="unlock_disable_frp_warning_content_pin">ကိရိယာအား ကာကွယ်ရေး အင်္ဂါရပ်များမှာ သင်၏ PIN မရှိဘဲ အလုပ်မလုပ်နိုင်ပါ။</string>
@@ -955,6 +975,7 @@
     <string name="wifi_display_options_name">အမည်</string>
     <string name="wifi_band_24ghz">2.4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
+    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းနှင့် အခြားစက်ပစ္စည်း ထိလိုက်လျှင် အချက်အလက် ဖလှယ်ရန် ခွင့်ပြုသည်</string>
     <string name="android_beam_settings_title">Android လှိုင်း</string>
@@ -1226,9 +1247,9 @@
     <string name="doze_summary">သင့် ကိရိယာအား ကောက်ယူစဉ် သို့မဟုတ် အကြောင်းကြားချက်များ ရရှိစဉ် ဖန်မျက်နှာပြင် တွင် အသိပေးရန်</string>
     <string name="title_font_size">စာလုံးအရွယ်အစား</string>
     <string name="short_summary_font_size">စာလုံးကို ပိုကြီးအောင် သို့မဟုတ် ပိုသေးအောင်ပြုလုပ်ပါ</string>
-    <string name="sim_lock_settings">SIM လော့ခ်ချခြင်း အပြင်အဆင်များ</string>
-    <string name="sim_lock_settings_category">SIM လော့ခ် ကို သတ်မှတ်မည်</string>
-    <string name="sim_lock_settings_title">SIM လော့ခ်ချမည်</string>
+    <string name="sim_lock_settings">ဆင်းမ်လော့ခ်ချခြင်း အပြင်အဆင်များ</string>
+    <string name="sim_lock_settings_category">ဆင်းမ်လော့ခ် ကို သတ်မှတ်မည်</string>
+    <string name="sim_lock_settings_title">ဆင်းမ်လော့ခ်ချမည်</string>
     <string name="sim_pin_toggle">ဆင်းကဒ် သော့ချခြင်း</string>
     <string name="sim_lock_on">ဖုန်းကိုအသုံးပြုရန် ပင်နံပါတ်လိုအပ်သည်</string>
     <string name="sim_lock_off">ဖုန်းကိုအသုံးပြုရန် ပင်နံပါတ်လိုအပ်သည်</string>
@@ -2221,6 +2242,7 @@
     <string name="gadget_title">ဖွင့်ပိတ်ထိန်းချုပ်မှု</string>
     <string name="gadget_toggle_wifi">Wi-Fi ဆက်တင်များအား အသစ်မွမ်းမံနေသည်</string>
     <string name="gadget_toggle_bluetooth">ဘလူးတုသ်ဆက်တင်ကို တိုးမြင့်မှု</string>
+    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">ပွင့်</string>
     <string name="gadget_state_off">ပိတ်</string>
     <string name="gadget_state_turning_on">ပွင့်နေသည်</string>
@@ -2645,6 +2667,7 @@
     <string name="nfc_payment_no_apps">စတိုးဆိုင်များတွင် သင်၏ ဖုန်းဖြင့် ငွေပေးချေပါ</string>
     <string name="nfc_payment_default">အလိုအလျောက် ငွေချေမှု</string>
     <string name="nfc_payment_default_not_set">မသတ်မှတ်ထားပါ</string>
+    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">ပုံသေကို အသုံးပြုရန်</string>
     <string name="nfc_payment_favor_default">အမြဲတမ်း</string>
     <string name="nfc_payment_favor_open">အခြား ငွေပေးချေရေး အက်ပ် ပွင့်နေချိန်မှ လွဲပြီး</string>
@@ -2705,6 +2728,7 @@
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
+    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_cards_changed_message">ဆင်းမ် ကဒ်များ ပြောင်းလဲသွားပြီ</string>
     <string name="sim_cards_changed_message_summary">လှုပ်ရှားမှုများ သတ်မှတ်ရန် တို့ပါ</string>
     <string name="sim_cellular_data_unavailable">ဆဲလ်လူလာ ဒေတာ မရှိပါ</string>
@@ -2726,7 +2750,7 @@
     <string name="color_orange">လိမ္မော်</string>
     <string name="color_purple">ခရမ်း</string>
     <string name="sim_no_inserted_msg">ဆင်းမ် ကဒ်များ မထည့်သွင်းရသေး</string>
-    <string name="sim_status_title">SIM အနေအထား</string>
+    <string name="sim_status_title">ဆင်းမ်အနေအထား</string>
     <string name="sim_call_back_title">ပုံသေ ဆင်းမ်ထံမှ ပြန်ခေါ်ဆိုမှု</string>
     <string name="sim_outgoing_call_title">အပြင်သို့ ခေါ်ဆိုမှု အတွက် ဆင်းမ်</string>
     <string name="sim_other_call_settings">ခေါ်ဆိုမှုဆိုင်ရာ တခြား ဆက်တင်</string>
@@ -2825,6 +2849,7 @@
     <string name="zen_mode_option_important_interruptions">ဦးစားပေးများသာ</string>
     <string name="zen_mode_option_alarms">နှိုးစက်များသာ</string>
     <string name="zen_mode_option_no_interruptions">လုံးဝ တိတ်ဆိတ်ခြင်း</string>
+    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">မြင်ကွင်းအနှောင့်အယှက်များကို ပိတ်ဆို့ပါ</string>
     <string name="configure_notification_settings">အကြောင်းကြားချက်များ သတ်မှတ်ခြင်း</string>
     <string name="advanced_section_header">အဆင့်မြင့်</string>
@@ -2918,6 +2943,7 @@
     <string name="zen_mode_schedule_alarm_title">နိုးစက်သည် ပြီးဆုံးချိန်ကို အပေါ်မှထပ်နိုင်သည်</string>
     <string name="zen_mode_schedule_alarm_summary">ပြီးဆုံးချိန် သို့မဟုတ် နောက်ထပ်နိုးစက် မည်သည်ကအရင်လာသည်ဖြစ်စေ ရပ်ပါ</string>
     <string name="summary_divider_text">"၊ "</string>
+    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s မှ %2$s</string>
     <string name="zen_mode_calls">ခေါ်ဆိုမှုများ</string>
     <string name="zen_mode_messages">မက်ဆေ့ချ်များ</string>
@@ -3099,6 +3125,8 @@
     <string name="memory_avg_use">ပျမ်းမျှ</string>
     <string name="memory_max_desc">အများဆုံး %1$s</string>
     <string name="memory_avg_desc">ပျမ်းမျှ %1$s</string>
+    <string name="memory_use_running_format">%1$s / %2$s</string>
+    <string name="process_format">%1$s ( %2$d )</string>
     <string name="high_power_apps">ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှု</string>
     <string name="high_power_filter_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
     <string name="high_power_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
@@ -3375,6 +3403,7 @@
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
+    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
     <string name="dndm_auto_time_turn_on_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ဖွင့်ပါ</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
@@ -3600,7 +3629,7 @@
     <string name="search_user_agreement">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="search_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="search_device_status">အခြေအနေ</string>
-    <string name="search_sim_status_title">SIM အခြေအနေ၊ SIM</string>
+    <string name="search_sim_status_title">ဆင်းမ်အခြေအနေ၊ ဆင်းမ်</string>
     <string name="search_slot_status_title">IMEI အချက်အလက်၊ IMEI</string>
     <string name="search_micloud">ဆင့်ခ်၊ Mi Cloud၊ Cloud ဆင့်ခ်၊ Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="networks_title">မိုဘိုင်းကွန်ရက်များ</string>
@@ -3610,7 +3639,7 @@
     <string name="upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
     <string name="upload_debug_log_summary">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာသည် သင်၏ဟာ့ဒ်ဝဲလ်သုံးစွဲမှု၊ အလုပ်လုပ်သည့်စနစ်နှင့်အက်ပ် စသည့်အချက်အလက်များပါဝင်နိုင်သည်။ ဤဒေတာများသည် စနစ်ထဲရှိပြဿနာများကို ရှာဖွေခွဲခြားသုံးသပ်ရန်အတွက်သာဖြစ်သည်၊ သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များကို ဘယ်တော့မှ ဖော်ထုတ်မည်မဟုတ်ပါ။</string>
     <string name="sound_vibrate_settings">အသံများနှင့် &amp; တုန်ခါမှုများ</string>
-    <string name="settings_notify_phone_recycled">Your phone number has been recycled. Tap to add a different phone number.</string>
+    <string name="settings_notify_phone_recycled">သင်၏ဖုန်းနံပါတ်ကို ပြန်လည်အသုံးပြုထားသည်။ အခြားဖုန်းနံပါတ်တစ်ခု ပေါင်းထည့်ရန် ထိနှိပ်ပါ။</string>
     <string name="settings_notify_need_backup">ဖုန်းလဲသောအခါ ဆက်တင်အား ပြန်သုံးနိုင်ရန် သင့်ဆက်တင်ကို Mi Cloud သို့ အရန်သိမ်းပါ။</string>
     <string name="model_name">မော်ဒယ်အမည်</string>
     <string name="my_device">ကျွန်ုပ်စက်</string>
@@ -3695,8 +3724,8 @@
     <string name="calendar_sound_title">ပြက္ခဒိန်အသံ</string>
     <string name="calendar_sound_dialog_title">ပြက္ခဒိန်အသံရွေးပါ</string>
     <string name="thememanager_not_found">သင်းမ်များကို ဖွင့်၍မရပါ။ ထိုအက်ပ်အား ထည့်သွင်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
-    <string name="ringtone_uniform_setting_title">SIM နှစ်ခု ဆက်တင်များ</string>
-    <string name="ringtone_slot_setting_title">SIM တစ်ခု ဆက်တင်များ</string>
+    <string name="ringtone_uniform_setting_title">ဆင်းမ်နှစ်ခု ဆက်တင်များ</string>
+    <string name="ringtone_slot_setting_title">ဆင်းမ်တစ်ခု ဆက်တင်များ</string>
     <string name="haptic_feedback_level">တုန်ခါမှု</string>
     <string name="privacy_protect_title">ကိုယ်ရေးသီးသန့် ကာကွယ်ခြင်း</string>
     <string name="privacy_mode_enable_title">ဧည့်သုံးနည်းပုံစံ</string>
@@ -3779,7 +3808,7 @@
     <string name="go_to_sleep">မျက်နှာပြင်ကို ပိတ်မည်</string>
     <string name="turn_on_torch">ဓာတ်မီးကို ဖွင့်မည်</string>
     <string name="close_app">လက်ရှိအက်ပ်ကို ပိတ်မည်</string>
-    <string name="split_screen">Enter split screen</string>
+    <string name="split_screen">မျက်နှာပြင်ခွဲသို့ ဝင်မည်</string>
     <string name="show_menu">မီးနူးကို ပြပါ</string>
     <string name="launch_recents">လတ်တလောအရာများကို ဖွင့်ပါ</string>
     <string name="long_press_menu_key_when_lock">သော့ခတ်မျက်နှာပြင်ပေါ်မှ မီနူးကို ကြာကြာဖိပါ</string>
@@ -3882,8 +3911,8 @@
     <string name="button_light_timeout">ခလုတ်အား အလင်းလင်းလျက်ထားပါ</string>
     <string name="battery_light_title">အားသွင်းနေစဉ် အလင်းလင်းပါ</string>
     <string name="battery_light_summary">စက်အားသွင်းနေစဉ် အသိပေးချက် အလင်းအားဖွင့်ပါ</string>
-    <string name="sim_change_failed_enable_sim_lock">SIM လော့ခ်ကို ယခုဖွင့်မည်။</string>
-    <string name="sim_lock_change_not_supported">SIM လော့ခ်ကို ပြောင်းမရနိုင်ပါ။</string>
+    <string name="sim_change_failed_enable_sim_lock">ဆင်းမ်လော့ခ်ကို ယခုဖွင့်မည်။</string>
+    <string name="sim_lock_change_not_supported">ဆင်းမ်လော့ခ်ကို ပြောင်းမရနိုင်ပါ။</string>
     <string name="apn_new">ဝင်ရောက်ခြင်းပွိုင့်အသစ်</string>
     <string name="apn_save">ပြောင်းလဲခြင်းများကိုသိမ်းမည်လော?</string>
     <string name="apn_save_msg">APN သို့ပြောင်းလဲခြင်းများကိုသိမ်းမည်လော?</string>
@@ -3955,7 +3984,7 @@
     <string name="erase_personal_data">ပုဂ္ဂိုလ်ရေးရာဒေတာများ</string>
     <string name="erase_personal_data_description">အကောင့်များ၊ အဆက်အသွယ်များ၊ ဓါတ်ပုံများနှင့် အက်ပ်များ အပါအဝင် ဖိုင်နှင့် ဒေတာအားလုံး</string>
     <string name="erase_sd_data">SD ကဒ်အတုကို ဖောမတ်ချပါ</string>
-    <string name="erase_sd_data_description">ဖောမတ်ချခြင်းသည် SD ကတ်ပေါ်ရှိ ဒေတာအားလုံး ပျက်သွားလိမ့်မည်</string>
+    <string name="erase_sd_data_description">ဖောမတ်ချခြင်းသည် SD ကဒ်ပေါ်ရှိ ဒေတာအားလုံး ပျက်သွားလိမ့်မည်</string>
     <string name="erase_optional">ရွေးချယ်နိုင်သော</string>
     <string name="erase_application">အက်ပ်စ်များကို ဖျက်ပစ်မည်</string>
     <string name="erase_application_description">ဒေါင်းလုဒ်လုပ်ထားသော အက်ပ်စ်များကို ဖျက်ပစ်မည်</string>
@@ -3994,8 +4023,8 @@
     <string name="volume_restore_alert">ဒေတာအားလုံးအား ပုံသေဆက်တင်များအဖြစ်သို့ ပြောင်းလဲမည်လား?</string>
     <string name="music_equalizer">အသံထိန်းညှိစက်</string>
     <string name="voice_helper_title">အသံလက်ထောက်</string>
-    <string name="system_shortcut_wake">Wake with button shortcuts</string>
-    <string name="bluetooth_wake">Wake with Bluetooth audio</string>
+    <string name="system_shortcut_wake">ရှော့ကဒ်ခလုတ်ဖြင့် နှိုးပါ</string>
+    <string name="bluetooth_wake">ဘလူးတုသ် အော်ဒီယိုဖြင့် နှိုးပါ</string>
     <string name="font_size_preview">MIUI</string>
     <string name="font_size_summary1">အကယ်၍သင့် စနစ်စာသားအရွယ်အစား ငယ်လွန်းနေပါက၊ အား လုပ်ကြည့်ပါ</string>
     <string name="font_size_summary2">ပေါ့ပါးသောပုံစံ</string>
@@ -4051,9 +4080,9 @@
     <string name="wfd_disconnect_multiple_diag_message">%1$sနှင့်%2$sအား အခြားစက်များနှင့်ချိတ်ဆက်မှုမှ ဖြုတ်လိုက်မည်လား?</string>
     <string name="wfd_wps_keypad">ကီးပတ်အား အသုံးပြုပါ</string>
     <string name="wfd_wps_pbc">PIN ထည့်သွင်းပါ</string>
-    <string name="virtual_sim_global_category_title">Mi SIM</string>
+    <string name="virtual_sim_global_category_title">Mi ဆင်းမ်</string>
     <string name="virtual_sim_global_title">မိုဘိုင်းဒေတာဝန်ဆောင်မှု</string>
-    <string name="virtual_sim_global_description">SIM ကဒ်မသုံးဘဲ ဒေတာကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
+    <string name="virtual_sim_global_description">ဆင်းမ်ကဒ်မသုံးဘဲ ဒေတာကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
     <string name="virtual_sim_category_title">Mi ရွန်းမင်း</string>
     <string name="virtual_sim_title">ရွန်းမင်းဒေတာကွန်ရက်</string>
     <string name="virtual_sim_description">စိတ်ချရသောအပြည်ပြည်ဆိုင်ရာရွန်းမင်းဝန်ဆောင်မှု</string>
@@ -4115,7 +4144,7 @@
     <string name="other_relative">အခြား</string>
     <string name="permission_manage_title">%s ခွင့်ပြုချက်များ</string>
     <string name="remove_continue">ဖြုတ်ပါ</string>
-    <string name="filter_apps_cached">ကတ်ချီ</string>
+    <string name="filter_apps_cached">ကဒ်ချီ</string>
     <string name="screen">မျက်နှာပြင်</string>
     <string name="system">စနစ်</string>
     <string name="screen_color_temperature">အရောင်များ</string>
@@ -4211,8 +4240,8 @@
  PINအား သတ်မှတ်ပါ"</string>
     <string name="cancel_alert">သင့်ပြောင်းလဲခြင်းများကို လွှင့်ပစ်မည်လော?</string>
     <string name="android_beam_witch_label">အန်းဒရိုက်ဘင်း</string>
-    <string name="sim_management_title">SIM ကဒ် &amp; မိုဘိုင်းကွန်ရက်များ</string>
-    <string name="sim_management_title_cr_kolbi">SIM ကဒ် &amp; မိုဘိုင်းကွန်ရက်များ</string>
+    <string name="sim_management_title">ဆင်းမ်ကဒ် &amp; မိုဘိုင်းကွန်ရက်များ</string>
+    <string name="sim_management_title_cr_kolbi">ဆင်းမ်ကဒ် &amp; မိုဘိုင်းကွန်ရက်များ</string>
     <string name="sim_radio_off">ပိတ်ရန်</string>
     <string name="slot_status_title">IMEI အချက်လက်</string>
     <string name="next_button_label">နောက်ထပ်</string>
@@ -4279,6 +4308,7 @@
     <string name="wifi_share_action_turn_off">ကွန်ရက်မျှဝေခြင်းကို ရပ်မည်</string>
     <string name="wifi_share_list_empty">မျှဝေထားသောကွန်ရက်ကိုမတွေ့ပါ။</string>
     <string name="wifi_share_connect">ချိတ်ဆက်ပါ</string>
+    <string name="enalbe_identify_iPhone">AP identification</string>
     <string name="wifi_share_qrcode_title">Wi-Fiကွန်ရက်ကိုမျှဝေမည်</string>
     <string name="wifi_share_qrcode_summary">မျှဝေရန် အပေါ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
     <string name="wifi_share_qrcode_finish">အိုကေ</string>
@@ -4299,8 +4329,8 @@
     <string name="block_list_no_device">ဘလော့စာရင်းထဲရှိ စက်များများအား မချိတ်ဆက်ထားပါ</string>
     <string name="no_connected_devices">ချိတ်ထားသော စက်များ မရှိပါ</string>
     <string name="tether_settings_disabled">ခရီးဆောင် ဟော့စ်ပေါ့အား ပိတ်ထားသည်</string>
-    <string name="tether_data_usage_limit">One-time data limit</string>
-    <string name="tether_data_usage_limit_summary">Data limit will be applied next time your hotspot is on</string>
+    <string name="tether_data_usage_limit">တစ်ကြိမ် ဒေတာကန့်သတ်ချက်</string>
+    <string name="tether_data_usage_limit_summary">နောက်တစ်ကြိမ် ဟော့စ်ပေါ့ဖွင့်သောအခါ ဒေတာကို ကန့်သတ်လိမ့်မည်</string>
     <string name="hdmi_3dplay_settings_title">HDMI</string>
     <string name="hdmi_3dplay_control_text">3D အထွက်</string>
     <string name="hdmi_3dplay_control_enable_subtext">3D အပြင် 3D ပြသခြင်းသို့ စတူဒိယိုအထွက်ကို ဖွင့်မည်</string>
@@ -4333,16 +4363,16 @@
     <string name="line_breaking_summary">စာပိုဒ်လိုင်းဖြတ်ခြင်းကိုပိုကောင်းအောင်လုပ်မည်</string>
     <string name="nfc_se_route_title">သတ္တုနေရာများကို လုံခြုံစေမည်</string>
     <string name="se_route_ese">လုံခြုံစေသောသတ္တုများကို မြှုပ်ပြီးပြီ</string>
-    <string name="se_route_uicc">SIM ကဒ်ထဲတွင် သတ္တုများကို လုံခြုံစေမည်</string>
+    <string name="se_route_uicc">ဆင်းမ်ကဒ်ထဲတွင် သတ္တုများကို လုံခြုံစေမည်</string>
     <string name="current_use_uicc_se">မြှုပ်ထားသောလုံခြုံစေသည့်သတ္တုများကိုသုံးပြီး</string>
     <string name="current_use_ese">မြှုပ်ထားသောလုံခြုံစေသည့်သတ္တုများကိုသုံးပြီး</string>
     <string name="nfc_se_wallet_title">မူလပုံသေ ပိုက်ဆံအိတ်</string>
     <string name="se_wallet_ese">Mi Pay နှင့် NFC ပို့ဆောင်ရေးကဒ်</string>
     <string name="se_wallet_hce">HCE ပိုက်ဆံအိတ်အား အသုံးပြုပါ</string>
-    <string name="se_wallet_uicc">SIMပိုက်ဆံအိတ် %1$s ကိုသုံးမည်</string>
+    <string name="se_wallet_uicc">ဆင်းမ်ပိုက်ဆံအိတ် %1$s ကိုသုံးမည်</string>
     <string name="current_use_hce_wallet">သင်သည် HCE ပိုက်ဆံအိတ်အား အသုံးပြုနေသည်</string>
     <string name="current_use_ese_wallet">Mi ပိုက်ဆံအိတ်အား အသုံးပြုနေသည်။ ဤအရာသည် Mi ပေးချေမှု သုံးရန် နှင့်NFC လိုင်းကားကဒ်ကဲ့သို့ အသုံးပြုနိုင်ရန် လုပ်ဆောင်ပေးပါလိမ့်မည်။</string>
-    <string name="current_use_uicc_wallet">သင်သည် SIMပိုက်ဆံအိတ် %1$s အားအသုံးပြုနေသည်</string>
+    <string name="current_use_uicc_wallet">သင်သည် ဆင်းမ်ပိုက်ဆံအိတ် %1$s အားအသုံးပြုနေသည်</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="free_wifi_summary">%1$s သို့ဆက်သွယ်ရန်ခေါက်ပါ</string>
@@ -4502,9 +4532,9 @@
     <string name="translation_contributors_summary" />
     <string name="wifi_type_approval_title">ခွင့်ပြုပုံစံ</string>
     <string name="wifi_type_approval_dialog_title">NTC NO.</string>
-    <string name="status_sim">SIM ကဒ်အနေအထား</string>
-    <string name="status_sim_1">SIM 1</string>
-    <string name="status_sim_2">SIM 2</string>
+    <string name="status_sim">ဆင်းမ်ကဒ်အနေအထား</string>
+    <string name="status_sim_1">ဆင်းမ်1</string>
+    <string name="status_sim_2">ဆင်းမ်2</string>
     <string name="status_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="wifi_subnet_mask">ကွန်ရက်ခွဲမျက်နှာဖုံး</string>
     <string name="wireless_on">ဖွင့်</string>
@@ -4632,7 +4662,7 @@
     <string name="wifi_switch_to_gsm_title">GSM သုံးမည်လား?</string>
     <string name="wifi_switch_to_gsm_message">Wi-Fi ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ မိုဘိုင်းဒေတာ ကော်နက်ရှင်အား သုံးမလား?</string>
     <string name="wifi_datanetwork_switch_not_remind">ထပ်မပြပါနှင့်</string>
-    <string name="skip_lock_screen_confirm_msg">"Notifications, music player controls, and shortcuts won't be displayed on the Lock screen."</string>
+    <string name="skip_lock_screen_confirm_msg">အသိပေးချက်များ၊ သီချင်း ထိန်းချုပ်မှုနှင့် ရှော့ကဒ်များကို သော့ခတ်မျက်နှာပြင်တွင် သုံး၍မရပါ။</string>
     <string name="performance_category">စွမ်းဆောင်ရည်</string>
     <string name="fluency_mode">စနစ် အန်နီမေးရှင်းများ</string>
     <string name="fluency_mode_confirm_and_reboot">ယခုပိတ်ပြီး ပြန်စ</string>
@@ -4648,7 +4678,7 @@
     <string name="smallwindow_smartcover_title">ပြဒင်းပေါက်ငယ် အရှေ့ကာဗာ</string>
     <string name="lattice_smartcover_title">လက်တစ်အရှေ့အဖုန်း</string>
     <string name="full_transparent_smarrcover_title">ထိုးဖောက်မြင်နိုင်သောအရှေ့ကာဗာ</string>
-    <string name="wifi_eap_sim_simcard">SIM ရွေးပါ</string>
+    <string name="wifi_eap_sim_simcard">ဆင်းမ်ရွေးပါ</string>
     <string name="confirm_action">အိုကေ</string>
     <string name="cancel_action">ပယ်ဖျက်ပါ</string>
     <string name="pref_edge_handgrip">ဘေးအနား ထိန်းချုပ်မှုများ</string>
@@ -4761,6 +4791,7 @@
     <string name="bootloader_locked_answer_1_warning">သတိရပါ−ဖုန်းအား သော့ဖြည်ပြီးနောက် \"ဖုန်းရှာဖွေ\" ကိုအသုံးပြု၍ရနိုင်လိမ့်မည် မဟုတ်ပါ</string>
     <string name="bootloader_locked_question_2">အန္တာရာယ်ကို နားလည်ပါသည်၊ သို့သော် စက်အား သော့ဖြည်လိုပါသည်။</string>
     <string name="bootloader_locked_answer_2">သင့် Mi အကောင့်အား ဤစက်နှင့် ဆက်စပ်ရန် အောက်ပါ ခလုတ်အား ထိနှိပ်ပါ။ ပြီးနောက် သော့ဖြည်ကိရိယာအား ဒေါင်းလုဒ်လုပ်ပြီး ကွန်ပြူတာတွ၍ထည့်သွင်းရန် MIUI ဝက်ဘ်ဆိုက်သို့သွားရောက်ပါ။ လိပ်စာမှာ−</string>
+    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bootloader_locked_check_status">အကောင့်နှင့် စက်ပေါင်းထည့်</string>
     <string name="bootloader_device_bind_already">အောင်မြင်စွာ ပေါင်းထည့်ခဲ့သည်။ Mi အကောင့်သည် အောက်ပါစက်နှင့် ဆက်စပ်နေပါသည်။</string>
     <string name="bootloader_device_bind_no_account">သင့် Mi အကောင့်သို့ ဦးစွာ ဆိုင်းအင်ဝင်ပါ</string>
@@ -4832,6 +4863,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">ASDiv အခြေအနေ-</string>
     <string name="app_factory_reset_dlg_title">အသစ်မွမ်းမံမှုများကို ဖြုတ်ချမည်လား?</string>
     <string name="app_factory_reset_dlg_text">ဤAndroidစနစ်အက်ပ်ရှိ အသစ်မွမ်းမံမှုအားလုံးကို ဖြုတ်ချလိုက်လိမ့်မည်။</string>
@@ -4863,6 +4895,9 @@
     <string name="pre_installed_application">ကြိုတင်ထည့်သွင်းထားသော အက်ပ်များ</string>
     <string name="user_settings_forbidden">လက်ရှိနေရာတွင် အုပ်ချုပ်သူဆက်တင်များကို ပြောင်းလဲ၍မရပါ။ ပထမနေရာသို့ ပြန်သွားပါ။</string>
     <string name="owner_space">ပထမနေရာ</string>
+    <string name="open_demo_mode_warning_message">When Demo mode is on, the clock in the status bar will stop, battery and signal icons will be displayed as full. You can turn Demo mode off or reboot the device to change this.</string>
+    <string name="open_demo_mode">Open</string>
+    <string name="close_demo_mode">Cancel</string>
     <string name="spellchecker_switch_title">စာလုံးပေါင်းစစ်ဆေးခြင်းကို ဖွင့်မည်</string>
     <string name="start_silent_mode">အသံတိတ်မုဒ် ဖွင့်မည်</string>
     <string name="silent_settings">အသံတိတ်/မနှောင့်ယှက်ပါနှင့်</string>
@@ -4907,10 +4942,12 @@
     <string name="mode_disable">ပိတ်ပါ</string>
     <string name="demo_mode_summary">အခြေအနေပြဘားတန်းတွင် သတ်မှတ်ထားသော အိုင်ကွန်များ ပြပါ</string>
     <string name="popup_window">လွင့်မျောနေသော အသိပေးချက်များကို ကန့်သတ်မည်</string>
+    <string name="mute_music_stream">Mute music stream</string>
     <string name="miui_enable_service_title">ဤဝန်ဆောင်မှုသည် အောက်ပါလုပ်ဆောင်ချက်များကို လုပ်ဆောင်ပါလိမ့်မည်-</string>
     <string name="bluetooth_device_misc_title">အသုံးနည်းသော ဘလူးတုသ်စက်များ</string>
     <string name="bt_rarely_used_device_title">အသုံးနည်းသော စက်များ (%d)</string>
     <string name="search_input_hint">ရှာ​ဖွေမှု ဆက်တင်များ</string>
+    <string name="back_button">Back</string>
     <string name="music_audio_effect_optimize">အော်ဒီယို ဆက်တင်များ</string>
     <string name="music_audio_effect_optimize_summary">ဒီရက်၊ နားကြပ် သို့မဟုတ် အခြား အော်ဒီယို ဆက်တင်များ</string>
     <string name="music_audio_effect_optimize_summary_with_hifi">Dirac၊ ဟိုင်ဖိုင်၊ နားကြပ် နှင့် အခြား အော်ဒီယို ဆက်တင်များ</string>
@@ -4956,7 +4993,7 @@
     <string name="music_dirac_mode_in_ear_pro">Mi In-Ear Pro နားကြပ်</string>
     <string name="music_dirac_mode_capsule">Mi Capsule</string>
     <string name="music_dirac_mode_headset_comfort">Mi Comfort</string>
-    <string name="music_dirac_mode_reduction_noise">Reduce Noise TypeC</string>
+    <string name="music_dirac_mode_reduction_noise">ဆူညံသံ လျော့ချခြင်း (USB-C)</string>
     <string name="music_audio_effect_settings">အထူးပြုလုပ်ချက် ဆက်တင်များ</string>
     <string name="music_equalizer_summary">ကွဲပြားသော ဂီတသံအတွက် သီးခြား အဆင့်ညှိမည်</string>
     <string name="music_unsupport_effect_summary">USB နားကြပ်အား မထောက်ပံ့ထားပါ</string>
@@ -5080,6 +5117,7 @@
     <string name="work_space_delete">အလုပ်နေရာအား ဖျက်ပစ်ပါ</string>
     <string name="work_space_delete_description">သင်ဖျက်လိုက်ပြီးနောက် အလုပ်နေရာသို့ ဝင်ရောက်၍ရနိုင်လိမ့်မည်မဟုတ်ပါ။ ဒေတာအားလုံးအား ရွေ့လိုက်လိမ့်မည် သို့မဟုတ် ဖျက်ပစ်လိမ့်မည်။</string>
     <string name="work_space_delete_confirm">ယခုဖျက်ပါ</string>
+    <string name="unlock_set_unlock_password_none">None</string>
     <string name="unlock_set_unlock_biometric_weak_title">မျက်နှာဖြင့် သော့ဖြည်ခြင်း</string>
     <string name="unlock_set_unlock_biometric_weak_summary">လုံခြုရေးအဆင့်နိမ့်သော စမ်းသပ်ဆဲအင်္ဂါရပ်များ</string>
     <string name="biometric_weak_improve_matching_title">မျက်နှာကိုက်ညီမှု တိုးတက်စေပါ</string>
@@ -5148,6 +5186,9 @@
     <string name="lock_screen_secure_after_timeout_immediately_summary">လျို့ဝှက်စကားလုံးကို ချက်ချင်းလိုအပ်ပါသည်</string>
     <string name="lock_screen_secure_after_timeout_immediately_never">စကားဝှက် ဘယ်တော့မှ မတောင်းဆိုပါနှင့်</string>
     <string name="fingerprint_payment">လက်ဗွေဖြင့်ပေးချေမှု</string>
+    <string name="unlock_disable_frp_warning_content_profile">"Profile protection features will not work without your password.
+
+ You won't be able to unlock your profile, authorize purchases, or sign in to apps with them."</string>
     <string name="print_settings_title">ပရင့်ထုတ် ဆားဗစ်များ</string>
     <string name="dirac_control">အသံ အရည်အသွေးကို မြှင့်တင်မည်</string>
     <string name="dirac_mode_off">ဒီရက် ပိတ်မည်</string>
@@ -5241,7 +5282,6 @@
     <string name="wifi_master_key_service_dialog_title">မျှဝေထားသော Wi-Fi ကွန်ရက်များ</string>
     <string name="quiet_mode">နှောင့်ယှက်မှုအားလုံးကို အသံပိတ်ပါ</string>
     <string name="screen_resolution_confirm">ပိတ်၍ပြန်ဖွင့်ပါ</string>
-    <string name="enalbe_identify_iPhone">AP အမျိုးစားခွဲခြားခြင်း</string>
     <string name="block_list_qcom_dialog_content">ဤလုပ်ဆောင်မှုသည် \"%s\"နှင့် ဤစက်၏ ချိတ်ဆက်မှုကို ဖြတ်ပစ်ပြီး ဘလော့စာရင်းသို့ ထည့်လိမ့်မည်</string>
     <string name="block_list_mtk_dialog_content">ဤလုပ်ဆောင်မှုသည် \"%s\"နှင့် ဤစက်၏ ချိတ်ဆက်မှုကို ဖြတ်ပစ်လိမ့်မည်</string>
     <string name="miui_silent_title">အသံတိတ် မုဒ်</string>
