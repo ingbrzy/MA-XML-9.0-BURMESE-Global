@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -713,7 +711,6 @@
     <string name="security_enable_widgets_title">ဝဒ်ဂျက်များဖွင့်ရန်</string>
     <string name="security_enable_widgets_disabled_summary">အက်ဒ်မင်မှ အသုံးမပြုနိုင်ရန် ပိတ်ထားခြင်း</string>
     <string name="owner_info_settings_summary">မရှိ</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">ဥပမာ၊ Joe ၏ Android</string>
     <string name="user_info_settings_title">သုံးစွဲသူအကြောင်း</string>
     <string name="show_profile_info_on_lockscreen_label">သော့ခတ်ထားသောမျက်နှာပြင်ပေါ်သုံးစွဲသူ၏အကြောင်းပြရန်</string>
@@ -975,7 +972,6 @@
     <string name="wifi_display_options_name">အမည်</string>
     <string name="wifi_band_24ghz">2.4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းနှင့် အခြားစက်ပစ္စည်း ထိလိုက်လျှင် အချက်အလက် ဖလှယ်ရန် ခွင့်ပြုသည်</string>
     <string name="android_beam_settings_title">Android လှိုင်း</string>
@@ -2242,7 +2238,6 @@
     <string name="gadget_title">ဖွင့်ပိတ်ထိန်းချုပ်မှု</string>
     <string name="gadget_toggle_wifi">Wi-Fi ဆက်တင်များအား အသစ်မွမ်းမံနေသည်</string>
     <string name="gadget_toggle_bluetooth">ဘလူးတုသ်ဆက်တင်ကို တိုးမြင့်မှု</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">ပွင့်</string>
     <string name="gadget_state_off">ပိတ်</string>
     <string name="gadget_state_turning_on">ပွင့်နေသည်</string>
@@ -2667,7 +2662,6 @@
     <string name="nfc_payment_no_apps">စတိုးဆိုင်များတွင် သင်၏ ဖုန်းဖြင့် ငွေပေးချေပါ</string>
     <string name="nfc_payment_default">အလိုအလျောက် ငွေချေမှု</string>
     <string name="nfc_payment_default_not_set">မသတ်မှတ်ထားပါ</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">ပုံသေကို အသုံးပြုရန်</string>
     <string name="nfc_payment_favor_default">အမြဲတမ်း</string>
     <string name="nfc_payment_favor_open">အခြား ငွေပေးချေရေး အက်ပ် ပွင့်နေချိန်မှ လွဲပြီး</string>
@@ -2728,7 +2722,6 @@
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
-    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_cards_changed_message">ဆင်းမ် ကဒ်များ ပြောင်းလဲသွားပြီ</string>
     <string name="sim_cards_changed_message_summary">လှုပ်ရှားမှုများ သတ်မှတ်ရန် တို့ပါ</string>
     <string name="sim_cellular_data_unavailable">ဆဲလ်လူလာ ဒေတာ မရှိပါ</string>
@@ -2849,7 +2842,6 @@
     <string name="zen_mode_option_important_interruptions">ဦးစားပေးများသာ</string>
     <string name="zen_mode_option_alarms">နှိုးစက်များသာ</string>
     <string name="zen_mode_option_no_interruptions">လုံးဝ တိတ်ဆိတ်ခြင်း</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">မြင်ကွင်းအနှောင့်အယှက်များကို ပိတ်ဆို့ပါ</string>
     <string name="configure_notification_settings">အကြောင်းကြားချက်များ သတ်မှတ်ခြင်း</string>
     <string name="advanced_section_header">အဆင့်မြင့်</string>
@@ -2943,7 +2935,6 @@
     <string name="zen_mode_schedule_alarm_title">နိုးစက်သည် ပြီးဆုံးချိန်ကို အပေါ်မှထပ်နိုင်သည်</string>
     <string name="zen_mode_schedule_alarm_summary">ပြီးဆုံးချိန် သို့မဟုတ် နောက်ထပ်နိုးစက် မည်သည်ကအရင်လာသည်ဖြစ်စေ ရပ်ပါ</string>
     <string name="summary_divider_text">"၊ "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s မှ %2$s</string>
     <string name="zen_mode_calls">ခေါ်ဆိုမှုများ</string>
     <string name="zen_mode_messages">မက်ဆေ့ချ်များ</string>
@@ -3125,8 +3116,6 @@
     <string name="memory_avg_use">ပျမ်းမျှ</string>
     <string name="memory_max_desc">အများဆုံး %1$s</string>
     <string name="memory_avg_desc">ပျမ်းမျှ %1$s</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
-    <string name="process_format">%1$s ( %2$d )</string>
     <string name="high_power_apps">ဘက်ထရီအား သင့်မြတ်အောင် လုပ်ကိုင်မှု</string>
     <string name="high_power_filter_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
     <string name="high_power_on">သင့်မြတ်အောင် မလုပ်ရသေး</string>
@@ -3403,7 +3392,6 @@
     <string name="dndm_auto_setting_group">အချိန်သတ်မှတ်ထားသည်</string>
     <string name="dndm_auto_button_title">မနှောင့်ယှက်ပါနှင့်အတွက် အချိန်ကို ထပ်ခါလုပ်ပါ</string>
     <string name="dndm_auto_time_setting">အချိန်သတ်မှတ်ပါ</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">မှ</string>
     <string name="dndm_auto_time_turn_on_title">မနှောင့်ယှက်ပါနှင့်ကို အလိုလို ဖွင့်ပါ</string>
     <string name="dndm_auto_time_turn_off">အထိ</string>
@@ -4791,7 +4779,6 @@
     <string name="bootloader_locked_answer_1_warning">သတိရပါ−ဖုန်းအား သော့ဖြည်ပြီးနောက် \"ဖုန်းရှာဖွေ\" ကိုအသုံးပြု၍ရနိုင်လိမ့်မည် မဟုတ်ပါ</string>
     <string name="bootloader_locked_question_2">အန္တာရာယ်ကို နားလည်ပါသည်၊ သို့သော် စက်အား သော့ဖြည်လိုပါသည်။</string>
     <string name="bootloader_locked_answer_2">သင့် Mi အကောင့်အား ဤစက်နှင့် ဆက်စပ်ရန် အောက်ပါ ခလုတ်အား ထိနှိပ်ပါ။ ပြီးနောက် သော့ဖြည်ကိရိယာအား ဒေါင်းလုဒ်လုပ်ပြီး ကွန်ပြူတာတွ၍ထည့်သွင်းရန် MIUI ဝက်ဘ်ဆိုက်သို့သွားရောက်ပါ။ လိပ်စာမှာ−</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bootloader_locked_check_status">အကောင့်နှင့် စက်ပေါင်းထည့်</string>
     <string name="bootloader_device_bind_already">အောင်မြင်စွာ ပေါင်းထည့်ခဲ့သည်။ Mi အကောင့်သည် အောက်ပါစက်နှင့် ဆက်စပ်နေပါသည်။</string>
     <string name="bootloader_device_bind_no_account">သင့် Mi အကောင့်သို့ ဦးစွာ ဆိုင်းအင်ဝင်ပါ</string>
@@ -4863,7 +4850,6 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">ASDiv အခြေအနေ-</string>
     <string name="app_factory_reset_dlg_title">အသစ်မွမ်းမံမှုများကို ဖြုတ်ချမည်လား?</string>
     <string name="app_factory_reset_dlg_text">ဤAndroidစနစ်အက်ပ်ရှိ အသစ်မွမ်းမံမှုအားလုံးကို ဖြုတ်ချလိုက်လိမ့်မည်။</string>

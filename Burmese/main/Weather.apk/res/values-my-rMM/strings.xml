@@ -87,7 +87,6 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
     <string name="daily_forecast_detail">အသေးစိတ်များအား ကြိုတင်ခန့်မှန်းပါ</string>
     <string name="daily_forecast_detail_date">M/d</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသအချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ပြန်လန်းဆန်းစေပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ထောက်ပံ့သော</string>
@@ -107,8 +106,6 @@
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="gps_hint">လက်ရှိတည်နေရာ</string>
     <string name="hourly_forcast_now">ယခု</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title">နာရီအလိုက်ခန့်မှန်းချက်</string>
     <string name="index_item_experience_now">ယခုထည့်သွင်း</string>
@@ -133,13 +130,11 @@
     <string name="information_manager_extension">မိုးလေဝသ ချဲ့ထွင်မှု</string>
     <string name="information_views" />
     <string name="install">တပ်ဆင်</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_detail_menu_title">အသေးစိတ်အချက်လက်များ</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
@@ -210,7 +205,6 @@
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_title">ရာသီဥတုအကြောင်းမျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="some_where_on_earth">ကမ္ဘာပေါ်ရှိတစ်နေရာရာ</string>

@@ -190,7 +190,6 @@
     <string name="quick_yellow_page_tab_phones">ဖုန်း</string>
     <string name="recharge_actual_price">ဈေး:</string>
     <string name="recharge_charge_range">ဈေး: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">ဈေး: RMB %s</string>
     <string name="recharge_follow_name">ငွေဖြည့်</string>
     <string name="recharge_history">ငွေဖြည့်ရာဇဝင်</string>
     <string name="recharge_history_empty">အလွတ်</string>
@@ -234,7 +233,6 @@
     <string name="sending_shortcut">ပို့နေသည်…</string>
     <string name="service_unavailiable">ဝန်ဆောင်မှုမရရှိပါ</string>
     <string name="share">မျှဝေပါ</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">ခေါ်သူ ID</string>
     <string name="toast_finish_delete_call_log">ခေါ်ဆိုမှုမှတ်တမ်းကို ဖျက်ပစ်သည်</string>
     <string name="toast_text_copied">စာသားကိုမတ္တူကူးပြီး</string>

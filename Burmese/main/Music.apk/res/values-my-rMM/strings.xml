@@ -43,7 +43,6 @@
 
 Tap %s နောင် Wi-Fi ချိတ်မိချိန်တွင် ဒေါင်းလုဒ်စတင်ရန်။"</string>
     <string name="download_no_application_title">ဖိုင် ဖွင့်လို့ မရပါ</string>
-    <string name="download_percent">%d%%</string>
     <string name="notification_need_wifi_for_size">ဤဒေါင်းလုဒ်အရွယ်အစားသည် Wi-Fi လိုအပ်ပါသည်။</string>
     <string name="download_unknown_title">&lt;ခေါင်းစဉ်မဲ့></string>
     <string name="root_downloads">ဒေါင်းလုဒ်များ</string>
