@@ -4,6 +4,10 @@
         <item>၄x၄</item>
         <item>၄x၅</item>
     </string-array>
+    <string-array name="cell_layout_size_values">
+        <item>၄x၄</item>
+        <item>၄x၅</item>
+    </string-array>
     <string-array name="editing_mode_entries">
         <item>နောက်ခံပုံ</item>
         <item>ဝစ်ဂတ်များ</item>
@@ -40,6 +44,7 @@
         <item>သတ်မှတ်ပုံစံ</item>
         <item>ဂန္ထဝင်မိုး</item>
     </string-array>
+    <array name="region_prefix" />
     <string-array name="transformation_entries">
         <item>ဆလိုက်</item>
         <item>မှေးမှိန်သောပုံစံ</item>

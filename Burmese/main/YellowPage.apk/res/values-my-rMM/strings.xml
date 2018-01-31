@@ -17,6 +17,14 @@
     <string name="agree_to_turn_on">သဘောတူ</string>
     <string name="all_services">အားလုံး</string>
     <string name="allow">ခွင့်ပြုပါ</string>
+    <string name="antispam_curr_version">လက်ရှိဗားရှင်း- %d</string>
+    <string name="antispam_data_downloading">ဒေါင်းလုဒ်လုပ်နေသည်။ ၃-၅ စက္ကန့် ကြာနိုင်သည်။</string>
+    <string name="antispam_data_downloading_error">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
+    <string name="antispam_local_newest">လက်ရှိဗားရှင်းမှာ အသစ်ဆုံးဖြစ်သည်။</string>
+    <string name="antispam_network_remind_summary">အပ်ဒိတ်များအား မိုဘိုင်းဒေတာဖြင့် ဒေါင်းလုဒ်လုပ်မလား?</string>
+    <string name="antispam_network_remind_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
+    <string name="antispam_pull_newest">ဗားရှင်း %d သို့ အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
+    <string name="antispam_update_version">မွမ်းမံမှုများကို စစ်ဆေးပါ</string>
     <string name="app_label">အဝါရောင်စာမျက်နှာများ</string>
     <string name="app_recommendation_install">ထည့်သွင်းပါ</string>
     <string name="average_price">ယေဘုယျ %d RMB</string>
@@ -62,7 +70,7 @@
     <string name="download_failed_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="download_failed_server">ဒေါင်းလုဒ်လုပ်၍ မရခဲ့ပါ</string>
     <string name="download_failed_space">နေရာလွတ် အလုံအလောက် မရှိပါ</string>
-    <string name="download_failed_storage">"Couldn't download. Check your SD card."</string>
+    <string name="download_failed_storage">ဒေါင်းလုဒ်လုပ်၍ မရပါ။ သင်၏SD ကဒ်ကို စစ်ဆေးပါ။</string>
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="enable_now">ဖွင့်ရန်</string>
     <string name="follow_label">ဖော်လိုလိုက် %1$s</string>
@@ -119,7 +127,7 @@
     <string name="mark_number_feedback_success">အလံအချက်အလက် အောင်မြင်စွာ ပေးပို့ခဲ့သည်</string>
     <string name="mark_number_marked_maintitle">အလံအချက်အလက်အား ပြောင်းလဲပါ</string>
     <string name="mark_number_marked_subtitle">%s (လက်ရှိအလံ)</string>
-    <string name="mark_number_notification_title">Report suspicious number</string>
+    <string name="mark_number_notification_title">မသင်္ကာဖွယ်နံပါတ်ကို အစီရင်ခံမည်</string>
     <string name="mark_number_remove">အလံအချက်အလက်အား ဖယ်ရှားပါ</string>
     <string name="mark_title_null_hint">အလံအချက်အလက်အား ရိုက်ထည့်ပါ</string>
     <string name="menu_add_black_list">ဘလော့လုပ်ထားသောစာရင်းထဲသို့ ထည့်ပါ</string>
@@ -172,7 +180,7 @@
     <string name="packages_pay_hint">SMS ပို့မည် (အခမဲ့)</string>
     <string name="packages_pay_success">မက့်ဆေ့ချ်ပို့ပြီး</string>
     <string name="packages_select_sim_cards_summmary">အကြံပြုဒေတာပက်ကေ့ချ်များကို လိုက်ရှာမည်</string>
-    <string name="packages_select_sim_cards_title">SIM ကဒ်ရွေးပါ</string>
+    <string name="packages_select_sim_cards_title">ဆင်းမ်ကဒ်ရွေးပါ</string>
     <string name="packages_select_to_buy_title">ပက်ကေ့ချ်ရွေးပါ</string>
     <string name="packages_title">မိုဘိုင်းဒေတာ ငွေဖြည့်ပါ</string>
     <string name="packages_wait_for_op_reply">သင့်ကယ်ရီယာထံမှ အတည်ပြုမက်ဆေ့ချ်ကိုစောင့်ပါ</string>
@@ -190,6 +198,7 @@
     <string name="quick_yellow_page_tab_phones">ဖုန်း</string>
     <string name="recharge_actual_price">ဈေး:</string>
     <string name="recharge_charge_range">ဈေး: RMB %1$s-%2$s</string>
+    <string name="recharge_charge_value">ဈေး: RMB %s</string>
     <string name="recharge_follow_name">ငွေဖြည့်</string>
     <string name="recharge_history">ငွေဖြည့်ရာဇဝင်</string>
     <string name="recharge_history_empty">အလွတ်</string>
@@ -233,6 +242,7 @@
     <string name="sending_shortcut">ပို့နေသည်…</string>
     <string name="service_unavailiable">ဝန်ဆောင်မှုမရရှိပါ</string>
     <string name="share">မျှဝေပါ</string>
+    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">ခေါ်သူ ID</string>
     <string name="toast_finish_delete_call_log">ခေါ်ဆိုမှုမှတ်တမ်းကို ဖျက်ပစ်သည်</string>
     <string name="toast_text_copied">စာသားကိုမတ္တူကူးပြီး</string>

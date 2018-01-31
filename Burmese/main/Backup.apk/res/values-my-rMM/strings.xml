@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -484,6 +488,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>
@@ -507,20 +512,20 @@ Wi-Fi ကို မပိတ်ပါနှင့်"</string>
     <string name="error_permissions">ဤအက်ပ်သည် ပြက္ခဒိန်သို့ ဝင်ရောက်ရန် ခွင့်ပြုချက်များ လိုအပ်သည်။ ဆက်တင်များသို့သွား၍ ခွင့်ပြုချက်များအား စစ်ဆေးကြည့်ပါ။</string>
     <string name="succ_description">အောင်မြင်ပါပြီ</string>
     <string name="failed_description">မအောင်မြင်ပါ</string>
-    <string name="notif_connect_miasist">Connected to Mi PC Suite</string>
-    <string name="notif_disconnect_miasist">Not connected to Mi PC Suite</string>
-    <string name="notif_sending_transingsd">Sending %1$s (%2$s)…</string>
-    <string name="notif_receiving_transingsd">Receiving %1$s (%2$s)…</string>
-    <string name="notif_calculating_app">Caculating %1$s (%2$s)…</string>
-    <string name="notif_parse_select_descript_error">"Couldn't sync the list of backed up items."</string>
-    <string name="alert_miasist_occupy_backup">Backing up items using Mi PC Suite… Wait until the backup is complete and try again.</string>
-    <string name="alert_miasist_occupy_restore">Restoring items using Mi PC Suite… Wait until the items are restored and try again.</string>
-    <string name="alert_phone_occupy_backup">"Can't use Mi PC Suite now. Complete backing up or restoring items on your phone and try again."</string>
-    <string name="alert_second_space_not_support_miasist">"Can't use Mi PC Suite in Second space. Switch to First space."</string>
-    <string name="alert_title_backup_to_miasist">Back up items using Mi PC Suite?</string>
-    <string name="alert_message_backup_to_miasist">Mi PC Suite is requesting permission to create a backup on a computer. Allow?</string>
-    <string name="alert_title_restore_from_miasist">Restore items on your phone?</string>
-    <string name="alert_message_restore_from_miasist">Mi PC Suite is requesting permission to restore items on your phone. Allow?</string>
-    <string name="alert_button_deny">Decline</string>
-    <string name="alert_button_agree_and_continue">Allow</string>
+    <string name="notif_connect_miasist">Mi PC Suite နှင့် ချိတ်ဆက်ထားသည်</string>
+    <string name="notif_disconnect_miasist">Mi PC Suite နှင့် မချိတ်ဆက်ထားပါ</string>
+    <string name="notif_sending_transingsd">%1$s (%2$s) ပေးပို့နေသည် …</string>
+    <string name="notif_receiving_transingsd">%1$s (%2$s) လက်ခံနေသည် …</string>
+    <string name="notif_calculating_app">%1$s (%2$s) တွက်ချက်နေသည် …</string>
+    <string name="notif_parse_select_descript_error">အရန်သိမ်းထားသော အိုင်တမ်စာရင်းကို ဆင့်ခ်လုပ်၍ မရပါ။</string>
+    <string name="alert_miasist_occupy_backup">Mi PC Suite ဖြင့် အိုင်တမ်များကို အရန်သိမ်းနေသည်… အရန်သိမ်းခြင်းများ ပြီးဆုံးသည်အထိ စောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="alert_miasist_occupy_restore">Mi PC Suite ဖြင့် အိုင်တမ်များကို ပြန်လည်ရယူနေသည်… ပြန်လည်ရယူခြင်းများ ပြီးဆုံးသည်အထိ စောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="alert_phone_occupy_backup">Mi PC Suite အား ယခု သုံး၍ မရပါ။ အရန်သိမ်းခြင်း သို့မဟုတ် ပြန်လည်ရယူခြင်းများ ပြီးဆုံးသည်အထိ စောင့်၍ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="alert_second_space_not_support_miasist">ဒုတိယနေရာတွင် Mi PC Suite အား သုံး၍မရပါ။ ပထမနေရာသို့ ကူးပြောင်းပါ။</string>
+    <string name="alert_title_backup_to_miasist">Mi PC Suite ဖြင့် အိုင်တမ်များကို အရန်သိမ်းမလား?</string>
+    <string name="alert_message_backup_to_miasist">Mi PC Suite မှ ကွန်ပျူတာတွင် အရန်သိမ်းခြင်းလုပ်ရန် ခွင့်ပြုချက်တောင်းခံနေသည်။ ခွင့်ပြုမလား?</string>
+    <string name="alert_title_restore_from_miasist">အိုင်တမ်များကို ဖုန်းထဲသို့ ပြန်လည်သိမ်းဆည်းမလား?</string>
+    <string name="alert_message_restore_from_miasist">Mi PC Suite မှ သင်၏ဖုန်းတွင် ပြန်လည်ရယူခြင်းလုပ်ရန် ခွင့်ပြုချက်တောင်းခံနေသည်။ ခွင့်ပြုမလား?</string>
+    <string name="alert_button_deny">ငြင်းဆိုသည်</string>
+    <string name="alert_button_agree_and_continue">ခွင့်ပြုသည်</string>
 </resources>

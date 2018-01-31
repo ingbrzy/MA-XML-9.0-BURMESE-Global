@@ -46,7 +46,7 @@
         <item quantity="other">သမိုင်းမှ အိုင်တမ် %1$dခုအား ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="video_push_multi_message">
-        <item quantity="other">%1$d updates are available.</item>
+        <item quantity="other">အပ်ဒိတ် %1$d ခု ရှိနေပါသည်။</item>
     </plurals>
     <plurals name="video_subtitle_last_message">
         <item quantity="other">%dမိနစ် ကျန်ရှိသည်</item>

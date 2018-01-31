@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="actionbar_large_unread_count">
+        <item quantity="other">%1$d+ unread</item>
+    </plurals>
     <plurals name="actionbar_unread_messages">
         <item quantity="other">%1$d စောင်ကို မဖတ်ရသေးပါ</item>
     </plurals>
@@ -13,7 +16,7 @@
         <item quantity="other">ဤစကားပြောဆိုထားမှုများတွင် ပေါင်းစပ်ထားသော အရာများပါဝင်သည်။ မည်သို့ဆိုစေ ဖျက်ပစ်မလား?</item>
     </plurals>
     <plurals name="confirm_delete_draft">
-        <item quantity="other">ဤစာကြမ်း %1$d စောင်ကို ဖျက်ပစ်မည်လား?</item>
+        <item quantity="other">Delete %1$d drafts?</item>
     </plurals>
     <plurals name="contact_num_selected">
         <item quantity="other">%d ကို ရွေးချယ်ထားပါသည်</item>
@@ -28,7 +31,7 @@
         <item quantity="other">ဖိုင်တွဲများကို ပြောင်းလိုက်ပါပြီ။</item>
     </plurals>
     <plurals name="conversation_msg_header_count">
-        <item quantity="other">အပါအဝင် လူ %1$d ဦး</item>
+        <item quantity="other">+%1$d other people</item>
     </plurals>
     <plurals name="conversation_muted">
         <item quantity="other">&lt;b>%1$d&lt;/b> အသံပိတ်လိုက်သည်</item>
@@ -60,8 +63,17 @@
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">မက်ဆေ့ချ် %1$d စောင်ကို အပြီးသတ် ဖျက်ပစ်ပါတော့မည်။</item>
     </plurals>
+    <plurals name="hide_atts_remaining">
+        <item quantity="other">Hide %1$d attachments</item>
+    </plurals>
+    <plurals name="local_search_result">
+        <item quantity="other">%s results in synced messages</item>
+    </plurals>
     <plurals name="month">
         <item quantity="other">%d လ</item>
+    </plurals>
+    <plurals name="more_atts_remaining">
+        <item quantity="other">%1$d attachments remaining</item>
     </plurals>
     <plurals name="move_conversation">
         <item quantity="other">စကားပြောဆိုထားမှု %1$d ခုကို ရွှေပါ</item>
@@ -69,10 +81,22 @@
     <plurals name="new_incoming_messages_many">
         <item quantity="other">မက်ဆေ့ချ်အသစ် %1$d စောင်ကိုပြပါ။</item>
     </plurals>
+    <plurals name="new_messages">
+        <item quantity="other">%1$d new messages</item>
+    </plurals>
     <plurals name="num_selected">
         <item quantity="other">%d ခုကို ရွေးချယ်ထားပါသည်</item>
     </plurals>
+    <plurals name="quick_reply_hint">
+        <item quantity="other">Reply to %1$d people</item>
+    </plurals>
+    <plurals name="remote_search_result">
+        <item quantity="other">%s results in all accounts</item>
+    </plurals>
     <plurals name="show_messages_read">
         <item quantity="other">မက်ဆေ့ချ်အဟောင်း %1$d စောင်</item>
+    </plurals>
+    <plurals name="unsent_messages_in_outbox">
+        <item quantity="other">%1$s unsent messages in %2$s</item>
     </plurals>
 </resources>

@@ -18,13 +18,9 @@
     <string name="cloud_backup_detail_title">ပင်မမျက်နှာပြင်၊ အက်ပ်နှင့် ဆက်တင်။</string>
     <string name="cloud_backup_detail_state_summary">Wi-Fi သို့ ချိတ်ဆက်သောအခါ Mi Cloud အရန်သိမ်းခြင်းကို အလိုအလျောက် ဖန်တီးပါ။</string>
     <string name="cloud_backup_detail_frequence">အရန်သိမ်းအချိန်ဇယား</string>
-    <string name="cloud_back_up_interval_long">၇ ရက်</string>
-    <string name="cloud_back_up_interval_short">ရက်</string>
-    <string name="cloud_backup_detail_frequence_day">%1$s တိုင်းတွင် အရန်သိမ်းပါ</string>
     <string name="cloud_backup_detail_time">နောက်ဆုံးအရန်သိမ်း−%1$s</string>
     <string name="cloud_backup_detail_manage">အရန်သိမ်းများအား စီမံပါ</string>
-    <string name="cloud_backup_detail_manage_summary">%1$sအရန်သိမ်းများ၊ အရန်သိမ်းအရွယ်−%2$s</string>
-    <string name="backup_size_summary">အရွယ်အစား−%1$s</string>
+    <string name="cloud_backup_derail_size_summary">အရွယ်အစား- %s</string>
     <string name="cloud_back_up_opening">ခဏစောင့်ပါ…</string>
     <string name="cloud_back_up_no_network_warn">Wi-Fiသို့ ချိတ်ဆက်၍မရပါ</string>
     <string name="cloud_back_up_ok_btn">အိုကေ</string>
@@ -52,7 +48,7 @@
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="device_corrupt">Mi ဖုန်း (ဒေတာပျက်စီးသော)</string>
-    <string name="size_unknown">အရွယ်အစား မသိသော</string>
+    <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="start_recover">%s ကို နဂိုနေရာပြန်ထားပါ</string>
     <string name="latest_backup_time_loading">ဆွဲချနေဆဲ…</string>
@@ -130,7 +126,7 @@
     <string name="can_not_restore_in_lite_mode">Lite မုဒ်တွင် ပြန်လည်ရယူ၍ မရနိုင်ပါ။</string>
     <string name="can_not_backup_in_lite_mode">Lite မုဒ်တွင် ပြန်လည်ရယူ၍ မရနိုင်ပါ။</string>
     <string name="restore_data_title">ဒေတာအား ပြန်လည်ရယူမည်</string>
-    <string name="provision_error_connect_msg">ကွန်ရက်ကို စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ ကွန်ရက်မရှိပါက အရန်သိမ်းခြင်း မလုပ်ဆောင်နိုင်ပါ။</string>
+    <string name="provision_error_connect_msg">ကွန်ရက်အား စစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။ သင့်စက် အော့ဖ်လိုင်းဖြစ်နေစဥ် အရန်သိမ်းခြင်းလုပ်၍ မရပါ။</string>
     <string name="provision_error_connect_title">ချိတ်ဆက်၍ မရပါ</string>
     <string name="authentication_failed">အကောင့်အား အတည်ပြု၍ မရပါ။</string>
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
@@ -146,6 +142,10 @@
     <string name="download_meta_again">အရန်သိမ်းထားသည်များအား မရယူနိုင်ပါ၊ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="cancel_restore_home">ဖျက်သိမ်းနေသည်…</string>
     <string name="cancel_backup">အရန်သိမ်းခြင်းကို ဖျက်သိမ်းနေသည်…</string>
+    <string name="dialog_title_require_wlan">Wi-Fi သို့ ချိတ်ဆက်ပါ</string>
+    <string name="dialog_msg_restore_require_wlan">အရန်သိမ်းခြင်းများကို ပြန်လည်ရယူလိုလျှင် Wi-Fi သို့ ချိတ်ဆက်ရမည်။</string>
+    <string name="dialog_btn_next">နောက်တစ်ဆင့်</string>
+    <string name="dialog_btn_restore_skip">နောက်မှ ပြန်လည်ရယူမည်</string>
     <string name="cloud_backup">Mi Cloud အရန်သိမ်းခြင်း</string>
     <string name="open_backup_switch">အရန်သိမ်းခြင်းခလုတ်ကို ဖွင့်ပါ</string>
     <string name="restore_cloud_backup_to_phone">Mi Cloud မှ အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>

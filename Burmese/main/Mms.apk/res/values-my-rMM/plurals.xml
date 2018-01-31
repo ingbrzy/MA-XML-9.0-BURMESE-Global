@@ -10,7 +10,7 @@
         <item quantity="other">မက်ဆေ့ချ် %d ခုအား ဆင့်ခ်မလုပ်ရသေးပါ</item>
     </plurals>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">Delete %1$s selected conversations?</item>
+        <item quantity="other">ရွေးထားသော စကားပြောဆိုမှု %1$s ခု အား ဖျက်မလား?</item>
     </plurals>
     <plurals name="custom_select_title_items_selected">
         <item quantity="other">%d ခုရွေးထားသော</item>

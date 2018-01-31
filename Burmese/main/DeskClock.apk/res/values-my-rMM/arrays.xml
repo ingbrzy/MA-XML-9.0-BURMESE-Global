@@ -66,6 +66,15 @@
         <item>၂၅ မိနစ်</item>
         <item>၃၀ မိနစ်</item>
     </string-array>
+    <string-array name="snooze_duration_values">
+        <item>1</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
     <string-array name="auto_silence_entries">
         <item>ဘယ်တော့မှ</item>
         <item>၁ မိနစ်</item>
@@ -80,5 +89,10 @@
         <item>ဘာမှမလုပ်</item>
         <item>တစ်မှေးအိပ်</item>
         <item>ရပ်နား</item>
+    </string-array>
+    <string-array name="volume_button_setting_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
     </string-array>
 </resources>

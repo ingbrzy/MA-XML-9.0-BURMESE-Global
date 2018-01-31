@@ -46,6 +46,13 @@
     <string name="percentDesc">ရာခိုင်နှုန်း</string>
     <string name="menuDesc">မီနူး</string>
     <string name="settingsDesc">ဆက်တင်များ</string>
+    <string name="secondFunctionDesc">Switch to the second function</string>
+    <string name="degDesc">Angle</string>
+    <string name="radDesc">Radian</string>
+    <string name="reverceDesc">arc</string>
+    <string name="switchDesc">Switch</string>
+    <string name="scannerDesc">Scanner</string>
+    <string name="reciprocalDesc">Reciprocal</string>
     <string name="home_title_calculator">ဂဏန်းတွက်စက်</string>
     <string name="item_title_calculator">ဂဏန်းပေါင်းစက်</string>
     <string name="item_title_scientific_calculator">သိပ္ပံ</string>
@@ -62,6 +69,10 @@
     <string name="item_title_time_conversion">အချိန်</string>
     <string name="item_title_dress_size">အဝတ်အရွယ်အစား</string>
     <string name="item_title_aa_payment">ခွဲပြီးပိုက်ဆံရှင်း</string>
+    <string name="scanner_had_been_uninstalled">စကန်နာအား ဖြုတ်ချထားသည်</string>
+    <string name="install_scanner_to_continued_use">စကန်နာအား ဖြုတ်ချထားသည်။ ပြန်ထည့်သွင်းမလား?</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="install">ထည့်သွင်းမည်</string>
     <string name="loan_interest_rate">အတိုး</string>
     <string name="loan_edittext_hint_commercial">ပမာဏအား ရိုက်ထည့်ပါ</string>
     <string name="loan_edittext_hint_fund">ပမာဏအား ရိုက်ထည့်ပါ</string>

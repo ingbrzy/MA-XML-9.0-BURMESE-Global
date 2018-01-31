@@ -6,6 +6,12 @@
     <plurals name="add_to_album_cloud_photo_count_tip">
         <item quantity="other">ကလောက်ပုံ %d ပုံပေါင်းထည့်ခဲ့သည်၊ ကြည့်ရန်အတွက် \"ဖုန်းတွင်းဓါတ်ပုံများကိုသာ ပြပါ\"အား ပိတ်လိုက်ပါ။</item>
     </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">အိုင်တမ် %2$d ခုကို အယ်လ်ဘမ်သို့ ပေါင်းထည့်၍ မရပါ။ %1$s။</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">အိုင်တမ် %2$d ခုကို ဝှက်ထားသော အယ်လ်ဘမ်သို့ ပေါင်းထည့်၍ မရပါ။ %1$s။</item>
+    </plurals>
     <plurals name="age_day">
         <item quantity="other">%d ရက်</item>
     </plurals>
@@ -90,6 +96,9 @@
     <plurals name="face_count">
         <item quantity="other">စုစုပေါင်း ဓာတ်ပုံများ%d ပုံ</item>
     </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">ဓာတ်ပုံဖန်တီးနေသည်…</item>
+    </plurals>
     <plurals name="fast_share_auto_render_failed">
         <item quantity="other">ရမ်းဒါးမလုပ်နိုင်ခဲ့သော ဓါတ်ပုံ %1$d ပုံအား ကျော်သွားပါ</item>
     </plurals>
@@ -153,6 +162,9 @@
     <plurals name="remind_face_recommend_confirm_text">
         <item quantity="other">စုစုပေါင်း ဓာတ်ပုံ %d ပုံ</item>
     </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">အိုင်တမ်%2$d အား ကွယ်ဝှက်အယ်လ်ဘမ်မှ ဖယ်ရှား၍မရနိုင်ပါ။%1$s။</item>
+    </plurals>
     <plurals name="search_feedback_done_mark_and_contribute_false_negative">
         <item quantity="other">\"%2$s\"သို့ ဓာတ်ပုံ %1$dပုံ ထည့်ပြီး ဒေတာဘေ့စ်သို့ ပေါင်းထည့်ပြီးပြီ။</item>
     </plurals>
@@ -164,6 +176,18 @@
     </plurals>
     <plurals name="search_feedback_done_mark_false_positive">
         <item quantity="other">ဓာတ်ပုံ %1$dပုံကို \"%2$s\"မှ ဖယ်ရှားပြီးပြီ။</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">မျှဝေ၍ မရပါ။ ဓာတ်ပုံ %d ပုံကို ဖန်တီးနေသည်…</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံ လုပ်ဆောင်ပြီးပါပြီ</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံ မလုပ်ဆောင်ရသေးပါ။ ယခု ရပ်ပစ်မလား?</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">ဓာတ်ပုံ %d ပုံ ကျန်သေးသည်</item>
     </plurals>
     <plurals name="sync_error_title">
         <item quantity="other">ဓါတ်ပုံနှင့် ဗီဒီယို %d ခုအား အရန်မသိမ်းထားပါ</item>

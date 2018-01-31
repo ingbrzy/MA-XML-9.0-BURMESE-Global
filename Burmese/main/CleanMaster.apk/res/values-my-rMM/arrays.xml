@@ -12,12 +12,6 @@
         <item>မကြာခဏ အသုံးပြုသော</item>
         <item>အရွယ်အစား</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>နေ့စဥ်နေ့တိုင်း</item>
-        <item>၃ ရက်တိုင်း</item>
-        <item>၇ ရက်တိုင်း</item>
-        <item>၁၅ ရက်တိုင်း</item>
-    </string-array>
     <string-array name="auto_clean_size">
         <item>100MB</item>
         <item>300MB</item>

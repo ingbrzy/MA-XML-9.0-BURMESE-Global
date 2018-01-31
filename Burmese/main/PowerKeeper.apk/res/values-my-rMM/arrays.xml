@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="hmode_app_groups">
+        <item>ကိုယ်တိုင်လုပ်ပါ</item>
+        <item>ဘက်ထရီချွေတာသူ</item>
+    </string-array>
+    <string-array name="thermal_entries">
+        <item>ပုံသေ အပူထိန်းမုဒ်</item>
+        <item>လုပ်ဆောင်ရည်မုဒ်</item>
+    </string-array>
+    <string-array name="thermal_summaries">
+        <item>လက်ရှိ အပူချိန်ထိန်းချုပ်မှုမုဒ်</item>
+        <item>လက်ရှိအသုံးပြုသောမုဒ်</item>
+    </string-array>
+    <string-array name="power_mode_entries">
+        <item>စွမ်းဆောင်ရည်</item>
+        <item>ဟန်ချက်</item>
+    </string-array>
     <string-array name="group_name_translate">
         <item>မူလသတ်မှတ်ချက်</item>
         <item>ဖုံးကွယ်မုဒ်</item>
@@ -49,10 +65,6 @@
         <item>တစ်ခုမှ ရွေးမထားပါ</item>
         <item>အခြားရွေးထားသော မုဒ်များထဲတွင်</item>
     </string-array>
-    <string-array name="hmode_app_groups">
-        <item>ကိုယ်တိုင်လုပ်ပါ</item>
-        <item>ဘက်ထရီချွေတာသူ</item>
-    </string-array>
     <string-array name="power_checker_group_prefix">
         <item>ယခု</item>
         <item>နောက်ခံ</item>
@@ -78,17 +90,5 @@
         <item></item>
         <item></item>
         <item></item>
-    </string-array>
-    <string-array name="thermal_entries">
-        <item>ပုံသေ အပူထိန်းမုဒ်</item>
-        <item>လုပ်ဆောင်ရည်မုဒ်</item>
-    </string-array>
-    <string-array name="thermal_summaries">
-        <item>လက်ရှိ အပူချိန်ထိန်းချုပ်မှုမုဒ်</item>
-        <item>လက်ရှိအသုံးပြုသောမုဒ်</item>
-    </string-array>
-    <string-array name="power_mode_entries">
-        <item>Performance</item>
-        <item>Balanced</item>
     </string-array>
 </resources>

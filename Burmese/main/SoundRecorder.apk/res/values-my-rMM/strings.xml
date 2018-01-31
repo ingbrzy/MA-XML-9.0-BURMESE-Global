@@ -26,7 +26,6 @@
     <string name="notification_recording_ticker">ဖုန်းအသံ ဖျောက်ထားသည်</string>
     <string name="notification_playback">ဖွင့်ထားဆဲ…</string>
     <string name="notification_stopped">အသံဖမ်းယူမှု ရပ်ဆိုင်းပြီးပြီ</string>
-    <string name="notification_warning">သိုလှောင်ခန်း စွမ်းရည်နည်းနေသည် (မိနစ် %d အောက်)</string>
     <string name="record_list">အသံဖမ်းယူမှုများ</string>
     <string name="record_list_fm">FM အသံဖမ်းယူမှုများ</string>
     <string name="record_list_call">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
@@ -73,6 +72,7 @@
     <string name="message_file_size_error">အသံဖမ်းယူမှုသည် %s က ပံ့ပိုးပေးထားသော အများဆုံး အချိန်တာသို့ ရောက်နေပါပြီ</string>
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="back">ယခင်သို့</string>
+    <string name="menu">မီနူး</string>
     <string name="toast_uninstall_fileexplorer">အိပ်ပလိုရာအက်ပ်ကို တပ်ဆင်မထားပါ</string>
     <string name="record_download">Mi Cloud မှ ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="record_download_msg">ဖမ်းယူထားသည့်အသံပိုင်းများကို ဒေါင်းလုဒ်လုပ်ပြီးနောက်သာလျှင်၊ ၎င်းတို့ကို ဖွင့်နိုင်ပါမည်။</string>
@@ -98,7 +98,7 @@
     <string name="record_quliaty_preference_title">အသံဖမ်း အရည်အသွေး</string>
     <string name="cloud_record_tip">မှတ်တမ်းတင်ထားမှုများအား Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်ပါ</string>
     <string name="cloud_record_open">မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်လုပ်နေ</string>
-    <string name="cloud_service_state_open_reminder">Turn on sync with Mi Cloud to sync recording files.</string>
+    <string name="cloud_service_state_open_reminder">မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ရန် Mi Cloud ဖြင့် ဆင့်ခ်လုပ်ခြင်းအား ဖွင့်ပါ။</string>
     <string name="cloud_status_full_dialog_title">Mi ကလောက်သိုလှောင်မှု ပြည့်နေပြီ</string>
     <string name="cloud_status_full_dialog_msg">သင့်ကလောက်သိုလှောင်မှု ပြည့်နေပါပြီ၊ မှတ်တမ်းတင်ထားမှုများအား ဆင့်ခ်မလုပ်နိုင်ပါ။ သိုလှောင်မှုနေရာများ ပိုမိုရရှိနိုင်ရန် သင့်အကောင့်အား အဆင့်မြှင့်တင်ပါ။</string>
     <string name="cloud_status_full_dialog_cancel">ယခုမလုပ်သေး</string>
@@ -141,10 +141,8 @@
     <string name="recognition_error_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="recognition_status_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="runtime_permission_ungranted">မှတ်တမ်းတင်သူအား အာမခံမရှိသော ခွင့်ပြုချက်များကြောင့် အသုံးပြု၍မရနိုင်ပါ</string>
-    <string name="btn_clear_records">မှတ်တမ်းများအား ဖျက်မည်(%dခု)</string>
     <string name="alert_message_clear_records">ရွေးထားသော အသံဖမ်းယူမှုများကို ဖျက်ပစ်မလား?</string>
     <string name="clear_records">ဆင့်ခ်မှတ်တမ်းများအား ဖျက်ပါ</string>
-    <string name="choose_call_records_count">အိုင်တမ် %d ခု</string>
     <string name="network_tip_dialog_title">အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်</string>
     <string name="network_tip_dialog_content">ရီကော်ဒါသည် ပုံမှန်အလုပ်လုပ်နိုင်ရန် အင်တာနက်သို့ ချိတ်ဆက်ခြင်းနှင့် သင်၏အဆက်အသွယ်များကို ဖတ်ယူရပါမည်။ သဘောတူမလား?</string>
     <string name="network_tip_dialog_ok">သဘောတူသည်</string>

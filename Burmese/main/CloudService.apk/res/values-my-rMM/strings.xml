@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">ပို့နေဆဲ…</string>
-    <string name="sina_share_success">ပို့ပြီး</string>
-    <string name="sina_share_fail">မပို့နိုင်ပါ</string>
-    <string name="sina_token_expired_warning">Weibo အကောင့် သက်တမ်းကုန်သွားပြီ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ</string>
-    <string name="sina_token_invalid_warning">Weiboအကောင့် ဘောင်မဝင်ပါ၊ အကောင့်ကို ထပ်မံပေါင်းထည့်ပါ။</string>
-    <string name="sina_share_fail_content_repeat">ဤအရာကို သင် ဝေမျှပြီးပြီ</string>
     <string name="search_finddevice_pref">စက်ကို ရှာပါ</string>
     <string name="search_finddevice_pref_key_words">စက်ရှာဖွေ၊ စက် ရှာဖွေ</string>
     <string name="search_finddevice_pref_desc">စက်ရှာဖွေခြင်းအား ဖွင့်/ပိတ်ပါ</string>
@@ -39,8 +33,8 @@
     <string name="vcode">အတည်ပြုကုဒ်</string>
     <string name="bad_authentication">အကောင့် (သို့မဟုတ်) စကားဝှက် မှားနေသည်</string>
     <string name="header_data_and_synchronization">ဒေတာနှင့် ဆင့်ခ်</string>
-    <string name="header_cloud_backup_settings">အရန်သိမ်းနှင့် ပြန်လည်ရယူခြင်း</string>
-    <string name="header_find_device_settings">စက်ကို ရှာပါ</string>
+    <string name="header_cloud_backup_settings">အရန်သိမ်းခြင်းနှင့် ပြန်လည်ရယူခြင်း</string>
+    <string name="header_find_device_settings">စက်ရှာဖွေခြင်း</string>
     <string name="title_reg">Mi အကောင့် ဖန်တီးပါ</string>
     <string name="unactivated_user">ဆိုင်းအောက်ထွက်ထားသည်</string>
     <string name="error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
@@ -65,9 +59,11 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">ဆင့်ခ်</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 "</string>
-    <string name="sync_dspt_entrance_provision">Mi Cloud သည် သင့် ဓာတ်ပုံ၊ အဆက်အသွယ်နှင့် အခြားအိုင်တမ်များကို ဆင့်ခ်လုပ်ပေးနိုင်သည်။ ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များကို %s တွင် ဝင်ကြည့်နိုင်ပါသည်။</string>
+    <string name="sync_dspt_entrance_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ ခေါ်ဆိုမှု မှတ်တမ်းနှင့် မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ပါ။ မည်သည့် ဘရောက်ဇာမှမဆို သင်ဆင့်ခ်လုပ်ထားသော အရာများကို %s တွင် ရယူသုံးစွဲပါ။ "</string>
     <string name="sync_dspt_entrance_provision_2">နောက်ထပ် လေ့လာရန်</string>
     <string name="sync_dspt_entrance_provision_confirm_close">အသုံးမပြုပါ</string>
     <string name="sync_dspt_entrance_provision_confirm_open">Mi Cloud ကိုသုံးပါ</string>
@@ -76,6 +72,8 @@
     <string name="sync_dspt_entrance_provision_skip">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် မိုဘိုင်းဒေတာချိတ်ဆက်မှုနှင့် Wi-Fi ဖွင့်ရန် လိုအပ်သည်။</string>
     <string name="find_device_dspt_provision">သင်စက်ပျောက်သွားပါက၊ စက်အားရှာဖွေရန် %s သို့သွားပါ၊ သို့မဟုတ် ပြန်သတ်မှတ်ပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင်အချိန်မရွေးဖွင့်ပိတ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 ."</string>
     <string name="find_device_dspt_provision_4">သင် ဆင်းမ်ကဒ်များကို ဖလှယ်လိုက်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
@@ -110,11 +108,9 @@
     <string name="other_settings">အခြားဆက်တင်များ</string>
     <string name="find_device">စက်ကို ရှာပါ</string>
     <string name="find_device_pref_initializing">စတင်လုပ်ဆောင်နေသည်…</string>
-    <string name="find_device_reading_status">လုဒ်တင်နေသည့် အခြေအနေ…</string>
     <string name="find_device_enabling">ဖွင့်နေသည်…</string>
     <string name="find_device_disabling">ပိတ်နေသည်…</string>
     <string name="find_device_operation_failure_rpc">RPC အမှားကြောင့် လုပ်ငန်းစဉ်လုပ်ဆောင်၍မရပါ။</string>
-    <string name="find_device_reading_status_failure">အခြေအနေအား လုဒ်မတင်နိုင်ခဲ့ပါ။</string>
     <string name="enable_find_device_success">စက်ကိုရှာပါကို ဖွင့်ထားသည်</string>
     <string name="activate_find_device_success">စက်ရှာဖွေခြင်းကို အသက်သွင်းပြီးပါပြီ။</string>
     <string name="disable_find_device_success">စက်ကိုရှာပါကို ပိတ်ထားသည်</string>
@@ -130,6 +126,7 @@
     <string name="find_device_error_server">ဆာဗာ အမှား</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် ဆင်းမ်ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
@@ -174,8 +171,6 @@
     <string name="micloud_space_full_influence"><u>ကျွန်ုပ်တွင် နေရာလွတ်မရှိတော့လျှင် ဘာဖြစ်သွားမလဲ?</u></string>
     <string name="micloud_storage_usage" formatted="false">အသုံးပြု%s/ စုစုပေါင်းနေရာ %s</string>
     <string name="micloud_storage_full">Cloud ပြည့်နေပြီ</string>
-    <string name="micloud_title_dspt" formatted="false">"စုစုပေါင်း%s 
-အသုံးပြု %s  | လက်ကျန်%s"</string>
     <string name="micloud_title_dspt_remain">လက်ကျန် %s</string>
     <string name="micloud_title_full_dspt">သိုလှောင်ခန်း ကန့်သတ်သို့ ရောက်ရှိပါပြီ</string>
     <string name="micloud_user_space_usage">သိုလှောင်ခန်းနေရာလွတ်</string>
@@ -236,7 +231,6 @@
     <string name="micloud_unlogin_for_time_title">Mi Cloud</string>
     <string name="micloud_unlogin_for_time_summary" />
     <string name="micloud_main_sync_stop">ဆင့်ခ်လုပ်ဆောင်ချက် ရပ်လိုက်သည်</string>
-    <string name="micloud_main_sync_pause">ဆင့်ခ်လုပ်ဆောင်ချက် ခဏနားလိုက်သည်</string>
     <string name="micloud_main_sync_exception">ဆင့်ခ်လုပ်ဆောင်ချက် ချွတ်ယွင်းမှု</string>
     <string name="micloud_main_stop_sync">ဆင့်ခ်လုပ်ဆောင်ချက် ရပ်လိုက်သည်</string>
     <string name="micloud_main_suggest_sync">အရာအားလုံး ဆင့်ခ်လုပ်လို့မရပါ</string>
@@ -252,6 +246,7 @@
     <string name="micloud_main_message_not_synced">%s ဒေတာအား ဆင့်ခ်မလုပ်နိုင်ခဲ့</string>
     <string name="micloud_main_suggest_setting">ဆက်တင်များ ပြောင်းလဲပါ သို့မဟုတ် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_main_sync_pending">ဆင့်ခ်လုပ်ရန် စောင့်နေ</string>
+    <string name="micloud_main_sync_pause">ဆင့်ခ်လုပ်ဆောင်ချက် ခဏနားလိုက်သည်</string>
     <string name="micloud_main_sync_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ</string>
     <string name="micloud_main_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="micloud_main_network_abnormal">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
@@ -267,7 +262,6 @@
     <string name="micloud_main_update_space">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
     <string name="micloud_main_space_full_title">သိမ်းဆည်းရန် နေရာမလုံလောက်ပါ၊ ဆင့်ခ်လုပ်ခြင်း ခေတ္တရပ်ခဲ့သည်</string>
     <string name="micloud_main_space_full_message">Mi Cloud တွင် နောက်ထပ် သိုလှောင်ခန်းနေရာလွတ် ဝယ်ယူပါ</string>
-    <string name="micloud_main_memory_low_title">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်မှု ပြည့်နေပြီ</string>
     <string name="micloud_main_memory_low_message">ဆင့်ခ်လုပ်ရန် သင်ကလောက်ထဲတွင် သိုလှောင်ထားသော နေရာမလုံလောက်ပါ</string>
     <string name="micloud_main_clear_now">ကြည်လင်သော</string>
     <string name="micloud_main_query_error_title">ဆင့်ခ်လုပ်စဉ်နှင့်ပတ်သတ်၍ အချက်အလက်မရရှိနိုင်ခဲ့ပါ</string>
@@ -378,9 +372,9 @@
     <string name="micloud_member_pay_order_error_toast">ဒေတာ ချွတ်ယွင်းမှု</string>
     <string name="micloud_member_pay_miid_error_toast">အကောင့် ချွတ်ယွင်းမှု</string>
     <string name="micloud_member_refresh_button">ပြန်လန်းဆန်း</string>
-    <string name="share_miliao_not_installed">Mi Talk ကို ထည့်သွင်းထားခြင်းမရှိပါ။</string>
-    <string name="share_weibo_not_installed">Weibo ထည့်သွင်းထားခြင်းမရှိပါ။</string>
-    <string name="share_weixin_not_installed">WeChat ထည့်သွင်းထားခြင်းမရှိပါ။</string>
+    <string name="share_miliao_not_installed">Mi Talk ကို ထည့်သွင်းထားခြင်း မရှိပါ။</string>
+    <string name="share_weibo_not_installed">Weibo ကို ထည့်သွင်းထားခြင်း မရှိပါ။</string>
+    <string name="share_weixin_not_installed">WeChat ကို ထည့်သွင်းထားခြင်း မရှိပါ။</string>
     <string name="share_success">မျှဝေထားသည်</string>
     <string name="share_cancel">မျှဝေထားသည်ကို ပယ်ဖျက်လိုက်ပါသည်</string>
     <string name="share_failed">မျှဝေ၍ မရနိုင်ပါ</string>
@@ -401,7 +395,7 @@
     <string name="micloud_storage">သိုလှောင်ခန်း</string>
     <string name="micloud_member">Mi Cloud အသင်းဝင်မှု</string>
     <string name="micloud_buy_member">Mi Cloud အသင်းဝင်မှုအား ဝယ်ပါ</string>
-    <string name="micloud_buy_member_safe">MiCloud သိုလှောင်ခန်းကို တိုးချဲ့မည်</string>
+    <string name="micloud_buy_member_safe">Mi Cloud သိုလှောင်ခန်း ပိုမိုရယူပါ</string>
     <string name="micloud_website">Mi Cloud အိုင်တမ်များ</string>
     <string name="micloud_member_advantage">နောက်ထပ်သိုလှောင်ခန်းနေရာလွတ်ကို ရယူပါ။</string>
     <string name="micloud_main_title_sync_fail">ဆင့်ခ်မလုပ်နိုင်ပါ</string>
@@ -412,7 +406,7 @@
     <string name="micloud_main_error_network_disallowed">အင်တာနက်သို့ ဝင်ရောက်ခွင့်ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="micloud_main_error_activated_fail">ဆင်းမ်ကဒ်အား အသက်သွင်းပါ။</string>
     <string name="micloud_main_error_permission_limit">Mi Cloud အား သိုလှောင်ခန်းသို့ ဝင်ရောက်ခွင့်ပေးမည်။</string>
-    <string name="micloud_manage_space_data">Mi Cloud ဒေတာကို စီမံမည်</string>
+    <string name="micloud_manage_space_data">Mi Cloud ဒေတာအား စီမံပါ</string>
     <string name="micloud_confusion_no">မဖွင့်</string>
     <string name="micloud_confusion_yes">ဟုတ်သည်</string>
     <string name="micloud_confusion_cancel">ပယ်ဖျက်</string>
@@ -455,7 +449,6 @@
     <string name="micloud_notif_content_depend_wifi">ဆင့်ခ်လုပ်ရန် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_notif_title_master_depend_wifi">Mi ကလောက်နှင့် ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="micloud_notif_content_master_depend_wifi">Wi-Fi သို့ ဦးစွာချိတ်ဆက်ပါ</string>
-    <string name="micloud_notif_title_memory_low">Mi ကလောက်နှင့် ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="micloud_notif_content_memory_low">နေရာလွတ် မလုံလောက်ပါ။</string>
     <string name="micloud_notif_title_battery_low">Mi ကလောက်နှင့် ဆင့်ခ်မလုပ်နိုင်ခဲ့ပါ</string>
     <string name="micloud_notif_content_battery_low">ဘက်ထရီအားနည်းနေပါသည်</string>
@@ -483,6 +476,8 @@
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_close_fail">စက်ရှာဖွေခြင်းအား ပိတ်၍မရပါ။</string>
     <string name="micloud_find_device_finish">ပြီးပါပြီ</string>
@@ -518,11 +513,9 @@
     <string name="soundrecorder_sync_only_in_wifi">ဆင့်ခ်လုပ်လျှင်Wi-Fiကိုသာ သုံးပါ</string>
     <string name="soundrecorder_sync_only_in_wifi_summary">ရီကော်ဒါသည် ဖမ်းယူထားသည့်အသံအပိုင်းများကို ဒေါင်းလုဒ်လုပ်ရန် (သို့) အပ်လုဒ်တင်ရန် မိုဘိုင်းဒေတာကို သုံးလိမ့်မည်မဟုတ်ပါ။</string>
     <string name="micloud_wipe_data_confirm_label">Mi Cloud မှ ဒေတာဖယ်ရှား</string>
-    <string name="micloud_wipe_data_confirm_title">သင်ဆိုင်းအောက်ထွက်ပြီးနောက် ဖုန်းမှ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များအား ဖယ်ရှားမည်လား?</string>
     <string name="micloud_wipe_data_retain">ထိန်းထား</string>
     <string name="micloud_wipe_data_remove">ဖယ်ရှား</string>
-    <string name="wipe_data_dialog_title">အိုင်တမ်အချို့ကို ဆင့်ခ်မလုပ်ရသေးပါ</string>
-    <string name="wipe_data_dialog_msg">%s အား ဆင့်ခ်မလုပ်ရသေးပါ၊ သင့်ဖုန်းတွင် ရှိနေဦးမည်ဖြစ်သည်။</string>
+    <string name="wipe_data_dialog_title">အိုင်တမ်များအား ဆင့်ခ်မလုပ်ရသေးပါ</string>
     <string name="wipe_data_dialog_button_check_sync">ဆင့်ခ်လုပ်ထားသလား စစ်ဆေးကြည့်ပါ</string>
     <string name="wipe_data_dialog_msg_and_on">၊နှင့် အခြားအိုင်တမ်များ</string>
     <string name="wipe_secret_photo_dialog_title">ဝှက်ထားသော ဓာတ်ပုံများကို ဆင့်ခ်မလုပ်ရသေးပါ</string>
@@ -534,9 +527,6 @@
     <string name="short_cut_desc">အိမ်မျက်နှာပြင်တွင် Mi ကလောက်အိုင်ကွန်ထည့်မည်လား?</string>
     <string name="add_short_cut">ပေါင်းထည့်</string>
     <string name="added_successfully">အောင်မြင်စွာ ပေါင်းထည့်ခဲ့သည်</string>
-    <string name="find_device_service_title">စက်ကို ရှာပါ</string>
-    <string name="find_device_service_summary">သင်စက်တည်နေရာအားသိရှိရန်နှင့် အဝေးမှ သော့ခတ်လိုက်နိုင်ရန် i.mi.com သို့ ဝင်ရောက်ပါ</string>
-    <string name="find_device_service_summary_international">သင်စက်တည်နေရာအားသိရှိရန်နှင့် အဝေးမှ သော့ခတ်လိုက်နိုင်ရန် i.mi.com သို့ ဝင်ရောက်ပါ</string>
     <string name="virtual_sim_desc">စက်အား ဆင်းမ်ကဒ်မရှိဘဲ တည်နေရာသတ်မှတ်နိုင်ရန် Mi ဆင်းမ်အားဖွင့်လိုက်ပါ</string>
     <string name="add_cloud_storage">သိုလှောင်မှုပေါင်းထည့်</string>
     <string name="other_sync_item">အခြားဆင့်ခ်အိုင်တမ်များ</string>
@@ -558,11 +548,12 @@
     <string name="micloud_dialog_sync_now_message">ထပ်ဆောင်းမိုဘိုင်းဒေတာ စားရိတ်များ ရှောင်ရှားရန် Wi-Fi သို့ချိတ်ဆက်ပါ</string>
     <string name="micloud_dialog_sync_now_negative">ယခုမလုပ်သေး</string>
     <string name="micloud_dialog_sync_now_positive">မိုဘိုင်းဒေတာကို သုံးပါ</string>
-    <string name="micloud_main_head_menu_recycle_bin_title">အမှိုက်ပုံး</string>
-    <string name="micloud_main_head_menu_recycle_bin_summary">အဆက်အသွယ်များ၊ ဓာတ်ပုံများကို ပြန်လည်ရယူမည်</string>
-    <string name="micloud_main_head_menu_cloud_backup">Cloud အရန်သိမ်းခြင်း</string>
-    <string name="micloud_main_head_menu_state_open">ဖွင့်ထားသည်</string>
-    <string name="micloud_main_head_menu_state_close">ပိတ်ထားသည်</string>
+    <string name="micloud_main_head_menu_recycle_bin_title">ဖျက်ထားသော အိုင်တမ်များ</string>
+    <string name="micloud_main_head_menu_recycle_bin_summary">ဖျက်ထားသော အိုင်တမ်များကို ပြန်လည်ရယူမည်</string>
+    <string name="micloud_main_head_menu_cloud_backup">ပင်မမျက်နှာပြင် အရန်သိမ်းခြင်း</string>
+    <string name="micloud_main_head_menu_state_open">ဖွင့်ပါ</string>
+    <string name="micloud_main_head_menu_state_close">ပိတ်ပါ</string>
+    <string name="micloud_main_head_menu_state_unavailable">မရရှိနိုင်ပါ</string>
     <string name="micloud_footer_normal_url">i.mi.com</string>
     <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">လက်ဗွေဖြင့်ပေးချေမှု</string>
@@ -584,4 +575,14 @@
     <string name="ks_update_fail_request_timeout">ချိတ်ဆက်ရန် တောင်းဆိုမှုအချိန် ကုန်လွန်ပါပြီ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="ks_update_fail_code">အသိမှတ်ပြုလက်မှတ်အား ဒေါင်းလုဒ်လုပ်၍ မရပါ။ အမှားကုဒ်နံပါတ်- %d</string>
     <string name="title_back">နောက်သို့</string>
+    <string name="reading_status">အခြေအနေ ရယူနေသည်…</string>
+    <string name="reading_status_failure">အခြေအနေကို မရယူနိုင်ပါ။</string>
+    <string name="micloud_title_dspt" formatted="false">အသုံးပြုနေသော %s/ စုစုပေါင်း %s၊</string>
+    <string name="micloud_main_memory_low_title">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်ခန်း ပြည့်နေပြီ</string>
+    <string name="micloud_notif_title_memory_low">Mi ကလောက်ဖြင့် ဆင့်ခ်လုပ်၍ မရပါ</string>
+    <string name="find_device_service_title">စက်ရှာဖွေခြင်း</string>
+    <string name="find_device_service_summary">စက်တည်နေရာအားသိရှိရန်နှင့် အဝေးထိန်းစနစ်ဖြင့် လော့ခ်ချနိုင်ရန် i.mi.com သို့ ဝင်ရောက်ပါ</string>
+    <string name="find_device_service_summary_international">စက်တည်နေရာအားသိရှိရန်နှင့် အဝေးထိန်းစနစ်ဖြင့် လော့ခ်ချနိုင်ရန် i.mi.com သို့ ဝင်ရောက်ပါ</string>
+    <string name="micloud_wipe_data_confirm_title">ဆိုင်းအောက်ထွက်ပြီးနောက် ဖုန်းမှ Mi ကလောက်နှင့် ဆင့်ခ်လုပ်ထားသော အိုင်တမ်များအား ဖယ်ရှားမလား?</string>
+    <string name="wipe_data_dialog_msg">အိုင်တမ် %s ခု ဆင့်ခ်မလုပ်ရသေးပါ။ ထိုအိုင်တမ်များကို သင်၏စက်ပေါ်တွင် သိမ်းဆည်းထားမည်၊ မဖျက်ပစ်ပါ။</string>
 </resources>

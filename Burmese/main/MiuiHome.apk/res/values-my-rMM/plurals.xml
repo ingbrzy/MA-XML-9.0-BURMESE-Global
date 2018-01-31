@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="announce_for_drag">
+        <item quantity="other">အိုင်တမ် %1$d ခုကို ဆွဲချနေသည်</item>
+    </plurals>
     <plurals name="delete_wallpapers_message">
         <item quantity="other">နောက်ခံပုံ %1$d ကို ဖျက်ပစ်မလား?</item>
     </plurals>

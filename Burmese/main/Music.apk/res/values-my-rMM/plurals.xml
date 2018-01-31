@@ -1,40 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="download_finished">
-        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်ခဲ့သည်</item>
-    </plurals>
-    <plurals name="download_running">
-        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်နေသည်</item>
-    </plurals>
-    <plurals name="dialog_confirm_delete_downloads_message">
-        <item quantity="other">အိုင်တမ် %d ခုကို ဖျက်မည်လား?</item>
-    </plurals>
-    <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">ဒေါင်းလုဒ် %d ခုအား ဖယ်ရှားခဲ့သည်</item>
-    </plurals>
-    <plurals name="Ntracks_search_result">
-        <item quantity="other">သီချင်း %d ပုဒ်ရှာတွေ့ခဲ့သည်</item>
-    </plurals>
-    <plurals name="Nexpired_remind">
-        <item quantity="other">%d ရက် ကျန်ပါသေးသည်</item>
-    </plurals>
-    <plurals name="NPlaylist_delete_confirm">
-        <item quantity="other">အဖွင့်စာရင်း %d ခုကို ဖျက်မည်လား?</item>
-    </plurals>
-    <plurals name="Nnew_tracks_count">
-        <item quantity="other">အသစ် %d ခု</item>
-    </plurals>
-    <plurals name="Ntracks_count">
-        <item quantity="other">သီချင်း %d ပုဒ်</item>
-    </plurals>
-    <plurals name="Ntracks_similar_count">
-        <item quantity="other">အလားတူသီချင်း %d ပုဒ်</item>
+    <plurals name="Nalbum_total_songs">
+        <item quantity="other">သီချင်းစုစုပေါင်း %dပုဒ်</item>
     </plurals>
     <plurals name="Nartists_count">
         <item quantity="other">အနုပညာရှင် %d ဦး</item>
     </plurals>
+    <plurals name="Nassociate_songs">
+        <item quantity="other">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားကို ရှာဖွေနေသည် (%1$d/%2$d ပုဒ်)</item>
+    </plurals>
+    <plurals name="Nbackup_songs">
+        <item quantity="other">သီချင်းများအရန်သိမ်းနေ၊ %1$d ပုဒ်ကျန်နေ (%2$.1fMB)</item>
+    </plurals>
+    <plurals name="Nexpired_remind">
+        <item quantity="other">%d ရက် ကျန်ပါသေးသည်</item>
+    </plurals>
     <plurals name="Ngroups_count">
         <item quantity="other">%d ကြိမ်နှုန်းလှိုင်း</item>
+    </plurals>
+    <plurals name="Nnew_tracks_count">
+        <item quantity="other">အသစ် %d ခု</item>
+    </plurals>
+    <plurals name="Nquit_warning">
+        <item quantity="other">ဖွင့်စက်သည်%d မိနစ်တွင်ရပ်သွားလိမ့်မည်</item>
+    </plurals>
+    <plurals name="Nrecognize_switch_off_alert_message">
+        <item quantity="other">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားများကို အလိုအလျောက်ရှာဖွေခြင်းအား ပိတ်ထားသည်။ သီချင်း %d ပုဒ်၏အချက်အလက်အား ဖျက်ပစ်မလား?</item>
+    </plurals>
+    <plurals name="Nsong_group_detail_subtitle">
+        <item quantity="other">" %1$s တွင်ဖန်တီးခဲ့ | စုစုပေါင်း %2$d ပုဒ်"</item>
+    </plurals>
+    <plurals name="Nstop_backup_songs_message">
+        <item quantity="other">%d ပုဒ်အား Mi ကလာက်သို့ အရန်မသိမ်းရသေးပါ။ယခုရပ်မည်လား?</item>
+    </plurals>
+    <plurals name="Ntracks_add_to_playlist">
+        <item quantity="other">သင့်အဖွင့်စာရင်းသို့ သီချင်း %d ပုဒ်ပေါင်းထည့်ခဲ့သည်</item>
+    </plurals>
+    <plurals name="Ntracks_count">
+        <item quantity="other">သီချင်း %d ပုဒ်</item>
+    </plurals>
+    <plurals name="Ntracks_remove_from_playlist">
+        <item quantity="other">သင့်အဖွင့်စာရင်းမှ သီချင်း %d ပုဒ် ဖယ်ရှားခဲ့သည်</item>
+    </plurals>
+    <plurals name="Ntracks_search_result">
+        <item quantity="other">သီချင်း %d ပုဒ်ရှာတွေ့ခဲ့သည်</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">အလားတူသီချင်း %d ပုဒ်</item>
+    </plurals>
+    <plurals name="Nunbackup_audios">
+        <item quantity="other">"သီချင်း %1$d ပုဒ် အရန်မသိမ်းရသေးပါ (%2$.1fMB)\"
+"</item>
+    </plurals>
+    <plurals name="Nupload_song_button">
+        <item quantity="other">%1$d songs (%2$.1fMB) အရန်သိမ်း</item>
+    </plurals>
+    <plurals name="comment_count">
+        <item quantity="other">မှတ်ချက် %d ခု</item>
+    </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">အိုင်တမ် %d ခုကို ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">သီချင်း %d ပုဒ်အား ဖျက်ပစ်မည်လား?</item>
@@ -45,17 +70,14 @@
     <plurals name="dialog_remove_from_cloud_descript">
         <item quantity="other">Mi ကလောက်မှ သီချင်း %d ပုဒ်ကို ဖျက်မည်လား?၄င်းတို့အား စက်တွင်း အဖွင့်ဇယားမှလဲ ဖျက်ပစ်ပါလိမ့်မည်။</item>
     </plurals>
-    <plurals name="Ntracks_add_to_playlist">
-        <item quantity="other">သင့်အဖွင့်စာရင်းသို့ သီချင်း %d ပုဒ်ပေါင်းထည့်ခဲ့သည်</item>
+    <plurals name="download_finished">
+        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်ခဲ့သည်</item>
     </plurals>
-    <plurals name="Ntracks_remove_from_playlist">
-        <item quantity="other">သင့်အဖွင့်စာရင်းမှ သီချင်း %d ပုဒ် ဖယ်ရှားခဲ့သည်</item>
+    <plurals name="download_info_count_deleted_tasks">
+        <item quantity="other">ဒေါင်းလုဒ် %d ခုအား ဖယ်ရှားခဲ့သည်</item>
     </plurals>
-    <plurals name="Nquit_warning">
-        <item quantity="other">ဖွင့်စက်သည်%d မိနစ်တွင်ရပ်သွားလိမ့်မည်</item>
-    </plurals>
-    <plurals name="send_songs_toast">
-        <item quantity="other">သီချင်း %d ပုဒ် ပေးပို့ပါမည်</item>
+    <plurals name="download_running">
+        <item quantity="other">&lt;font color=\"red\"> သီချင်း %d ပုဒ် &lt;/font> ဒေါင်းလုဒ်လုပ်နေသည်</item>
     </plurals>
     <plurals name="folder_songs_count">
         <item quantity="other">သီချင်း %d ပုဒ်</item>
@@ -63,43 +85,19 @@
     <plurals name="multichoice_title">
         <item quantity="other">အိုင်တမ် %d ခုရွေးထားသော</item>
     </plurals>
-    <plurals name="song_already_favorite">
-        <item quantity="other">သီချင်းအား နှစ်သက်သည်ဟု သတ်မှတ်ပြီး။</item>
-    </plurals>
-    <plurals name="comment_count">
-        <item quantity="other">မှတ်ချက် %d ခု</item>
-    </plurals>
     <plurals name="reader_count">
         <item quantity="other">လိုက်အားပေးသူ %d ဦး</item>
     </plurals>
-    <plurals name="songs_count">
-        <item quantity="other">သီချင်း %d ပုဒ်</item>
-    </plurals>
-    <plurals name="Nunbackup_audios">
-        <item quantity="other">သီချင်း %1$d ပုဒ် အရန်မသိမ်းရသေးပါ (%2$.1fMB)\"</item>
-    </plurals>
-    <plurals name="Nupload_song_button">
-        <item quantity="other">%1$d songs (%2$.1fMB) အရန်သိမ်း</item>
-    </plurals>
-    <plurals name="Nbackup_songs">
-        <item quantity="other">သီချင်းများအရန်သိမ်းနေ၊ %1$d ပုဒ်ကျန်နေ (%2$.1fMB)</item>
-    </plurals>
-    <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d ပုဒ်အား Mi ကလာက်သို့ အရန်မသိမ်းရသေးပါ။ယခုရပ်မည်လား?</item>
-    </plurals>
-    <plurals name="Nsong_group_detail_subtitle">
-        <item quantity="other">" %1$s တွင်ဖန်တီးခဲ့ | စုစုပေါင်း %2$d ပုဒ်"</item>
-    </plurals>
-    <plurals name="Nalbum_total_songs">
-        <item quantity="other">သီချင်းစုစုပေါင်း %dပုဒ်</item>
+    <plurals name="send_songs_toast">
+        <item quantity="other">သီချင်း %d ပုဒ် ပေးပို့ပါမည်</item>
     </plurals>
     <plurals name="skipped_online_songs_tips">
         <item quantity="other">သီချင်း %d ပုဒ်ကျော်သွားသည်။၄င်းတို့ကို နားဆင်ရန် ဆက်တင်များထဲရှိ အွန်လိုင်းဝန်ဆောင်မှုများကို ဖွင့်ပါ။</item>
     </plurals>
-    <plurals name="Nrecognize_switch_off_alert_message">
-        <item quantity="other">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားများကို အလိုအလျောက်ရှာဖွေခြင်းအား ပိတ်ထားသည်။ သီချင်း %d ပုဒ်၏အချက်အလက်အား ဖျက်ပစ်မလား?</item>
+    <plurals name="song_already_favorite">
+        <item quantity="other">သီချင်းအား နှစ်သက်သည်ဟု သတ်မှတ်ပြီး။</item>
     </plurals>
-    <plurals name="Nassociate_songs">
-        <item quantity="other">အယ်လ်ဘမ်အဖုံးနှင့် သီချင်းစာသားကို ရှာဖွေနေသည် (%1$d/%2$d ပုဒ်)</item>
+    <plurals name="songs_count">
+        <item quantity="other">သီချင်း %d ပုဒ်</item>
     </plurals>
 </resources>
