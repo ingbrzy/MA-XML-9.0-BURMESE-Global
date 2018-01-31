@@ -52,7 +52,6 @@
     <string name="all_the_internet">ကွန်ရက်အားလုံး</string>
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s ဒေါင်းလုဒ်များ</string>
-    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Xunlei အကောင့်</string>
     <string name="auth_fail">တရားဝင်ခွင့်ပြုချက် မရနိုင်ခဲ့ပါ</string>
     <string name="bind_xunlei_account">Xunlei အကောင့်အားထည့်ပါ</string>
@@ -118,7 +117,6 @@
     <string name="download_list_open_xl_title">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေး</string>
     <string name="download_list_title_browser">ဒေါင်းလုဒ်များ</string>
     <string name="download_no_application">ဤဖောမတ်အား မည်သည့်အက်ပ်မှ မထောက်ပံ့ပါ</string>
-    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_paused">ဒေါင်းလုဒ်လုပ်ခြင်း ရပ်တန့်</string>
     <string name="download_pending">ဒေါင်းလုဒ်လုပ်ခြင်း ဆိုင်ငံ့</string>
     <string name="download_remain_time">ကျန်ရှိနေသော−</string>
@@ -440,7 +438,6 @@
     <string name="xl_vip_semiannual">၆ လ−%1$s Mi ခရက်ဒစ်များ× ၆</string>
     <string name="xunlei_account_has_unbind_message">Xunlei အကောင့်အား ဖယ်ရှားလိုက်သည်</string>
     <string name="xunlei_brand">Xunlei ဖြင့် အားဖြည့်ထားသော</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">ဖွင့်</string>
     <string name="xunlei_close_tips_content">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေး.</string>
     <string name="xunlei_close_tips_title">ဒေါင်းလုဒ်များအား အရှိန်မြင့်တင်ပါ</string>

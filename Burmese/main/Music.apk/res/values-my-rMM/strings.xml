@@ -161,7 +161,6 @@
     <string name="continue_backup">ဆက်လက်မည်</string>
     <string name="cp_info_first">"အွန်လိုင်း သီချင်းထုတ်လွှင့်ခြင်း ဝန်ဆောင်မှုအား
  Ultimate Inc မှလုပ်ဆောင်နေခြင်းဖြစ်ပါသည်"</string>
-    <string name="cp_info_second">service1@ultimobi.com</string>
     <string name="create_order_fail">အော်ဒါမဖန်တီးနိုင်ခဲ့ပါ၊ ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="create_playlist">ဖွင့်ရန်စာရင်း ဖန်တီးမည်</string>
     <string name="create_playlist_failure">သီချင်းစာရင်းအား မဖန်တီးနိုင်ခဲ့ပါ</string>
@@ -281,7 +280,6 @@
     <string name="download_paused">ဒေါင်းလုဒ်လုပ်ခြင်း ရပ်တန့်</string>
     <string name="download_paused_in_power_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ထားစဉ် ဒေါင်းလုဒ်အား ခေတ္တရပ်ထားပါလိမ့်မည်</string>
     <string name="download_pending">ဒေါင်းလုဒ်လုပ်ခြင်း ဆိုင်ငံ့</string>
-    <string name="download_percent">%d%%</string>
     <string name="download_processing">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_quality">ဒေါင်းလုဒ် အရည်အသွေး</string>
     <string name="download_quality_summary">သင်ဒေါင်းလုဒ်လုပ်လိုသော သီချင်းအတွက်အပိုအပြင်အဆင်များ</string>
