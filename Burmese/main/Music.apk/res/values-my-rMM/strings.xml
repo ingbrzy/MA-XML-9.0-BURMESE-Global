@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
     <string name="search_menu_title">ရှာဖွေပါ</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="about">Mi တေးဂီတ အကြောင်း</string>
     <string name="account">အကောင့်</string>
     <string name="account_and_cloud">အကောင့်-</string>
@@ -711,7 +710,6 @@
     <string name="privacy_notif_content">အသေးစိတ်ကိုကြည့်ရန်ထိနှိပ်ပါ</string>
     <string name="privacy_notif_title">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေးအား ဖွင့်ထားသည်</string>
     <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_tip_cancel">ဖျက်သိမ်းပါ</string>
     <string name="privacy_tip_content">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေးကို သုံး၍ ဒေါင်းလုဒ်လုပ်ခြင်းအားအရှိန်မြင့်တင်မည်လား။ ဒေါင်းလုဒ်လုပ်ရာဝက်ဘ်ဆိုက် URL လိပ်စာအား Xunlei ဆာဗာထဲသို့ တင်သွင်းလိမ့်မည်။ဤတန်ဆောင်မှုနှင့်စပ်လျဉ်းပြီး သင်ဝယ်ယူသုံးစွဲနေမှုရှိမရှိ စစ်ဆေးရန် သင့် Mi အကောင့်အသေးစိတ်အချက်လက်များအားလည်း တင်သွင်းလိမ့်မည်။</string>
     <string name="privacy_tip_ok">အိုကေ</string>
@@ -955,7 +953,6 @@
     <string name="upgrade_to">သို့အဆင့်မြှင့်တင်</string>
     <string name="upgrade_waringing">သိမ်းထားသောသီချင်းများကို သာ နားထောင်နိုင်သည်။</string>
     <string name="user_agreement">အသုံးပြုသူ သဘောတူညီမှု</string>
-    <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="valid_period">ဘောင်ဝင်−%s</string>
     <string name="version_info">ဗားရှင်း</string>
     <string name="vip_after_tomorrow_auto_renew_message">သဘက်ခါညနေတွင် သင့်သီချင်းအတွက် ပုံမှန်ကြေးပေးချေမှုသည် အလိုအလျောက် သက်တမ်းတိုးပါလိမ့်မည်။ ဤပေးချေမှုအား ပြုလုပ်နိုင်ရန် သင့် အကောင့်ထဲတွင် Mi ခရက်ဒစ်အလုံအလောက်ရှိမရှိ စစ်ဆေးပါ။</string>
