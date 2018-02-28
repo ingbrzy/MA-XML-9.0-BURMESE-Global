@@ -13,10 +13,6 @@
     <string name="HIPS_Perm_Location_Desc">တိကျသော တည်နေရာကို ရယူပါ (GPS နှင့် ကွန်ရက်-အခြေပြု)</string>
     <string name="HIPS_Perm_PhoneID">စက်အချက်အလက်အား ရယူပါ</string>
     <string name="HIPS_Perm_PhoneID_Desc">ဖုန်းနံပါတ်၊ IMEI နှင့် IMSI တို့အား ဝင်ရောက်ပါ</string>
-    <string name="HIPS_Perm_SMS">SMS မက်ဆေ့ချ်များကို ရေးပြီး ဖျက်ပါ</string>
-    <string name="HIPS_Perm_SMS_Desc">SMS မက်ဆေ့ချ်များကို ရေးပြီး ဖျက်ပါ</string>
-    <string name="HIPS_Perm_MMS">MMS မက်ဆေ့ချ်များကို ရေးပြီး ဖျက်ပါ</string>
-    <string name="HIPS_Perm_MMS_Desc">ရုပ်သံမီဒီယာ မက်ဆေ့ချ်များကို ရေးပြီးဖျက်ပါ</string>
     <string name="HIPS_Perm_Contact">အဆက်အသွယ်များကို ပြုပြင်မွမ်းမံပြီး ဖျက်ပစ်ပါ</string>
     <string name="HIPS_Perm_Contact_Desc">သင့်အဆက်အသွယ်များကို ပြုပြင်မွမ်းမံပြီး ဖျက်ပစ်ပါ</string>
     <string name="HIPS_Perm_CallLog">ခေါ်ဆိုမှု မှတ်တမ်းကို ရေးပြီး ဖျက်ပစ်ပါ</string>

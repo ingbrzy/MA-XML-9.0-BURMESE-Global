@@ -24,6 +24,8 @@
     <string name="other_settings_upload_debug_log_summary">ကျွန်ုပ်တို့ စုဆောင်းလိုက်သော အချက်အလက်များအား စနစ်ရှိ ပြဿနာအား စီစစ်ရှာဖွေဖြေရှင်းရန်အတွက် အသုံးပြုပါသည်။ ၄င်းတွင် သင့်ကိုယ်ရေးအချက်အလက်များပါဝင်နိုင်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာအား သိရှိရန် မည်သည့်ဒေတာကိုမျှ အသုံးပြုမည်မဟုတ်ပါ။</string>
     <string name="other_settings_auto_update">အလိုအလျောက် ထည့်သွင်းတပ်ဆင်မည်။</string>
     <string name="other_settings_auto_update_summary">MIUIသည် အပ်ဒိတ်များကို ထည့်သွင်းတပ်ဆင်ရန်အကောင်းဆုံးအချိန်ကို ရွေးချယ်ပါလိမ့်မည်။</string>
+    <string name="other_settings_ad_enable">Personalized Ad Recommendation</string>
+    <string name="other_settings_ad_enable_summary">Recommend personalized ads based on your behavior data</string>
     <string name="back">နောက်သို့</string>
     <string name="next">နောက်ထပ်</string>
     <string name="skip_underline">ဤအဆင့်ကို ကျော်ပါ</string>
@@ -69,8 +71,8 @@
     <string name="content_description_complete">ပြည့်စုံသော</string>
     <string name="language_picker_other_languages_title">ဘာသာစကားပိုမို၍</string>
     <string name="language_settings">ဘာသာစကား ရွေးချယ်ပါ</string>
-    <string name="navigation_picker_radio_text_full_screen">မျက်နှာပြင်အပြည့်မုဒ်</string>
-    <string name="navigation_picker_radio_text_virtual_key">ဗာကျူရယ်ကီးမုဒ်</string>
+    <string name="navigation_picker_radio_text_full_screen">မျက်နှာပြင်အပြည့် လက်ဟန်များ</string>
+    <string name="navigation_picker_radio_text_virtual_key">ခလုတ်များ</string>
     <string name="congratulation_swipe">စနစ်သို့ ဝင်ရောက်ရန် အပေါ်ဆွဲတင်ပါ</string>
     <string name="enable_accessibility_dialog_message">ဖုန်းမျက်နှာပြင်ကို လက်နှစ်ချောင်းဖြင့် ၁၀ စက္ကန့်ထက်ကြာကြာ ဖိနှိပ်ထားခြင်းဖြင့် TalkBack အားဖွင့်လိုက်ပါ။ TalkBack သည် အမြင်အာရုံချို့တဲ့သူများအတွက် အသံဖြင့်တုန့်ပြန်မှုကို ပေးစွမ်းပါသည်။ ၄င်းအား မတော်တဆဖွင့်လိုက်မိပါက ပယ်ဖျက်ပါ ခလုတ်ကိုနှိပ်ပြီး ပြန်ပိတ်လိုက်ပါ၊ ပြီးနောက် မျက်နှာပြင်အား နှစ်ချက်ဆက်တိုက်ထိနှိပ်ပါ။</string>
     <string name="enable_accessibility_dialog_positive_btn">အိုကေ</string>

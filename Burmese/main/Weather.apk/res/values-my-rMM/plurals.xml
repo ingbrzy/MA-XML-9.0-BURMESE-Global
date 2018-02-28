@@ -4,13 +4,13 @@
         <item quantity="other">%d နာရီအကြာက</item>
     </plurals>
     <plurals name="activity_main_update_time_in_one_hour">
-        <item quantity="other">%d minutes ago</item>
+        <item quantity="other">%d မိနစ်အကြာက</item>
     </plurals>
     <plurals name="activity_main_update_time_one_day_ago">
         <item quantity="other">%d ရက်အကြာက</item>
     </plurals>
     <plurals name="daily_forcast_drawer_on_top">
-        <item quantity="other">%1$s-day forecast</item>
+        <item quantity="other">%1$s-ရက်အတွက် ခန့်မှန်းချက်</item>
     </plurals>
     <plurals name="feedback_result_interval_time_too_short">
         <item quantity="other">တုန့်ပြန်မှုပေးပို့ပြီး %1$s စက္ကန့်အကြာ</item>

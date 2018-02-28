@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -623,8 +625,9 @@ d MMMM"</string>
     <string name="ext_media_nomedia_notification_title">USB ကို ဖယ်ရှားခဲ့ပြီးပြီ</string>
     <string name="ext_media_nomedia_notification_message">USB သိုလှောင်ခန်းကို ဖယ်ရှားပြီးပြီ။ မီဒီယာအသစ် ထည့်သွင်းပါ။</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်ခန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
-    <string name="ext_media_mountable_notification_message">အိပ်ပလိုရာ၌ ဖွင့်ရန် တို့ထိပါ။</string>
+    <string name="ext_media_mountable_notification_message">Mi ဖိုင်မန်နေဂျာတွင် ဖွင့်ရန် ထိနှိပ်ပါ။</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">ယနေ့: %1$s</string>
@@ -703,6 +706,7 @@ d MMMM"</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="no_weather_description">ရာသီဥတုအချက်အလက်များအား ရယူမည်></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">အသိပေးချက်ရှိတ်</string>
     <string name="accessibility_desc_quick_settings">အမြန်ဆက်တင်များ</string>
     <string name="accessibility_desc_details_page">%1$s အသေးစိတ် စာမျက်နှာ</string>
@@ -761,7 +765,7 @@ d MMMM"</string>
     <string name="description_image_button_answer">ဖြေဆိုမည်</string>
     <string name="screenshot_feedback_txt">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="screenshot_toalbum_txt">အစမ်းကြည့်ပါ</string>
-    <string name="please_slide_agian">ကျေးဇူးပြု၍ ထပ်မံ ဆလိုက်လုပ်ပါ</string>
+    <string name="please_slide_agian">ဆလိုက်ပြန်လုပ်ပါ</string>
     <string name="how_to_use_fsg">အောက်ပါလုပ်ဆောင်ချက်များကို လက်ဟန်များဖြင့် လုပ်ဆောင်နိုင်သည်-</string>
     <string name="how_to_back_home">ဟုမ်းစခရင်သို့ သွားပါ</string>
     <string name="how_to_switch_recents">မကြာသေးမီက ကို ဖွင့်ပါ</string>
@@ -769,6 +773,8 @@ d MMMM"</string>
     <string name="fsg_demo_go_on">ဆက်လက်လုပ်ဆောင်မည်</string>
     <string name="fs_gesture_back_home_summary">အောက်ခြေမှ အပေါ်သို့ ပွတ်ဆွဲပါ</string>
     <string name="fs_gesture_switch_recents_summary">အောက်ခြေမှ အပေါ်သို့ ပွတ်ဆွဲ၍ ခေတ္တရပ်တန့်ပါ</string>
+    <string name="how_to_use_drawer">အက်ပ်၏ဆလိုက်လုပ်ဆောင်ချက်ကို ဘယ်လိုသုံးရမလဲ</string>
+    <string name="how_to_use_drawer_summary">ဘယ်ဘက်အပေါ်ပိုင်းမှ ပွတ်ဆွဲပါ</string>
     <string name="fs_gesture_back_ready_title">နောက်သို့သွားပါ</string>
     <string name="fs_gesture_left_back_ready_summary">ညာဘက်မှ အထဲသို့ ပွတ်ဆွဲပါ</string>
     <string name="fs_gesture_right_back_ready_summary">ဘယ်ဘက်မှ အထဲသို့ ပွတ်ဆွဲပါ</string>

@@ -97,6 +97,7 @@
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">အလုပ်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_work_mobile">အလုပ်မိုဘိုင်းဖုန်းကို ခေါ်ပါ</string>
@@ -338,7 +339,7 @@
     <string name="description_minus_button">အနှုတ်</string>
     <string name="description_plus_button">အပေါင်း</string>
     <string name="description_quick_contact_for">%1$s အတွက် အမြန်အဆက်အသွယ်</string>
-    <string name="description_quick_dial_button">Quick dial</string>
+    <string name="description_quick_dial_button">အမြန်ခေါ်ဆိုမှု</string>
     <string name="description_search_button">ရှာပါ</string>
     <string name="description_send_message">%1$s ထံ မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="description_send_text_message">%1$s ထံ စာသားမက်ဆေ့ချ်ပို့ပါ</string>
@@ -390,7 +391,7 @@
     <string name="dialer_empty_text_loading">ခဏစောင့်ပါ…</string>
     <string name="dialer_empty_text_no_call_log">မကြာမီက အဆက်အသွယ်များမရှိပါ</string>
     <string name="dialer_empty_text_no_search_result">အဆက်အသွယ်များ မတွေ့ပါ</string>
-    <string name="dialer_firewall_entry_name">Blocked call logs</string>
+    <string name="dialer_firewall_entry_name">ဘလော့လုပ်ထားသော ခေါ်ဆိုမှု မှတ်တမ်း</string>
     <string name="dialer_menu_description">မီနူးများ ပြပါ</string>
     <string name="dialer_menu_title">မီနူးရွေးစရာများ</string>
     <string name="dialer_returnToInCallScreen">ခေါ်နေဆဲဖုန်းဆီသို့ ပြန်သွားပါ</string>
@@ -483,6 +484,7 @@
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="foundTooManyContacts">%d ဦးထက်မက တွေ့ရှိသည်။</string>
     <string name="frequentList">မကြာခဏ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="generic_no_account_prompt">သင့်ဖုန်း ပျောက်ဆုံးသွားရင်တောင်မှ၊ သင့်အဆက်အသွယ်များ စိတ်ချစွာဖြင့် ဆက်ရှိနေအောင်: အွန်လိုင်းဝန်ဆောင်မှုတစ်ခုနှင့် ဆင့်ခ်လုပ်ထားပါ။</string>
@@ -590,7 +592,7 @@
     <string name="locale_change_in_progress">အဆက်အသွယ်စာရင်းကို ဘာသာစကားအပြောင်းအလဲဖြင့် ထင်ဟပ်နေအောင် အသစ်မွမ်းမံလုပ်ထားပေးသည်။</string>
     <string name="login_ok">ဆိုင်းအင်ဝင်မည်</string>
     <string name="low_memory_toast">မှတ်ဉာဏ်နည်းနေသည့်အတွက် ဤလုပ်ဆောင်ချက်အား အသုံးပြု၍မရ နိုင်ပါ</string>
-    <string name="lunarBirthdayLabelsGroup">Lunar birthday</string>
+    <string name="lunarBirthdayLabelsGroup">လပြက္ခဒိန်မွေးနေ့</string>
     <string name="make_primary">ဒီရွေးပိုင်ခွင့်ကို မှတ်ထားပါ</string>
     <string name="map_custom">%s လိပ်စာကို ကြည့်ပါ</string>
     <string name="map_home">အိမ်လိပ်စာကို ကြည့်ပါ</string>
@@ -665,6 +667,7 @@
     <string name="miprofile_contact_header">ဆက်သွယ်ကဒ်များပါဝင်သည့် အဆက်သွယ်များ</string>
     <string name="miprofile_contact_meaasge">စက်ထဲရှိအဆက်သွယ်များ</string>
     <string name="miprofile_contact_verifying">အတည်ပြုနေ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_error_accept_self">သင့်ကိုယ်ပိုင်၏ အဆက်သွယ်ကဒ်အား ဖလှယ်၍မရနိုင်ပါ</string>
     <string name="miprofile_error_no_miaccount">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -799,7 +802,7 @@
     <string name="path_key_rebuild_t9_index_title">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/အညွှန်းဒေတာအား ပြန်ဆောက်</string>
     <string name="path_key_sim_manage">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဆင်းမ်ကဒ်များ</string>
     <string name="path_preference_contacts_filter">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/နှစ်သက်သည်များပြသခြင်း/အဆက်အသွယ် စာရင်းအားစီမံ</string>
-    <string name="path_quick_dial_setting">System apps/Contacts/Quick dial</string>
+    <string name="path_quick_dial_setting">စနစ်အက်ပ်များ၊ဖုန်း၊အဆင့်မြင့်ဆက်တင်များ၊အမြန်ခေါ်ဆိုမှု</string>
     <string name="path_remove_duplicate">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/တူညီသော အဆက်သွယ်များအား ပေါင်းစည်းလိုက်ပါ</string>
     <string name="path_share_visible_contacts">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ အဆက်အသွယ်များ တင်သွင်း/တင်ပို့/ဝေမျှထားသော အဆက်အသွယ်များ</string>
     <string name="path_sim_capacity">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/ဆင်းမ်ကဒ်သိုလှောင်မှု</string>
@@ -808,6 +811,8 @@
     <string name="path_wipe_data">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဒေတာရှင်းလင်း</string>
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
@@ -858,6 +863,7 @@
     <string name="preference_contacts_display">ဦးစားပေးများကို ပြသပါ</string>
     <string name="preference_contacts_filter">အဆက်အသွယ်စာရင်းများကို စီစဉ်ထားရှိပါ</string>
     <string name="preference_contacts_more">အဆက်အသွယ်များ ဖွဲ့စည်းပါ</string>
+    <string name="preference_contacts_moresetting">နောက်ထပ်</string>
     <string name="preference_dial_pad_touch_tone_default">မူလသတ်မှတ်ချက်</string>
     <string name="preference_dial_pad_touch_tone_human">အသံ</string>
     <string name="preference_dial_pad_touch_tone_piano">စန္ဒယားကီး</string>
@@ -865,6 +871,7 @@
     <string name="preference_dial_pad_touch_tone_title">ဖုန်းခလုတ်မြည်သံများ</string>
     <string name="preference_display">ပြသချက်</string>
     <string name="preference_displayOptions">ရွေးပိုင်ခွင့်များ ပြသပါ</string>
+    <string name="preference_display_contact">Display options</string>
     <string name="preference_export">ထုတ်ပါ</string>
     <string name="preference_import">သွင်းပါ</string>
     <string name="preference_import_export">သွင်း/ပို့</string>
@@ -909,12 +916,12 @@
     <string name="pull_to_refresh_release_label">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="qr_card_card">QR ကုဒ်</string>
     <string name="qrcode_card_title">QR ကုဒ်</string>
-    <string name="quick_dial_setting_delete_dialog_message">Delete assigned quick dial number?</string>
-    <string name="quick_dial_setting_delete_dialog_option_delete">Delete</string>
-    <string name="quick_dial_setting_hint">Tap a button to assign or remove a quick dial number. Press and hold the button with an assigned number to dial.</string>
-    <string name="quick_dial_setting_set_dialog_message">Assign a quick dial number to this button?</string>
-    <string name="quick_dial_setting_set_dialog_option_set">Yes</string>
-    <string name="quick_dial_setting_title">Quick dial</string>
+    <string name="quick_dial_setting_delete_dialog_message">အမြန်ခေါ်ဆိုမှုနံပါတ်အဖြစ် သတ်မှတ်ထားသောခလုတ်အား ဖျက်ပစ်မလား?</string>
+    <string name="quick_dial_setting_delete_dialog_option_delete">ဖျက်ပစ်မည်</string>
+    <string name="quick_dial_setting_hint">ခလုတ်တစ်ခုအား အမြန်ခေါ်ဆိုမှုနံပါတ်အဖြစ် သတ်မှတ်ရန် သို့မဟုတ် ဖျက်ပစ်ရန် ထိနှိပ်ပါ။ သတ်မှတ်ထားသောနံပါတ်ကို ခေါ်ဆိုရန် ဖိနှိပ်ပါ။</string>
+    <string name="quick_dial_setting_set_dialog_message">ဤခလုတ်အား အမြန်ခေါ်ဆိုမှုနံပါတ်အဖြစ် သတ်မှတ်မလား?</string>
+    <string name="quick_dial_setting_set_dialog_option_set">သတ်မှတ်မည်</string>
+    <string name="quick_dial_setting_title">အမြန်ခေါ်ဆိုမှု</string>
     <string name="quickcontact_missing_app">မည်သည့်အက်ပ်ကိုမှ ဒီလုပ်ဆောင်မှုကို ကိုင်တွယ်ဖြေရှင်းရန် ရှာမတွေ့ခဲ့ပါ</string>
     <string name="quit_dialog_confirm_message">သင်သည် မည်သည့်အဆက်အသွယ်များကို မပေါင်းစပ်ရသေးပါ</string>
     <string name="quit_dialog_confirm_title">အဆက်သွယ်များ ပေါင်းစပ်ခြင်းအား ပယ်ဖျက်ပါ</string>
@@ -983,7 +990,7 @@
     <string name="search_key_rebuild_t9_index_title">စီမံ−အဆက်အသွယ်များ−t9</string>
     <string name="search_key_sim_manage">စီမံ−အဆက်အသွယ်များ</string>
     <string name="search_preference_contacts_filter">အဆက်အသွယ်များ−ပြသ</string>
-    <string name="search_quick_dial_setting">Contacts</string>
+    <string name="search_quick_dial_setting">ဖုန်း</string>
     <string name="search_remove_duplicate">စီမံ−အဆက်အသွယ်များ</string>
     <string name="search_results_searching">ရှာနေဆဲ…</string>
     <string name="search_settings_description">သင့်အဆက်အသွယ်၏ အမည်များ</string>
@@ -1048,6 +1055,7 @@
     <string name="sim_unloaded">ဆင်းမ်ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1179,12 +1187,13 @@
     <string name="voip_audio_description">VoIP ခေါ်ဆိုမှု</string>
     <string name="voip_video_description">VoIP ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationIconLabel">ဖုန်းလမ်းညွှန်</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>
     <string name="yellowpage_fc_toast">လမ်းညွှန်စာမျက်နှာ ပျက်သွားသောကြောင့် ဤလုပ်ဆောင်ချက်အား အသုံးပြု၍မရနိုင်ပါ။</string>
     <string name="yellowpage_navigation_ad_hint">ကြော်ငြာ</string>
-    <string name="yellowpage_navigation_balance_refresh_failed">ဖုန်းလက်ကျန်ငွေနှင့် လက်ကျန်ဒေတာအား အတည်မပြုနိုင်ပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="yellowpage_navigation_balance_refresh_failed">ဖုန်းလက်ကျန်ငွေနှင့် ဒေတာအား အတည်မပြုနိုင်ပါ၊ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="yellowpage_navigation_balance_refresh_succeed">ဖုန်းလက်ကျန်နှင့် ဒေတာအား အတည်ပြုပြီး</string>
     <string name="yellowpage_navigation_clear_search_history">မှတ်တမ်းကို ရှင်းပစ်ပါ</string>
     <string name="yellowpage_navigation_more_items">နောက်ထပ်</string>

@@ -77,6 +77,9 @@
     <string name="content_desc_activity_main_add_city">မြို့ ပေါင်းထည့်ပါ။</string>
     <string name="content_desc_activity_main_add_city_manage">မြို့များကို စီမံမည်</string>
     <string name="content_desc_activity_main_more_settings">ထပ်ဆောင်းဆက်တင်များ</string>
+    <string name="content_desc_back_button">နောက်သို့</string>
+    <string name="content_desc_close_button">ပိတ်မည်</string>
+    <string name="content_desc_edit_city_manage">မြို့များကို စီမံမည်</string>
     <string name="daily_forcast_drawer_on_bottom">ကွယ်ဝှက်</string>
     <string name="daily_forcast_no_stable_direction">လေပြေညင်း</string>
     <string name="daily_forcast_no_wind">၀</string>
@@ -87,6 +90,7 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
     <string name="daily_forecast_detail">အသေးစိတ်များအား ကြိုတင်ခန့်မှန်းပါ</string>
     <string name="daily_forecast_detail_date">M/d</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသအချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ပြန်လန်းဆန်းစေပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ထောက်ပံ့သော</string>
@@ -106,6 +110,8 @@
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="gps_hint">လက်ရှိတည်နေရာ</string>
     <string name="hourly_forcast_now">ယခု</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="hourly_forecast_title">နာရီအလိုက်ခန့်မှန်းချက်</string>
     <string name="index_item_experience_now">ယခုထည့်သွင်း</string>
@@ -130,11 +136,13 @@
     <string name="information_manager_extension">မိုးလေဝသ ချဲ့ထွင်မှု</string>
     <string name="information_views" />
     <string name="install">တပ်ဆင်</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_detail_menu_title">အသေးစိတ်အချက်လက်များ</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
@@ -143,7 +151,9 @@
     <string name="lunar_calendar" />
     <string name="menu_add_city">တည်နေရာများတည်းဖြတ်ရန်</string>
     <string name="menu_location">တည်နေရာများ</string>
+    <string name="menu_speaker">အသံလွှင့်ခြင်း</string>
     <string name="mi_pad2">latte</string>
+    <string name="minute_rain">မိနစ်အလိုက် ခန့်မှန်းချက်</string>
     <string name="minute_rain_after_an_hour">၁ နာရီ အတွင်း</string>
     <string name="minute_rain_after_two_hour">၂ နာရီအတွင်း</string>
     <string name="minute_rain_feedback_subtitle">ရာသီဥတုအကြောင်း ကျွန်ုပ်တို့ကို ပြောပြပါ</string>
@@ -155,6 +165,7 @@
     <string name="minute_rain_progress_indicator_original_time">- -</string>
     <string name="minute_rain_pull_down_refresh">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="minute_rain_refreshing_now">ပြန်လန်းဆန်းနေ…</string>
+    <string name="missing_required_permission">လိုအပ်သော ခွင့်ပြုချက်အား သင်ပိတ်လိုက်သည်။</string>
     <string name="more_details">ပိုမိုအသေးစိတ်များ</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="network_unavailable">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ.</string>
@@ -170,15 +181,15 @@
     <string name="particulate_matter_exceeded">မြင့်သော</string>
     <string name="particulate_matter_not_exceeded">ပုံမှန်</string>
     <string name="particulate_matter_serious_exceeded">အလွန်မြင့်</string>
-    <string name="precipitation_degree_five">暴</string>
-    <string name="precipitation_degree_four">大</string>
-    <string name="precipitation_degree_one">无</string>
-    <string name="precipitation_degree_three">中</string>
-    <string name="precipitation_degree_two">小</string>
+    <string name="precipitation_degree_five">ပြင်းထန်သော</string>
+    <string name="precipitation_degree_four">အားကောင်းသော</string>
+    <string name="precipitation_degree_one">မရှိ</string>
+    <string name="precipitation_degree_three">အသင့်အတင့်</string>
+    <string name="precipitation_degree_two">ပေါ့သော</string>
     <string name="pressure_connect">%1$s mb</string>
     <string name="pull_fresh_updated">အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="pull_fresh_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
-    <string name="radar_cloud_image_title">雷达降水图</string>
+    <string name="radar_cloud_image_title">ရေဒါမြေပုံ</string>
     <string name="rainfall_settings_summary">မိုးရေချိန် သတိပေးချက်များ</string>
     <string name="rainfall_settings_title">မိုးရေချိန်</string>
     <string name="real_time_sunrise">နေထွက်ချိန် %1$s</string>
@@ -190,6 +201,8 @@
     <string name="refresh_fail">ကွန်ရက်နှင့် ချိတ်ဆက်၍ မရနိုင်ပါ</string>
     <string name="reminder_from_xiaomi_weather_app">Mi မိုးလေဝသ သတိပေးချက်</string>
     <string name="retry">ထပ်ကြိုးစား</string>
+    <string name="search_weather">ရာသီဥတု</string>
+    <string name="search_weather_keywords">အပူချိန်၊ မိုးလေဝသခန့်မှန်းချက်၊ ရာသီဥတု၊ လေထုအရည်အသွေး၊ ညစ်ညမ်းမှု ဒီဂရီ၊ စိုစွတ်မှု</string>
     <string name="set">ဆက်တင်များ</string>
     <string name="set_degree_centigrade">°C</string>
     <string name="set_fahrenheit">°F</string>
@@ -203,6 +216,7 @@
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_title">ရာသီဥတုအကြောင်းမျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="some_where_on_earth">ကမ္ဘာပေါ်ရှိတစ်နေရာရာ</string>
@@ -237,7 +251,7 @@
     <string name="update_night_setting_summary_text">မိုးလေဝသအချက်အလက်ကို ၂၃း၀၀မှ ၇း၀၀အကြား အပ်ဒိတ်လုပ်ပါ</string>
     <string name="update_night_setting_title_text">ညတွင် အလိုအလျောက် အပ်ဒိတ်လုပ်ပါ</string>
     <string name="update_setting_title_text">မိုးလေဝသအချက်အလက်ကို အပ်ဒိတ်လုပ်မည်</string>
-    <string name="updated_a_moment_ago">Updated a moment ago</string>
+    <string name="updated_a_moment_ago">မကြာသေးမီက အပ်ဒိတ်လုပ်ထားသည်</string>
     <string name="updating">အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="video_dialog_no_play" />
     <string name="video_dialog_play" />
@@ -254,11 +268,4 @@
     <string name="xiaomi_weather_description_title">မိုးလေဝသအကြောင်း</string>
     <string name="yes_vote_ratio">ရရှိမှု %1$s%%</string>
     <string name="your_location">သင်၏တည်နေရာ</string>
-    <string name="information_manager_default_weather_bg">နဂိုမူလမိုးလေဝသနောက်ခံ</string>
-    <string name="information_manager_information">ရာသီဥတုအချက်အလက်</string>
-    <string name="information_manager_wlan">Wi-Fi သို့ချိတ်ဆက်လိုက်စဉ် ပြသပါ</string>
-    <string name="information_menu_title" />
-    <string name="information_set">အခြားဆက်တင်များ</string>
-    <string name="menu_minute_rain">နောက် ၂နာရီအတွင်း မိုးရေပါဝင်မှုနှုန်း ခန့်မှန်းချက်</string>
-    <string name="menu_speeker">အသံလွှင့်ခြင်း</string>
 </resources>

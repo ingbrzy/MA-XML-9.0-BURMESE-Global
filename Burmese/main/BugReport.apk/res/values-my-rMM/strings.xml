@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကဒ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -162,10 +163,11 @@
     <string name="cta_confirm">အိုကေ</string>
     <string name="submit_dialog_title">အစီရင်ခံစာ ပေးပို့မည်</string>
     <string name="submit_dialog_content">သင်တုန့်ပြန်​ပေးပို့လိုက်သော ပူးတွဲဖိုင်များနှင့် မှတ်တမ်းများကို MIUIဆာဗာသို့ ပေးပို့လိမ့်မည်။ ဤအရာများသည် သင်၏ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
+    <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers for analysis and further communication. Logs may contain personal info and your location data."</string>
     <string name="submit_dialog_cancel">ပယ်ဖျက်ပါ</string>
     <string name="submit_dialog_confirm">ပေးပို့</string>
     <string name="mobile_data_note_dialog_title">ဒေတာသုံးစွဲမှု သတိပေးချက်</string>
-    <string name="mobile_data_note_dialog_content">မိုဘိုင်းဒေတာအား အသုံးပြု၍ မှတ်တမ်းများကိုလုဒ်တင်ပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။</string>
+    <string name="mobile_data_note_dialog_content">မိုဘိုင်းဒေတာဖြင့် မှတ်တမ်းများကို လုဒ်တင်ပါက အပိုငွေများကုန်ကျနိုင်ပါသည်။</string>
     <string name="mobile_data_note_dialog_content_with_file_size">မိုဘိုင်းဒေတာအား အသုံးပြု၍ မှတ်တမ်းများကိုလုဒ်တင်ပါက %sMB ကုန်ကျနိုင်ပါသည်။</string>
     <string name="mobile_data_note_dialog_cancel">Wi-Fi စောင့်နေသည်။</string>
     <string name="mobile_data_note_dialog_confirm">လုဒ်တင်ပါ။</string>
@@ -176,7 +178,7 @@
     <string name="modem_tool_log_finish_title">modem မှတ်တမ်းများ ဖမ်းယူပြီးပြီ</string>
     <string name="modem_tool_log_finish_desc">မှတ်တမ်းသည်%sအဖြစ်သိုလှောင်ထားသည်</string>
     <string name="bugreport_dialog_not_show_again">နောက်ထပ်မပြပါနှင့်</string>
-    <string name="bugreport_dialog_submit_content">သင်၏တုံ့ပြန်အကြံပြုချက်သည် ကိုယ်ရေးအချက်အလက်များနှင့်တည်နေရာဒေတာများ ပါဝင်နိုင်သည်။</string>
+    <string name="bugreport_dialog_submit_content">"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed."</string>
     <string name="bugreport_dump_start_notification_title">ချွတ်ယွင်းချက်အစီရင်ခံစာကို ဖန်တီးနေ…</string>
     <string name="bugreport_dump_start_notification_summary">အချိန်အနည်းငယ် ကြာပါလိမ့်မည်။</string>
     <string name="bugreport_dump_complete_notification_title">ချွတ်ယွင်းမှုရီပို့ ဖန်တီးထားသည်</string>
@@ -208,8 +210,8 @@
     <string name="feedback_description">ဖော်ပြချက်</string>
     <string name="feedback_select_images">ပုံများပေါင်းထည့်ပါ</string>
     <string name="feedback_delete_images">ပုံများကို ဖျက်ပစ်ပါ</string>
-    <string name="feedback_select_upload_log">လော့များပေါင်းထည့်</string>
-    <string name="feedback_select_modem_log">modem မှတ်တမ်းများ ပေါင်းထည့်မည်</string>
+    <string name="feedback_select_upload_log">မှတ်တမ်းများ ပေါင်းထည့်မည်</string>
+    <string name="feedback_select_modem_log">မိုဒင်မှတ်တမ်းများ ပေါင်းထည့်မည်</string>
     <string name="feedback_select_suggestion">အကြံပြုချက်များ</string>
     <string name="feedback_select_problem">ပြဿနာများ</string>
     <string name="feedback_choose_module">အိုင်တမ်များရွေး</string>
@@ -218,6 +220,14 @@
     <string name="feedback_choose_module_hint">လိုအပ်သော</string>
     <string name="feedback_choose_reproductivity">မျိုးပွားနိုင်စွမ်း</string>
     <string name="feedback_title_reproductivity">ပြဿနာများ၏ဖြစ်နိုင်ခြေကို ရွေးပါ</string>
+    <string name="feedback_select_problem_select_desc">\"ပြဿနာ\"အား ရွေးချယ်ထားသည်</string>
+    <string name="feedback_select_problem_not_select_desc">\"ပြဿနာ\"အား မရွေးရသေးပါ</string>
+    <string name="feedback_select_suggestion_select_desc">\"အကြံပြုချက်\"အား ရွေးချယ်ထားသည်</string>
+    <string name="feedback_select_suggestion_not_select_desc">\"အကြံပြုချက်\"အား မရွေးရသေးပါ</string>
+    <string name="feedback_select_upload_log_select_desc">\"မှတ်တမ်းများ ပေါင်းထည့်မည်\"အား ရွေးချယ်ထားသည်</string>
+    <string name="feedback_select_upload_log_not_select_desc">\"မှတ်တမ်းများ ပေါင်းထည့်မည်\"အား မရွေးရသေးပါ</string>
+    <string name="feedback_select_modem_log_select_desc">\"မိုဒင်မှတ်တမ်းများ ပေါင်းထည့်မည်\"အား ရွေးချယ်ထားသည်</string>
+    <string name="feedback_select_modem_log_not_select_desc">\"မိုဒင်မှတ်တမ်းများ ပေါင်းထည့်မည်\"အား မရွေးရသေးပါ</string>
     <string name="feedback_report_remind_login_desc">ကျွန်ုပ်တို့ အင်ဂျင်နီယာမှ သင့်အား ဆက်သွယ်နိုင်ရန် သင့် Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="feedback_report_remind_login_desc2">အစီရင်ခံစာနှင့်ပတ်သတ်၍ \"ကျွန်ုပ်၏အစီရင်ခံစာများ\" ထဲတွင် ကြည့်ရှု့နိုင်ပါသည်</string>
     <string name="feedback_history_remind_login_desc">သင့်အစီရင်ခံစာအခြေနေ အသေးစိတ်များအား ကြည့်ရှု့ရန် Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ</string>

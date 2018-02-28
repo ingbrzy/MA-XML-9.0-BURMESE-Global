@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="select_items">
-        <item quantity="other">%1$d ခုရွေးထားသော</item>
-    </plurals>
-    <plurals name="app_list_total">
-        <item quantity="other">အက်ပ် %d ခု</item>
-    </plurals>
-    <plurals name="power_config_ultimate_on_count">
-        <item quantity="other">Ultimate သို့ပြောင်းရန် အဆင့် %1$d အလို</item>
-    </plurals>
-    <plurals name="power_config_ultimate_off_count">
-        <item quantity="other">Ultimate မုဒ်အား ပိတ်ရန် အဆင့်%1$d ဆင့်အလို</item>
-    </plurals>
-    <plurals name="power_config_ultimate_unlock_count">
-        <item quantity="other">အိုင်တမ်အားလုံးအား သော့ဖြည်ရန် အဆင့်%1$d ဆင့်အား ပြီးမြောက်အောင်လုပ်ပါ</item>
+    <plurals name="search_app_count_txt_na">
+        <item quantity="other">အက်ပ် %d ခု ရှာ​ဖွေပါ</item>
     </plurals>
 </resources>

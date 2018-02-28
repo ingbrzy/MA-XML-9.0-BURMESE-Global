@@ -101,7 +101,7 @@
         <item>အညွှန်းကိန်းအလွန်</item>
     </string-array>
     <string-array name="weather_type">
-        <item>ကြည်လင်သော</item>
+        <item>နေသာသော</item>
         <item>မိုးအုံ့</item>
         <item>တိမ်ထူထပ်</item>
         <item>မြူဆိုင်း</item>

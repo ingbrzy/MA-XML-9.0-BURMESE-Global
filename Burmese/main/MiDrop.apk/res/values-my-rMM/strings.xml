@@ -32,6 +32,7 @@
     <string name="cancel_lang">ပယ်ဖျက်မည်</string>
     <string name="cancel_message">လွှဲပြောင်းမှုကို ဖျက်သိမ်းလျှင် အခြားသူသည်ဖိုင်များကို လက်ခံနိုင်မည်မဟုတ်ပါ။ လွှဲပြောင်းမှုကို ဖျက်သိမ်းမလား?</string>
     <string name="cancel_stop">ဆက်လက် ပေးပို့မည်</string>
+    <string name="cannot_transfer_dir_to_low_version">အခြားလူအား Mi Drop အပ်ဒိတ်လုပ်စေပါ</string>
     <string name="category_files">ဖိုင်များ</string>
     <string name="category_installed_app">အက်ပ်များ</string>
     <string name="category_music">တေးဂီတ</string>
@@ -95,7 +96,7 @@
     <string name="info_product">စက်-</string>
     <string name="info_system">စနစ်-</string>
     <string name="info_system_version">စနစ်ဗားရှင်း-</string>
-    <string name="instruction">ကွန်ပျူတာ၏ ဘရောက်ဇာ သို့မဟု တ်ဖိုင်မန်နေဂျာတွင် ဤလိပ်စာကို ရိုက်ထည့်ပါ။</string>
+    <string name="instruction">ဤလိပ်စာကို ကွန်ပျူတာ၏ဖိုင်မန်နေဂျာတွင် ရိုက်ထည့်ပါ။</string>
     <string name="instruction_pre_pad">စက်ဖွင့်ပြီးနောက် ကွန်ပျူတာဖြင့် ဖိုင်များကို အဝေးမှ စီမံခန့်ခွဲနိုင်သည်</string>
     <string name="instruction_pre_phone">စက်ဖွင့်ပြီးနောက် ကွန်ပျူတာဖြင့် ဖိုင်များကို အဝေးမှ စီမံခန့်ခွဲနိုင်သည်</string>
     <string name="internal_storage">အတွင်းသိုလှောင်ခန်း</string>
@@ -113,6 +114,7 @@
 Android ၆.၀ နှင့်အထက် ဗားရှင်းများတွင် ဖိုင်လွှဲပြောင်းမှုလုပ်ရန် တည်နေရာဝန်ဆောင်မှုကို ဖွင့်ရမည်။"</string>
     <string name="location_skip">ကျော်သွားမည်</string>
     <string name="max_send_file">၉၉+</string>
+    <string name="more">နောက်ထပ်</string>
     <string name="never_remind">ထပ်ပြီး မပြပါနှင့်</string>
     <string name="no_file">ဗလာ</string>
     <string name="no_network">"ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ။
@@ -133,6 +135,7 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="popup_window_header_clear_all">ရှင်းပစ်မည်</string>
     <string name="port_range">အဝင်ဝနံပါတ်မှာ ၁၀၂၄ နှင့် ၆၅၅၃၅ အကြားရှိရပါမည်</string>
     <string name="prompt_grant_write_settings_permission">Mi Drop အား စနစ်ဆက်တင် မွမ်းမံခွင့်ပြုမည်။</string>
+    <string name="qr_code">QR ကုဒ်</string>
     <string name="receive">လက်ခံမည်</string>
     <string name="receive_exit_dialog_message">သင်လွှဲပြောင်းမှုကို ဖျက်သိမ်းလျှင် ဖိုင်များပေးပိုမည် မဟုတ်ပါ။ ဖျက်သိမ်း မလား?</string>
     <string name="receive_exit_dialog_negative_btn">ဆက်လက် လက်ခံမည်</string>
@@ -141,6 +144,7 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="received_files">ဖိုင်များ လက်ခံမည်</string>
     <string name="receiver_accept">လက်ခံမည်</string>
     <string name="receiver_clean">နေရာလွတ်များ ရှင်းမည်</string>
+    <string name="receiver_file_title">%s မှ</string>
     <string name="receiver_in_progress_summary">လက်ရှိဖိုင်များ လွှဲပြောင်းပြီးမှ ဖိုင်အသစ်ကို ပေးပို့ပါ။</string>
     <string name="receiver_in_progress_title">ဖိုင်များ လွှဲပြောင်းနေသည်</string>
     <string name="receiver_insufficient_storage">သိုလှောင်ရန် နေရာမလုံလောက်ပါ။</string>
@@ -190,16 +194,21 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="settings_feedback">တုံ့ပြန်အကြံပြုချက်</string>
     <string name="settings_score">Mi Drop ကို အမှတ်ပေးမည်</string>
     <string name="settings_set_name">အမည်ပြောင်</string>
-    <string name="share_desc">မိုဘိုင်းဒေတာ မသုံးဘဲ Mi Drop အား မျှဝေမည်</string>
+    <string name="share_ap_step_two">သူငယ်ချင်းများနှင့် ချိတ်ဆက်ပြီးသောအခါ ဒုတိယ အဆင့်ကို ပြပါ</string>
+    <string name="share_desc">အင်တာနက်ချိတ်မသုံးဘဲ မျှဝေမည်</string>
+    <string name="share_first_head_title">အနီးအနားရှိ သူငယ်ချင်းများနှင့် မျှဝေပါ</string>
     <string name="share_mi_drop">Mi Drop ကို သူငယ်ချင်းများထံ မျှဝေမည်</string>
+    <string name="share_second_head_title">မျှဝေရန် အခြားနည်းလမ်းများ</string>
+    <string name="share_via_ap">ခရီးဆောင် ဟော့စ်ပေါ့ဖြင့် မျှဝေမည်</string>
+    <string name="share_via_qr_code">QR ကုဒ်ဖြင့် မျှဝေမည်</string>
     <string name="start_server">စတင်ရန်</string>
     <string name="stay_awake_summary">FTP အား အသုံးပြုနေစဉ် မျက်နှာပြင်အား ပိတ်မသွားပါစေနှင့်</string>
     <string name="stay_awake_title">မျက်နှာပြင်အား လင်းလျက်ထားပါ</string>
-    <string name="step_1">"အဆင့် ၁- 
- အခြားသူအား Wi-Fi သို့ ချိတ်ဆက်စေပါ။"</string>
-    <string name="step_2">"အဆင့် ၂- 
- အခြားသူအား အောက်ပါလိပ်စာကို ဘရောက်ဇာတွင် ရိုက်ထည့်စေပါ-"</string>
-    <string name="step_2_scan_code">သို့မဟုတ် အောက်ပါ QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
+    <string name="step_1">ပထမ အဆင့်-</string>
+    <string name="step_1_title">သင်၏သူငယ်ချင်းအား ဤကွန်ရက်သို့ ချိတ်ဆက်စေပါ</string>
+    <string name="step_2">ဒုတိယ အဆင့်-</string>
+    <string name="step_2_input_ip_address">သို့မဟုတ် သင်၏သူငယ်ချင်းအား အောက်ပါလိပ်စာကို ဘရောက်ဇာတွင် ဖွင့်စေပါ-</string>
+    <string name="step_2_scan_code">သင်၏သူငယ်ချင်းအား ဤQR ကုဒ်ကို စကန်ဖတ်စေပါ</string>
     <string name="stop_server">ရပ်တန့်မည်</string>
     <string name="stop_transfer">ရပ်မည်</string>
     <string name="storage_internal">အတွင်းပိုင်း သိုလှောင်ခန်း</string>
@@ -229,6 +238,7 @@ Android ၆.၀ နှင့်အထက် ဗားရှင်းများ
     <string name="version">ဗားရှင်း</string>
     <string name="want_receive">ဖိုင်များ လက်ခံမည်</string>
     <string name="want_send">ဖိုင်များ ပေးပို့မည်</string>
+    <string name="wifi_ap">ခရီးဆောင် ဟော့စ်ပေါ့</string>
     <string name="wifi_name">Wi-Fi အမည်-</string>
     <string name="wifi_psw">စကားဝှက်-</string>
     <string name="wifi_state">Wi-Fi အခြေအနေ</string>

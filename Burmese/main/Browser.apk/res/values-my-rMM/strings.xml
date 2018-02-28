@@ -49,6 +49,7 @@
     <string name="actionbar_share">မျှဝေပါ</string>
     <string name="actionbar_textselection_title">စာသားရွေးချယ်မှု</string>
     <string name="actionbar_web_search">ဝက်ဘ် ရှာဖွေခြင်း</string>
+    <string name="ad_btn_default_text">ထည့်သွင်းမည်</string>
     <string name="adblock_force_updating_rules_toast">Ad ပိတ်ဆို့သူအား အသစ်မွမ်းမံနေ</string>
     <string name="adblock_rules_not_updated_toast">အသစ်မမွမ်းမံနိုင်ခဲ့</string>
     <string name="adblock_rules_restore">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
@@ -132,6 +133,7 @@
     <string name="browserFrameNetworkErrorLabel">ချိတ်ဆက်မှု အမှား</string>
     <string name="cancel">မလုပ်</string>
     <string name="cannot_download">\"http\" သို့ \"https\" စသည့် URLsမျှသာ ​ဒေါင်းလုဒ်လုပ်၍ရပါသည်</string>
+    <string name="card_setting_close_recommend">တုံ့ပြန်အကြံပြုချက်များအား လက်ခံရယူပါ</string>
     <string name="choosertitle_sharevia">မှတစ်ဆင့်မျှဝေ</string>
     <string name="clear_history">မှတ်တမ်းကို ရှင်းပစ်ပါ</string>
     <string name="clear_most_visited">လတ်တလော သမိုင်းများ</string>
@@ -166,6 +168,7 @@
     <string name="color_picker_dialog_title">အရောင် ရွေးပါ</string>
     <string name="color_picker_hue">ပကတိအရောင်</string>
     <string name="color_picker_saturation">တောက်ပမှုပြင်းအား</string>
+    <string name="color_picker_value">အာနိသင်</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -512,6 +515,10 @@
     <string name="nav_bottom_bar_new_tab">တက်ဘ်အသစ်</string>
     <string name="nav_screen_container_tab_incognito">ရုပ်ပြောင်းရုပ်လွှဲတက်ဘ်</string>
     <string name="nav_screen_container_tab_normal">ပုံမှန်တက်ဘ်</string>
+    <string name="nav_screen_incognito_message">"ရုပ်ဖျက်မုဒ်အောက်တွင် ရှာဖွေမှုသမိုင်းကို မသိမ်းဆည်းပါ။
+သို့သော် သင်ဒေါင်းလုဒ်လုပ်သော ဖိုင်နှင့် စာအုပ်မှတ်များအား သိမ်းဆည်းမည်ကို သတိပြုပါ။"</string>
+    <string name="nav_screen_incognito_title">ရုပ်ဖျက်မုဒ်</string>
+    <string name="navigation_delete_all">တက်ဘ်အားလုံးကို ပိတ်ရန် ဘယ်နှင့် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ဖျက်သိမ်းပါ</string>
     <string name="navigationbar_rightbutton_actiontext_go">သွား</string>
     <string name="navigationbar_rightbutton_actiontext_search">ရှာဖွေ</string>
@@ -561,6 +568,7 @@
     <string name="pref_adblock_title">ကြော်ငြာ ဘလော့လုပ်သည့်အရာ</string>
     <string name="pref_auto_update_under_wifi">Wi-Fi အား အသစ်မွမ်းမံနေသည်</string>
     <string name="pref_automatic_matching_searchengines_title">မကြာခဏ အသုံးများသော ရှာဖွေရေးအင်ဂျင်သို့ ပြောင်းလိုက်ပါ</string>
+    <string name="pref_card_setting">ထိပ်ပိုင်းဆိုဒ် အော်ဒါ</string>
     <string name="pref_category_hint">အမျိုးအစားအုပ်စု</string>
     <string name="pref_check_security_url_summary">ဝဘ်ဆိုက် URL သည် လုံခြုံမှုရှိမရှိ စစ်ဆေးရန် ၎င်းကို Mi ဆာဗာသို့ ပို့ပါ</string>
     <string name="pref_check_security_url_summary_international">ပိုမိုသင့်လျော်သော အကြံပြုချက်များရရှိနိုင်ရန် ဘရောက်ဇာကို သင်လည်ပတ်ခဲ့သော ဝက်ဘ်ဆိုက်များမှ URL များကို ဝင်ရောက်ခွင့်ပြုပါ။</string>
@@ -587,7 +595,7 @@
     <string name="pref_enable_videos">ဗီဒီယိုများ</string>
     <string name="pref_extras_reset_default">မူလသတ်မှတ်ချက်များအတိုင်း ပြန်ထားရှိမည်</string>
     <string name="pref_extras_reset_default_dlg">သတ်မှတ်ပုံစံ ဆက်တင်များကို နဂိုနေရာပြန်ထားမည်လား?</string>
-    <string name="pref_extras_reset_default_summary">သတ်မှတ်ပုံစံ ဆက်တင်များကို နဂိုနေရာပြန်ထားပါ</string>
+    <string name="pref_extras_reset_default_summary">မူလသတ်မှတ်ချက်များအတိုင်း ပြန်လည်ထားရှိမည်</string>
     <string name="pref_extras_reset_default_title">အခြား</string>
     <string name="pref_extras_send_feedback">တုန့်ပြန်ချက်ပေးပို့ပါ</string>
     <string name="pref_extras_title">အဆင့်မြင့်</string>
@@ -773,7 +781,7 @@
     <string name="show_security_tip_dialog_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="show_weather_location_getter_tip_dialog_description">ပုံမှန်အလုပ်လုပ်ရန် ဘရောက်ဇာသည် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်။ လုံခြုံရေးတိုးမြှင့်ရန်နှင့် ပိုမိုသက်ဆိုင်သော အကြံပြုချက်များနှင့် မိုးလေဝသအချက်အလက်များကို ရယူရန်အတွက် ဘရောင်ဇာအား သင်ဝင်ကြည့်သော ဝဘ်ဆိုက်များ၏ URL များကို ရယူခွင့်ပြုပြီး သင်၏တည်နေရာအချက်အလက်များကို အသုံးပြုခွင့်ပေးပါ။</string>
     <string name="sign_in_to" formatted="false">%s1 %s2 သို့ဆိုင်းအင်ဝင်ရောက်ပါ</string>
-    <string name="site_sort_des">အစီအစဉ်အား ပြန်လည်သတ်မှတ်ရန် အိုင်တမ်များကို ဆွဲယူပါ</string>
+    <string name="site_sort_des">အိုင်တမ်များကို ပြန်လည်စီမံမည်</string>
     <string name="skip_button_label">ကျော်သွား</string>
     <string name="skip_current_version">ဤဗာရှင်းအား ကျော်သွား</string>
     <string name="snapshot">ဒေသဆိုင်ရာ</string>

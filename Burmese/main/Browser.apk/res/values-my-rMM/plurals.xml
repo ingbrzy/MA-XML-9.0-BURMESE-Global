@@ -18,6 +18,9 @@
     <plurals name="matches_found">
         <item quantity="other">စုစုပေါင်း %1$dခု ထဲမှ %2$dခု</item>
     </plurals>
+    <plurals name="nav_screen_incognito_time">
+        <item quantity="other">%d စက္ကန့်နောက် စာမျက်နှာအသစ်တစ်ခုကို အလိုအလျောက် ဖန်တီးလိမ့်မည်</item>
+    </plurals>
     <plurals name="pref_adblock_counts">
         <item quantity="other">%dခု ဘလော့လုပ်ထားသည်</item>
     </plurals>
