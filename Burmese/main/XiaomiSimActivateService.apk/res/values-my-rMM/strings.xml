@@ -115,6 +115,6 @@
     <string name="phone_get_text">%1$sအား သင့်ဖုန်းနံပါတ် (%2$s)ကို ရယူရန် သဘောတူမလား?</string>
     <string name="phone_get_processing">ရယူနေသည်…</string>
     <string name="agree">ခွင့်ပြုမည်</string>
-    <string name="privacy_revoke_tips">If you revoke, the sms sync will not be able to use</string>
-    <string name="privacy_revoke_failed_msg">privacy revoke，can not get phone number，activate failed</string>
+    <string name="privacy_revoke_tips">ပြန်ရုပ်သိမ်းပါက မက်ဆေ့ချ်ဆင့်ခ်လုပ်ခြင်းအား အသုံးပြု၍ ရမည်မဟုတ်တော့ပါ</string>
+    <string name="privacy_revoke_failed_msg">ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းထားသည်၊ ဖုန်းနံပါတ် မရယူနိုင်ပါ၊ အသက်သွင်းမှု မအောင်မြင်ပါ</string>
 </resources>

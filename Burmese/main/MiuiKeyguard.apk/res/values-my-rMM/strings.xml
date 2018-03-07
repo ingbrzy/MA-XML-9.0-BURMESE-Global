@@ -5,10 +5,16 @@
     <string name="unlockscreen_recharge_completed">ဘက်ထရီ အားသွင်းပြီးပြီ</string>
     <string name="unlockscreen_low_battery">ချာဂျာဖြင့် အခု ချိတ်ဆက်ပါ</string>
     <string name="lockscreen_charging_msg">အားသွင်းနေဆဲ</string>
+    <string name="reset_device_tip">အားသွင်းမှု နှေးနေသည်၊ ဖုန်းအား နေရာပြန်ချပါ</string>
+    <string name="reset_device_detail_tip">ကြိုးမဲ့ အားသွင်းနေသည်၊ အားသွင်းမှု မြန်စေရန် ဖုန်းအထိုင်အား ချိန်ညှိပါ။</string>
+    <string name="wireless_charge_stop">ကြိုးမဲ့ အားသွင်းမှု ရပ်တန့်သွားပြီ</string>
+    <string name="change_to_ac_charging">ကြိုးမဲ့ အားသွင်းမှုသို့ ပြောင်းထားသည်</string>
+    <string name="wireless_charge_dialog_title">နေရာ မမှန်ပါ၊ ကျေးဇူးပြု၍ နေရာပြန်ချပါ</string>
+    <string name="wireless_charge_dialog_cancel">ပယ်ဖျက်မည်</string>
     <string name="emergency_call_string">အရေးပေါ်</string>
     <string name="forget_password_string">စကားဝှက် မေ့နေသည်</string>
     <string name="input_puk_code">ဖြည့်သွင်းချက် PUK</string>
-    <string name="unlocking_sim_card">SIM ကဒ်ကို သော့ဖြည်နေသည်</string>
+    <string name="unlocking_sim_card">ဆင်းမ်ကဒ်ကို သော့ဖြည်နေသည်</string>
     <string name="input_pin_code">PIN ထည့်သွင်းပါ</string>
     <string name="incorrect_pukcode">မမှန်သော PUK ကုဒ်</string>
     <string name="incorrect_pincode">မမှန်သော PUK ကုဒ်</string>
@@ -47,6 +53,7 @@
     <string name="fingerprint_try_again_msg">သင့်ဘက်ဗွေအား အတည်မပြုရသေးပါ၊ ထပ်မံကြိုးစားကြည့်ပါ</string>
     <string name="fingerprint_not_identified_title">စကားဝှက် ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_not_identified_msg">မအောင်မြင်သည့် ကြိုးပမ်းမှုများစွာ ပြုလုပ်ပြီးပါပြီ။ စကားဝှက်ကို ယခု ရိုက်ထည့်ပါ သို့မဟုတ် စက္ကန့်အနည်းငယ်ကြာမှ သင့်လက်ဗွေကို အသုံးပြုပြီး ထပ်လုပ်ကြည့်ပါ။</string>
+    <string name="fingerprint_not_identified_msg_lock">မအောင်မြင်သော ကြိုးစားမှု အကြိမ်ပေါင်းများနေသည်။ ယခု စကားဝှက်ရိုက်ထည့်ပါ။</string>
     <string name="fingerprint_again_identified_msg">သင့်လက်ဗွေအသက်သွင်းပြီးဖြစ်သည်။၄င်းကို စက်သော့ဖွင့်ရန်အသုံးပြုပါ သို့မဟုတ် စကားဝှက်ကို ရိုက်ထည့်ပါ။</string>
     <string name="fingerprint_add_title">လက်ဗွေ ပေါင်းထည့်မည်</string>
     <string name="fingerprint_add_text">လက်ဗွေအင်တာဖေ့စ်အား အသစ်မွမ်းမံခဲ့သည်။သင်၏လက်ဗွေထပ်မံပေါင်းထည့်ပါ</string>
@@ -64,13 +71,10 @@
     <string name="lock_wallpaper_enter">ရိုက်ထည့်</string>
     <string name="custom_lock_wallpaper_enter">ရိုက်ထည့်</string>
     <string name="fingerprint_enter_second_psw_title">ဒုတိယနေရာအတွက် စကားဝှက် ရိုက်ထည့်ပါ</string>
-    <string name="fingerprint_enter_second_psw_msg">လက်ဗွေသိရှိခြင်းအား အသုံးပြုနိုင်ရန် စက်အားပြန်လည်စတင်ပြီးနောက် ဒုတိယနေရာစကားဝှက်အား ရိုက်ထည့်ပါ</string>
+    <string name="fingerprint_enter_second_psw_msg">လက်ဗွေအသိအမှတ်ပြုခြင်းကို သုံးရန် ဒုတိယနေရာ စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="fingerprint_enter_second_psw_msg_oldman">Lite မုဒ်သုံးနေစဥ် ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ</string>
     <string name="keyguard_charging_info_click_to_detail">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="keyguard_quick_charging_info_click_to_detail">အမြန်အားသွင်းခြင်း။အသေးစိတ်များကြည့်ရှုရန် ထိနှိပ်ပါ။</string>
-    <string name="keyguard_quickly_charging_info_charging_text">အမြန်အားသွင်းခြင်း…</string>
-    <string name="keyguard_charging_info_finished_charging_text">အားပြည့်သွားပြီ</string>
-    <string name="keyguard_charging_info_charging_text">အားသွင်းနေ</string>
     <string name="keyguard_charging_info_last_charge_today_time">ယနေ့ %s</string>
     <string name="keyguard_charging_info_last_charge_yesterday_time">မနေ့က %s</string>
     <string name="keyguard_charging_info_last_charge_time">M/d H:mm</string>
@@ -91,13 +95,17 @@
     <string name="face_data_introduction_title">မျက်နှာသိရှိခြင်း</string>
     <string name="face_data_introduction_msg">မျက်နှာဒေတာသည် သင်၏စက်သော့ဖြည်ခြင်းနှင့် သင်မည်သူမည်ဝါဖြစ်ကြောင်း အတည်ပြုခြင်းများ ပြုလုပ်နိုင်သည်။ သင့်မျက်နှာဒေတာကို မပေါင်းထည့်မီ မျက်နှာပြင်သော့ခတ်ရန် စကားဝှက်တစ်ခု သတ်မှတ်ပါ။</string>
     <string name="face_data_introduction_next">ရှေ့သို့</string>
-    <string name="face_data_suggesstion_first">သင်၏မျက်နှာဒေတာဖြင့် စက်ကို သော့ဖြည်ခြင်းသည် မျက်နှာပြင်စကားဝှက်လောက် မလုံခြုံပါ။ သင်နှင့်ရုပ်ဆင်သောသူသည် သင့်စက်ကို သော့ဖြည်နိုင်သည်။</string>
+    <string name="face_data_siggesstion_next">ရှေ့သို့</string>
+    <string name="face_data_siggesstion_next_time">ရှေ့သို့ (%ds)</string>
+    <string name="face_data_suggesstion_first">လုံခြုရေး ကိစ္စရပ်များ- မျက်နှာဖြင့် သော့ဖြည်ခြင်းသည် PIN၊ စကားဝှက် သို့မဟုတ် ပုံစံဖြင့် သော့ဖြည်ခြင်းထက် လုံခြုံမှု အဆင့်နိမ့်သည်။ သင်၏စက်သည် သင့်ဓာတ်ပုံ သို့မဟုတ် သင်နှင့်ရုပ်ဆင်သောလူဖြင့် သော့ဖြည်နိုင်သည်။</string>
     <string name="face_data_suggesstion_second">သင့်မျက်နှာတစ်ခုလုံး မည်သည့်အရာမျှ ဖုံးလွှမ်းထားခြင်းမရှိစေရ။ လုံလောက်သောအလင်းနှင့် ရှင်းလင်းစွာမြင်စေပါ။</string>
     <string name="face_data_input_camera_fail">ကင်မရာကို ဖွင့်၍မရပါ</string>
     <string name="face_data_input_camera_ok">ကင်မရာကို ဖွင့်နေသည်…</string>
     <string name="face_data_input_msg">သင့်မျက်နှာအား ဖရိန်အတွင်း ထားပါ</string>
     <string name="face_data_input_ok_title">အောင်မြင်စွာ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="face_data_input_ok_msg">သင့်မျက်နှာဒေတာဖြင့် စက်ကိုသော့ဖြည်ရန် မျက်နှာပြင်ဖွင့်အား ဖွင့်ပါ။</string>
+    <string name="face_data_input_ok_msg_angle">"မျက်နှာပြင်ဖွင့်ထားသောအခါ သင်၏မျက်နှာဖြင့် စက်အား သော့ဖြည်နိုင်သည်။
+(လိုအပ်သော ရှုထောင့်များ ပါဝင်သော မျက်နှာဒေတာကို မှတ်တမ်းတင်ပါ။)"</string>
     <string name="face_data_input_cancel">ပယ်ဖျက်မည်</string>
     <string name="face_data_input_cancel_msg">မျက်နှာဒေတာကို ပေါင်းထည့်၍ မရပါ</string>
     <string name="face_data_input_ok">ပြီးပြီ</string>
@@ -134,5 +142,11 @@
     <string name="face_unlock_rise">သင့်ခေါင်းကို ငုံ့ပါ</string>
     <string name="face_unlock_down">သင့်ခေါင်းကို မော့ပါ</string>
     <string name="face_unlock_quality">သင့်မျက်နှာကို ရှင်းလင်းစွာ မတွေ့ရပါ</string>
-    <string name="lock_screen_no_sim_card">No SIM card</string>
+    <string name="lock_screen_no_sim_card">ဆင်းမ်ကဒ် မရှိပါ</string>
+    <string name="do_disclosure_generic">ဤစက်အား သင်၏အဖွဲ့အစည်းမှ စီမံခန့်ခွဲသည်</string>
+    <string name="do_disclosure_with_name">ဤစက်အား %sမှ စီမံခန့်ခွဲသည်</string>
+    <string name="face_unlock_reenter_title">သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ပါ။</string>
+    <string name="face_unlock_reenter_content">မျက်နှာဖြင့် သော့ဖွင့်ပုံစံတွက်နည်း အပ်ဒိတ်လုပ်ထားသည်။ သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ရန် ထိနှိပ်ပါ။</string>
+    <string name="digital_clock_dot">:</string>
+    <string name="keyguard_left_view_lock_wallpaper">နောက်ခံပုံ လှည့်ပြခြင်း</string>
 </resources>

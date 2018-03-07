@@ -3,7 +3,7 @@
     <string name="passport_account_label">Mi အကောင့်</string>
     <string name="passport_notification_title">%1$s သို့ ဆိုင်းအင်ဝင်ချိန် မှားယွင်းမှုဖြစ်ပေါ်သည်</string>
     <string name="passport_login_prompt">Mi အကောင့်တစ်ခု။ Mi ဝန်ဆောင်မှုအားလုံး။</string>
-    <string name="passport_login_using_other_ways">Other ways to sign in</string>
+    <string name="passport_login_using_other_ways">ဆိုင်းအင်ဝင်ရန် အခြားနည်းလမ်းများ</string>
     <string name="passport_login_title">သင်၏ Mi အကောင့်သို့ ဝင်ပါ။</string>
     <string name="passport_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_relogin">ထပ်မံ ဝင်ပါ</string>

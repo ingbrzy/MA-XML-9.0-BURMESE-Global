@@ -20,6 +20,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
     <string name="search_menu_title">ရှာဖွေပါ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="ac_gree">Gree AC</string>
     <string name="ac_mode_auto">အော်တို</string>
     <string name="ac_mode_cold">အေးအောင်လုပ်နေသည်</string>
@@ -94,6 +95,7 @@
     <string name="bind_stb">set-top box အား ဆက်လက်တွဲချိတ်ပါ</string>
     <string name="bind_stb_dlg">လိုင်းများပြောင်းရန် set-top box သို့ချိတ်တွဲပါ</string>
     <string name="bind_stb_dlg_agree">ချိတ်တွဲ</string>
+    <string name="brand_device">%1$s%2$s</string>
     <string name="brand_search_box_hint">ထုတ်လုပ်သူကို ရွေးချယ်ပါ</string>
     <string name="brand_title_all">အားလုံး</string>
     <string name="brand_title_hot">လူကြိုက်များသော</string>
@@ -290,6 +292,7 @@
     <string name="hot_videos">လူကြိုက်များသော</string>
     <string name="hour">နာရီ</string>
     <string name="humidity">ရေငွေ့ပါဝင်မှု−</string>
+    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">အပေါ်</string>
     <string name="input_complete">အိုကေ</string>
     <string name="input_source">အဝင်အရင်းအမြစ်</string>
@@ -346,6 +349,7 @@
     <string name="loading_ir_data">ခဏလောက်စောင့်ပါ…</string>
     <string name="locate_current_place">လက်ရှိတည်နေရာရှာပါ</string>
     <string name="location_select">စက်အား အမည်ပြန်ပေး</string>
+    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">ဆိုင်းအောက်ထွက်</string>
     <string name="login_directly">ဆိုင်းအင်ဝင်</string>
     <string name="login_done">ဆိုင်းအင် ဝင်ရောက်ခဲ့သော</string>
@@ -372,6 +376,7 @@
     <string name="match_data">အချက်အလက်များတွဲနေ</string>
     <string name="match_data_error_tips">"အချက်အလက်မရနိုင်ခဲ့ပါ
 ဆက်လက်ရန် ပြန်သွားပါ"</string>
+    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">ဦးတည်ချက်ခလုတ်များ အလုပ်လုပ်သလား?</string>
     <string name="match_dvd_intro_pause">DVD ပြန်ပြမှုအား ခေတ္တရပ်လိုက်စဉ် လွှတ်လိုက်ပါ</string>
     <string name="match_dvd_intro_play">DVD စတင်ပြသစဉ် လွှတ်လိုက်ပါ</string>
@@ -780,6 +785,8 @@
     <string name="scaning">ရှာနေသည်…</string>
     <string name="scanning_milink">စက်များအားရှာဖွေနေ…</string>
     <string name="scene_default">ပုံသေ</string>
+    <string name="scene_name_frame">%1$s%2$s%3$s</string>
+    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">မျက်နှာပြင်ရိုက်ချက်</string>
     <string name="screenshot_failed">မျက်နှာပြင်အား မရိုက်ယူနိုင်ခဲ့</string>
     <string name="screenshot_failed_and_check_connection">မျက်နှာပြင်အား မရိုက်ယူနိုင်ခဲ့၊ ချိတ်ဆက်ထားသော စက်များအား စစ်ဆေးပါ</string>
@@ -883,6 +890,7 @@
     <string name="start_diagnosis">စမ်းသပ်</string>
     <string name="start_match">ချိတ်တွဲ</string>
     <string name="stb">Set-top box</string>
+    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">STB ဖွင့်/ပိတ်</string>
     <string name="steps">ကြိုစားမှု #%d</string>
     <string name="stop_diagnosis">ရပ်</string>

@@ -71,6 +71,16 @@
     <string name="dlg_add_white">ခြွင်းချက်သို့ ပေါင်းထည့်ထားသော နံပါတ်များမှ ခေါ်ဆိုမှုအသစ်နှင့် မက်ဆေ့ချ်များသည် ဖုန်းခေါ်မှတ်တမ်းနှင့် မက်ဆေ့ချ်အဝင်စာပုံးတွင် ဖော်ပြလိမ့်မည်။ သို့သော် ယခင်ဘလော့လုပ်ထားစဥ်က အိုင်တမ်များသည် ပေါ်လာမည် မဟုတ်ပါ။ ရွေးထားသောနံပါတ်များကို ခြွင်းချက်များသို့ ပေါင်းထည့်မလား?</string>
     <string name="dlg_not_block_sms">ရွေးထားသော နံပါတ်များကို ဘလော့လုပ်ထားခြင်းမှဖြုတ်မလား? ဤနံပါတ်များကို ခြွင်းချက်များသို့ ပေါင်းထည့်လိမ့်မည်၊ သို့သော် ယခင်ဘလော့လုပ်ထားစဥ်က အိုင်တမ်များသည် မက်ဆေ့ချ်အဝင်စာပုံးတွင် ပေါ်လာမည် မဟုတ်ပါ။</string>
     <string name="dlg_not_block_call">ရွေးထားသော နံပါတ်များကို ဘလော့လုပ်ထားခြင်းမှဖြုတ်မလား? ဤနံပါတ်များကို ခြွင်းချက်များသို့ ပေါင်းထည့်လိမ့်မည်၊ သို့သော် ယခင်ဘလော့လုပ်ထားစဥ်က အိုင်တမ်များသည် ဖုန်းခေါ်မှတ်တမ်းတွင် ပေါ်လာမည် မဟုတ်ပါ။</string>
+    <string name="dlg_update_date_title">သတိပေးချက်</string>
+    <string name="dlg_update_data_content">သင်၏ဖုန်းသည် Wi-Fiသို့ ချိတ်ဆက်မထားပါ။ မိုဘိုင်းဒေတာကို သုံးပါက အပိုငွေများကုန်ကျနိုင်သည်။ ဆက်လက်လုပ်ဆောင်မလား?</string>
+    <string name="dlg_sec_network_unavailable">အင်တာနက်ချိတ်ဆက်မှုကို ကန့်သတ်ထားသောကြောင့် လုံခြုံရေးအက်ပ်သည် အပ်ဒိတ်မလုပ်နိုင်ပါ။ လုံခြုံရေးအက်ပ်ကို အင်တာနက်နှင့် ချိတ်ဆက်ခွင့်ပေးလိုပါသလား?</string>
+    <string name="dlg_update_btn_contiue">ဆက်လက်လုပ်ဆောင်မည်</string>
+    <string name="dlg_update_btn_open">ခွင့်ပြုသည်</string>
+    <string name="dlg_update_updating">အပ်ဒိတ်လုပ်နေသည်…</string>
+    <string name="toast_update_nonetwork">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
+    <string name="toast_update_fail">အပ်ဒိတ်လုပ်၍ မရပါ</string>
+    <string name="toast_update_success">အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
+    <string name="toast_update_notneed">နောက်ဆုံးပေါ်</string>
     <string name="menu_call">ခေါ်ဆို</string>
     <string name="menu_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="menu_bl_call_log">ဘလော့လုပ်ထားသောခေါ်ဆိုမှုများကိုကြည့်ပါ</string>
@@ -252,6 +262,7 @@
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">နံပါတ်အား တိုင်ကြား</string>
     <string name="sms_smart_engine_update">SMS စစ်ထုတ်ကိရိယာကို အလိုအလျောက် အသစ်မွမ်းမံလုပ်ပါ</string>
+    <string name="sms_smart_engine_update_now">အပ်ဒိတ်လုပ်မည်</string>
     <string name="mark_number_setting_guide_title">အစီရင်ခံထားသည့်နံပါတ်များကို ဘလော့လုပ်ပါ</string>
     <string name="mark_number_setting_guide_content1">အစီရင်ခံထားသည့်နံပါတ်များမှ ဖုန်းခေါ်ဆိုမှုများကို ဘလော့လုပ်မှာလား?</string>
     <string name="mark_number_setting_guide_content2">အခြားအသုံးပြုသူများမှ အစီရင်ခံထားသည့် နံပါတ်များမှ ခေါ်ဆိုမှုများကို အလိုအလျောက် ဘလော့လုပ်ပါ</string>
@@ -305,6 +316,7 @@
     <string name="cta_dialog_title">အင်တာနက်ချိတ်ဆက်မှု</string>
     <string name="cta_dialog_msg">လုံခြုံရေးသည် အသစ်မွမ်းမံမှုများ ရရှိရန်အတွက် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပြီး ပုံမှန်အလုပ်လုပ်ဆောင်ရန်အတွက် တည်နေရာဝန်ဆောင်မှုအား သုံးစွဲရန်လိုအပ်ပါသည်။</string>
     <string name="cta_settings">အင်တာနက်ချိတ်ဆက်မှုကို ခွင့်ပြုပါ</string>
+    <string name="gdpr_msg"><Data>လုံခြုရေး၏ အခြေခံအင်္ဂါရပ်များအား သုံးနိုင်ရန်အတွက် Xiaomi မှ လုံခြုရေးအင်္ဂါရပ်များ သုံးပုံသုံးနည်း (ဥပမာ- မိုဘိုင်းဒေတာသုံးစွဲမှု အခြေအနေ၊ Malware အချက်အလက်၊ သင့်စက်၏အခြေခံအချက်အလက်) အပါအဝင်သင်၏ကိုယ်ရေးအချက်အလက်များနှင့် &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">ကိုယ်ရေးအချက်အလက်ပေါ်လစီ&lt;/a>မှ သတ်မှတ်ထားသော အခြားအချက်အလက်များ စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရမည်။</Data></string>
     <string name="app_name_na">ဒေတာအသုံးစွဲမှု</string>
     <string name="list_empty_text">မရှိသော</string>
     <string name="dialog_title_attention">သတိပြုပါ</string>
@@ -384,6 +396,12 @@
     <string name="firewall_wifi_dialog_message">၎င်းကို ပိတ်ထားလျှင် ထည့်သွင်းထားသော အက်ပ်သည် Wi-Fi ကို အသုံးပြုပြီး အင်တာနက် ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။</string>
     <string name="firewall_system_title">စနစ် အက်ပ်များအတွက် ဒေတာသုံးစွဲမှု</string>
     <string name="firewall_temp_rule_reason">%2$s မှ %1$s ၏ အင်တာနက်ချိတ်ဆက်မှုကို ကန့်သတ်ထားသည်</string>
+    <string name="dialog_restrict_all_wlan_title">Wi-Fi ချိတ်ဆက်မှုကို ကန့်သတ်မည်</string>
+    <string name="dialog_restrict_all_wlan_summary">ထို့နောက် အက်ပ်အားလုံးအတွက် Wi-Fi ချိတ်ဆက်မှုကို ကန့်သတ်လိမ့်မည်။</string>
+    <string name="dialog_restrict_all_mobile_title">%s မိုဘိုင်းဒေတာချိတ်ဆက်မှုကို ကန့်သတ်မည်</string>
+    <string name="dialog_restrict_all_mobile_summary">%s ထို့နောက် အက်ပ်အားလုံးအတွက် Wi-Fi ချိတ်ဆက်မှုကို ကန့်သတ်လိမ့်မည်။</string>
+    <string name="dialog_restrict_positive">ပယ်ဖျက်မည်</string>
+    <string name="dialog_restrict_negative">ကန့်သတ်မည်</string>
     <string name="usage_sorted_activity_lable">ဒေတာအသုံးစွဲမှု</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
     <string name="usage_sorted_empty_text">မရှိသော</string>
@@ -406,6 +424,7 @@
     <string name="detail_app_button">အက်ပ်အချက်အလက်</string>
     <string name="pref_about_traffic_title">ဒေတာအသုံးပြုမှုဆက်တင်များ</string>
     <string name="pref_traffic_manage_title">ဒေတာအသုံးစွဲမှု</string>
+    <string name="pref_operator_setting">%1$s%2$s</string>
     <string name="pref_package_traffic_settings">ဒေတာအစီအစဉ်</string>
     <string name="pref_adjust_traffic_data">ဒေတာသုံးစွဲမှုကို သတ်မှတ်ပါ</string>
     <string name="pref_category_title_other">ထပ်ဆောင်းဆက်တင်များ</string>
@@ -518,6 +537,12 @@
     <string name="leisure_usage_dialog_message">"အသုံးနည်းသည့်အချိန်ဒေတာကန့်သတ်ချက်ကို ရောက်ရှိခဲ့သည်။
 
  မိုဘိုင်းဒေတာကန့်သတ်ချက်ကို ထပ်သုံးပါက ဖုန်းကာရီယာမှ အခကြေးငွေ ကောက်ခံပါလိမ့်မည်။"</string>
+    <string name="data_usage_protected_notify_title">မိုဘိုင်းဒေတာ ၅ GB သုံးပြီးပြီ</string>
+    <string name="data_usage_protected_notify_message">MIUI သည် အပိုကြေးငွေများ မကုန်စေရန် မိုဘိုင်းဒေတာအား ပိတ်လိုက်သည်။</string>
+    <string name="data_usage_mobile_dialog_title">မိုဘိုင်းဒေတာ ၅ GB သုံးပြီးပြီ။ MIUI သည် မိုဘိုင်း ဒေတာအား ပိတ်လိုက်သည်။</string>
+    <string name="data_usage_protected_dialog_message">"MIUI သည် အပိုကြေးငွေများ မကုန်စေရန် မိုဘိုင်းဒေတာအား ပိတ်လိုက်သည်။
+
+မိုဘိုင်းဒေတာအား ပြန်ဖွင့်ပါက ဖုန်းလိုင်းဝန်ဆောင်မှုဌာနမှ အပိုကြေးငွေများ ကောက်ခံနိုင်သည်။"</string>
     <string name="lock_screen_traffic_warn_title">သော့ခတ်မျက်နှာပြင်　အသိပေးချက်များ</string>
     <string name="lock_screen_traffic_notify_body">%2$s အတွက် %1$s တွင် ကန့်သတ်ထားပါသည်၊ အသုံးပြုခဲ့သော ဒေတာ %3$s</string>
     <string name="timeshow_s">%d စက္ကန့်</string>
@@ -616,7 +641,7 @@ Rolled over extra data"</string>
     <string name="tc_sms_report_type">အစီရင်ခံစာ အမျိုးအစား</string>
     <string name="privacy_declare_dialog_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="sc_allow_network_dialog_tiltle">ဤလုပ်ဆောင်ရည်ကို အသုံးမပြုနိုင်ပါ</string>
-    <string name="sc_allow_network_dialog_message">You restricted network connection and access to your location for Security. Give Security the required permissions to use this feature.</string>
+    <string name="sc_allow_network_dialog_message">လုံခြုရေးမှ ကွန်ရက်ချိတ်ဆက်ခြင်းနှင့် တည်နေရာရယူခြင်းအား သင် ကန့်သတ်ထားသည်။ ဤအင်္ဂါရပ်ကို အသုံးပြုရန် လုံခြုရေးအား လိုအပ်သောခွင့်ပြုချက်များ ပေးပါ။</string>
     <string name="privacy_prompt_upload">လုဒ်တင်ပါ</string>
     <string name="privacy_prompt_traffic_adjust_message">"ချိန်ညှိမှုကို သင်စလိုက်ပါက၊MIUIသည် ကွန်ရက်သို့ချိတ်ဆက်လိုက်ပါလိမ့်မည်၊ သင့်ကာရီယာအချက်အလက်၊ ဖုန်းနံပါတ်၊IMEIနှင့် Mi အကောင့်တို့ကို ကုဒ်ဖွဲ့ပြီးMi ဆာဗာများဆီသို့ လုတ်တင်လိုက်လိမ့်မည်။ ဤသို့လုပ်ဆောင်ခြင်းသည် ကာရီယာမှ ချိန်ညှိပုံစံခွက်ကို ရယူရန်ဖြစ်ပြီး သင့်တည်နေရာတွင် ဒေတာဝယ်၍ရနိုင်မရနိုင်ကို သိရှိရန်အတွက်ဖြစ်ပါသည်။
 
@@ -919,6 +944,7 @@ Rolled over extra data"</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"ဤအက်ပ်သည် သင်၏စက်ကို
 နှေးကွေးစေသည်"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">ဖြုတ်ပါ %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">ဘက်ထရီသုံးစွဲမှုဆိုင်ရာကိစ္စများ ဖြေရှင်းရန် ဤအက်ပ်ကို ဖြုတ်ပါ။</string>
     <string name="om_ill_proc_type_wakelock_title">ဤအက်ပ်သည် အိပ်စက်ခြင်းမုဒ်ကို ပိတ်ပင်ထားသောကြောင့် ဘက်ထရီအားမခံပါ</string>
@@ -1323,6 +1349,7 @@ Rolled over extra data"</string>
     <string name="menu_text_networkassistants">ဒေတာအသုံးပြုမှု</string>
     <string name="menu_text_networkassistants_remain">%s ကျန်သေးသည်</string>
     <string name="menu_text_networkassistants_danger">%s ကျော်</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1683,6 +1710,7 @@ Rolled over extra data"</string>
     <string name="card_main_deepclean_wechat_action">ရှင်းလင်း</string>
     <string name="card_main_sectool_title">တူးလ်များ</string>
     <string name="card_main_monthreport_action">ကြည့်ရှု</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">ကွန်ရက်ကို စမ်းသပ်ပါ</string>
     <string name="card_main_netcheck_summary">ကွန်ရက်ကိစ္စများအတွက် ချိတ်ဆက်မှုအား စစ်ဆေးပါ</string>
     <string name="card_main_netcheck_action">စစ်ဆေးမှု</string>

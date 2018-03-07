@@ -30,7 +30,7 @@
     <string name="remove_download">ဖျက်ပါ</string>
     <string name="retry_download">ထပ်မံကြိုးစားပါ</string>
     <string name="select_all">အားလုံးရွေးပါ</string>
-    <string name="selected_count">%2$d မှ %1$d ရွေးချယ်ခဲ့သော</string>
+    <string name="selected_count">%1$dခု ရွေးထားသည်၊ စုစုပေါင်း %2$dခု။</string>
     <string name="DOWNLOAD_UNIT_BIT">B</string>
     <string name="DOWNLOAD_UNIT_GB">GB</string>
     <string name="DOWNLOAD_UNIT_KB">KB</string>
@@ -45,13 +45,13 @@
     <string name="ad_title_other">ဤပုံအား ဒေါင်းလုဒ်လုပ်သူများသည် အောက်ပါအရာများကိုလည်း ဒေါင်းလုဒ်လုပ်ကြသည်</string>
     <string name="add_flow_fail_haveget_msg">အစမ်းသုံးစွဲမှုကာလကုန်လွန်</string>
     <string name="add_flow_fail_vip_msg">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေးအား ဖွင့်ထားသည်</string>
-    <string name="add_flow_success_msg">ဤလ %s ပေါင်းထည့်ခဲ့သည်</string>
     <string name="all_downloads">ဒေါင်းလုဒ်အားလုံး</string>
     <string name="all_fileter">အားလုံး</string>
     <string name="all_share_files_content">သင်ရွေးလိုက်သည် ဖိုင်အား ဖျက်လိုက်ပြီဖြစ်ပါသည်</string>
     <string name="all_the_internet">ကွန်ရက်အားလုံး</string>
     <string name="apk_filter">APK</string>
     <string name="app_downloads">%s ဒေါင်းလုဒ်များ</string>
+    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Xunlei အကောင့်</string>
     <string name="auth_fail">တရားဝင်ခွင့်ပြုချက် မရနိုင်ခဲ့ပါ</string>
     <string name="bind_xunlei_account">Xunlei အကောင့်အားထည့်ပါ</string>
@@ -66,7 +66,6 @@
     <string name="clear_data">ရှင်းလင်း</string>
     <string name="complete_time">ပြီးမြောက်ခဲ့သော−</string>
     <string name="confirm">အိုကေ</string>
-    <string name="confirm_delete_downloads_message">ဒေါင်းလုဒ် %d ခုအား ဖျက်ပစ်မည်။</string>
     <string name="confirm_delete_the_download_item_message">ဤဒေါင်းလုဒ်များအား ဖျက်မည်လား?</string>
     <string name="continue_download">ဆက်လက်မည်</string>
     <string name="copy">ကော်ပီ</string>
@@ -82,7 +81,7 @@
     <string name="dialog_btn_ok">အိုကေ</string>
     <string name="dialog_btn_ok_disabled_net">ကွန်ရက်ဆက်တင်များ</string>
     <string name="dialog_confirm_delete_checkbox_message">ဖုန်းတွင်းဖိုင်ကိုလည်းဖျက်ပစ်</string>
-    <string name="dialog_confirm_delete_downloads_message">%d ကိုဖျက်မည်လား?</string>
+    <string name="dialog_confirm_delete_downloads_message">ရွေးထားသော လုပ်ငန်းစဥ်များအား ဖျက်မလား?</string>
     <string name="dialog_confirm_delete_the_download_item_message">ဒီလုပ်ငန်းစဉ်များကို ဖျက်ပါ</string>
     <string name="dialog_file_missing_title">ဖိုင်အားဖွင့်၍မရနိုင်ပါ</string>
     <string name="dialog_msg_disabled_net">လက်ရှိကွန်ရက်တွင် %1$s ဒေါင်းလုဒ်အား ကန့်သတ်ထားပါသည်။ လုံခြုံရေးအက်ပ်သို့သွားရန် ကွန်ရက်ဆက်တင်များအား ထိနှိပ်ပါ။</string>
@@ -102,7 +101,6 @@
     <string name="download_filesize_unknown">မသိသော</string>
     <string name="download_from">အရင်းမြစ်−</string>
     <string name="download_in_process">ဒေါင်းလုဒ်လုပ်နေသည်</string>
-    <string name="download_info_count_deleted_tasks">ဒေါင်းလုဒ် %s ခု အား ဖယ်ရှားလိုက်သည်</string>
     <string name="download_info_start_deleted_tasks">ဒေါင်းလုဒ်များအား ဖျက်ပါ</string>
     <string name="download_list_get_free_vip">Xunlei အစမ်းသုံးကာလ</string>
     <string name="download_list_get_hightspeed_flow_auto_open">Xunlei ဒေါင်းလုဒ်အရှိန်မြှင့်စက် ဖွင့်ထားသည်</string>
@@ -117,6 +115,7 @@
     <string name="download_list_open_xl_title">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေး</string>
     <string name="download_list_title_browser">ဒေါင်းလုဒ်များ</string>
     <string name="download_no_application">ဤဖောမတ်အား မည်သည့်အက်ပ်မှ မထောက်ပံ့ပါ</string>
+    <string name="download_num_size">%1$s | %2$s</string>
     <string name="download_paused">ဒေါင်းလုဒ်လုပ်ခြင်း ရပ်တန့်</string>
     <string name="download_pending">ဒေါင်းလုဒ်လုပ်ခြင်း ဆိုင်ငံ့</string>
     <string name="download_remain_time">ကျန်ရှိနေသော−</string>
@@ -136,10 +135,8 @@
     <string name="dredge_xunlei_account">Xunlei အကောင့်ဖန်တီးပါ</string>
     <string name="durationDayHour">%1$d ရက် %2$d နာရီ</string>
     <string name="durationDayHours">%1$d ရက် %2$d နာရီ</string>
-    <string name="durationDays">%1$d ရက်များ</string>
     <string name="durationHourMinute">%1$d နာရီ %2$d မိနစ်</string>
     <string name="durationHourMinutes">%1$d နာရီ %2$d မိနစ်</string>
-    <string name="durationHours">%1$d နာရီ</string>
     <string name="durationMinute">%1$dမိနစ်</string>
     <string name="durationMinuteSecond">%1$d မိနစ် %2$d စက္ကန့်</string>
     <string name="durationMinuteSeconds">%1$d မိနစ် %2$d စက္ကန့်</string>
@@ -313,37 +310,8 @@
     <string name="shortcut_dialog_content">အရင်းမြစ်များအား လျင်မြန်စွာရှာဖွေနိုင်ရန် အိမ်မျက်နှာပြင်ရှော့ကဒ်များပေါင်းထည့်ပါ</string>
     <string name="shortcut_dialog_create">ဖန်တီး</string>
     <string name="shortcut_dialog_title">အိမ်မျက်နှာပြင် ရှော့ကဒ် ဖန်တီးမည်လား?</string>
-    <string name="show_more">%s ပို၍ပြပါ</string>
-    <string name="sniff_associate_text">လူကြိုက်များသော</string>
-    <string name="sniff_bt_text">Torrent ဖိုင်</string>
-    <string name="sniff_btn_text">အရင်းမြစ်</string>
-    <string name="sniff_cannot_use">ဂလိုဘယ်ရှာဖွေမှုအား အသုံးပြု၍မရပါ၊ ဒေါင်းလုဒ်လုပ်ရန် လင့်ခ်အား ထိနှိပ်ပါ</string>
-    <string name="sniff_connect_error_page_tips">URL အား မဖွင့်နိုင်ခဲ့ပါ</string>
-    <string name="sniff_connect_error_refresh">ပြန်ဆွဲချပါ</string>
     <string name="sniff_copyright_text">ကော်ပီရိုက်ကြောင့် အချို့ရလဒ်များအား မပြသနိုင်ပါ</string>
-    <string name="sniff_download_task_already_exist">ဤဒေါင်းလုဒ်မှာ တည်ရှိနေပြီးဖြစ်ပါသည်</string>
-    <string name="sniff_download_task_create_success">ဒေါင်းလုဒ်ပေါင်းထည့်ထားသည်</string>
-    <string name="sniff_finding_resource_prompt">ဝက်ဘ်တွင်ရှာဖွေနေ…</string>
-    <string name="sniff_hot_text">ဆက်စပ်နေသော</string>
-    <string name="sniff_no_network_tip">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး နောက်တစ်ကြိမ်ထပ်ကြိုးစားပါ</string>
-    <string name="sniff_no_result_text">မည်သည့်ရလဒ်မျှမတွေ့ရှိပါ</string>
-    <string name="sniff_result_empty_prompt">ဝက်ဘ်ရှာဖွေမှု ရလဒ်များ</string>
-    <string name="sniff_result_num_prefix">တွေ့ရှိခဲ့</string>
-    <string name="sniff_result_num_video_suffix">အိုင်တမ်များ</string>
-    <string name="sniff_result_num_website_suffix">ဝက်ဘ်ဆိုက်များ</string>
-    <string name="sniff_result_website_intro">စုစုပေါင်း &lt;font color=\"#6699ff\">%1$d&lt;/font> အိုင်တမ်|အရင်းအမြစ်−%2$s</string>
-    <string name="sniff_search_assoicate_sizeinfo">အရွယ်အစား−%1$s</string>
-    <string name="sniff_search_install">တပ်ဆင်</string>
-    <string name="sniff_shortcut_cloudconfig_btn">ရပြီ</string>
-    <string name="sniff_shortcut_cloudconfig_context">အရင်းမြစ်အား အသစ်မွမ်းမံနေ…</string>
-    <string name="sniff_shortcut_cloudconfig_title">ခဏစောင့်ပါ…</string>
-    <string name="sniff_shortcut_create">ရှော့ကဒ် ဖန်တီးပြီးပြီ</string>
-    <string name="sniff_shortcut_exist">ရှော့ကဒ်ရှိနေပြီးဖြစ်ပါသည်</string>
-    <string name="sniff_shortcut_failed">ရှော့ကဒ်အား မဖန်တီးနိုင်ခဲ့ပါ</string>
     <string name="sniff_shortcut_name">ဝက်ဘ် ရှာဖွေခြင်း</string>
-    <string name="sniff_shortcut_tip">ဝက်ဘ်ရှာဖွေမှုအတွက် အိမ်မျက်နှာပြင်ရှော့ကဒ် ပေါင်းထည့်နိုင်သည်</string>
-    <string name="sniff_shortcut_tip2">သင့်အိမ်မျက်နှာပြင်မှ ဒေါင်းလုဒ်များအတွက် အရင်းအမြစ်များအား ရှာဖွေပါ။</string>
-    <string name="sniff_sniffing_btn_text">အရင်းအမြစ်ရှာဖွေနေ…</string>
     <string name="sniff_terms_agree">လက်ခံပါ</string>
     <string name="sniff_terms_agree_new">သဘောတူ</string>
     <string name="sniff_terms_check_text">ဝန်ဆောင်မှုဆိုင်ရာစည်မျည်းများအား လက်ခံပါသည်</string>
@@ -354,7 +322,6 @@
     <string name="sniff_terms_msg_bold_new">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="sniff_terms_reject">ငြင်းဆို</string>
     <string name="sniff_terms_title">သတိပြုပါ</string>
-    <string name="sniff_text_sniff_next_page">ဆက်လက်></string>
     <string name="sniff_vip_tip_speedup">အရှိန်မြှင့်သူအား အခမဲ့တစ်ကြိမ် စမ်းသုံးကြည့်နိုင်ပါသည်</string>
     <string name="sniff_vip_tip_vip">Xunlei မှသင့် အမြန်နှုန်းအား တိုးမြှင့်နိုင်ပါသည်</string>
     <string name="start_analysis">ယခုစစ်ဆေးပါ</string>
@@ -406,8 +373,6 @@
     <string name="vip_show_info">"အဖွဲ့ဝင် 5သန်းရှိပြီးဖြစ်။
 သင့်စက်အားလုံးရှိဒေါင်းလုဒ်များအား အရှိန်မြှင့်တင်ပါ။"</string>
     <string name="vip_speedup">အရှိန်မြှင့်−</string>
-    <string name="web_dialog_cancel">ဖျက်သိမ်း</string>
-    <string name="web_dialog_confirm">အိုကေ</string>
     <string name="xiaomi_account_not_exist_message">ဤ Miအကောင့်မတည်ရှိပါ</string>
     <string name="xl_annual_vip_open">နှစ်စဉ်အဖွဲ့ဝင်မှု (%1$s Mi ခရက်ဒစ် သို့မဟုတ် လစဉ် %2$s)</string>
     <string name="xl_annual_vip_renew">၁ နှစ်တာအသစ်ပြန်လုပ် (%1$s Mi ခရစ်ဒစ်များ သို့မဟုတ် လစဉ် %2$s)</string>
@@ -438,6 +403,7 @@
     <string name="xl_vip_semiannual">၆ လ−%1$s Mi ခရက်ဒစ်များ× ၆</string>
     <string name="xunlei_account_has_unbind_message">Xunlei အကောင့်အား ဖယ်ရှားလိုက်သည်</string>
     <string name="xunlei_brand">Xunlei ဖြင့် အားဖြည့်ထားသော</string>
+    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">ဖွင့်</string>
     <string name="xunlei_close_tips_content">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေး.</string>
     <string name="xunlei_close_tips_title">ဒေါင်းလုဒ်များအား အရှိန်မြင့်တင်ပါ</string>

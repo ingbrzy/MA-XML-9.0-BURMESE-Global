@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -25,7 +27,6 @@
     <string name="wifi_not_in_range">အကွာအဝေးအတွင်းတွင် မရှိ</string>
     <string name="wifi_no_internet">အင်တာနက်ချိတ်ဆက်မှု မရှိပါ၊ အလိုအလျောက်ပြန်ချိတ်ဆက်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="saved_network">%1$s မှသိမ်းခဲ့သော</string>
-    <string name="connected_via_wfa">Wi‑Fi လက်ထောက်မှ တစ်ဆင့် ချိတ်ဆက်ခဲ့သော</string>
     <string name="connected_via_passpoint">%1$s မှတစ်ဆင့် ချိတ်ဆက်ထားသော</string>
     <string name="available_via_passpoint">%1$s မှတစ်ဆင့်ရရှိနိုင်သော</string>
     <string name="wifi_connected_no_internet">ချိတ်ဆက်ပြီး၊ အင်တာနက်မရှိပါ။</string>
@@ -167,7 +168,6 @@
     <string name="allow_mock_location">တုပထားသောတည်နေရာအား ခွင့်ပြုပါ</string>
     <string name="allow_mock_location_summary">တုပထားသောတည်နေရာအား ခွင့်ပြုပါ</string>
     <string name="debug_view_attributes">မြင်ကွင်းအရည်အသွေးစစ်ဆေးခြင်းကို ဖွင့်မည်</string>
-    <string name="legacy_dhcp_client_summary">အန်းဒရွိုက် DHCP အသုံးပြုသူအသစ် အစား Lollipop မှ DHCPအသုံးပြုသူ ကိုသုံးပါ။</string>
     <string name="mobile_data_always_on_summary">Wi‑Fi သုံးနေလျှင်လည်း မိုဘိုင်းဒေတာကွန်ရက်ကို အမြဲဖွင့်ထားပါ (မြန်ဆန်သောကွန်ရက်သို့ ပြောင်းနိုင်ရန်အတွက်) ။</string>
     <string name="adb_warning_title">USB ဒီဘာဂင်ကို ခွင့်ပြုမလား?</string>
     <string name="adb_warning_message">USBဒီဘာဂင်သည် ပြုစုပျိုးထောင်မှုအတွက်သာ ဖြစ်သည်။ သင့်ကွန်ပျူတာနှင့် စက်အကြား ဒေတာကော်ပီကူးခြင်း၊ သင့်စက်တွင် အက်ပ်များထည့်သွင်းတပ်ဆင်ခြင်းတို့ကို သတိပေးချက် ပေးပို့ခြင်းနှင့် မှတ်တမ်းဒေတာဖတ်ယူခြင်း မရှိဘဲ အသုံးပြုနိုင်သည်။</string>
@@ -217,8 +217,6 @@
     <string name="debug_layout_summary">ပိုင်းဖြတ်နယ်နိမိတ်၊ အနားအကွာအဝေး စသည်တို့ကို ပြပါ။</string>
     <string name="force_rtl_layout_all_locales">ဖွဲ့စည်းပုံဦးတည်ချက်ကို လက်ယာမှ လက်ဝဲသို့ မဖြစ်မနေပြောင်းသုံးမည်</string>
     <string name="force_rtl_layout_all_locales_summary">ဒေသအားလုံး၏ မျက်နှာပြင်ဖွဲ့စည်းပုံဦးတည်ချက်ကိုလက်ယာမှ လက်ဝဲသို့ မဖြစ်မနေပြောင်းသုံးမည်</string>
-    <string name="show_cpu_usage">CPU သုံးစွဲမှုကို ပြသပါ</string>
-    <string name="show_cpu_usage_summary">CPU သုံးစွဲမှုကို မျက်နှာပြင်အပေါ်လွှာတွင် ပြပါ</string>
     <string name="force_hw_ui">GPU ရမ်းဒါး မဖြစ်မနေ လုပ်ခိုင်းမည်</string>
     <string name="force_hw_ui_summary">GPU ဖြင့် 2D ပုံမဖြစ်မနေဆွဲမည်</string>
     <string name="force_msaa">အား 4x MSAA</string>
@@ -252,8 +250,6 @@
     <string name="inactive_app_active_summary">ဖွင့်ထားပြီး၊ ကူးပြောင်းရန် ထိနှိပ်ပါ။</string>
     <string name="runningservices_settings_title">အသုံးပြုနေသော ဝန်ဆောင်မှုများ</string>
     <string name="runningservices_settings_summary">လက်ရှိအသုံးပြုနေသော ဝန်ဆောင်မှုများအား ကြည့်ရှုပြီး ထိန်းချုပ်ပါ</string>
-    <string name="enable_webview_multiprocess">ဘက်စုံလုပ်ငန်းစဉ် WebView</string>
-    <string name="enable_webview_multiprocess_desc">WebView ကို သီးခြားစီပြန်ဆို</string>
     <string name="select_webview_provider_title">WebView အကောင်အထည်ဖော်မှု</string>
     <string name="select_webview_provider_dialog_title">WebView အကောင်အထည်ဖော်မှု သတ်မှတ်မည်</string>
     <string name="select_webview_provider_toast_text">ဤရွေးချယ်မှုသည် တရားမဝင်တော့ပါ။ ထပ်မံကြိုးစားကြည့်ပါ။</string>
@@ -280,12 +276,6 @@
     <string name="power_remaining_duration_only_short">%1$s left</string>
     <string name="battery_info_status_unknown">အမည်မသိ</string>
     <string name="battery_info_status_charging">အားသွင်းနေသည်</string>
-    <string name="battery_info_status_charging_ac">AC တွင် အားသွင်းနေသည်</string>
-    <string name="battery_info_status_charging_ac_short">အားသွင်းနေသည်</string>
-    <string name="battery_info_status_charging_usb">USB ဖြင့်အားသွင်းနေသည်</string>
-    <string name="battery_info_status_charging_usb_short">အားသွင်းနေသည်</string>
-    <string name="battery_info_status_charging_wireless">ကြိုးမဲ့အားသွင်းနေသည်</string>
-    <string name="battery_info_status_charging_wireless_short">အားသွင်းနေသည်</string>
     <string name="battery_info_status_discharging">အားသွင်းမှုမရှိပါ</string>
     <string name="battery_info_status_not_charging">အားသွင်းမှုမရှိပါ</string>
     <string name="battery_info_status_full">အပြည့်</string>
@@ -539,6 +529,8 @@ d MMMM"</string>
     <string name="status_bar_clock_date_format">EEEE, MMMM d</string>
     <string name="status_bar_recent_memory_info1">%2$sB ၏ %1$sB ကို ရနိုင်သည်</string>
     <string name="status_bar_recent_memory_info2" />
+    <string name="memory_clear_result_mega">%1$sMB ရှင်းပစ်လိုက်သည်</string>
+    <string name="memory_clear_result_giga">%1$sGB ရှင်းပစ်လိုက်သည်</string>
     <string name="accessibility_recent_task_exit">မကြာမီကများအား ပိတ်ပါ</string>
     <string name="accessibility_recent_task_memory_info">စုစုပေါင်းRAM-%2$s|ရရှိနိုင်သော RAM-%1$s။ရှင်းပစ်ရန် နှစ်ချက်ဆက်တိုက် ထိနှိပ်ပါ။</string>
     <string name="accessibility_recent_task_locked">သောခတ်ထားသော၊သော့ဖြည်ရန်ဆွဲချပါ</string>
@@ -625,6 +617,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်ခန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
     <string name="ext_media_mountable_notification_message">Mi ဖိုင်မန်နေဂျာတွင် ဖွင့်ရန် ထိနှိပ်ပါ။</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">ယနေ့: %1$s</string>
@@ -703,6 +696,7 @@ d MMMM"</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="no_weather_description">ရာသီဥတုအချက်အလက်များအား ရယူမည်></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">အသိပေးချက်ရှိတ်</string>
     <string name="accessibility_desc_quick_settings">အမြန်ဆက်တင်များ</string>
     <string name="accessibility_desc_details_page">%1$s အသေးစိတ် စာမျက်နှာ</string>
@@ -756,7 +750,7 @@ d MMMM"</string>
     <string name="unimportant_desc">အရေးမကြီးသောအသိပေးချက်အားလုံးကို သီးခြားဖိုလ်ဒါတစ်ခုတွင်ထည့်ထားမည်။</string>
     <string name="important_desc">အရေးကြီးသောအသိပေးချက်အားလုံး အသိပေးချက်ရှိတ်တွင် တိုက်ရိုက်ပေါ်လာလိမ့်မည်။</string>
     <string name="cancel">ပယ်ဖျက်ပါ</string>
-    <string name="search_hint">ဝက်ဘ်ဆိုက်များ၊ အက်ပ်များ၊ အဆက်အသွယ်များနှင့် ဗီဒီယိုများကို ရှာ​ဖွေမည်</string>
+    <string name="search_hint">ဝက်ဘ်ဆိုက်များ၊ အက်ပ်များ၊ အဆက်အသွယ်များ၊ ဗီဒီယိုများစသည်တို့ကို ရှာ​ဖွေရန်...</string>
     <string name="description_image_button_reject">ငြင်းဆိုမည်</string>
     <string name="description_image_button_answer">ဖြေဆိုမည်</string>
     <string name="screenshot_feedback_txt">တုံ့ပြန်အကြံပြုချက်</string>
@@ -780,4 +774,16 @@ d MMMM"</string>
     <string name="fs_gesture_final_summary">ဆက်တင် > မျက်နှာပြင်အပြည့် ပြသမှုတွင် ပြောင်းလဲနိုင်သည်</string>
     <string name="fs_gesture_final_restart">နောက်တစ်ကြိမ်</string>
     <string name="fs_gesture_final_over">ပြီးပါပြီ</string>
+    <string name="connected_via_wfa">Wi‑Fi လက်ထောက်မှ တစ်ဆင့် ချိတ်ဆက်ခဲ့သော</string>
+    <string name="legacy_dhcp_client_summary">အန်းဒရွိုက် DHCP အသုံးပြုသူအသစ် အစား Lollipop မှ DHCPအသုံးပြုသူ ကိုသုံးပါ။</string>
+    <string name="show_cpu_usage">CPU သုံးစွဲမှုကို ပြသပါ</string>
+    <string name="show_cpu_usage_summary">CPU သုံးစွဲမှုကို မျက်နှာပြင်အပေါ်လွှာတွင် ပြပါ</string>
+    <string name="enable_webview_multiprocess">ဘက်စုံလုပ်ငန်းစဉ် WebView</string>
+    <string name="enable_webview_multiprocess_desc">WebView ကို သီးခြားစီပြန်ဆို</string>
+    <string name="battery_info_status_charging_ac">AC တွင် အားသွင်းနေသည်</string>
+    <string name="battery_info_status_charging_ac_short">အားသွင်းနေသည်</string>
+    <string name="battery_info_status_charging_usb">USB ဖြင့်အားသွင်းနေသည်</string>
+    <string name="battery_info_status_charging_usb_short">အားသွင်းနေသည်</string>
+    <string name="battery_info_status_charging_wireless">ကြိုးမဲ့အားသွင်းနေသည်</string>
+    <string name="battery_info_status_charging_wireless_short">အားသွင်းနေသည်</string>
 </resources>

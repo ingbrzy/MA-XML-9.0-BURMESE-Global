@@ -22,7 +22,7 @@
         <item quantity="other">"လူ &lt;font color='#20a7ff'>%1$s&lt;/font> ယောက် မဲပေးထားသည်"</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">ရှင်းလင်း</item>
+        <item quantity="other">နေသာသော</item>
     </plurals>
     <plurals name="yes_vote_num">
         <item quantity="other"> | %1$s ဦး</item>

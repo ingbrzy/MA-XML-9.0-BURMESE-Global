@@ -161,16 +161,32 @@
 ဤလုပ်ဆောင်ချက်သည် ဒုတိယနေရာသို့ အလိုအလျောက် ပေါင်းလိုက်လိမ့်မည်"</string>
     <string name="openSuccess">ဖွင့်ခဲ့သည်</string>
     <string name="closeSuccess">ပိတ်ခဲ့သည်</string>
-    <string name="settings_notification_and_switch">ဖုန်းမြည်သံ &amp;နှင့် အသိပေးချက်များ</string>
+    <string name="settings_set_password_for_owner_space">ပထမနေရာတွင် မျက်နှာပြင်လော့ခ် သတ်မှတ်မည်</string>
+    <string name="settings_set_password_for_owner_space_desc">ဆက်တင်မှ ရှော့ကဒ်အား ဖယ်ရှားရန် ပထမနေရာတွင် မျက်နှာပြင်လော့ခ် သတ်မှတ်ပါ။</string>
+    <string name="settings_set_password_for_sec_space">ဒုတိယနေရာတွင် မျက်နှာပြင်လော့ခ် သတ်မှတ်မည်</string>
+    <string name="settings_set_password_for_sec_space_desc">ဆက်တင်မှ ရှော့ကဒ်အား ဖယ်ရှားရန် ဒုတိယနေရာတွင် မျက်နှာပြင်လော့ခ် သတ်မှတ်ပါ။</string>
+    <string name="settings_notification_and_switch_owner_space">ပထမနေရာ ဆက်တင်</string>
+    <string name="settings_second_space_entrance_title">ဆက်တင်ထဲရှိ ရှော့ကဒ်</string>
+    <string name="settings_second_space_entrance_summary">ဆက်တင်တွင် ဒုတိယနေရာ၏ရှော့ကဒ်အား ပြပါ</string>
+    <string name="settings_switch_shortcut_title">ပင်မမျက်နှာပြင် ရှော့ကဒ်</string>
+    <string name="settings_switch_space">နေရာနှစ်ခုအကြား ကူးပြောင်းခြင်း</string>
+    <string name="settings_notification_from_second_space_title">ဒုတိယနေရာမှ အသိပေးချက်များအား ပြပါ</string>
+    <string name="settings_notification_and_switch_second_space">ဒုတိယနေရာ ဆက်တင်</string>
+    <string name="settings_notification_from_owner_space_title">ပထမနေရာမှ အသိပေးချက်များအား ပြပါ</string>
+    <string name="notification_from_owner_user">ပထမနေရာမှ အသိပေးချက်များအား ပြပါ</string>
+    <string name="notification_from_second_user">ဒုတိယနေရာမှ အသိပေးချက်များအား ပြပါ</string>
+    <string name="radio_button_icon_switch_title">ရှော့ကဒ် သုံးမည်</string>
+    <string name="radio_button_password_switch_title">စကားဝှက် သုံးမည်</string>
     <string name="settings_cross_notification_title">အသိပေးချက်များ</string>
     <string name="settings_cross_notification_summary">အခြားနေရာမှ အသိပေးချက်မျာအား လက်ခံရရှိပါ</string>
-    <string name="settings_switch_shortcut_title">ပြောင်းလဲရန် ရှော့ကဒ်အား ထိနှိပ်ပါ</string>
     <string name="settings_switch_shortcut_summary">ပထမနေရာတွင် အိမ်မျက်နှာပြင်ရှော့ကဒ်အား ပြသပါ</string>
     <string name="settings_space_data">ဒေတာ</string>
     <string name="settings_status_icon_title">ဒုတိယနေရာအိုင်ကွန်</string>
     <string name="settings_status_icon_summary">အခြေနေပြဘားပေါ်တွင် ဒုတိယနေရာ အိုင်ကွန်အား ပြသပါ</string>
-    <string name="settings_msg_add_shortcut">ပထမနေရာသို့ ရှော့ကဒ်ပေါင်းထည့်ခဲ့သည်</string>
-    <string name="settings_msg_remove_shortcut">ပထမနေရာမှ ရှော့ကဒ်အား ဖယ်ရှားခဲ့သည်</string>
+    <string name="settings_msg_add_shortcut_to_owner_space">ပထမနေရာသို့ ရှော့ကဒ် ပေါင်းထည့်ပြီးပြီ</string>
+    <string name="settings_msg_add_shortcut_to_second_space">ဒုတိယနေရာတွင် ရှော့ကဒ် ဖန်တီးပြီးပြီ</string>
+    <string name="settings_msg_remove_shortcut_from_owner_space">ပထမနေရာမှ ရှော့ကဒ်အား ဖယ်ရှားပြီးပြီ</string>
+    <string name="settings_msg_remove_shortcut_from_second_space">ဒုတိယနေရာမှ ရှော့ကဒ်အား ဖယ်ရှားပြီးပြီ</string>
     <string name="start_setting_guide_desc_title">သတ်မှတ်ရန် အနည်းငယ်ရှိသည်</string>
     <string name="setting_is_show_text_contacts">သီးသန့်အဆက်အသွယ်များနှင့် မက်ဆေ့ချ်များအား သတ်မှတ်ပါ</string>
     <string name="switch_data_app">အိုင်တမ်များအား ဒုတိယနေရာသို့ရွေ့ပါ</string>
@@ -342,4 +358,14 @@
     <string name="sdcradfs_dialog_in_sec_message">"အပ်ဒိတ်လုပ်ရန် ဒုတိယနေရာကို ဖျက်၍ ပြန်ဖန်တီးပါ။ ဒုတိယနေရာမှ ဒေတာများကို ပထမနေရာသို့ ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ။
 အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
     <string name="space_created_success">ဒုတိယနေရာ ဖန်တီးပြီးပါပြီ</string>
+    <string name="space_create_guide_title_1">သင်၏ကိုယ်ရေးအချက်အလက်အား ကာကွယ်ပါ</string>
+    <string name="space_create_guide_desc_1">အက်ပ်နှင့် ဓာတ်ပုံများကို လုံခြုံစွာ သိမ်းဆည်းပါ</string>
+    <string name="space_create_guide_title_2">အချိန်မရွေး ဖန်တီးပါ</string>
+    <string name="space_create_guide_desc_2">သီးခြားနေရာ သုံးရန် အသင့်ဖြစ်ပါပြီ</string>
+    <string name="space_create_guide_title_3">အန္တရာယ် လုံးဝကင်းရှင်းသည်</string>
+    <string name="space_create_guide_desc_3">ဒုတိယနေရာသည် သင်၏စက်ထဲရှိ အခြားအိုင်တမ်များကို မထိခိုက်ပါ</string>
+    <string name="space_create_guide_switchmode_title">နေရာနှစ်ခုအကြား ကူးပြောင်းမည်</string>
+    <string name="second_space_desktop_tips_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
+    <string name="second_space_desktop_tips_dialog_positive_text">နားလည်ပါပြီ</string>
+    <string name="second_space_desktop_tips_dialog_message">အပ်ဒိတ်လုပ်ပြီးနောက် ဒေတာပြောင်းရွှေ့ရန်နှင့် ဒုတိယနေရာစီမံရန် အိုင်ကွန်များသည် ပင်မမျက်နှာပြင်ပေါ်တွင် ရှိတော့မည်မဟုတ်ပါ။ သက်ဆိုင်ရာ အင်္ဂါရပ်များအား ဆက်တင်မှ ဝင်ရောက်နိုင်ပါသည်။</string>
 </resources>

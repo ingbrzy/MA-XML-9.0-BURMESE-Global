@@ -33,6 +33,7 @@
     <string name="attach_sound">အော်ဒီယို</string>
     <string name="attach_subject">အကြောင်းအရာ</string>
     <string name="attach_take_photo">ဓာတ်ပုံ ရိုက်ပါ</string>
+    <string name="attach_transaction">ပိုက်ဆံ ပေးပို့မည်</string>
     <string name="attach_video">ဗီဒီယို</string>
     <string name="audio_download_failed">အော်ဒီယိုကို ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="audio_message_expired">အသံမက်ဆေ့ချ် သက်တမ်းကုန်သွားပြီ</string>
@@ -178,6 +179,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -511,6 +513,7 @@
     <string name="select_local_audio">အော်ဒီယို ရွေးချယ်ပါ</string>
     <string name="select_local_video">ဗီဒီယို ရွေးပါ</string>
     <string name="select_message_send_sim">ဆင်းမ်ကဒ်ရွေးချယ်ပါ</string>
+    <string name="select_phone_number">ဖုန်းနံပါတ်အား ရွေးချယ်ပါ</string>
     <string name="select_recipient">လက်ခံသူများကို ရွေးချယ်ပါ</string>
     <string name="select_sim">ဆင်းမ်ကဒ်ရွေးပါ</string>
     <string name="select_top_text">အပေါ်ထိပ်မှ စာ</string>
@@ -525,6 +528,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>

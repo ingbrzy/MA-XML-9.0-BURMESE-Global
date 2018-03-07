@@ -225,6 +225,7 @@
     <string name="battery_saver">ဘက်ထရီချွေတာသူ</string>
     <string name="battery_saver_keywords">ဘက်ထရီချွေတာသူ၊မေးလ်ဘက်ထရီ</string>
     <string name="bcc">Bcc</string>
+    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">ဘေလ်ဆက်တင်များ</string>
     <string name="bill_center_setting_head">ထိုအကောင့်များမှ အချက်အလက်များအား ထည့်သွင်းပါ</string>
     <string name="bill_cycle_text">ဘေလ်လုပ်ငန်းစဉ်</string>
@@ -245,6 +246,7 @@
     <string name="cancel_pop3_attchemt_downloading">POP3 အကောင့်များတွင် လက်ရှိ ပြုလုပ်နေသော ပူးတွဲဖိုင်များ၏ ဒေါင်းလုဒ်ကို ပယ်ဖျက်၍မရပါ</string>
     <string name="cant_move_or_change_labels">အကောင့်များစွာမှ အိုင်တမ်များအား ရွေ့၍မရနိုင်ပါ</string>
     <string name="cc">Cc</string>
+    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">ဖိုင်တွဲများကို ပြောင်းပါ</string>
@@ -471,6 +473,7 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
+    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -492,6 +495,7 @@
     <string name="invalid_recipient">လိပ်စာ %s မှာ ဘောင်မဝင်ပါ။</string>
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
+    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
     <string name="loading_conversation">ရယူနေသည်…</string>
@@ -751,9 +755,9 @@
     <string name="push_wps_confirm_message">ဤတွဲချိတ်အား ဖွင့်ရန် WPS Office အား စမ်းသုံးကြည့်ပါ</string>
     <string name="push_wps_confirm_title">WPS Office အားစမ်းသုံးကြည့်ပါ</string>
     <string name="push_wps_no_response_app">ဤလုပ်ဆောင်ချက်အား လုပ်ဆောင်ရန် မည်သည့် အပလီကေးရှင်းမှ မတွေ့ရှိပါ</string>
-    <string name="qq_auto_login_failed_cpy_pass_success">Copied successfully. Go back to the sign-in page and paste the code into the password form.</string>
-    <string name="qq_auto_login_failed_dialog_message">Copy verification code, tap \"Enter username and password to sign in\" on the sign-in page, and paste the code into the password form.</string>
-    <string name="qq_auto_login_failed_dialog_positive_label">Copy code</string>
+    <string name="qq_auto_login_failed_cpy_pass_success">ကော်ပီကူးပြီးပါပြီ။ ဆိုင်းအင်စာမျက်နှာသို့သွား၍ စကားဝှက်နေရာတွင် ကပ်ပါ။</string>
+    <string name="qq_auto_login_failed_dialog_message">အတည်ပြုကုဒ်အား ကော်ပီကူးပါ၊ ဆိုင်းအင်စာမျက်နှာတွင် \"သုံးသူအမည်နှင့် စကားဝှက်ဖြင့် ဆိုင်းအင်ဝင်မည်\"ကို ထိနှိပ်ပြီး စကားဝှက်နေရာတွင် ကော်ပီထားသော ကုဒ်အား ကပ်ပါ။</string>
+    <string name="qq_auto_login_failed_dialog_positive_label">ကုဒ်အား ကော်ပီကူးပါ</string>
     <string name="qq_bar_open_imap">အကူအညီ</string>
     <string name="qq_bar_send_message">SMS ပို့ပါ</string>
     <string name="qq_login_basecode">ဝက်ဘ် QQ မေးလ်သို့ ဆိုင်းအင်ဝင်နေပါသည်။ သင့်သီးသန့်စကားဝှက်အား ရိုက်ထည့်ပါ။</string>
@@ -798,8 +802,10 @@
     <string name="recognize_hotel_other_money">အခြားသုံးစွဲမှုများ %1$s</string>
     <string name="recognize_hotel_reverse_date">%1$s:%2$s %3$s မတိုင်မီ ဝင်ရောက်ပါ</string>
     <string name="recognize_hotel_room_type">အခန်း</string>
+    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">ဟိုတယ်ဘိုကင်</string>
     <string name="recognize_hotel_user_names">ဧည့်သည်</string>
+    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">ခရီးသွားဆက်တင်များ</string>
     <string name="recognize_ticket_air_notification_content">ကောင်မွန်သော ပျံသန်းမှု ဖြစ်ပါစေ!</string>
     <string name="recognize_ticket_air_notification_title">လေယာဉ် %3$s (%1$s/%2$s) သည် မကြာမီထွက်ခွာတော့မည်။ သင့်လေယာဉ်လက်မှတ်အချက်အလက်ကို သေချာအောင်စစ်ဆေးပါ။</string>
@@ -900,6 +906,7 @@
     <string name="silent_ringtone">တိတ်ဆိတ်</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
+    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">အထွက်ဆာဗာအတွက် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="sort_attachment">အားဖြင့်စီပါ</string>
     <string name="storage">သိုလှောင်မှု</string>

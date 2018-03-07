@@ -22,6 +22,7 @@
     <string name="find_device_noise_title">စက်ရှာတွေ့မှု အနှိုးစက်</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် ဆင်းမ်ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
@@ -38,6 +39,7 @@
     <string name="unlock_error_rpc">RPC အမှား</string>
     <string name="unlock_error_abort">သုံးစွဲသူမှ ပယ်ဖျက်ခဲ့သည်</string>
     <string name="unlock_error_passport_sdk_timeout">Mi အကောင့် SDK မှ တုန့်ပြန်မှုမရှိပါ</string>
+    <string name="open_wifi_settings">Wi-Fi ဆက်တင်အား ဖွင့်ပါ</string>
     <string name="activate_xiaomi_account">ဤစက်အား အသက်သွင်းပါ</string>
     <string name="login_extra_steps">ဆိုင်းအင် အတည်ပြုမှု</string>
     <string name="phone_locked">ဤစက်မှာ လက်ရှိရှိနေပြီးသော Miအကောင့်ID (%s)နှင့် ချိတ်ဆက်နေ။ ဤစက်အား အသက်သွင်းရန် ဆိုင်းအင်ဝင်ပါ။</string>

@@ -19,16 +19,16 @@
     <string name="debug_dump_email_sender_picker">သင့်ဖိုင်အား ပေးပို့ရန် ပရိုဂရမ်တစ်ခုအား ရွေးချယ်ပါ</string>
     <string name="debug_dump_email_subject">အဆက်အသွယ်များ Db တွဲချိတ်ခဲ့သည်</string>
     <string name="debug_dump_email_body">တွဲချိတ်မှာ ကျွန်ုပ်၏ချိန်းဆိုချက်များ ကိုယ်ပိုင်အချက်အလက်များပါဝင်သော အဆက်အသွယ် ဒေတာဗေ့စ်ဖြစ်ပါသည်။ သေချာစွာကိုင်တွယ်ပေးပါ။</string>
-    <string name="pound_search_tip">Enter a number after # to search for contacts</string>
+    <string name="pound_search_tip">အဆက်အသွယ်များအား ရှာရန် # နောက်တွင် နံပါတ် ရိုက်ထည့်ပါ</string>
     <string name="create_contact">အဆက်အသွယ်အသစ်</string>
     <string name="video_call">ဗီဒီယိုခေါ်ဆိုခြင်း</string>
-    <string name="send_sms">Send a message</string>
+    <string name="send_sms">မက်ဆေ့ချ် ပို့ပါ</string>
     <string name="search_the_yellowpage">အဝါရောင်စာမျက်နှာများအား ရှာဖွေပါ</string>
     <string name="edit_contact">အဆက်အသွယ်ထဲမှာ ထည့်ပါ</string>
     <string name="call_log_provider_label">ဖုန်းခေါ်မှတ်တမ်း</string>
     <string name="third_party_delete_contact_info">\"%s\" သည် သင်၏အဆက်အသွယ်များကို ဖျက်ရန် ကြိုးစားနေသည်။ ဤလုပ်ဆောင်မှုအား ပြင်ပအက်ပ်မှ လုပ်ဆောင်၍မရပါ။ အဆက်အသွယ်များကို ဖျက်ရန် ပြင်ပအက်ပ်ကိုသုံးမည့်အစား MIUI ၌တပါတည်းပါသော အဆက်အသွယ်များကို အသုံးပြုပါ။</string>
     <string name="low_memory_toast">မှတ်ဉာဏ်နည်းနေသည့်အတွက် ဤလုပ်ဆောင်ချက်အား အသုံးပြု၍မရ နိုင်ပါ</string>
     <string name="update_accounts_changed">အကောင့် ပြောင်းသွားသည်</string>
-    <string name="sim_state_changed">SIM card changed</string>
-    <string name="voicemail_cleanup">Clean up voicemail</string>
+    <string name="sim_state_changed">SIM ကဒ် ပြောင်းသွားပြီ</string>
+    <string name="voicemail_cleanup">အသံမေးလ်အား ရှင်းလင်းပါ</string>
 </resources>
