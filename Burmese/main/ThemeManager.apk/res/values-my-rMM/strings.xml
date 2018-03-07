@@ -433,7 +433,6 @@
     <string name="theme_is_external_priority_storage">SD ကဒ်မှာသိမ်းဆည်းပါ</string>
     <string name="theme_is_external_priority_storage_summary">သင်းမ်အက်ပ်များသည် အကျိုးသက်ရောက်မှုရှိရန် ချက်ချင်းပြန်စတင်လိမ့်မည်</string>
     <string name="theme_multiple_button_title_customize">စိတ်ကြိုက်စီစဉ်ပါ</string>
-    <string name="theme_name">%1$s</string>
     <string name="theme_no">မသိမ်းပါ</string>
     <string name="theme_precast_create_notification_content">သင်းမ်များအားကြည့်ရန် ထိနှိပ်ပါ</string>
     <string name="theme_precast_create_notification_title">MIUI 7 သို့အဆင့်မြှင့်တင်ပါ</string>

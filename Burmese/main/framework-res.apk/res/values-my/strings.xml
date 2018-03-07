@@ -21,7 +21,6 @@
     <string name="dialog_alert_title">သတိပြုရန်</string>
     <string name="VideoView_error_text_invalid_progressive_playback">ဒီဗိဒီယိုမှာ ဒီကိရိယာ ပေါ်မှာ ဖွင့်ကြည့်၍ မရနိုင်ပါ။</string>
     <string name="selectTextMode">စာသား ရွေးရန်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="fingerprint_icon_content_description">လက်ဗွေ အိုင်ကွန်</string>
     <string name="paste_as_plain_text">စာသားအတိုင်း ကူးထည့်ပါ</string>
     <string name="BaMmi">အဝင်ခေါ်ဆိုမှုအားတားဆီးခြင်း</string>
@@ -803,7 +802,6 @@
     <string name="notification_hidden_by_policy_text">မူဝါဒမှ အကြောင်းအရာများကို ဝှက်ထားသည်</string>
     <string name="notification_hidden_text">အကြောင်းအရာများ ဝှက်ထား</string>
     <string name="notification_listener_binding_label">အကြောင်းကြားချက် နားတောင်သူ</string>
-    <string name="notification_messaging_title_template">%1$s− %2$s</string>
     <string name="notification_ranker_binding_label">သတိပေးချက် အဆင့်သတ်မှတ်ခြင်းဝန်ဆောင်မှု</string>
     <string name="notification_title">%1$s ဝင်ရာ အမှား</string>
     <string name="notification_work_profile_content_description">အလုပ်ကိုယ်ရေးအချက်အလက်</string>

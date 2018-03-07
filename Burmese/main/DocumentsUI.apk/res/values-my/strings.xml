@@ -107,7 +107,6 @@
     <string name="sort_dimension_summary">အနှစ်ချုပ်</string>
     <string name="sort_direction_ascending">ငယ်စဉ်ကြီးလိုက်</string>
     <string name="sort_direction_descending">ကြီးစဉ်ငယ်လိုက်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="title_open">အောက်ပါနေရာမှ ဖွင့်ပါ</string>
     <string name="title_save">အောက်ပါနေရာသို့ သိမ်းပါ</string>
     <string name="toast_failed_delete">အချို့စာဖိုင်များကို ဖျက်၍မရပါ</string>
