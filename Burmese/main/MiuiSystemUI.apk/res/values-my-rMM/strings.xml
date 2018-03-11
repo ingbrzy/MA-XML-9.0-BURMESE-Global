@@ -80,7 +80,6 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi ဘားနှစ်ခု</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi ဘားသုံးခု</string>
     <string name="accessibility_wifi_signal_full">Wi-Fi လိုင်းအပြည့်</string>
-    <string name="process_kernel_label">အန်းဒရွိုက် OS</string>
     <string name="data_usage_uninstalled_apps">အက်ပ်များ ဖယ်ရှားမည်။</string>
     <string name="data_usage_uninstalled_apps_users">အက်ပ်များနှင့် သုံးစွဲသူများကိုပယ်ဖျက်မည်</string>
     <string name="tether_settings_title_usb">USB ဒေတာချိတ်ဆက်ခြင်း</string>

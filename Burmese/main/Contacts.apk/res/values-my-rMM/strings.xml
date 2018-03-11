@@ -563,7 +563,6 @@
     <string name="keep_local">ဆင့်ခ်မလုပ်ပါနှင့်</string>
     <string name="keep_local_btn">ဖုန်း၏ စက်တွင်းသိုလှောင်ခန်းကို သုံးပါ</string>
     <string name="label_custom_type">စိတ်ကြိုက်သတ်မှတ်ပါ</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">ထပ်တူညီနေသောအရာများကို မတွေ့ပါ</string>
     <string name="label_notes">မှတ်ချက်များ</string>
     <string name="label_sip_address">အင်တာနက်ဖုန်း</string>
@@ -811,7 +810,6 @@
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">မည်သည့်ပုံများမှ ဖုန်းပေါ်၌ ရှိမနေပါ။</string>

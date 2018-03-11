@@ -1001,7 +1001,6 @@ Rolled over extra data"</string>
     <string name="usage_type_data_send">မိုဘိုင်းဒေတာ ပို့ပြီးပြီ</string>
     <string name="usage_type_no_coverage">အချက်မပြသော အချိန်</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="power_screen">မျက်နှာပြင်</string>
     <string name="power_wifi">Wi-Fi</string>

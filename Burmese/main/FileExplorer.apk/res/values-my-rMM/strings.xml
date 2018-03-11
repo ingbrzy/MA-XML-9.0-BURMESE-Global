@@ -555,7 +555,6 @@
     <string name="you_liao_goddess_desc">အမျိုးသမီး အခြေနေကိုရရှိရန် ဗီဒီယိုများပုံမှန် လုတ်တင်ပြီး သင့်ဖန်များကို ချဲ့ထွင်ပါ</string>
     <string name="default_user_desc">ဤပုဂ္ဂိုလ်မှာ ဖော်ပြချက် မပေါင်းထည့်ရသေးပါ</string>
     <string name="recommend">အကြံပြုထားသော</string>
-    <string name="topic_message">&lt;font color=#fc7050>%1$s: &lt;/font>%2$s</string>
     <string name="message_my_received_praise">ကျွန်ုပ် ကြိုက်ထားသည်များ</string>
     <string name="message_comment_prefix">"မှတ်ချက်− "</string>
     <string name="message_reply_prefix">စာပြန်</string>
