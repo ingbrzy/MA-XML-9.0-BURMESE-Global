@@ -379,7 +379,6 @@
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
     <string name="pref_camera_zoom_mode_entry_standard">ပုံမှန်</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">ပီဇယ်အမြင့်</string>
-    <string name="pref_camera_zoom_value_title">ဇူးမ်ချုံ့ချဲ့</string>
     <string name="pref_camera_portrait_mode_title">လူပုံမုဒ်</string>
     <string name="pref_camera_portrait_mode_entry_off">လူပုံမုဒ်ကို ပိတ်ထားသည်</string>
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
