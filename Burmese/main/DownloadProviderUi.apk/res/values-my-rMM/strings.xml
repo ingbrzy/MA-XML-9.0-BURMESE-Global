@@ -204,7 +204,6 @@
     <string name="add_flow_fail_vip_msg">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေးအား ဖွင့်ထားသည်</string>
     <string name="all_the_internet">ကွန်ရက်အားလုံး</string>
     <string name="app_downloads">%s ဒေါင်းလုဒ်များ</string>
-    <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Xunlei အကောင့်</string>
     <string name="bind_xunlei_account">Xunlei အကောင့်အားထည့်ပါ</string>
     <string name="bt_download">ဒေါင်းလုဒ်လုပ်ပါ</string>
@@ -230,7 +229,6 @@
     <string name="download_list_open_xl_message">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေးသည် ဒေါင်းလုဒ်လုပ်ခြင်းကို မြန်ဆန်စေသည်။</string>
     <string name="download_list_open_xl_title">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေး</string>
     <string name="download_list_title_browser">ဒေါင်းလုဒ်များ</string>
-    <string name="download_num_size">%1$s | %2$s</string>
     <string name="dredge_xunlei_account">Xunlei အကောင့်ဖန်တီးပါ</string>
     <string name="edit_hint"> http, torrent, သို့မဟုတ် eMule လိပ်စာများ ရိုက်ထည့်ပါ</string>
     <string name="engine_open">ဖွင့်</string>
@@ -403,7 +401,6 @@
     <string name="xl_vip_semiannual">၆ လ−%1$s Mi ခရက်ဒစ်များ× ၆</string>
     <string name="xunlei_account_has_unbind_message">Xunlei အကောင့်အား ဖယ်ရှားလိုက်သည်</string>
     <string name="xunlei_brand">Xunlei ဖြင့် အားဖြည့်ထားသော</string>
-    <string name="xunlei_brand_url">http://mobile.xunlei.com</string>
     <string name="xunlei_close_tips_button">ဖွင့်</string>
     <string name="xunlei_close_tips_content">Xunlei ဒေါင်းလုဒ်အရှိန်မြင့်တင်ရေး.</string>
     <string name="xunlei_close_tips_title">ဒေါင်းလုဒ်များအား အရှိန်မြင့်တင်ပါ</string>

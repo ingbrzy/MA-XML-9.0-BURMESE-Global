@@ -68,7 +68,6 @@
     <string name="accessibility_wifi_two_bars">"Wi-Fi  ၂ ဘား"</string>
     <string name="accessibility_wifi_three_bars">"Wi-Fi  ၃ ဘား"</string>
     <string name="accessibility_wifi_signal_full">"Wi-Fi  အပြည့်ရှိ"</string>
-    <string name="process_kernel_label">Android စနစ်</string>
     <string name="data_usage_uninstalled_apps">ဖယ်ရှားထားသော အက်ပ်များ</string>
     <string name="data_usage_uninstalled_apps_users">ဖယ်ရှားထားသော အပလီကေးရှင်းနှင့် သုံးစွဲသူများ</string>
     <string name="tether_settings_title_usb">USB သုံး၍ချိတ်ဆက်ခြင်း</string>
