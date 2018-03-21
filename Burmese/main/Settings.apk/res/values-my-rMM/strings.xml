@@ -337,7 +337,6 @@
     <string name="data_usage_restrict_background_multiuser">အကယ်၍ သင်သည် နောက်ခံမိုဘိုင်းဒေတာကို ကန့်သတ်ထားပါက အချို့အက်ပ်နှင့် ဝန်ဆောင်မှုများသည် Wi-Fi ကွန်ရက်သို့ ချိတ်ဆက်မထားလျှင် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။</string>
     <string name="date_time_settings">ရက်စွဲ &amp;နှင့် အချိန်</string>
     <string name="day_of_week">ရက်သတ္တပတ်၏နေ့</string>
-    <string name="defalut_launcher_title">နဂိုမူလစဖွင့်သူ</string>
     <string name="default_input_method">သတ်မှတ်ပုံစံ ကီးဘုတ်ကို ရွေးပါ</string>
     <string name="default_rule_name">တိုင်မာ ၁</string>
     <string name="default_usb_mode">USB ဆက်သွယ်မှု</string>
@@ -618,6 +617,7 @@
     <string name="key_gesture_function_preview">ခလုတ်နှင့် လက်ဟန် ကြိုတင်ကြည့်ရှုမှုများ</string>
     <string name="key_gesture_function_shortcut">လုပ်ဆောင်မှု ရှော့ကဒ်များ</string>
     <string name="key_none">မရှိ</string>
+    <string name="key_operation_diagram">လုပ်ငန်းစဉ်လည်ပတ်ပုံ</string>
     <string name="key_position_cat">ခလုတ်နေရာ</string>
     <string name="key_settings">ခလုတ်နှင့် လက်ဟန် ရှော့ကဒ်</string>
     <string name="key_settings_title">ခလုတ်နှင့် လက်ဟန် ရှော့ကဒ်</string>
@@ -644,8 +644,7 @@
     <string name="launch_google_search">Google လက်ထောက် ဖွင့်မည်</string>
     <string name="launch_recents">လတ်တလောအရာများကို ဖွင့်ပါ</string>
     <string name="launch_voice_assistant">အသံလက်ထောက် ဖွင့်မည်</string>
-    <string name="launcher_auto_fill_empty_title">ဗလာဆဲလ်များအား ဖြည့်ပါ</string>
-    <string name="launcher_title">အိမ်မျက်နှာပြင်&amp; မကြာသေးမီကများ</string>
+    <string name="launcher_title">ပင်မမျက်နှာပြင် &amp; မကြာသေးမီက</string>
     <string name="launching_cit">CIT ကိုလွှတ်တင်နေပါသည်။</string>
     <string name="launching_pho">ဖုန်းအချက်အလက်ကို ရယူနေသည်…</string>
     <string name="launching_rep">အစီရင်ခံနေပါသည်…</string>
@@ -698,7 +697,6 @@
     <string name="location_neighborhood_level">သင့်တည်နေရာကို မှန်းဆရန် Wi-Fiနှင့် မိုဘိုင်းလ်ကွန်ရက်မှဒေတာကို အက်ပ်စ်အားပေးသုံးပါ</string>
     <string name="location_neighborhood_level_wifi">Wi-Fiမှဆုံးဖြတ်ပေးသော တည်နေရာ</string>
     <string name="location_network_based">Wi-Fi &amp;နှင့် မိုဘိုင်းလ်ကွန်ရက်</string>
-    <string name="lock_screen_cells_title">အိမ်မျက်နှာပြင်အပြင်အဆင်အားသော့ခတ်ပါ</string>
     <string name="lock_screen_notifications_summary_hide">အသိပေးချက်များအားလုံးကို ပြသပါ၊ အဆက်အသွယ်များကိုကွယ်ဝှက်ပါ</string>
     <string name="lock_screen_notifications_summary_show">အသိပေးချက်များအားလုံးနှ င့်သူတို့၏အဆက်အသွယ်များကို ပြသပါ</string>
     <string name="lock_screen_signature_summary">ဤမက်ဆေ့ချ်အား သော့ခတ်မျက်နှာပြင်ပေါ်တွင် ပြသလိမ့်မည်</string>
@@ -809,6 +807,8 @@
     <string name="media_button">မီဒီယာခလုတ်</string>
     <string name="media_feedback_enable_title">ရိုက်ချက်ဖွင့် တုန်ခါမည်</string>
     <string name="memory_rightvalue">စုစုပေါင်း- %s</string>
+    <string name="memory_system_rom">စနစ်သိုလှောင်ခန်း</string>
+    <string name="memory_system_space">စနစ်သိုလှောင်ခန်း</string>
     <string name="memory_title">ရပါပြီ : %1$s\u0009\u0009 စုစုပေါင်း: %2$s</string>
     <string name="menu_check">အတွေ့အကြုံ</string>
     <string name="menu_key">မီနူး</string>
@@ -832,7 +832,6 @@
     <string name="miui_lab_slogan">စူးစမ်းလေ့လာ၊ ရှာဖွေတွေ့ရှိ။</string>
     <string name="miui_lab_taplus_desc">နောက်တစ်ဆင့်လုပ်ဆောင်ချက်အတွက် အိုင်တမ်များကို ဖိနှိပ်ထားပါ</string>
     <string name="miui_master_clear_summary">ဖုန်းထဲရှိဒေတာအားလုံးကို ဖျက်ပါ</string>
-    <string name="miui_screen_config_title">အိမ်မျက်နှာပြင်ဆက်တင်များ</string>
     <string name="miui_updater">စနစ်မွမ်းမံမှု</string>
     <string name="mms_breathing_light_color_title">မက်ဆေ့ချ်အလင်းအရောင်</string>
     <string name="mms_breathing_light_freq_title">မက်ဆေ့ချ် အကြိမ်နှုန်း</string>
@@ -958,6 +957,8 @@
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">ပေါင်းထည့်မည်</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">လက်ဗွေပေါင်းထည့်</string>
     <string name="next_button_label">နောက်ထပ်</string>
+    <string name="nfc_payment_favor_default">ပုံသေအက်ပ်အား အမြဲသုံးမည်</string>
+    <string name="nfc_payment_favor_open">အခြားပေးချေမှုအက်ပ်အား ဖွင့်ထားပါက ပုံသေအက်ပ်နေရာတွင် အစားထိုးပါ</string>
     <string name="nfc_quick_toggle_summary">ဖုန်းသည် အခြားကိရိယာကို ထိချိန်တွင် ဒေတာလဲလှယ်ခြင်းကို ခွင့်ပြုမည်</string>
     <string name="nfc_se_route_title">သတ္တုနေရာများကို လုံခြုံစေမည်</string>
     <string name="nfc_se_wallet_title">မူလပုံသေ ပိုက်ဆံအိတ်</string>
@@ -997,11 +998,6 @@
     <string name="open_demo_mode_warning_message">အစမ်းမုဒ်ဖွင့်ထားပါက အခြေအနေပြဘားတန်းရှိ နာရီသည် ရပ်တန့်ပြီး၊ ဘက်ထရီနှင့် လိုင်းအားအပြည့် ပြသလိမ့်မည်။ အစမ်းမုဒ်မှ ထွက်ရန် ခလုတ်အား ပိတ်ပါ သို့မဟုတ် စက်အား ပိတ်၍ပြန်ဖွင့်ပါ။</string>
     <string name="open_miui_optimization_title">MIUI အကောင်းဆုံးဖြစ်အောင်လုပ်ဆောင်မှု ဖွင့်</string>
     <string name="open_miui_optimization_warning_message">ဤပြောင်းလဲမှုအား လုပ်ဆောင်ရန်အတွက် စက်သည် ပိတ်ပြီး ပြန်ဖွင့်ခြင်းလုပ်လိမ့်မည်။</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">ဖျက်သိမ်း</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">ပိတ်မည်</string>
-    <string name="open_personal_assistant_dialog_desc">အက်ပ် မီးခံသေတ္တာကိုအသုံးပြုခြင်းနှင့် အသစ်မွမ်းမံမှုများ ရရှိနိုင်လိမ့်မည်မဟုတ်ပါ။ ယခု ပိတ်မလား?</string>
-    <string name="open_personal_assistant_dialog_title">အက်ပ် မီးခံသေတ္တာကို ပိတ်မည်</string>
-    <string name="open_personal_assistant_title">အက်ပ် မီးခံသေတ္တာကို ဖွင့်မည်</string>
     <string name="open_wifi_connect_summary">အသေးစိတ်ကိုကြည့်ရန်ခေါက်ပါ။.</string>
     <string name="open_wifi_connect_title">%1$sသို့ ချိတ်ဆက်ထားသော</string>
     <string name="optimization_cancel">ပယ်ဖျက်</string>
@@ -1198,6 +1194,7 @@
     <string name="private_sms_need_to_unlock">စကားဝှက် လိုအပ်သည်:</string>
     <string name="private_sms_recording_intro_header">သော့ဖွင့်ပုံစံတစ်ခု ဆွဲပါ:</string>
     <string name="private_sms_reset_by_account">သင့်လျို့ဝှက်စကားလုံးကို ပြန်သတ်မှတ်ရန် သင့် Mi အကောင့်သို့ ဝင်ရောက်ပါ</string>
+    <string name="provision_activation">အသက်သွင်းမည်</string>
     <string name="provision_back">နောက်သို့</string>
     <string name="provision_next">နောက်ထပ်</string>
     <string name="provision_page_layout_confirm_message">ထိုပြောင်းလဲမှုများအား အသုံးချရန် သင့်စက်အား ပြန်ပိတ်ပြီးဖွင့်ရန် လိုအပ်ပါသည်။ ဤအရာသည် တစ်မိနစ်ခန့်ကြာနိုင်ပါသည်။</string>
@@ -1218,7 +1215,6 @@
     <string name="receiver_clean">နေရာရှင်းလင်းလိုက်</string>
     <string name="recent_location_requests_summary">သင့်တည်နေရာအချက်လက်များအား တောင်းခံနေသော အက်ပ်များအား ကြည့်ရှုပါ</string>
     <string name="recent_location_requests_title">တည်နေရာကြည့်ရှုမှု</string>
-    <string name="recents_config_title">လတ်တလောအရာများ</string>
     <string name="recommend_item_1">ဖုန်းအဖုံး</string>
     <string name="recommend_item_2">Mi လက်ပတ်</string>
     <string name="recommend_item_3">ပါဝါဘဏ်</string>
@@ -1249,7 +1245,6 @@
     <string name="screen">မျက်နှာပြင်</string>
     <string name="screen_button">မျက်နှာပြင်ခလုတ်များ</string>
     <string name="screen_button_tips">မျက်နှာပြင်ခလုတ်များအား ကွယ်ဝှက်ရန် ဆွဲချပါ</string>
-    <string name="screen_cells_config_title">အိမ်မျက်နှာပြင်အပြင်အဆင်</string>
     <string name="screen_color_and_optimize">အရောင်&amp; ပြင်းအား</string>
     <string name="screen_color_and_optimize_disabled">စာဖတ်ခြင်းမုဒ်တွင် အရောင်အပူချိန်အား ချိန်ညှိ၍မရပါ</string>
     <string name="screen_color_temperature">အရောင်များ</string>
@@ -1548,7 +1543,6 @@
     <string name="show_fc">အတင်းပိတ်ခံရသောအက်ပ်စ်များ</string>
     <string name="show_fc_summary">အတင်းပိတ်ခံရသောအက်ပ်စ်များကိုပြသပါ</string>
     <string name="show_magnifier_when_input">စာသားပုံကြီးချဲ့မျက်မှန်</string>
-    <string name="show_mem_info_title">မှတ်ဉာဏ်အခြေအနေကို ပြသပါ</string>
     <string name="show_menu">မီးနူးကို ပြပါ</string>
     <string name="show_owner_info_on_lockscreen_label">သော့ခတ်မျက်နှာပြင်ပေါ်တွင် လက်မှတ်ကို ပြသပါ</string>
     <string name="show_rounded_corners">ထောင့်လုံးများကို ပြသပါ</string>
@@ -1701,7 +1695,6 @@
     <string name="title_font_current">စနစ်ဖောင့်</string>
     <string name="title_font_current2">စနစ်ဖောင့်</string>
     <string name="title_hdmi_color_calibration">အရောင်ပြင်ဆင်ခြင်း အကြိုသတ်မှတ်</string>
-    <string name="title_jeejen">Jeejen ပင်မမျက်နှာပြင်</string>
     <string name="title_layout_current">စာသားအရွယ်အစား</string>
     <string name="title_layout_current2">စာသားအရွယ်အစား</string>
     <string name="toast_lockscreen_glogin_empty_password">စကားဝှက် ထည့်သွင်းပါ</string>
@@ -1774,7 +1767,7 @@
     <string name="unrestrict_max_aspect_ratio_title">မျက်နှာပြင်အပြည့်မုဒ်အတွက် ဤအက်ပ်များကို အကောင်းဆုံးပြင်ထားသည်</string>
     <string name="update_new_version">အပ်ဒိတ်ရရှိနိုင်ပါသည်</string>
     <string name="update_progress_for_updates">မွမ်းမံနေသည် (%s)</string>
-    <string name="upload_debug_log_summary">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာသည် သင်၏ဟာ့ဒ်ဝဲလ်သုံးစွဲမှု၊ အလုပ်လုပ်သည့်စနစ်နှင့်အက်ပ် စသည့်အချက်အလက်များပါဝင်နိုင်သည်။ ဤဒေတာများသည် စနစ်ထဲရှိပြဿနာများကို ရှာဖွေခွဲခြားသုံးသပ်ရန်အတွက်သာဖြစ်သည်၊ သင်၏ပုဂ္ဂိုလ်ရေးဆိုင်ရာအချက်အလက်များကို ဘယ်တော့မှ ဖော်ထုတ်မည်မဟုတ်ပါ။</string>
+    <string name="upload_debug_log_summary">တည်နေရာရယူခြင်းနှင့် ပြဿနာဖြေရှင်းခြင်းအတွက် သုံးစွဲမှုအခြေအနေတွင် သင်၏ကိုယ်ရေးအချက်အလက်များ ပါဝင်နိုင်သည်</string>
     <string name="upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
     <string name="usage_log">အက်ပ်စ်အသုံးပြုစာရင်းဇယားများ</string>
     <string name="usage_type_data_wifi_recv">Wi-Fiဒေတာ လက်ခံပြီးပြီ</string>
@@ -1810,7 +1803,7 @@
     <string name="user_dict_settings_empty_text">"သင်တွင် မည်သည့်အဘိဓါန်မှ မရှိပါ
  စကားလုံးများပေါင်းထည့်ရန် ပေါင်းခလုတ်အား ထိနှိပ်ပါ။"</string>
     <string name="user_experience_program">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
-    <string name="user_experience_program_summary">အမည်ဖော်မထားသော အသုံးပြမှုဒေတာ ပို့ခြင်းအားဖြင့် MIUI တိုးတက်ကောင်းမွန်စေအောင် ကူညီပါ</string>
+    <string name="user_experience_program_summary">သင်၏သုံးစွဲမှုအခြေအနေအား ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုများကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးပါ</string>
     <string name="user_experience_program_title">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
     <string name="user_settings_forbidden">လက်ရှိနေရာတွင် အုပ်ချုပ်သူဆက်တင်များကို ပြောင်းလဲ၍မရပါ။ ပထမနေရာသို့ ပြန်သွားပါ။</string>
     <string name="vibrate_category_title">တုန်ခါပါ</string>
@@ -2078,8 +2071,4 @@
     <string name="zen_mode_option_miui_vibrate">မနှောင့်ယှက်ပါနှင့်</string>
     <string name="zen_mode_phone_calls">ခေါ်ဆိုမှုများ</string>
     <string name="zen_mode_settings_title">မနှောင့်ယှက်ပါနှင့်</string>
-    <string name="lock_screen_secure_after_timeout_immediately_never">စကားဝှက် ဘယ်တော့မှ မတောင်းဆိုပါနှင့်</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">စကားဝှက် ချက်ချင်း တောင်းဆိုပါ</string>
-    <string name="lock_screen_secure_after_timeout_summary">%1$s နောက် စကားဝှက်လိုအပ်သည်</string>
-    <string name="lock_screen_secure_after_timeout_title">စကားဝှက် လိုအပ်သည်</string>
 </resources>

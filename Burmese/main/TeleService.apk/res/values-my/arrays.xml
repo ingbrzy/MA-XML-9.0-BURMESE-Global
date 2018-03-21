@@ -43,6 +43,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>စနစ်ရွေးချယ်မှုကို အသုံးပြုပါ (မူရင်း)</item>
         <item>SBC</item>
@@ -258,6 +263,11 @@
         <item>LTE / CDMA</item>
         <item>LTE / GSM / UMTS</item>
     </string-array>
+    <string-array name="preferred_network_mode_values_world_mode">
+        <item>၁၀</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
     <string-array name="clir_display_values">
         <item>မူရင်း ကွန်ရက်</item>
         <item>နံပါတ်ကို ကွယ်ဖျောက်ပါ</item>
@@ -287,6 +297,15 @@
         <item>တရုတ်</item>
         <item>ဟီဘရူး</item>
     </string-array>
+    <string-array name="list_language_values">
+        <item>၁</item>
+        <item>၂</item>
+        <item>၃</item>
+        <item>၄</item>
+        <item>၅</item>
+        <item>၆</item>
+        <item>၇</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>အိမ်ကိုသာ</item>
         <item>အလိုအလျောက်</item>
@@ -294,6 +313,10 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/SIM</item>
         <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>၀</item>
+        <item>၁</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY ပိတ်ထားသည်</item>

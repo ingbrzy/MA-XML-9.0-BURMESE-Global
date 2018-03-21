@@ -19,9 +19,10 @@
     <string name="other_settings_location">တည်နေရာ</string>
     <string name="other_settings_location_summary">သင့်တည်နေရာကို ဝင်ရောက်ရန် အက်ပ်ကို ခွင့်ပြုပါ</string>
     <string name="other_settings_user_experience">သုံးသူအတွေ့အကြုံ ပရိုဂရမ်</string>
-    <string name="other_settings_user_experience_summary">အမည်မသိဒေတာအသုံးပြုမှုအချက်အလက်များ ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်များနှင့် ဝန်ဆောင်မှုများအား တိုးတက်အောင် ကူညီပေးပါ။</string>
+    <string name="other_settings_user_experience_summary">သင်၏သုံးစွဲမှုအခြေအနေအား ပေးပို့ခြင်းဖြင့် ကျွန်ုပ်တို့၏ထုတ်ကုန်နှင့် ဝန်ဆောင်မှုများကို တိုးတက်ကောင်းမွန်အောင် ကူညီပေးပါ။ အသေးစိတ်</string>
+    <string name="other_settings_user_experience_summary_index">အသေးစိတ်</string>
     <string name="other_settings_upload_debug_log_title">ချွတ်ယွင်းချက်ပြင်ဆင်မှုဒေတာအား အလိုအလျောက်ပေးပို့ပါ</string>
-    <string name="other_settings_upload_debug_log_summary">ကျွန်ုပ်တို့ စုဆောင်းလိုက်သော အချက်အလက်များအား စနစ်ရှိ ပြဿနာအား စီစစ်ရှာဖွေဖြေရှင်းရန်အတွက် အသုံးပြုပါသည်။ ၄င်းတွင် သင့်ကိုယ်ရေးအချက်အလက်များပါဝင်နိုင်ပါသည်။ သင့်ကိုယ်ရေးကိုယ်တာအား သိရှိရန် မည်သည့်ဒေတာကိုမျှ အသုံးပြုမည်မဟုတ်ပါ။</string>
+    <string name="other_settings_upload_debug_log_summary">တည်နေရာရယူခြင်းနှင့် ပြဿနာဖြေရှင်းခြင်းအတွက် သုံးစွဲမှုအခြေအနေတွင် သင်၏ကိုယ်ရေးအချက်အလက်များ ပါဝင်နိုင်သည်</string>
     <string name="other_settings_auto_update">အလိုအလျောက် ထည့်သွင်းတပ်ဆင်မည်။</string>
     <string name="other_settings_auto_update_summary">MIUIသည် အပ်ဒိတ်များကို ထည့်သွင်းတပ်ဆင်ရန်အကောင်းဆုံးအချိန်ကို ရွေးချယ်ပါလိမ့်မည်။</string>
     <string name="other_settings_ad_enable">စိတ်ကြိုက်ကြော်ငြာ အကြံပြုချက်</string>

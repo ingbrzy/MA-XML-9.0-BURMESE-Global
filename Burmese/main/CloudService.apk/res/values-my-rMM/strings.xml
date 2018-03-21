@@ -59,6 +59,8 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">ဆင့်ခ်</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 "</string>
     <string name="sync_dspt_entrance_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ ခေါ်ဆိုမှု မှတ်တမ်းနှင့် မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ပါ။ မည်သည့် ဘရောက်ဇာမှမဆို သင်ဆင့်ခ်လုပ်ထားသော အရာများကို %s တွင် ရယူသုံးစွဲပါ။ "</string>
@@ -70,6 +72,8 @@
     <string name="sync_dspt_entrance_provision_skip">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် မိုဘိုင်းဒေတာချိတ်ဆက်မှုနှင့် Wi-Fi ဖွင့်ရန် လိုအပ်သည်။</string>
     <string name="find_device_dspt_provision">သင်စက်ပျောက်သွားပါက၊ စက်အားရှာဖွေရန် %s သို့သွားပါ၊ သို့မဟုတ် ပြန်သတ်မှတ်ပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင်အချိန်မရွေးဖွင့်ပိတ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 ."</string>
     <string name="find_device_dspt_provision_4">သင် ဆင်းမ်ကဒ်များကို ဖလှယ်လိုက်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
@@ -122,6 +126,7 @@
     <string name="find_device_error_server">ဆာဗာ အမှား</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် ဆင်းမ်ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
@@ -171,8 +176,7 @@
     <string name="micloud_user_space_usage">သိုလှောင်ခန်းနေရာလွတ်</string>
     <string name="micloud_web_discription_01">i.mi.com မှာ အကောင့်ထဲသို့ ဝင်ပါ</string>
     <string name="micloud_web_discription_02">မည်သည့်နေရာမှမဆို သင့်ဖုန်းများကို သိုလှောင်ပြီး ရယူသုံးစွဲရန်</string>
-    <string name="micloud_web_discription">i.mi.com သို့ သွားရောက်ကြည့်ရှုပါ</string>
-    <string name="micloud_web_discription_international">www.mi.com/micloud သို့ သွားရောက်ကြည့်ရှုပါ</string>
+    <string name="micloud_web_discription_place_holder">%1$s သို့ ဝင်ရောက်ပါ</string>
     <string name="micloud_full_influence_title">သင့် Mi Cloud ပြည့်နေသည့်အချိန်…</string>
     <string name="micloud_warn_low_title">နေရာလွတ် ကုန်ပါတော့မည်</string>
     <string name="micloud_warn_low_sum">သင့် Mi Cloud သည် ၉၀% ပြည့်နေသည်။</string>
@@ -300,15 +304,15 @@
     <string name="micloud_detail_pause">ဆင့်ခ် ခဏနားလိုက်သည်</string>
     <string name="micloud_detail_need_charge_or_sleep">ဆင့်ခ်လုပ်ရန် ဖုန်းကိုအားသွင်းပြီး မျက်နှာပြင်ကိုပိတ်ထားပါ</string>
     <string name="micloud_detail_battery_low">ဘက်ထရီအားနည်းနေပါသည်</string>
-    <string name="micloud_privacy_cloud_off">ဆင့်ခ် ပိတ်ထားသည်</string>
-    <string name="micloud_privacy_licence_agreed">Mi Cloud ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား သဘောတူသည်။</string>
+    <string name="micloud_privacy_cloud_off">ဆင့်ခ် ပိတ်ထားသည်။</string>
+    <string name="micloud_privacy_licence_agreed">Mi Cloud ကိုယ်ရေးအချက်အလက် ပေါ်လစီအား သဘောတူပါသည်။</string>
     <string name="micloud_privacy_licence_privacy_policy">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
-    <string name="micloud_privacy_explanation">အဆိုပါခွင့်ပြုချက်အား ဖွင့်ပြီးမှ Mi Cloud အား အသက်သွင်းပါ</string>
-    <string name="micloud_privacy_cloud_sync">Mi Cloud အား အသက်သွင်းပါ</string>
-    <string name="micloud_privacy_warning_title">သဲလွန်စ</string>
-    <string name="micloud_privacy_warning_content">Mi Cloud အား အသက်သွင်း၍ မရပါ။ နောက်မှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="micloud_privacy_explanation">Mi Cloud ဝန်ဆောင်မှုများအား ဖွင့်ရန် ခွင့်ပြုမည်</string>
+    <string name="micloud_privacy_cloud_sync">Mi Cloud ဝန်ဆောင်မှုများကို ဖွင့်မည်</string>
+    <string name="micloud_privacy_warning_title">သတိပြုရန်</string>
+    <string name="micloud_privacy_warning_content">Mi Cloud ဝန်ဆောင်မှုများအား ဖွင့်၍ မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="micloud_privacy_warning_button">နောက်သို့</string>
-    <string name="micloud_privacy_progress_content">ခွင့်ပြုထားသော</string>
+    <string name="micloud_privacy_progress_content">ခွင့်ပြုချက် ပေးအပ်နေသည်…</string>
     <string name="micloud_privacy_more">နောက်ထပ်</string>
     <string name="micloud_check_sim_title">"ဆင်းမ်ကဒ်များကို ပြောင်းခဲ့ပုံ ရပါသည်။ Mi Cloud ကို ပြန်လည်အသက်သွင်းရန် သင့် Mi အကောင့်ထဲသို့ 
  ဝင်ရောက်ပါ။"</string>
@@ -470,7 +474,7 @@
     <string name="micloud_notif_content_multi_user_error">ပထမနေရာတွင် ဤအကောင့်ဖြင့်ဆိုင်းအင်ဝင်ခဲ့ပါသည်။</string>
     <string name="micloud_notif_title_dirty_data">အိုင်တမ်များအား ဆင့်ခ်မလုပ်တော့ပါ</string>
     <string name="micloud_notif_content_dirty_data">အသေးစိတ်များ</string>
-    <string name="micloud_notif_title_privacy_reopen_failed">ကလောက်ဝန်ဆောင်မှုအား သုံး၍မရပါ</string>
+    <string name="micloud_notif_title_privacy_reopen_failed">Mi Cloud ဝန်ဆောင်မှုများအား ဖွင့်၍မရပါ။</string>
     <string name="micloud_notif_content_privacy_reopen_failed">အသေးစိတ် ကြည့်ရှုရန်</string>
     <string name="micloud_find_device_guide_title">သင်၏စက်ပျောက်ဆုံးပါက &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> သို့ ဆိုင်းအင်ဝင်၍ သင့်စက်၏တည်နေရာရှာခြင်း၊ သော့ခတ်ခြင်းနှင့်ဖျက်ပစ်ခြင်းစသည်တို့ကို လုပ်ဆောင်နိုင်ပါသည်။ထိုလုပ်ဆောင်ချက်များသည် သင်၏စက်ကို ပြန်လည်ရှာဖွေရာတွင် အထောက်အကူပြုနိုင်ပါသည်။ &lt;br /> သင်၏စက်ပျောက်ဆုံးပါက &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> မှတဆင့် သင်မကြာခဏ အသုံးပြုသောအက်ပ်များ(ဥပမာ Alipay၊ WeChat၊ QQ) ၏လုံခြုံရေးဝန်ဆောင်မှုဌာနသို့ ဆက်သွယ်၍သင့်အကောင့်များကို ထိန်းသိမ်းကာကွယ်နိုင်ပါသည်။</string>
     <string name="micloud_find_device_guide_content">ဤဝန်ဆောင်မှုကို အသက်သွင်းရန် မက်ဆေ့ချ်တစ်စောင် ပေးပို့ရမည်။ ထိုအတွက် ဖုန်းလိုင်းဝန်ဆောင်မှုအား အခကြေးငွေ ပေးဆောင်းရန်လိုအပ်ပါသည်။ ဆင်းမ်ကဒ် ပြောင်းလဲပါက ဤအင်္ဂါရပ်ကို ပြန်လည်အသက်သွင်းရန် မက်ဆေ့ခ်ျတစ်စောင် အလိုအလျှောက်ပေးပို့လိမ့်မည်။</string>
@@ -483,6 +487,8 @@
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_close_fail">စက်ရှာဖွေခြင်းအား ပိတ်၍မရပါ။</string>
     <string name="micloud_find_device_finish">ပြီးပါပြီ</string>
@@ -508,8 +514,8 @@
     <string name="micloud_find_device_close_alert_content">ဤအင်္ဂါရပ်ကို ပိတ်ထားပါက သင့်စက်ပျောက်သွားလျှင် စက်၏တည်နေရာကို ရှာနိုင်မည် မဟုတ်ပါ။</string>
     <string name="micloud_find_device_close_alert_positive">ဆက်လက် ဖွင့်ထားမည်။</string>
     <string name="micloud_find_device_close_alert_negtive">မည်သို့မဆို ပိတ်မည်။</string>
-    <string name="find_device_gdpr_prompt">စက် ရှာဖွေခြင်းကို ဖွင့်ပါက သင်သည် \"ကိုယ်ရေးအချက်အလက် ပေါ်လစီ\"ကို သဘောတူပြီးဖြစ်သည်။ ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်အား ပိတ်လိုက်ပါ။</string>
-    <string name="find_device_gdpr_prompt_policy_doc_name">\"ကိုယ်ရေးအချက်အလက် ပေါ်လစီ\"</string>
+    <string name="find_device_gdpr_prompt">စက်ရှာဖွေခြင်းအား ဖွင့်ထားပါက သင်သည် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက် ပေါ်လစီကို သဘောတူပြီးဖြစ်သည်။ ခွင့်ပြုချက်အား ပြန်ရုပ်သိမ်းလိုပါက ဤအင်္ဂါရပ်အား ပိတ်လိုက်ပါ။</string>
+    <string name="find_device_gdpr_prompt_policy_doc_name">ကိုယ်ရေးအချက်အလက် ပေါ်လစီ</string>
     <string name="activate_finddevice">စက်အား အသက်သွင်းရန် ကွန်ရက်သို့ချိတ်ဆက်ပါ</string>
     <string name="account_related">သင့်စက်သည် တည်ရှိနေပြီးသား Mi အကောင့်(%s) နှင့် ဆက်စပ်နေပါသည်။ စက်အား အတည်ပြုစစ်ဆေးရန် ကွန်ရက်ဖြင့် ဆက်သွယ်ပါ။</string>
     <string name="connect_network">Wi-Fi သို့ချိတ်ဆက်ပါ သို့မဟုတ် ဆင်းမ်ကဒ်တစ်ခု စိုက်ထည့်ပါ</string>
@@ -562,6 +568,8 @@
     <string name="micloud_main_head_menu_state_close">ပိတ်ပါ</string>
     <string name="micloud_main_head_menu_state_unavailable">မရရှိနိုင်ပါ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">စက်ရှာဖွေခြင်းအား ဒုတိယနေရာတွင် မရရှိနိုင်ပါ၊ ပထမနေရာတွင်သာ အသုံးပြုနိုင်ပါသည်။</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">လက်ဗွေဖြင့်ပေးချေမှု</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

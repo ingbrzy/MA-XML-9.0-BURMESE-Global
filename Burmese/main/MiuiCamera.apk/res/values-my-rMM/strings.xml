@@ -92,9 +92,11 @@
     <string name="pref_camera_coloreffect_entry_negative" />
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
-    <string name="pref_camera_ai_scene_title">AI မြင်ကွင်း</string>
-    <string name="pref_camera_front_ai_scene_entry_on">AI မြင်ကွင်း</string>
-    <string name="pref_camera_front_ai_scene_entry_off">AI မြင်ကွင်းအား ပိတ်ထားသည်</string>
+    <string name="pref_camera_ai_scene_title">AI ကင်မရာ</string>
+    <string name="pref_camera_front_ai_scene_entry_on">AI ကင်မရာ</string>
+    <string name="pref_camera_front_ai_scene_entry_off">AI ကင်မရာအား ပိတ်ထားသည်</string>
+    <string name="ai_scene_mode_use_hint_text">"Open the Ai-Scene Camera, identify the picture scene for you 
+ and optimize the picture based on the scene"</string>
     <string name="pref_camera_coloreffect_entry_none">သာမန်</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">လိုမို</string>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">အေးမြလန်းဆန်း</string>
@@ -199,6 +201,36 @@
     <string name="accessibility_stereo_button">ဆုံချက် ချိန်ညှိမှု</string>
     <string name="accessibility_zoom_button">ချုံ့ချဲ့မုဒ်</string>
     <string name="accessibility_portrait_button">လူပုံမုဒ်</string>
+    <string name="accessibility_flash_on">ဖလက်ရှ် ဖွင့်ထားသည်</string>
+    <string name="accessibility_flash_auto">အော်တိုဖလက်ရှ် ဖွင့်ထားသည်</string>
+    <string name="accessibility_flash_off">ဖလက်ရှ် ပိတ်ထားသည်</string>
+    <string name="accessibility_flash_torch">ဖလက်ရှ် ဖွင့်ထားသည်၊ ဓာတ်မီးမုဒ်</string>
+    <string name="accessibility_hdr_off">HDR အား ပိတ်ထားသည်</string>
+    <string name="accessibility_hdr_auto">အော်တို HDR အား ဖွင့်ထားသည်</string>
+    <string name="accessibility_hdr_normal">HDR ပရိုအား ဖွင့်ထားသည်</string>
+    <string name="accessibility_hdr_live">HDR လိုက်ဖ်အား ဖွင့်ထားသည်</string>
+    <string name="accessibility_hdr_on">HDR အား ဖွင့်ထားသည်</string>
+    <string name="accessibility_filter_open_panel">စစ်ထုတ်ကိရိယာမီနူးအား ဖွင့်ထားသည်</string>
+    <string name="accessibility_filter_close_panel">စစ်ထုတ်ကိရိယာမီနူးအား ပိတ်ထားသည်</string>
+    <string name="accessibility_bokeh_normal">အရှေ့ကင်မရာ နောက်ခံမှုန်ဝါးမှုကို ပိတ်ထားသည်</string>
+    <string name="accessibility_bokeh_on">အရှေ့ကင်မရာ နောက်ခံမှုန်ဝါးမှုကို ဖွင့်ထားသည်</string>
+    <string name="accessibility_more">နောက်ထပ်</string>
+    <string name="accessibility_setting">ဆက်တင်</string>
+    <string name="accessibility_protrait">လူပုံ</string>
+    <string name="accessibility_foucs_peak">Peak value</string>
+    <string name="accessibility_selected">ရွေးထားသော အိုင်တမ်များ</string>
+    <string name="accessibility_open">ဖွင့်ထားသည်</string>
+    <string name="accessibility_closed">ပိတ်ထားသည်</string>
+    <string name="accessibility_beauty_switch_open">အလှဆင်မှုအား ဖွင့်ထားသည်</string>
+    <string name="accessibility_beauty_switch_closed">အလှဆင်မှုအား ပိတ်ထားသည်</string>
+    <string name="accessibility_beauty_panel_closed">အလှဆင်မှုမီနူးအား ကွယ်ဝှက်ထားသည်</string>
+    <string name="accessibility_beauty_panel_open">အလှဆင်မှုမီနူးအား ဖွင့်ထားသည်</string>
+    <string name="accessibility_back_preview_status">Rear camera preview</string>
+    <string name="accessibility_front_preview_status">Front camera preview</string>
+    <string name="accessibility_focus_status">%1$sX ဇူးမ်ချုံ့ချဲ့</string>
+    <string name="accessibility_filter_pad_close">စစ်ထုတ်ကိရိယာမီနူးအား ကွယ်ဝှက်ထားသည်</string>
+    <string name="accessibility_camera_picker_finish">ကင်မရာ ကူးပြောင်းပြီးပါပြီ</string>
+    <string name="accessibility_camera_shutter_finish">ဓာတ်ပုံ ရိုက်ပြီးပါပြီ</string>
     <string name="pref_camera_autoexposure_title">အော်တို အလင်းဖွင့်ချိန် ဆက်တင်များ</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">ဖရိန် ပုံမှန်စံနှုန်း</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">ဗဟိုရိုက်ကွက် အလင်းပိုးခြင်း</string>
@@ -211,7 +243,7 @@
     <string name="pref_camera_video_duration_entry_120">အကန့်အသတ်မဲ့</string>
     <string name="pref_camera_zsl_entry_off">ပိတ်</string>
     <string name="pref_camera_zsl_entry_on">ဖွင့်</string>
-    <string name="camera_facedetection_sub_option_hint">Experimental feature</string>
+    <string name="camera_facedetection_sub_option_hint">စမ်းသပ်ဆဲ အင်္ဂါရပ်</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="camera_settings_label">ကင်မရာ</string>
     <string name="pref_camera_settings_title">ဆက်တင်များ</string>
@@ -342,7 +374,7 @@
     <string name="pref_camera_beauty_deep">ပရို အလှဆင်မှု</string>
     <string name="pref_camera_asd_night_title">အလင်းအားနည်းသော ပုံများကို အလိုအလျောက် အရည်အသွေးမြှင့်ပါ</string>
     <string name="simple_mode_button_text_scene">မြင်ကွင်းမုဒ် ပိတ်ပါ</string>
-    <string name="pref_camera_peak_title">အထွတ်အထိပ်</string>
+    <string name="pref_camera_peak_title">ဆုံချက် အထွတ်အထိပ်</string>
     <string name="pref_camera_peak_entry_off">ပိတ်</string>
     <string name="pref_camera_peak_entry_on">ဖွင့်</string>
     <string name="pref_camera_gradienter_title">ရေပြင်ညီ</string>
@@ -378,7 +410,8 @@
     <string name="pref_camera_zoom_mode_entry_wide">အကျယ်</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
     <string name="pref_camera_zoom_mode_entry_standard">ပုံမှန်</string>
-    <string name="pref_camera_zoom_mode_entry_high_pixel">ပီဇယ်အမြင့်</string>
+    <string name="pref_camera_zoom_mode_entry_high_pixel">အလင်းမှိန်သော</string>
+    <string name="pref_camera_zoom_value_title">ဇူးမ်ချုံ့ချဲ့</string>
     <string name="pref_camera_portrait_mode_title">လူပုံမုဒ်</string>
     <string name="pref_camera_portrait_mode_entry_off">လူပုံမုဒ်ကို ပိတ်ထားသည်</string>
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
@@ -388,6 +421,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -402,6 +436,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>

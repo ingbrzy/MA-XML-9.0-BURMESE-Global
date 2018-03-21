@@ -5,12 +5,13 @@
     <string name="unlockscreen_recharge_completed">ဘက်ထရီ အားသွင်းပြီးပြီ</string>
     <string name="unlockscreen_low_battery">ချာဂျာဖြင့် အခု ချိတ်ဆက်ပါ</string>
     <string name="lockscreen_charging_msg">အားသွင်းနေဆဲ</string>
-    <string name="reset_device_tip">အားသွင်းမှု နှေးနေသည်၊ ဖုန်းအား နေရာပြန်ချပါ</string>
-    <string name="reset_device_detail_tip">ကြိုးမဲ့ အားသွင်းနေသည်၊ အားသွင်းမှု မြန်စေရန် ဖုန်းအထိုင်အား ချိန်ညှိပါ။</string>
-    <string name="wireless_charge_stop">ကြိုးမဲ့ အားသွင်းမှု ရပ်တန့်သွားပြီ</string>
+    <string name="reset_device_tip">အားသွင်းမှု နှေးနေသည်။ သင်၏ဖုန်းအား ပြန်လည်ချိန်ညှိပါ။</string>
+    <string name="reset_device_detail_tip">အားသွင်းမှု မြန်ဆန်စေရန် ကြိုးမဲ့အားသွင်းစက်ပေါ်တွင် သင်၏ဖုန်းအား သေချာစွာထားပါ။</string>
+    <string name="wireless_charge_stop">ကြိုးမဲ့ အားသွင်းမှုအား ရပ်လိုက်သည်</string>
     <string name="change_to_ac_charging">ကြိုးမဲ့ အားသွင်းမှုသို့ ပြောင်းထားသည်</string>
-    <string name="wireless_charge_dialog_title">နေရာ မမှန်ပါ၊ ကျေးဇူးပြု၍ နေရာပြန်ချပါ</string>
+    <string name="wireless_charge_dialog_title">ကြိုးမဲ့အားသွင်းစက်တွင် သင်၏ဖုန်းအား ပြန်လည်ချိန်ညှိပါ</string>
     <string name="wireless_charge_dialog_cancel">ပယ်ဖျက်မည်</string>
+    <string name="wireless_current_charge">လက်ရှိ အားသွင်းမှု</string>
     <string name="emergency_call_string">အရေးပေါ်</string>
     <string name="forget_password_string">စကားဝှက် မေ့နေသည်</string>
     <string name="input_puk_code">ဖြည့်သွင်းချက် PUK</string>
@@ -64,6 +65,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
     <string name="input_password_handle_sdcard_fs">သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ။ ပထမနေရာမှ ဝင်ရောက်ပါ။</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
@@ -147,5 +149,6 @@
     <string name="do_disclosure_with_name">ဤစက်အား %sမှ စီမံခန့်ခွဲသည်</string>
     <string name="face_unlock_reenter_title">သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ပါ။</string>
     <string name="face_unlock_reenter_content">မျက်နှာဖြင့် သော့ဖွင့်ပုံစံတွက်နည်း အပ်ဒိတ်လုပ်ထားသည်။ သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ရန် ထိနှိပ်ပါ။</string>
+    <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">နောက်ခံပုံ လှည့်ပြခြင်း</string>
 </resources>

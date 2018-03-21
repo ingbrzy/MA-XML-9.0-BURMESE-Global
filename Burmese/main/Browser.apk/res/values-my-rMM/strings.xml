@@ -110,9 +110,9 @@
     <string name="bookmark_group_lable">အုပ်စု</string>
     <string name="bookmark_needs_title">စာအုပ်မှတ်တွင် အမည်ရှိရပါမည်</string>
     <string name="bookmark_needs_url">စာအုပ်မှတ်တွင် URL ပါရှိရပါမည်</string>
-    <string name="bookmark_not_saved">စာအုပ်မှတ်အဖြစ်မမှတ်နိုင်ခဲ့ပါ</string>
+    <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
     <string name="bookmark_rename_group">အုပ်စုကို အမည်ပြောင်းပါ</string>
-    <string name="bookmark_saved">မှတ်သားလိုက်သည်</string>
+    <string name="bookmark_saved">Added to bookmarks</string>
     <string name="bookmark_title">စာအုပ်မှတ်အမည်</string>
     <string name="bookmark_title_lable">ခေါင်းစဉ်</string>
     <string name="bookmark_url">URL http://</string>
@@ -168,6 +168,7 @@
     <string name="color_picker_dialog_title">အရောင် ရွေးပါ</string>
     <string name="color_picker_hue">ပကတိအရောင်</string>
     <string name="color_picker_saturation">တောက်ပမှုပြင်းအား</string>
+    <string name="color_picker_value">အာနိသင်</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -516,8 +517,8 @@
     <string name="nav_screen_container_tab_normal">ပုံမှန်တက်ဘ်</string>
     <string name="nav_screen_incognito_message">"ရုပ်ဖျက်မုဒ်အောက်တွင် ရှာဖွေမှုသမိုင်းကို မသိမ်းဆည်းပါ။
 သို့သော် သင်ဒေါင်းလုဒ်လုပ်သော ဖိုင်နှင့် စာအုပ်မှတ်များအား သိမ်းဆည်းမည်ကို သတိပြုပါ။"</string>
-    <string name="nav_screen_incognito_title">ရုပ်ဖျက်မုဒ်</string>
-    <string name="navigation_delete_all">တက်ဘ်အားလုံးကို ပိတ်ရန် ဘယ်နှင့် ညာသို့ ပွတ်ဆွဲပါ</string>
+    <string name="nav_screen_incognito_title">Incognito mode</string>
+    <string name="navigation_delete_all">Swipe left or right to close all tabs</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ဖျက်သိမ်းပါ</string>
     <string name="navigationbar_rightbutton_actiontext_go">သွား</string>
     <string name="navigationbar_rightbutton_actiontext_search">ရှာဖွေ</string>

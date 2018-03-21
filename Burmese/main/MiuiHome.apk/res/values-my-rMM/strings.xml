@@ -81,6 +81,7 @@
     <string name="current_preview">အစမ်းကြည့်ပါ</string>
     <string name="current_wallpaper">လက်ရှိ</string>
     <string name="custom_wallpaper_picker">လိုက်ရှာဖတ်ပါ</string>
+    <string name="defalut_launcher_title">နဂိုမူလစဖွင့်သူ</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">ဂိမ်းများ</string>
     <string name="default_folder_title_microsoft">မိုက်ခရိုဆော့ဖ်</string>
@@ -179,13 +180,16 @@
     <string name="invalid_contact_shortcut">မမှန်သော အဆက်အသွယ်</string>
     <string name="is_setting_wallpaper_message">နောက်ခံပုံကို သတ်မှတ်နေဆဲ…</string>
     <string name="is_system_wallpaper_message">စက်စနစ်ရင်းမြစ်များကို ဖျက်လို့ မရပါ</string>
+    <string name="launcher_auto_fill_empty_title">ဗလာဆဲလ်များအား ဖြည့်ပါ</string>
     <string name="launcher_not_exist">အမှားတစ်ခု ဖြစ်ခဲ့သည်၊အိမ်မျက်နှာပြင်သို့ပြန်သွားပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="launcher_title">အိမ်မျက်နှာပြင်&amp; မကြာသေးမီကများ</string>
     <string name="like">စိတ်ကြိုက်</string>
     <string name="liked">စိတ်ကြိုက်ဟုမှတ်ထားပြီး</string>
     <string name="loading_desktop">ခဏစောင့်ပါ…</string>
     <string name="loading_wallpaper">ခဏစောင့်ပါ…</string>
     <string name="local_wallpaper">ဒေါင်းလုဒ်လုပ်ထားသည်</string>
     <string name="lock_screen">သော့ခတ် မျက်နှာပြင်</string>
+    <string name="lock_screen_cells_title">အိမ်မျက်နှာပြင်အပြင်အဆင်အားသော့ခတ်ပါ</string>
     <string name="lock_screen_failed_message">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံကို သတ်မှတ်၍ မရပါ</string>
     <string name="lock_screen_success_message">သော့ခတ်မျက်နှာပြင်အတွက် သုံးမည်</string>
     <string name="lock_screen_wallpaper">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံ</string>
@@ -212,6 +216,7 @@
     <string name="menu_wallpaper">နောက်ခံပုံ</string>
     <string name="menu_workspace_preview">အိမ်မျက်နှာပြင် ကြိုတင်ကြည့်ရှု့မှုများ</string>
     <string name="mi_wallpaper">MIUI သင်းမ်စတိုး</string>
+    <string name="miui_screen_config_title">အိမ်မျက်နှာပြင်ဆက်တင်များ</string>
     <string name="mtzgadget_missing_text">ဝစ်ဂတ် မရနိုင်ပါ</string>
     <string name="multi_selecting_tips">အက်ပ်တစ်ခုရွေးချယ်ရန်၊ ၄င်းအိုင်ကွန်အားဆွဲပြီး ဤနေရာတွင်ထည့်ချပါ</string>
     <string name="no_detail_page">ပေ့ချ်အသေးစိတ်မရှိပါ</string>
@@ -220,6 +225,11 @@
     <string name="notification_installed">အောင်မြင်စွာ ထည့်သွင်းပြီးပါပြီ</string>
     <string name="notification_open_button">ဖွင့်</string>
     <string name="online_wallpaper">အွန်လိုင်း</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">ဖျက်သိမ်း</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">ပိတ်မည်</string>
+    <string name="open_personal_assistant_dialog_desc">အက်ပ် မီးခံသေတ္တာကိုအသုံးပြုခြင်းနှင့် အသစ်မွမ်းမံမှုများ ရရှိနိုင်လိမ့်မည်မဟုတ်ပါ။ ယခု ပိတ်မလား?</string>
+    <string name="open_personal_assistant_dialog_title">အက်ပ် မီးခံသေတ္တာကို ပိတ်မည်</string>
+    <string name="open_personal_assistant_title">အက်ပ် မီးခံသေတ္တာကို ဖွင့်မည်</string>
     <string name="out_of_space">ဒီအိမ်မျက်နှာပြင်ပေါ်၌ နောက်ထပ် အခန်း မရှိတော့ပါ</string>
     <string name="permdesc_install_shortcut">အက်ပ်တစ်ခုကို သုံးသူ ကြားဝင်မဆောင်ရွက်ဘဲ ကြားဖြတ်များအား ပေါင်းထည့်ရန် ခွင့်ပြုပါ။ ကြားဖြတ်များကို ဖြုတ်ပါ</string>
     <string name="permdesc_install_widget">အက်ပ်တစ်ခုကို သုံးသူ ကြားဝင်မဆောင်ရွက်ဘဲ ဝစ်ဂတ်များအား ပေါင်းထည့်ရန် ခွင့်ပြုပါ။</string>
@@ -249,6 +259,8 @@
     <string name="pref_wallpaper_scroll_type_title">နောက်ခံပုံ အတန်းညှိခြင်း</string>
     <string name="preferences_general_title">ဖြည့်စွက်ဆက်တင်များ</string>
     <string name="preferences_title">အစပျိုးစက် ဆက်တင်များ</string>
+    <string name="preferred_app_settings_not_selected">Not selected</string>
+    <string name="recents_config_title">လတ်တလောအရာများ</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">တစ်ခုမှမရှိပါ</string>
     <string name="recommend_apps_no_data">ဒေတာ မရှိပါ</string>
@@ -258,6 +270,7 @@
     <string name="recommend_apps_tips">ဤလုပ်ဆောင်ချက်မှာ ပုံမှန်အလုပ်လုပ်ရန် အင်တာနက်ချိတ်ဆက်မှုလိုအပ်ပါသည်။ ဤလုပ်ဆောင်ချက်အား ပိတ်ရန် ဤဖိုလ်ဒါအမည်အား ထိနှိပ်ပါ</string>
     <string name="recommend_loading">လုပ်ဆောင်နေသည်</string>
     <string name="reset_scene_prompt">မျက်နှာပြင်ကို သတ်မှတ်ပုံစံ အဆင်အပြင်သို့ ပြန်သတ်မှတ်ပါလိမ့်မည်။</string>
+    <string name="screen_cells_config_title">အိမ်မျက်နှာပြင်အပြင်အဆင်</string>
     <string name="screen_locked_toast">အိမ်မျက်နှာပြင်အပြင်အဆင်အား သော့ခတ်ထားသည်</string>
     <string name="screen_number">%d screen</string>
     <string name="select_all">အားလုံး ရွေးပါ</string>
@@ -268,6 +281,7 @@
     <string name="settings_shortcut">ဆက်တင်များ</string>
     <string name="share">မျှဝေပါ</string>
     <string name="show_all">အားလုံး ပြပါ</string>
+    <string name="show_mem_info_title">မှတ်ဉာဏ်အခြေအနေကို ပြသပါ</string>
     <string name="sort_by_abc">အမည်ဖြင့် မျိုးတူစုပါ</string>
     <string name="sort_by_frequency">အသုံးပြုပုံစံဖြင့် မျိုးတူစုပါ</string>
     <string name="sort_by_not_defined">အော်တို-မျိုးတူစုပါ</string>
@@ -278,6 +292,7 @@
     <string name="status_installing">တပ်ဆင်နေဆဲ</string>
     <string name="status_paused">တန့်ရပ်ထားသည်</string>
     <string name="status_pending">စောင့်နေသည်</string>
+    <string name="title_jeejen">Jeejen ပင်မမျက်နှာပြင်</string>
     <string name="title_select_live_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="title_select_shortcut">ကြားဖြတ်ကို ရွေးပါ</string>
     <string name="toast_screen_icons_misplaced">အခြားအရင်းအမြစ်မှပြန်ရယူခဲ့သော၊တစ်ချို့အိုင်ကွန်များ နေရာလွဲ နိုင်ပါသည်</string>
@@ -314,18 +329,4 @@
     <string name="widget_gadget_player">တေးဂီတ</string>
     <string name="widget_global_search">ရှာပါ</string>
     <string name="widget_quick_function">အမြန်လုပ်ဆောင်ချက်များ</string>
-    <string name="defalut_launcher_title">နဂိုမူလစဖွင့်သူ</string>
-    <string name="launcher_auto_fill_empty_title">ဗလာဆဲလ်များအား ဖြည့်ပါ</string>
-    <string name="launcher_title">အိမ်မျက်နှာပြင်&amp; မကြာသေးမီကများ</string>
-    <string name="lock_screen_cells_title">အိမ်မျက်နှာပြင်အပြင်အဆင်အားသော့ခတ်ပါ</string>
-    <string name="miui_screen_config_title">အိမ်မျက်နှာပြင်ဆက်တင်များ</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">ဖျက်သိမ်း</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">ပိတ်မည်</string>
-    <string name="open_personal_assistant_dialog_desc">အက်ပ် မီးခံသေတ္တာကိုအသုံးပြုခြင်းနှင့် အသစ်မွမ်းမံမှုများ ရရှိနိုင်လိမ့်မည်မဟုတ်ပါ။ ယခု ပိတ်မလား?</string>
-    <string name="open_personal_assistant_dialog_title">အက်ပ် မီးခံသေတ္တာကို ပိတ်မည်</string>
-    <string name="open_personal_assistant_title">အက်ပ် မီးခံသေတ္တာကို ဖွင့်မည်</string>
-    <string name="recents_config_title">လတ်တလောအရာများ</string>
-    <string name="screen_cells_config_title">အိမ်မျက်နှာပြင်အပြင်အဆင်</string>
-    <string name="show_mem_info_title">မှတ်ဉာဏ်အခြေအနေကို ပြသပါ</string>
-    <string name="title_jeejen">Jeejen ပင်မမျက်နှာပြင်</string>
 </resources>

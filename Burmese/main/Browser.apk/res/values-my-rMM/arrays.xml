@@ -74,7 +74,7 @@
         <item>Mi နှင့်အတူ အိုလမ်ပစ်အား လိုက်ပါ</item>
     </string-array>
     <string-array name="weather_type">
-        <item>နေသာသည်</item>
+        <item>Clear</item>
         <item>တိမ်ထူသော</item>
         <item>တိမ်ထူထပ်သော</item>
         <item>မြူဆိုင်းသော</item>
