@@ -3,6 +3,7 @@
     <string name="paused_waiting_for_network">ကွန်ရက်ကို စောင့်နေသည်</string>
     <string name="notif_title_file_size">စုစုပေါင်း %1$d ခု</string>
     <string name="notif_title_single_downloading">​ဒေါင်းလုဒ် %1$s ခု လုပ်နေသည်</string>
+    <string name="download_filesize_unknown">Unknown</string>
     <string name="app_label">ဒေါင်းလုဒ်များ</string>
     <string name="permlab_downloadManager">ဒေါင်းလုဒ်မန်နေဂျာသို့ ဝင်ရောက်မည်။</string>
     <string name="permdesc_downloadManager">ဤအက်ပ်အား ဒေါင်းလုဒ်မန်နေဂျာ အဆင့်မြင့်လုပ်ဆောင်ချက်များသို့ ဝင်ရောက်ခွင့်နှင့် ဖိုင်များကို ဒေါင်းလုဒ်လုပ်ခွင့်များကို ပေးမည်။ အန္တရာယ်ရှိသော အက်ပ်များသည် ဒေါင်းလုဒ်ကို ကြားဖြတ်ပြီး ကိုယ်ပိုင်အချက်အလက်များ ရယူနိုင်သည်။</string>

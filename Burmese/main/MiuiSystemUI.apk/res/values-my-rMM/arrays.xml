@@ -149,6 +149,17 @@
         <item>အလွန်မြန်ဆန်သော</item>
         <item>အမြန်ဆုံး</item>
     </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+    </string-array>
     <string-array name="color_mode_names">
         <item>တောက်ပ (ပုံသေ)</item>
         <item>သဘာဝ</item>
@@ -164,6 +175,24 @@
         <item>50%</item>
         <item>100%</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+        <item>AQI %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
         <item>%1$s</item>
@@ -174,7 +203,7 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Clear</item>
+        <item>နေသာသော</item>
         <item>တိမ်ထူသော</item>
         <item>တိမ်ထူထပ်</item>
         <item>မြူဆိုင်းသော</item>

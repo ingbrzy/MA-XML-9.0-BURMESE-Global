@@ -1661,7 +1661,7 @@
     <string name="sure_sync_now">အိုင်တမ်များကို ယခုဆင့်ခ်လုပ်မည်လား?</string>
     <string name="switch_screen_button_order">မှန်ခလုတ်များ</string>
     <string name="switch_screen_button_order_desc">နောက်ဆုတ်ခလုတ်နှင့် မီနူးခလုတ် အနေအထားပြောင်းမည်</string>
-    <string name="symbols_not_allowed_for_password">လျို့ဝှက်စကားလုံးတွင် သင်္ကေတများပါခွင့်မရှိပါ</string>
+    <string name="symbols_not_allowed_for_password">စကားဝှက်တွင် သင်္ကေတများ ပါခွင့်မရှိပါ</string>
     <string name="sync_enable">ဆင့်ခ်</string>
     <string name="sync_now">ဆင့်ခ်</string>
     <string name="sync_settings">ဆင့်ခ်</string>

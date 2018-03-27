@@ -22,6 +22,7 @@
     <string name="find_device_noise_title">စက်ရှာတွေ့မှု အနှိုးစက်</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် ဆင်းမ်ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
@@ -78,6 +79,8 @@
     <string name="default_lock_msg_words_with_phone">Hi! ကျွန်ုပ်ဖုန်းပျေက်သွားလို့ပါ။ ကျေးဇူးပြုပြီး ကျွန်ုပ်ကို ဆက်သွယ်ပေးလို့ရမည်လား?ကျေးဇူးတင်ပါသည်!</string>
     <string name="default_lock_msg_words">ဤစက်မှာ ရှိပြီးသား Mi အကောင့်နှင့်ဆက်စပ်နေပါသည်။ လုံခြုံရေးအရ၊ စက်အားအတည်ပြုရန် စကားဝှက်အား ရိုက်ထည့်ရန် လိုအပ်ပါသည်</string>
     <string name="lock_msg_phone">ဆက်သွယ်ရန် အချက်အလက်−%s</string>
+    <string name="emergency_call">Emergency Call</string>
+    <string name="return_to_call">Return to Call</string>
     <string name="default_debt_msg_words">"အခကြေးငွေပေးချေရန် ရက်လွန်သွားသောကြောင့် ဖုန်းလော့ခ်ကျသွားသည်။
 အသေးစိတ်သိရန် သင့်အရောင်းအေးဂျင့်သို့ ဆက်သွယ်ပါ။"</string>
     <string name="sys_notification_async_verify_title">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>

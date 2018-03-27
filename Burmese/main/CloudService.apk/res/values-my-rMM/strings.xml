@@ -59,6 +59,8 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">ဆင့်ခ်</string>
     <string name="sync_dspt_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ မှတ်စုများနှင့် အခြားသောအရာတို့ကို ဆင့်ခ်လုပ်ပါ (သို့) ၎င်းတို့ကို ဖော်ပြပါနေရာတွင် ရယူသုံးစွဲပါ "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 "</string>
     <string name="sync_dspt_entrance_provision">"သင့်စက်အတွင်းရှိ သင့်ဓါတ်ပုံများ၊ အဆက်အသွယ်များ၊ ခေါ်ဆိုမှု မှတ်တမ်းနှင့် မက်ဆေ့ချ်များကို ဆင့်ခ်လုပ်ပါ။ မည်သည့် ဘရောက်ဇာမှမဆို သင်ဆင့်ခ်လုပ်ထားသော အရာများကို %s တွင် ရယူသုံးစွဲပါ။ "</string>
@@ -70,6 +72,8 @@
     <string name="sync_dspt_entrance_provision_skip">ဤအဆင့်ကို ကျော်ပါ</string>
     <string name="sync_dspt_entrance_provision_network">ဤအက်ပ်သည် ပုံမှန်အလုပ်လုပ်ရန်အတွက် အင်တာနက်သို့ ချိတ်ဆက်ရမည်။ ဒေတာကို ဆင့်ခ်လုပ်လျှင် မိုဘိုင်းဒေတာချိတ်ဆက်မှုနှင့် Wi-Fi ဖွင့်ရန် လိုအပ်သည်။</string>
     <string name="find_device_dspt_provision">သင်စက်ပျောက်သွားပါက၊ စက်အားရှာဖွေရန် %s သို့သွားပါ၊ သို့မဟုတ် ပြန်သတ်မှတ်ပါ။ ဤလုပ်ဆောင်ချက်အား ဆက်တင်ထဲတွင်အချိန်မရွေးဖွင့်ပိတ်နိုင်ပါသည်။</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">"ဤအင်္ဂါရပ်ကို ဆက်တင်များထဲတွင် မည်သည့်အချိန်မဆို ဖွင့်နှင့် ပိတ် ပြုလုပ်နိုင်သည်။
 ."</string>
     <string name="find_device_dspt_provision_4">သင် ဆင်းမ်ကဒ်များကို ဖလှယ်လိုက်လျှင် ဤအင်္ဂါရပ်ကို ပြန်အသက်သွင်းရန် SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
@@ -92,9 +96,8 @@
  ဤလုပ်ဆောင်ချက်သည်ကုတ်ဖွဲ့လိုက်ပြီး သင့်စက် ID အား Mi ဆာဗာများသို့း ပေးပို့လိုက်ပါလိမ့်မည်။"</string>
     <string name="user_agreement_p5">"
 "</string>
-    <string name="user_agreement_p6">"ဤအင်္ဂါရပ်ကို သုံးခြင်းအားဖြင့်၊ သင့်အနေနှင့် သဘောတူပါရန်  "</string>
-    <string name="user_agreement_p7">Mi Cloud ၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
-    <string name="user_agreement_p8">.</string>
+    <string name="user_agreement_link">"Mi Cloud's Terms of Service"</string>
+    <string name="user_agreement_content">"By using this service, you're agreeing to %s."</string>
     <string name="user_agreement_title">Mi Cloud ၏ ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
     <string name="privacy_policy">ကိုယ်ပိုင်ရေးရာမူဝါဒ</string>
     <string name="loading">ခဏစောင့်ပါ…</string>
@@ -122,6 +125,7 @@
     <string name="find_device_error_server">ဆာဗာ အမှား</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
 သင် ဆင်းမ်ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
     <string name="i_know">အိုကေ</string>
@@ -171,7 +175,7 @@
     <string name="micloud_user_space_usage">သိုလှောင်ခန်းနေရာလွတ်</string>
     <string name="micloud_web_discription_01">i.mi.com မှာ အကောင့်ထဲသို့ ဝင်ပါ</string>
     <string name="micloud_web_discription_02">မည်သည့်နေရာမှမဆို သင့်ဖုန်းများကို သိုလှောင်ပြီး ရယူသုံးစွဲရန်</string>
-    <string name="micloud_web_discription_place_holder">%1$s သို့ ဝင်ရောက်ပါ</string>
+    <string name="micloud_web_discription_place_holder">သင်၏ဒေတာကို စီမံရန် ကွန်ပျူတာမှ %1$s သို့ ဝင်ရောက်ပါ။</string>
     <string name="micloud_full_influence_title">သင့် Mi Cloud ပြည့်နေသည့်အချိန်…</string>
     <string name="micloud_warn_low_title">နေရာလွတ် ကုန်ပါတော့မည်</string>
     <string name="micloud_warn_low_sum">သင့် Mi Cloud သည် ၉၀% ပြည့်နေသည်။</string>
@@ -364,9 +368,6 @@
     <string name="buy_more_space_c_class">"ဤအင်္ဂါရပ်သည် ပင်မမြေတရုတ်ဘဏ်ကဒ်ကို လိုအပ်ပါသည်။
 နောက်ထပ် သိုလှောင်ခန်းနေရာလွတ်ကို ရရှိရန် mi.com/micloud သို့သွားရောက်ကြည့်ရှုပါ။"</string>
     <string name="micloud_member_buy_title">မှာယူမှု အတည်ပြုပါ</string>
-    <string name="micloud_member_buy_content" formatted="false">" %s-%s-%s အထိဘောင်ဝင် 
-
-%s Mi ခရက်ဒစ်များ"</string>
     <string name="micloud_member_net_error_alert_title">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="micloud_member_net_error_alert_message">သင့်မှာ အင်တာနက်ချိတ်ဆက်ထားမှုမရှိပါ။</string>
     <string name="micloud_member_pay_fail_toast">ငွေပေးချေမှု မပြီးမြောက်သေးပါ</string>
@@ -482,6 +483,8 @@
     <string name="micloud_find_device_opened">စက်ရှာဖွေခြင်း ဖွင့်ထားသည်</string>
     <string name="micloud_find_device_open_fail">စက်ရှာဖွေခြင်းအား မဖွင့်နိုင်ခဲ့ပါ</string>
     <string name="micloud_find_device_opened_content">%s တွင် သင့်စက်အားတွေ့ရှိ</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်း၍မရပါ။</string>
     <string name="micloud_find_device_close_fail">စက်ရှာဖွေခြင်းအား ပိတ်၍မရပါ။</string>
     <string name="micloud_find_device_finish">ပြီးပါပြီ</string>
@@ -561,6 +564,8 @@
     <string name="micloud_main_head_menu_state_close">ပိတ်ပါ</string>
     <string name="micloud_main_head_menu_state_unavailable">မရရှိနိုင်ပါ</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">စက်ရှာဖွေခြင်းအား ဒုတိယနေရာတွင် မရရှိနိုင်ပါ၊ ပထမနေရာတွင်သာ အသုံးပြုနိုင်ပါသည်။</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">လက်ဗွေဖြင့်ပေးချေမှု</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကဒ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>

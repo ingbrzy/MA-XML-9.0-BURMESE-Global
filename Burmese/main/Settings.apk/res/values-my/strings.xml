@@ -2052,6 +2052,8 @@
     <string name="printer_info_desc">ဤပရင်တာ အကြောင်း ပိုမိုလေ့လာပါ</string>
     <string name="privacy_settings_title">မိတ္တူကူးရန်</string>
     <string name="process_dex2oat_label">အက်ပ်ပိုမိုကောင်းအောင်ပြုခြင်း</string>
+    <string name="process_format">%1$s ( %2$d )</string>
+    <string name="process_kernel_label">Android စနစ်</string>
     <string name="process_mediaserver_label">မီဒီယာဆာဗာ</string>
     <string name="process_provider_in_use_description">%1$s ပံ့ပိုးသူမှ အသုံးပြုနေသည်</string>
     <string name="process_service_in_use_description">%1$sဝန်ဆောင်မှုအား အသုံးပြုနေသည်</string>
@@ -2530,6 +2532,7 @@ UT အသုံးပြုမှု အသွင်အပြင်− %5$s"</st
     <string name="sim_reenter_new">PIN အသစ်ကို ပြန်ပြီး တိုက်ရိုက်ပါ</string>
     <string name="sim_select_card">ဆင်းမ် ကဒ်ကို ရွေးရန်</string>
     <string name="sim_selection_required_pref">ရွေးချယ်ရန် လိုအပ်</string>
+    <string name="sim_settings_summary">အမည် %1$s နံပါတ်%2$s</string>
     <string name="sim_settings_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_setup_wizard_title">ဆင်းမ် ကဒ်များ</string>
     <string name="sim_slot_empty">ဆင်းမ်ကဒ် မရှိ</string>
@@ -2572,6 +2575,7 @@ UT အသုံးပြုမှု အသွင်အပြင်− %5$s"</st
     <string name="starting_android">Android စနေစဉ်…</string>
     <string name="status_awaiting_tap">ရေးရန် တဲဂ် တစ်ခုကို ပုပ်ပါ...</string>
     <string name="status_awake_time">ပြန်ပွင့်မည်အချိန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="status_bt_address">ဘလူးတုသ်လိပ်စာ</string>
     <string name="status_data_state">မိုဘိုင်းကွန်ယက်အခြေအနေ</string>
     <string name="status_failed_to_write">"NFC တဲဂ် သို့  ဒေတာကို ရေးထည့် မရခဲ့ပါ။ ပြဿနာ ဆက်ရှိနေလျှင်၊ အခြား တဲဂ် တစ်ခုကို စမ်းကြည့်ပါ"</string>

@@ -5,12 +5,14 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
+    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">မရှိ</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
+    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -80,6 +82,7 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi ဘားနှစ်ခု</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi ဘားသုံးခု</string>
     <string name="accessibility_wifi_signal_full">Wi-Fi လိုင်းအပြည့်</string>
+    <string name="process_kernel_label">အန်းဒရွိုက် OS</string>
     <string name="data_usage_uninstalled_apps">အက်ပ်များ ဖယ်ရှားမည်။</string>
     <string name="data_usage_uninstalled_apps_users">အက်ပ်များနှင့် သုံးစွဲသူများကိုပယ်ဖျက်မည်</string>
     <string name="tether_settings_title_usb">USB ဒေတာချိတ်ဆက်ခြင်း</string>
@@ -281,7 +284,7 @@
     <string name="disabled_by_admin">အုပ်ချုပ်သူမှ ပိတ်ထားသည်</string>
     <string name="home">အိမ်ဆက်တင်များ</string>
     <string name="charge_length_format">%1$s ago</string>
-    <string name="remaining_length_format">%1$s left</string>
+    <string name="remaining_length_format">%1$s ကျန်သေးသည်</string>
     <string name="screen_zoom_summary_small">အသေး</string>
     <string name="screen_zoom_summary_default">နဂိုမူလ</string>
     <string name="screen_zoom_summary_large">ကြီးသော</string>
@@ -570,7 +573,7 @@ d MMMM"</string>
     <string name="settings_toggle_position_reset">အထိန်းခလုတ်များ ပြန်သတ်မှတ်ပါ</string>
     <string name="list_delimeter">", "</string>
     <string name="camera_key_action_setting_title">Mi Button</string>
-    <string name="camera_key_action_category_title">"Use if the Camera app isn't open"</string>
+    <string name="camera_key_action_category_title">အကယ်၍ ကင်မရာအက်ပ် ဖွင့်မထားပါက အသုံးပြုပါ</string>
     <string name="camera_key_action_none_title">လုပ်ဆောင်မှု မရှိပါ</string>
     <string name="camera_key_action_shortcut_title">ကြားဖြတ်</string>
     <string name="camera_key_action_toggle_title">အထိန်းခလုတ် နှိပ်ပါ</string>
@@ -614,6 +617,7 @@ d MMMM"</string>
     <string name="ext_media_mountable_notification_title">USB သိုလှောင်ခန်းကိရိယာ ချိတ်ဆက်နေသည်</string>
     <string name="ext_media_mountable_notification_message">ဖိုင်မန်နေဂျာတွင် ဖွင့်ရန် ထိနှိပ်ပါ</string>
     <string name="ext_media_safe_remove">လုံခြုံစွာ ဖယ်ရှားပါ</string>
+    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">K/s</string>
     <string name="megabyte_per_second">M/s</string>
     <string name="status_bar_network_flow_today">ယနေ့: %1$s</string>
@@ -665,6 +669,9 @@ d MMMM"</string>
     <string name="notification_low_battery_open_save_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
     <string name="notification_low_battery_action_btn">ဖွင့်</string>
     <string name="notification_low_battery_need_charge">ဘက်ထရီအားနည်းနေသည်။ သင့်စက်အား အားသွင်းပါ။</string>
+    <string name="low_temperature_warning_title">အပူချိန် အလွန်နိမ့်သော သတိပေးချက်</string>
+    <string name="low_temperature_warning_message">အပူချိန် အလွန်နိမ့်နေသောကြောင့် ဖုန်းမှာ အချိန်မရွေး ပိတ်သွားနိုင်သည်၊ ကျေးဇူးပြု၍ အရေးကြီးသောဒေတာအားလုံးကို သိမ်းဆည်းပါ။</string>
+    <string name="low_temperature_button_ok">နားလည်ပါပြီ</string>
     <string name="oldman_airplane_mode_text">လေယာဥ်</string>
     <string name="oldman_incall_text">ခေါ်ဆိုမှုသို့ ပြန်သွားပါ</string>
     <string name="demo_mode">အစမ်းမုဒ်</string>
@@ -692,6 +699,7 @@ d MMMM"</string>
     <string name="notification_header_title">အကြောင်းကြားစာများ</string>
     <string name="weather_publish_time">အသစ်မွမ်းမံခဲ့သော %1$s</string>
     <string name="no_weather_description">ရာသီဥတုအချက်အလက်များအား ရယူမည်></string>
+    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">အသိပေးချက်ရှိတ်</string>
     <string name="accessibility_desc_quick_settings">အမြန်ဆက်တင်များ</string>
     <string name="accessibility_desc_details_page">%1$s အသေးစိတ် စာမျက်နှာ</string>
@@ -737,7 +745,7 @@ d MMMM"</string>
     <string name="accessibility_brightness_slider">တောက်ပမှု ရွေ့လျားတန်း</string>
     <string name="click_to_return_multi_window">မျက်နှာပြင်ခွဲရာသို့ ပြန်သွားရန် ထိနှိပ်ပါ</string>
     <string name="recent_dock_tip">အက်ပ်များအား ရွေးရန် ထိနှိပ်ပါ</string>
-    <string name="recent_cannot_dock">"Can't use Split screen in Second Space"</string>
+    <string name="recent_cannot_dock">ဒုတိယနေရာတွင် မျက်နှာပြင်ခွဲအား သုံး၍မရပါ</string>
     <string name="dock_keyguard_locked_failed_to_dock_text">သော့ခတ်ထားသော မျက်နှာပြင်သည် မျက်နှာပြင်ခွဲခြင်းကို မထောက်ပံ့ပါ။</string>
     <string name="un_important_notifications">အရေးမကြီးသော အသိပေးချက်များ</string>
     <string name="as_important">အရေးကြီးသော</string>

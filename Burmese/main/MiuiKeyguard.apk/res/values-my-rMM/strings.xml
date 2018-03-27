@@ -65,7 +65,7 @@
     <string name="input_password_after_boot_msg">သင့်စက်အား သော့ဖြည်ရန် စကားဝှက်အား ရိုက်ထည့်ပါ</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">စက်ရီဘုပြီးနောက် ပထမနေရာသို့ ဝင်ရောက်ရန် လိုအပ်ပါသည်</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ပြောင်း၍မရပါ</string>
-    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when parental controls are on"</string>
     <string name="input_password_handle_sdcard_fs">သော့ခတ်မျက်နှာပြင်မှ ဒုတိယနေရာသို့ ဝင်ရောက်၍ မရပါ။ ပထမနေရာမှ ဝင်ရောက်ပါ။</string>
     <string name="accessibility_enter_lock_wallpaper">နောက်ခံပုံကာရိုဆယ်အား ဖွင့်ရန်ထိနှိပ်ပါ</string>
     <string name="wallpaper_global_des_drop_down_notify_text">အသေးစိတ်များကို ကြည့်ရန် လွှတ်လိုက်ပါ</string>
@@ -149,5 +149,6 @@
     <string name="do_disclosure_with_name">ဤစက်အား %sမှ စီမံခန့်ခွဲသည်</string>
     <string name="face_unlock_reenter_title">သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ပါ။</string>
     <string name="face_unlock_reenter_content">မျက်နှာဖြင့် သော့ဖွင့်ပုံစံတွက်နည်း အပ်ဒိတ်လုပ်ထားသည်။ သင်၏မျက်နှာဒေတာအား မှတ်တမ်းပြန်တင်ရန် ထိနှိပ်ပါ။</string>
+    <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">နောက်ခံပုံ လှည့်ပြခြင်း</string>
 </resources>

@@ -418,7 +418,7 @@
     <string name="login_check_find_device">စက်လုံခြုံရေးအချက်အလက်များ ရယူနေပါသည်…</string>
     <string name="unlock_help_notice">"အကူအညီ−
 ၁။ စကားဝှက်မေ့သွားပါက ပြန်လည်သတ်မှတ်ရန် id.mi.com သို့ သွားပါ။
-၂။ စက်အား လော့ခ်မဖြည်နိုင်ပါက စက်ရှာဖွေမှုအား ပိတ်ရန် i.mi.com သို့ သွားပါ။
+၂။ စကားဝှက်အား ပြန်လည်မသတ်မှတ်နိုင်ပါက သို့မဟုတ် တစ်စုံတစ်ယောက်မှ စက်အား လော့ခ်ချလိုက်ပါက လော့ခ်ဖြည်ရန် i.mi.com သို့ သွားပါ။
 ၃။ သင်၏သော့ဖြည်နံပါတ်မှာ− %s"</string>
     <string name="login_find_device_bind">ဤစက်သည် ရှိပြီးသား Mi အကောင့် ID (%s) နှင့် ဆက်စပ်နေပြီး ဖြစ်ပါသည်။</string>
     <string name="find_device_locked_account_phone" formatted="false">%s၊ ဆက်စပ်ဖုန်းနံပါတ်−%s</string>
@@ -451,7 +451,7 @@
     <string name="mipay_identity">ID အတည်ပြုခြင်း</string>
     <string name="mipay_indentity_done">အတည်ပြုပါ</string>
     <string name="mipay_identitiy_no">အတည်မပြုသေးပါ</string>
-    <string name="account_token_expired_title">မှန်ကန်ကြောင်းအတည်ပြုခြင်း မအောင်မြင်ပါ။</string>
+    <string name="account_token_expired_title">မှန်ကန်ကြောင်း အတည်မပြုနိုင်ပါ</string>
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
     <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် Mi အကောင့်သို့ ဆိုင်းအင်ဝင်နိုင်ရန် သင်၏ဖုန်းနံပါတ်ကို ပေါင်းထည့်ပါ။</string>
