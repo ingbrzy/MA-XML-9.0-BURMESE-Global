@@ -17,5 +17,4 @@
     <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
 </resources>
