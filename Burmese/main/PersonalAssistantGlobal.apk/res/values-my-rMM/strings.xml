@@ -168,6 +168,7 @@
     <string name="ola_trip">တက္ကစီ ငှါးမည်</string>
     <string name="ola_trip_content">ကျသင့်ငွေ ခန့်မှန်း၍ တက္ကစီ(Ola)တစ်စီး ငှါးမည်</string>
     <string name="ola_trip_content_detail">အနီးစပ်ဆုံးကျသင့်ငွေ ခန့်မှန်း၍ တက္ကစီ(Ola)တစ်စီး ငှါးမည်။</string>
+    <string name="phone_check">Optimization</string>
     <string name="place_label">သွားလေ့ရှိသော နေရာများ</string>
     <string name="record_name">အသံသွင်းမည်</string>
     <string name="record_parent">ရီကော်တာ</string>
@@ -228,6 +229,7 @@
     <string name="stock_change_rate_format">%.2f%%</string>
     <string name="stock_color_schema">အရောင် အစီအစဉ်</string>
     <string name="stock_list_empty_text">မည်သည့်ကုမ္ပဏီကိုမျှ သင် လိုက်အားမပေးသေးပါ။</string>
+    <string name="stock_provider">စတော့ရှယ်ယာစျေးများကို Webull မှ ထောက်ပံ့ပေးသည်</string>
     <string name="stock_search_empty">စတော့ရှယ်ယာများ ရှာမတွေ့ပါ။</string>
     <string name="stock_title">စတော့ရှယ်ယာ</string>
     <string name="stock_title_schema">စတော့ရှယ်ယာ ပြသမှုရွေးချယ်စရာများ</string>
@@ -270,6 +272,7 @@
     <string name="upgrade_now">အပ်ဒိတ်လုပ်မည်</string>
     <string name="user_id">အသုံးပြုသူ ID- %s</string>
     <string name="walk">လမ်းလျှောက်မည်</string>
+    <string name="webull_title">Webull</string>
     <string name="which_transport">ပုံမှန်အားဖြင့် လိုရာခရီးသို့ သင်ဘယ်လိုသွားသလဲ?</string>
     <string name="year_month_day_all_format_en">dd/MM/yyyy HH:mm:ss</string>
     <string name="year_month_day_format">dd/MM/yyyy</string>

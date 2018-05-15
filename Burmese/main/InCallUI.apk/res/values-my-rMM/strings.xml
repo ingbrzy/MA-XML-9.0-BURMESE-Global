@@ -172,6 +172,9 @@
     <string name="close_camera_failed">ကင်မရာ မပိတ်နိုင်ခဲ့ပါ…</string>
     <string name="change_to_voice_tips_when_background">အခြားဘက်မှ အသံခေါ်ဆိုမှုသို့ ပြောင်းလိုက်သည်</string>
     <string name="video_crbt_title">%s ဗီဒီယို ဖုန်းမြည်သံ</string>
+    <string name="crbt_second_hold_prompt">%s ကို ခေတ္တကိုင်ထားသည်…</string>
+    <string name="crbt_second_hold_prompt_no_name">ယခင်က ခေါ်ဆိုမှုကို ခေတ္တကိုင်ထားသည်…</string>
+    <string name="crbt_second_hold_prompt_conference">ကွန်ဖရင့်ခေါ်ဆိုမှုကို ခေတ္တကိုင်ထားသည်…</string>
     <string name="call_button_tools_text">လုပ်ဆောင်ချက်များ</string>
     <string name="call_button_dialer_text">ကီးဘုတ်</string>
     <string name="call_button_mute_text">အသံတိတ်</string>
@@ -193,4 +196,5 @@
     <string name="dialpad_seven">7</string>
     <string name="dialpad_eight">8</string>
     <string name="dialpad_nine">9</string>
+    <string name="prompt_no_volte_when_failed">VoLTE ဝန်ဆောင်မှု မရရှိနိုင်ပါ။</string>
 </resources>

@@ -33,7 +33,7 @@
     <string name="attach_sound">အော်ဒီယို</string>
     <string name="attach_subject">အကြောင်းအရာ</string>
     <string name="attach_take_photo">ဓာတ်ပုံ ရိုက်ပါ</string>
-    <string name="attach_transaction">ပိုက်ဆံ ပေးပို့မည်</string>
+    <string name="attach_transaction">ပိုက်ဆံ လွှဲပြောင်းမည်</string>
     <string name="attach_video">ဗီဒီယို</string>
     <string name="audio_download_failed">အော်ဒီယိုကို ဒေါင်းလုဒ်လုပ်၍ မရပါ</string>
     <string name="audio_message_expired">အသံမက်ဆေ့ချ် သက်တမ်းကုန်သွားပြီ</string>
@@ -51,6 +51,16 @@
     <string name="bookmark_confirm_delete_message">ရွေးချယ်ထားသော မက်ဆေ့ချ်များကို ကြယ်ပြထားခြင်းမှဖြုတ်မလား?</string>
     <string name="bookmark_empty">ကြပ်ပြထားသော မက်ဆေ့ချ်များမရှိပါ</string>
     <string name="bookmark_list_title">ကြယ်ပြထားသော</string>
+    <string name="button_emoji_creature">သတ္တဝါ အီမိုဂျီ</string>
+    <string name="button_emoji_lifestyle">နေထိုင်ပုံ အီမိုဂျီ</string>
+    <string name="button_emoji_smiley">အပြုံးမျက်နှာ အီမိုဂျီ</string>
+    <string name="button_emoji_symbol">သင်္ကေတ အီမိုဂျီ</string>
+    <string name="button_emoji_text">စာသား အီမိုဂျီ</string>
+    <string name="button_fold">ခေါက်ပါ</string>
+    <string name="button_next_slide">ရှေ့သို့</string>
+    <string name="button_pre_slide">နောက်သို့</string>
+    <string name="button_resend_message">ပြန်လည်ပေးပို့ပါ</string>
+    <string name="button_unfold">ဖြန့်ပါ</string>
     <string name="call_sender">ပေးပို့သူအား ခေါ်ဆိုပါ</string>
     <string name="cannot_add_picture_and_video">ဆလိုက်တစ်ခုသို့ ဗီဒီယိုနှင့် ပုံ ထည့်လို့မရပါ။</string>
     <string name="cannot_add_slide_anymore">ဆလိုက်များ ထပ်ထည့်လို့မရပါ။</string>
@@ -138,6 +148,7 @@
     <string name="download_later">ယခုဒေါင်းလုဒ်လုပ်လို့မရပါ။ နောက်မှထပ်ကြိုးစားပါ။</string>
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="downloading_file_can_not_play">ဖမ်းယူမှုမှ ဒေါင်းလုဒ်လုပ်ပြီးသည်အထိ စောင့်ပါ</string>
+    <string name="draft">စာကြမ်း</string>
     <string name="duration_not_a_number">ကြာချိန်သည် နံပါတ်ဖြစ်ရမည်</string>
     <string name="duration_sec">ကြာချိန် (%sစက္ကန့်)</string>
     <string name="duration_selector_title">"ဆလိုက်အတွက် ကြာချိန် "</string>
@@ -152,7 +163,7 @@
     <string name="enter_edit_mode">မက်ဆေ့ချ်များကို ပြုပြင်ပါ</string>
     <string name="error_code_label">"ကုဒ်အမှား- "</string>
     <string name="error_state">ရှေ့နောက်မကိုက်ညီသော အခြေအနေ</string>
-    <string name="error_state_text">ပို့စ်တင်မှု အခြေအနေနှင့် လက်ခံသူများ မကိုက်ညီပါ။ ချွတ်ယွင်းချက် အစီရင်ခံစာကို ဖမ်းယူပြီး ၎င်းကို http://go/droidanizer မှတဆင့် အစီရင်ခံပါ</string>
+    <string name="error_state_text">ပို့စ်တင်မှု အခြေအနေနှင့် လက်ခံသူများ မကိုက်ညီပါ။ ချွတ်ယွင်းချက် အစီရင်ခံစာကို ဓာတ်ပုံရိုက်ပြီး ၎င်းအား http://go/droidanizer မှတဆင့် အစီရင်ခံပါ</string>
     <string name="error_timed_msg">အချိန်မှားနေသည်။</string>
     <string name="ex_type_guide">အချက်အလက်</string>
     <string name="ex_type_mx">Mi မက်ဆေ့ချ်</string>
@@ -168,7 +179,6 @@
     <string name="failed_to_resize_image">ပုံကို အရွယ်အစားပြောင်း၍ မရပါ။</string>
     <string name="fake_cell_alert_hint">ပြထားနေသည့်ဖုန်းနံပါတ်မဟုတ်သည် အခြားဖုန်းနံပါတ် တစ်ခုမှ ဤမက်ဆေ့ချ်အား ပေးပို့လိုက်ပုံရပါသည်။ မက်ဆေ့ချ်ပေါ်ရှိ ငွေကြေးနှင့် ဆိုင်သော အကြောင်းအရာများအား သတိထားပါ။</string>
     <string name="fake_cell_checking_hint">လုံခြုံရေးအား စစ်ဆေးနေ…</string>
-    <string name="fake_cell_detection_entry">အခြေဆိုက်ဌာနအား ထောက်လှမ်းခြင်း</string>
     <string name="fake_cell_safe_hint">ဤမက်ဆေ့ချ်မှာ လုံခြုံပါသည်</string>
     <string name="fake_cell_timeout_hint">လုံခြုံရေးအား မစစ်ဆေးနိုင်ခဲ့ပါ</string>
     <string name="favorite_at_time">ကြယ်ပွင့်ပြလိုက်သော အချိန်- %1s</string>
@@ -179,6 +189,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -447,7 +458,7 @@
     <string name="privacy_password_title4">စကားဝှက်အား ဆင့်မြှင့်တင်ခဲ့သည်</string>
     <string name="private_message">သီးသန့် မက်ဆေ့ချ်ပို့ခြင်း</string>
     <string name="private_new_notification">မက်ဆေ့ချ် အသိပေးချက်များ</string>
-    <string name="private_protect">စကားဝှက်များ</string>
+    <string name="private_protect">ကိုယ်ရေးလုံခြုံမှု ကာကွယ်ရေး</string>
     <string name="private_settings">သီးသန့်မက်ဆေ့ချ်ဆက်တင်များ</string>
     <string name="processing">လုပ်နေသည်…</string>
     <string name="prvate_contact">သီးသန့် အဆက်သွယ်များ</string>
@@ -527,6 +538,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -656,4 +668,5 @@
     <string name="wild_msg_title">ဆင့်ခ်လုပ်ရန် ဖုန်းနံပါတ်ရွေးချယ်ပါ</string>
     <string name="yes">အိုကေ</string>
     <string name="yesterday">မနေ့က</string>
+    <string name="fake_cell_detection_entry">အခြေဆိုက်ဌာနအား ထောက်လှမ်းခြင်း</string>
 </resources>

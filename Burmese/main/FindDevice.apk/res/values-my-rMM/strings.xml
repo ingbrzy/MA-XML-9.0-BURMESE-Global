@@ -22,8 +22,9 @@
     <string name="find_device_noise_title">စက်ရှာတွေ့မှု အနှိုးစက်</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
     <string name="find_device_notice_p1">သို့သွားပါ</string>
-    <string name="find_device_notice_p3">"စက်တည်နေရာကို ရှာရန်၊ သော့ခတ်ရန် (သို့) သင့်ဖုန်းကို ပြန်လည်ရယူရန်။
-သင် ဆင်းမ်ကဒ်များကို ဖလှယ်သည့်အခါ ဤအင်္ဂါရပ်ကို ပြန်အသက်အသွင်းရန် အခြား SMS တစ်စောင်ကို အလိုအလျောက် ပို့လိမ့်မည်။"</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
+    <string name="find_device_notice_p3">တည်နေရာရယူရန်၊ လော့ခ်ဖြည်ရန်၊ ဒေတာ ဖျက်ပစ်ရန်။</string>
+    <string name="find_device_notice_sms_alert">ဆင်းမ်ကဒ်များကို ဖလှယ်လျှင် ဤအင်္ဂါရပ်ကို ပြန်လည်အသက်သွင်းရန် အခြား SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
     <string name="i_know">အိုကေ</string>
     <string name="unlock_error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="unlock_error_device_id">စက်ID မရနိုင်ခဲ့ပါ</string>
@@ -57,14 +58,14 @@
     <string name="login_failed">ဆိုင်းအင်ဝင်လို့ မရပါ%s</string>
     <string name="change_find_device_status_failed">သော့ဖြေ၍မရနိုင်ခဲ့ပါ။%s</string>
     <string name="unlock_help_title">သော့ဖြည်အကူအညီ−</string>
-    <string name="unlock_help">"ကွန်ရက်နှင့်ချိတ်ဆက်လျက်ရှိနေပါ
-သင့်တွင် ကောင်းမွန်သည့် ဆင်းမ်ကဒ်ရှိနေကြောင်းနှင့် ဆိုးဝါးသော Wi-Fi နှင့် မချိတ်ဆက်ထားကြောင်း သေချာစေပါ။ 
+    <string name="unlock_help">"ကွန်ရက်နှင့် ချိတ်ဆက်ထားပါ။
+သင့်တွင် ကောင်းမွန်သည့် ဆင်းမ်ကဒ်ရှိနေကြောင်း(သင်၏စက်မှ ပံ့ပိုးပါက) နှင့် တရားဝင် Wi-Fi နှင့် ချိတ်ဆက်ထားကြောင်း သေချာစေပါ။ 
 
- စကားဝှက်မေ့သွားပါသလား?
- စကားဝှက်အား ပြန်သတ်မှတ်ရန် id.mi.com သို့သွားရောက်ပါ။
+ စကားဝှက် မေ့သွားပါသလား?
+ စကားဝှက်အား ပြန်သတ်မှတ်ရန် id.mi.com သို့ သွားပါ။
 
  အခြားကြောင်းပြချက်များ
- i.mi.com သို့ဆိုင်းအင်ဝင်ရောက်ပြီး အဲဒီမှသင့်စက်အား သော့ဖြည်ရန် ကြိုးစားကြည့်ပါ။"</string>
+ i.mi.com သို့ဆိုင်းအင်ဝင်ရောက်ပြီး သင့်စက်အား လော့ခ်ဖြည်ရန် ကြိုးစားကြည့်ပါ။"</string>
     <string name="passport_vcode_prompt_long">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_trust_device">ဤစက်ကို ယုံကြည်ပါ</string>
     <string name="passport_verify">မှန်ကြောင်း အတည်ပြုပါ</string>
@@ -78,8 +79,8 @@
     <string name="default_lock_msg_words_with_phone">Hi! ကျွန်ုပ်ဖုန်းပျေက်သွားလို့ပါ။ ကျေးဇူးပြုပြီး ကျွန်ုပ်ကို ဆက်သွယ်ပေးလို့ရမည်လား?ကျေးဇူးတင်ပါသည်!</string>
     <string name="default_lock_msg_words">ဤစက်မှာ ရှိပြီးသား Mi အကောင့်နှင့်ဆက်စပ်နေပါသည်။ လုံခြုံရေးအရ၊ စက်အားအတည်ပြုရန် စကားဝှက်အား ရိုက်ထည့်ရန် လိုအပ်ပါသည်</string>
     <string name="lock_msg_phone">ဆက်သွယ်ရန် အချက်အလက်−%s</string>
-    <string name="emergency_call">Emergency Call</string>
-    <string name="return_to_call">Return to Call</string>
+    <string name="emergency_call">အရေးပေါ် ခေါ်ဆိုမှု</string>
+    <string name="return_to_call">ခေါ်ဆိုမှုသို့ ပြန်သွားပါ</string>
     <string name="default_debt_msg_words">"အခကြေးငွေပေးချေရန် ရက်လွန်သွားသောကြောင့် ဖုန်းလော့ခ်ကျသွားသည်။
 အသေးစိတ်သိရန် သင့်အရောင်းအေးဂျင့်သို့ ဆက်သွယ်ပါ။"</string>
     <string name="sys_notification_async_verify_title">စက်ရှာဖွေခြင်းကို တဖန်အသက်သွင်းပါ။</string>

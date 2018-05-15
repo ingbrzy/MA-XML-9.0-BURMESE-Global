@@ -10,16 +10,16 @@
         <item quantity="other">အက်ပ် %dခုကို အော်တိုစတင်ခွင့်ပေးမည်</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d apps can connect to the network</item>
+        <item quantity="other">အက်ပ် %dခု သည်ကွန်ရက်သို့ ချိတ်ဆက်နိုင်သည်</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
-        <item quantity="other">"%d apps can't connect to the network"</item>
+        <item quantity="other">အက်ပ် %dခု သည်ကွန်ရက်သို့ ချိတ်ဆက်ခွင့် မရှိပါ</item>
     </plurals>
     <plurals name="connected_devices_number">
         <item quantity="other">စက်%d ခု</item>
     </plurals>
     <plurals name="firewall_item_summary">
-        <item quantity="other">Restricted connection for %s apps</item>
+        <item quantity="other">အက်ပ် %s ခု၏ ချိတ်ဆက်မှုကို ကန့်သတ်ထားသည်</item>
     </plurals>
     <plurals name="free_wifi_connected_count">
         <item quantity="other">လူ %1$d ဦး ချိတ်ဆက်ထားသည်</item>

@@ -24,6 +24,7 @@
     <string name="title_switch_file">ထိုဖိုင်များအား ဖျက်မည်လား?</string>
     <string name="msg_switch_photo">ဓါတ်ပုံများအား ပထမနေရာမှဖယ်ရှားပြီးနောက် ထိုဓါတ်ပုံများအား ဖျက်ပါ။</string>
     <string name="msg_switch_file">ထိုပုံများအား ပယ်ရှားပြီးနောက် ပထမရှိနေရာမှ ထိုဖိုင်များအား ဖျက်ပစ်မည်လား?</string>
+    <string name="msg_switch_file_second">ထိုဖိုင်များအား ဖယ်ရှားပြီးနောက် ဒုတိယနေရာမှ ဖျက်ပစ်မလား?</string>
     <string name="delete_src_photo">ဓာတ်ပုံများအား ဖျက်ပစ်ပါ</string>
     <string name="delete_src_file">ဖိုင်များအား ဖျက်ပစ်ပါ</string>
     <string name="retain_src_photo">ဓါတ်ပုံများအား ထိန်းထားပါ</string>
@@ -58,6 +59,8 @@
     <string name="wating">ခဏစောင့်ပါ…</string>
     <string name="Active">သက်ဝင်လှုပ်ရှားသည်</string>
     <string name="ok_button">အိုကေ</string>
+    <string name="remove_button">ဖယ်ရှားပြီး ပိတ်၍ပြန်စပါ</string>
+    <string name="remove_button_time">ဖယ်ရှားပြီး ပိတ်၍ပြန်စပါ (%d)</string>
     <string name="cancel_button">ဖျက်သိမ်း</string>
     <string name="list_empty_text">မရှိသော</string>
     <string name="list_empty_text_xspace">WeChat/QQ/Weibo အား ထည့်သွင်းပါ၊ နှစ်ခုတွဲအက်ပ်များကို ဖန်တီးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
@@ -65,6 +68,8 @@
     <string name="xspace_setting_label">နှစ်ခုတွဲအက်ပ် ဆက်တင်များ</string>
     <string name="xspace_account">နှစ်ခုတွဲအက်ပ် အကောင့်များ</string>
     <string name="declare_dialog_title">နှစ်ခုတွဲအက်ပ်အကြောင်း</string>
+    <string name="stop_xspace_alert_title">နှစ်ခုတွဲအက်ပ် အကောင့်များကို ဖျက်နေသည်</string>
+    <string name="stop_xspace_alert_content">နှစ်ခုတွဲအက်ပ် အားလုံးကို ဖျက်ပစ်လိုက်ပြီ။ နှစ်ခုတွဲအက်ပ်အကောင့်နှင့် အက်ပ်ဒေတာများကိုလည်း ဖျက်ပစ်မလား? ဖျက်လိုက်ပါက နှစ်ခုတွဲအက်ပ်များအား လိုအပ်ပါက ပြန်လည်ဖန်တီးရမည်။</string>
     <string name="xspace_loading_msg">အက်ပ်ကို ဆွဲချနေဆဲ…</string>
     <string name="xspace_header">နှစ်ခုတွဲအက်ပ်</string>
     <string name="xspace_introduce">အကြံပြုထားသော</string>
@@ -77,6 +82,7 @@
     <string name="xspace_install_failed">မဖန်တီးနိုင်ခဲ့ပါ</string>
     <string name="xspace_uninstalling">ဖြုတ်ချနေ…</string>
     <string name="xspace_install_completed">အိုင်ကွန်အား အိမ်မျက်နှာပြင်သို့ ပေါင်းထည့်ခဲ့သည်</string>
+    <string name="xspace_install_completed_global">ပုံဆွဲကိရိယာသို့ အိုင်ကွန်အား ပေါင်းထည့်ပြီးပြီ</string>
     <string name="xspace_uninstall_completed">နှစ်ခုတွဲအက်ပ်အား အောင်မြင်စွာ ဖြုတ်ချပြီးပြီ</string>
     <string name="xspace_uninstall_dialog_title">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချ</string>
     <string name="xspace_uninstall_dialog_content">နှစ်ခုတွဲအက်ပ်အား ဖြုတ်ချခြင်းသည် အက်ပ်ဒေတာအားလုံးအား ဖျက်လိုက်လိမ့်မည်</string>
@@ -177,6 +183,10 @@
     <string name="notification_from_second_user">ဒုတိယနေရာမှ အသိပေးချက်များအား ပြပါ</string>
     <string name="radio_button_icon_switch_title">ရှော့ကဒ် သုံးမည်</string>
     <string name="radio_button_password_switch_title">စကားဝှက် သုံးမည်</string>
+    <string name="reset_password_dialog_title">ဒုတိယနေရာရှော့ကဒ်အား ကွယ်ဝှက်၍မရပါ</string>
+    <string name="reset_password_dialog_message">ပထမနေရာနှင့် ဒုတိယနေရာ၏ စကားဝှက်မှာ အမျိုးအစားမတူပါ။ ရှော့ကဒ်အား ကွယ်ဝှက်ရန် ဒုတိယနေရာ၏ စကားဝှက်သည် ပထမနေရာနှင့် အမျိုးအစားတူရမည်။</string>
+    <string name="reset_password_dialog_positve_btn_title">ပြောင်းမည်</string>
+    <string name="entrance_reopen_toast_msg">စကားဝှက်အမျိုးအစားမတူသောကြောင့် ဒုတိယနေရာရှော့ကဒ်ကို ပြထားသည်</string>
     <string name="settings_cross_notification_title">အသိပေးချက်များ</string>
     <string name="settings_cross_notification_summary">အခြားနေရာမှ အသိပေးချက်မျာအား လက်ခံရရှိပါ</string>
     <string name="settings_switch_shortcut_summary">ပထမနေရာတွင် အိမ်မျက်နှာပြင်ရှော့ကဒ်အား ပြသပါ</string>
@@ -279,6 +289,7 @@
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">ဆိုင်းအင်ဝင်၍ မျှဝေမည်</string>
+    <string name="use_xiaoai_open">အသံလက်ထောက် သုံးမည်</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">Weibo သို့ ပို့ပါ</string>
     <string name="xspace_qq_title">QQ</string>
@@ -358,13 +369,13 @@
     <string name="sdcradfs_dialog_in_sec_message">"အပ်ဒိတ်လုပ်ရန် ဒုတိယနေရာကို ဖျက်၍ ပြန်ဖန်တီးပါ။ ဒုတိယနေရာမှ ဒေတာများကို ပထမနေရာသို့ ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ။
 အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
     <string name="space_created_success">ဒုတိယနေရာ ဖန်တီးပြီးပါပြီ</string>
-    <string name="encrypt_space_delete_dialog_title">Attention</string>
-    <string name="encrypt_space_delete_dialog_message">"You're about to update Android. After the update, Second space data will become incompatible. To avoid this, move all data to First space, delete Second space, and create it again."</string>
-    <string name="encrypt_space_delete_dialog_click_message">"*If you don't need to move data, %s"</string>
-    <string name="encrypt_space_delete_dialog_click_message_action">delete and create Second space now.</string>
-    <string name="encrypt_space_delete_dialog_positive_text">Move data</string>
-    <string name="encrypt_space_delete_notification_title">Second space</string>
-    <string name="encrypt_space_delete_notification_message">Delete your Second space and create a new one to update your device successfully.</string>
+    <string name="encrypt_space_delete_dialog_title">သတိပြုရန်</string>
+    <string name="encrypt_space_delete_dialog_message">Androidအား အပ်ဒိတ်လုပ်တော့မည်။ အပ်ဒိတ်လုပ်ပြီးနောက် ဒုတိယနေရာမှ ဒေတာသည် တွဲဖက်၍ ရမည်မဟုတ်ပါ။ ထို့ကြောင့် ဒေတာအားလုံးကို ပထမနေရာသို့ ရွှေ့ထားပါ။ ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးပါ။</string>
+    <string name="encrypt_space_delete_dialog_click_message">*အကယ်၍ ဒေတာရွှေ့ရန် မလိုပါက၊ %s</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">ယခု ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးမည်။</string>
+    <string name="encrypt_space_delete_dialog_positive_text">ဒေတာရွေ့မည်</string>
+    <string name="encrypt_space_delete_notification_title">ဒုတိယနေရာ</string>
+    <string name="encrypt_space_delete_notification_message">သင်၏စက်အား အပ်ဒိတ်လုပ်နိုင်ရန် ဒုတိယနေရာကို ဖျက်၍ အသစ်တစ်ခု ဖန်တီးပါ။</string>
     <string name="space_create_guide_title_1">သင်၏ကိုယ်ရေးအချက်အလက်အား ကာကွယ်ပါ</string>
     <string name="space_create_guide_desc_1">အက်ပ်နှင့် ဓာတ်ပုံများကို လုံခြုံစွာ သိမ်းဆည်းပါ</string>
     <string name="space_create_guide_title_2">အချိန်မရွေး ဖန်တီးပါ</string>
@@ -385,4 +396,7 @@
     <string name="experience_more_features">အင်္ဂါရပ်အားလုံးကို ကြည့်ရန် စက်ပေါင်းထည့်ပါ</string>
     <string name="can_not_switch_when_green_kid_active">ဒုတိယနေရာသို့ ကူးပြောင်းခြင်းအား မိဘ ထိန်းချုပ်မှုမှ ကန့်သတ်ထားသည်</string>
     <string name="need_network_when_bind">စက်များကို မပေါင်းထည့်မီ ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
+    <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. This permissions are required to send the info about battery levels, step count, and your location to the controlled devices. Allow?</string>
+    <string name="agree">Agree</string>
+    <string name="disagree">"Don't agree"</string>
 </resources>

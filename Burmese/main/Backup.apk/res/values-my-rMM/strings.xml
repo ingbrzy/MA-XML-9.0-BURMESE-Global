@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -194,7 +197,7 @@
     <string name="enable_encrypt_summery1">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းထားသော အရန်သိမ်းခြင်းများကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်ဖြင့် ဆိုင်းအင်ဝင်ပါ။</string>
     <string name="enable_encrypt_summery2">သင့်အရန်သိမ်းခြင်းများကို အလိုအလျောက် လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းလိမ့်မည်။ ၎င်းတို့ကို ဝင်ကြည့်ရန်၊ သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ဖို့ လိုအပ်သည်။</string>
     <string name="enable_encrypt_xiaomi_account">ဒီအရန်သိမ်းခြင်းကို %1$s ဖြင့် ဖန်တီးခဲ့သည်။ နဂိုနေရာပြန်ထားရန်၊ လက်ရှိ အကောင့်ကို ဖျက်ပစ်ပြီး၊ %2$s အဖြစ် ဆိုင်းအင်ဝင်ပါ။</string>
-    <string name="enable_encrypt_ok">အိုကေ</string>
+    <string name="button_got_it">အိုကေ</string>
     <string name="no_encrypt_password">စကားဝှက် မရှိပါ</string>
     <string name="enable_encrypt_fail">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းမှုအမှား</string>
     <string name="read_encrypt_fail">လျှို့ဝှက်ကုဒ်ခံသိမ်းဆည်းထားသော အရန်သိမ်းခြင်းကို ဖတ်လို့ မရပါ</string>
@@ -225,6 +228,7 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
@@ -247,6 +251,10 @@
     <string name="err_router_disconnected">သင့်ရောက်တာ၏ ကော်နက်ရှင်အား စစ်ဆေးပြီး၊ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="err_router_files_delete">သင့်ရောက်တာပေါ်ရှိ အရန်သိမ်းဖိုင်များအား ဖျက်၍မရနိုင်ခဲ့ပါ။</string>
     <string name="err_not_allow">မပံ့ပိုးထားပါ</string>
+    <string name="err_bakfile_not_exist">အရန်သိမ်းထားသောဖိုင် မရှိပါ။</string>
+    <string name="err_pkg_not_exist">အက်ပ်ကို ရှာမတွေ့ပါ။</string>
+    <string name="err_user_abort">သုံးစွဲသူမှ ပယ်ဖျက်ခဲ့သည်။</string>
+    <string name="err_binder_died">အက်ပ်သည် မမျှော်လင့်ဘဲ ရပ်တန့်သွားသည်။</string>
     <string name="backup_is_running">ကိရိယာကို အရန်သိမ်းခြင်းလုပ်နေဆဲ</string>
     <string name="restore_is_running">ကိရိယာကို နဂိုနေရာပြန်ထားနေဆဲ</string>
     <string name="notif_backup_title">ဒေတာ အရန်သိမ်းခြင်းလုပ်ပါ</string>
@@ -285,8 +293,7 @@
  Wi-Fiအား မပိတ်ပါနှင့်။ စက်များအား အချင်းချင်းနီးကပ်စွာ ထားထားပါ။"</string>
     <string name="trans_receiver_time_remained">"%s ကျန်ရှိနေ။
  Wi-Fi ဟော့စ်ပေါ့အား မပိတ်ပါနှင့်။ စက်များအား အချင်းချင်းနီးကပ်စွာ ထားထားပါ။"</string>
-    <string name="trans_time_spent">"
-သုံးစွဲချိန်−%s"</string>
+    <string name="trans_time_spent">ကြာချိန်−%s</string>
     <string name="trans_restoring_no_items">အိုင်တမ်များအား ဆင့်ခ်လုပ်နေသည်</string>
     <string name="trans_detail_category_sysdata">စနစ်ဒေတာ (မက်ဆေ့ချ်များ၊ အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုသမိုင်း ပါဝင်သည်)</string>
     <string name="trans_detail_category_userdata">အက်ပ်များ</string>
@@ -351,21 +358,27 @@
 ထို့နောက် \"ပြန်ချိတ်ဆက်ပါ\"ကို ထိနှိပ်၍ QR ကုဒ်တစ်ခု ဖန်တီးပါ။"</string>
     <string name="trans_operate_reconnect_old_tips">"ဖုန်းအဟောင်းတွင် \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။\"ဟု ပြသည်အထိစောင့်ပါ။
 ထို့နောက် \"ပြန်ချိတ်ဆက်ပါ\"ကို ထိနှိပ်၍ QR ကုဒ်ကို စကန်ဖတ်ပါ။"</string>
+    <string name="trans_generating_qrcode">QR ကုဒ် ဖန်းတီးနေသည်…</string>
+    <string name="trans_generate_qrcode_failed">QR ကုဒ် မထွက်ပေါ်လာပါ။ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="trans_wait_trans_data">"စက်ဟောင်းသို့ ချိတ်ဆက်ခဲ့သည်။ 
 လွှဲပြောင်းမှုအတွက် စ​ောင့်စားနေ…"</string>
     <string name="trans_select_data">ပေးပို့ရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="trans_select_data_tips">"လွှဲပ​ြောင်းရန်ဖိုင်များအား ရွေးချယ်ပါ
 စက်သစ်ပေါ်တွင် တူညီသော ဖိုင်များရှိပါက ထပ်ရေးလိုက်လိမ့်မည်"</string>
-    <string name="trans_select_data_no_space">"စက်အသစ်ပေါ်တွင် နေရာအလုံအလောက်မရှိပါ
- ဖိုင်အား ထပ်မံရွေးချယ်ပါ သို့မဟုတ် စက်အသစ်ပေါ်တွင် %sသိုလှောင်ရန်နေရာအား ရှင်းလင်းပစ်ပါ"</string>
+    <string name="trans_select_data_no_space">"စက်အသစ်တွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ (%s ရရှိနိုင်သည်)။
+နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
     <string name="trans_select_data_too_large">"လွှဲပြောင်းရန် ရွေးထားသော အိုင်တမ် အလွန်များနေသည်။
 လွှဲပြောင်းမှု ပိုမြန်စေရန် အရေးကြီးသော အိုင်တမ်များကိုသာ ရွေးပါ။"</string>
     <string name="trans_calculating_base_size">ဒေတာအရွယ်အစားအား တွက်ချက်နေ</string>
     <string name="trans_calculating">တွက်ချက်နေ…</string>
-    <string name="trans_native_no_space">"ဤစက်ပေါ်တွင် နေရာအလုံအလောက်မရှိပါ။
-အနည်းဆုံး%sအား ရှင်းပစ်ပါ။"</string>
+    <string name="trans_native_no_space">"စက်အဟောင်းတွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ (%s ရရှိနိုင်သည်)။
+နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
     <string name="trans_calculating_app_sd_size">ဒေတာအရွယ်အစားအား တွက်ချက်နေ−%s</string>
     <string name="trans_please_waiting">ခဏစောင့်ပါ…</string>
+    <string name="trans_old_phone_low_space_title">သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ</string>
+    <string name="trans_old_phone_low_space_msg">Mi Mover မှ လွှဲပြောင်းမည့်ဒေတာကို ပက်ကေ့ချ်လုပ်ရန် နေရာလွတ်အချို့ လိုအပ်ပါသည်၊ သို့သော် စက်အဟောင်းတွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ။ \"လုံခြုရေး\"သို့သွား၍ နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။</string>
+    <string name="button_clean_garbage">နေရာလွတ် ရှင်းလင်းပါ</string>
+    <string name="button_quit">ထွက်မည်</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -420,6 +433,7 @@
     <string name="trans_disconnected_tips_title">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်</string>
     <string name="trans_disconnected_tips_message">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ကိုယ်တိုင်ပြန်ချိတ်ဆက်ပါ သို့မဟုတ် လွှဲပြောင်းမှုကို ဖျက်သိမ်းပါ။</string>
     <string name="trans_button_cancel">ပယ်ဖျက်မည်</string>
+    <string name="trans_failed_details_page_title">မအောင်မြင်သော လွှဲပြောင်းမှုများ</string>
     <string name="close_twice_auth_tutor">Apple ID လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ</string>
     <string name="close_twice_auth_steps">Apple ID အတွက် လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ရန် အောက်ပါအတိုင်းလုပ်ပါ-</string>
     <string name="close_twice_auth_step_1">၁. ကွန်ပျူတာတွင် ဘရောက်ဇာမှတဆင့် appleid.apple.com သို့သွားပါ။</string>
@@ -486,6 +500,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>

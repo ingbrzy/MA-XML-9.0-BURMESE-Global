@@ -46,6 +46,10 @@
     <plurals name="dialog_confirm_delete_downloads_message">
         <item quantity="other">အိုင်တမ် %d ခုကို ဖျက်မည်လား?</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message_with_file">
+        <item quantity="other">"အိုင်တမ် %dခုအား ဖျက်ပစ်မလား?
+သတိ- ဤစက်မှ ဖိုင်လည်း ပျက်သွားလိမ့်မည်။"</item>
+    </plurals>
     <plurals name="dialog_delete_descript">
         <item quantity="other">သီချင်း %d ပုဒ်အား ဖျက်ပစ်မည်လား?</item>
     </plurals>

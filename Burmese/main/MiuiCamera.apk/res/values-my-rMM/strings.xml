@@ -95,7 +95,8 @@
     <string name="pref_camera_ai_scene_title">AI ကင်မရာ</string>
     <string name="pref_camera_front_ai_scene_entry_on">AI ကင်မရာ</string>
     <string name="pref_camera_front_ai_scene_entry_off">AI ကင်မရာအား ပိတ်ထားသည်</string>
-    <string name="ai_scene_mode_use_hint_text">Ai-မြင်ကွင်းကင်မရာအား ဖွင့်ပါ၊ ဓာတ်ပုံမြင်ကွင်းအပေါ်မူတည်၍ ဓာတ်ပုံအား အဆင့်မြှင့်တင်ပေးမည်</string>
+    <string name="ai_scene_mode_use_hint_text">"AI ကင်မရာသည် မြင်ကွင်းများကို အလိုအလျောက်ထုတ်ဖေါ်
+ပြီး ထိုအချက်အလက်ပေါ်မူတည်၍ ဓာတ်ပုံများကို အဆင့်မြှင့်တင်ပေးပါမည်"</string>
     <string name="pref_camera_coloreffect_entry_none">သာမန်</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">လိုမို</string>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">အေးမြလန်းဆန်း</string>
@@ -142,6 +143,9 @@
     <string name="portait_effect_entry_maze">ဝင်္ကပါ</string>
     <string name="portait_effect_entry_cool">ဆန်းသစ်</string>
     <string name="portait_effect_entry_blackwhite">B&amp;W</string>
+    <string name="portait_effect_entry_story">ပုံပြင်</string>
+    <string name="portait_effect_entry_riddle">ပဟေဠိ</string>
+    <string name="portait_effect_entry_movie">ရုပ်ရှင်</string>
     <string name="pref_camera_touchafaec_entry_off">ပိတ်</string>
     <string name="pref_camera_touchafaec_entry_on">ဖွင့်</string>
     <string name="pref_camera_multilevel_entry_lowest">အနိမ့်ဆုံး</string>
@@ -216,7 +220,7 @@
     <string name="accessibility_more">နောက်ထပ်</string>
     <string name="accessibility_setting">ဆက်တင်</string>
     <string name="accessibility_protrait">လူပုံ</string>
-    <string name="accessibility_foucs_peak">Peak value</string>
+    <string name="accessibility_foucs_peak">အမြင့်ဆုံးတန်ဖိုး</string>
     <string name="accessibility_selected">ရွေးထားသော အိုင်တမ်များ</string>
     <string name="accessibility_open">ဖွင့်ထားသည်</string>
     <string name="accessibility_closed">ပိတ်ထားသည်</string>
@@ -242,6 +246,7 @@
     <string name="pref_camera_video_duration_entry_120">အကန့်အသတ်မဲ့</string>
     <string name="pref_camera_zsl_entry_off">ပိတ်</string>
     <string name="pref_camera_zsl_entry_on">ဖွင့်</string>
+    <string name="pref_camera_facedetection_title">မျက်နှာရှာဖွေခြင်း</string>
     <string name="camera_facedetection_sub_option_hint">စမ်းသပ်ဆဲ အင်္ဂါရပ်</string>
     <string name="pref_camera_hand_night_title">HHT</string>
     <string name="camera_settings_label">ကင်မရာ</string>
@@ -410,6 +415,7 @@
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
     <string name="pref_camera_zoom_mode_entry_standard">ပုံမှန်</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">အလင်းမှိန်သော</string>
+    <string name="pref_camera_zoom_value_title">ဇူးမ်ချုံ့ချဲ့</string>
     <string name="pref_camera_portrait_mode_title">လူပုံမုဒ်</string>
     <string name="pref_camera_portrait_mode_entry_off">လူပုံမုဒ်ကို ပိတ်ထားသည်</string>
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
@@ -419,6 +425,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -433,6 +440,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -502,4 +510,6 @@
  ပိုမို လွယ်ကူပါသည်"</string>
     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
+    <string name="pref_camera_asd_popup_title">ဖလက်ရှ်မီး လိုအပ်ပါက အသိပေးပါ</string>
+    <string name="pref_video_captrue_ability_title">အသံဖမ်းနေစဉ် ပုံရိုက်ယူပါ</string>
 </resources>

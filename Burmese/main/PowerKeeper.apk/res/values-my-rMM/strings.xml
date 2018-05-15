@@ -27,6 +27,9 @@
     <string name="power_usage">ပါဝါ သုံးစွဲမှု</string>
     <string name="power_mode">ပါဝါ ဆက်တင်များ</string>
     <string name="performance_category">စွမ်းဆောင်ရည်</string>
+    <string name="pref_config_title">စွမ်းဆောင်ရည် မြှင့်တင်ခြင်း</string>
+    <string name="app_preload_policies_title">AI ကြိုတင် လုပ်ဆောင်ခြင်း</string>
+    <string name="app_preload_policies_summary">စက်သင်ယူမှုဖြင့် သင်အသုံးပြုဆုံးဖြစ်ဖွယ်ရှိသော အက်ပ်များကို ကြိုတင်ခန့်မှန်းပြီး အရင်းအမြစ်များကို ကြိုတင်ရယူပါ။</string>
     <string name="scenario_policies_warmcontrol">အပူချိန်ထိန်းချုပ်မှု</string>
     <string name="warm_configure">အပူချိန်ထိန်းချုပ်မှု ဆက်တင်များ</string>
     <string name="important_warning">သတိပြုပါ</string>
@@ -72,18 +75,18 @@
     <string name="update_profile_sucess">ဆာဗာမှ အပ်ဒိတ်လုပ်ပြီးပါပြီ</string>
     <string name="update_profile_failture_not_connect_wifi">အပ်ဒိတ်လုပ်၍ မရပါ။ Wi-Fi သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="sucess">ပြီးပါပြီ</string>
-    <string name="failure">မအောင်မြင်ပါ</string>
+    <string name="failure">အမှား</string>
     <string name="cloud_addr_info">Cloud အချက်အလက်</string>
     <string name="lasttime_feature_cloud">အပ်ဒိတ်အသွင်ပြင်များ-</string>
     <string name="lasttime_applist_cloud">အပ်ဒိတ်လုပ်ထားသော အက်ပ်များ-</string>
     <string name="base_info">အခြေခံ အချက်အလက်</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">မည်သည့်အက်ပ်မှ ရှာမတွေ့ပါ</string>
-    <string name="power_consume_abnormal_night">In night power consume abnormal</string>
-    <string name="enable_sleep_mode">Enabling sleep mode to optimize night standby</string>
-    <string name="sleepmode_privacy_title">Sleep mode</string>
-    <string name="sleepmode_privacy_content">This feature will use your phone system and device information data, which will not be uploaded to the server</string>
-    <string name="sleepmode_privacy_link">Detailed security and privacy</string>
-    <string name="sleepmode_disclaimer_cancel">Cancle</string>
-    <string name="sleepmode_disclaimer_agree">Agree</string>
+    <string name="power_consume_abnormal_night">ညအချိန်တွင် ဘက်ထရီသုံးစွဲမှုများနေသည်</string>
+    <string name="enable_sleep_mode">ဘက်ထရီသုံးစွဲမှု ပိုမိုခံနိုင်ရန် ညအချိန်တွင် အိပ်စက်မုဒ်အား ဖွင့်ထားပါ</string>
+    <string name="sleepmode_privacy_title">အိပ်စက်ခြင်းမုဒ်</string>
+    <string name="sleepmode_privacy_content">ဤအင်္ဂါရပ်သည် သင်၏ဖုန်းစနစ်နှင့် စက်အချက်အလက်ဒေတာကို အသုံးပြုလိမ့်မည်၊ ဆာဗာများသို့ လုဒ်မတင်ပါ။</string>
+    <string name="sleepmode_privacy_link">ကိုယ်ရေးအချက်အလက်လုံခြုရေးအကြောင်း ပိုမိုသိရှိရန်</string>
+    <string name="sleepmode_disclaimer_cancel">ပယ်ဖျက်မည်</string>
+    <string name="sleepmode_disclaimer_agree">သဘောတူပါသည်</string>
 </resources>

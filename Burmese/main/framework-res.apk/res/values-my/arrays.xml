@@ -38,6 +38,7 @@
         <item>မိမိစိတ်ကြိုက်</item>
     </string-array>
     <array name="fingerprint_acquired_vendor" />
+    <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>ပင်မစာမျက်နှာ</item>
         <item>အလုပ်</item>

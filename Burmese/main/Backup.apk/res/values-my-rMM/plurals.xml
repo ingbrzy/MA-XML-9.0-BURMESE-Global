@@ -15,6 +15,12 @@
     <plurals name="custom_progress">
         <item quantity="other">အိုင်တမ် %dခု</item>
     </plurals>
+    <plurals name="trans_failed_summary">
+        <item quantity="other">အိုင်တမ် %d ခုကို လွှဲပြောင်း၍မရပါ။ အသေးစိတ်ကြည့်ရှုရန် ထိနှိပ်ပါ။</item>
+    </plurals>
+    <plurals name="trans_item_failed_summary">
+        <item quantity="other">အိုင်တမ် %dခုကို လွှဲပြောင်း၍ မရပါ။</item>
+    </plurals>
     <plurals name="trans_time_format_minute">
         <item quantity="other">%d မိနစ်</item>
     </plurals>

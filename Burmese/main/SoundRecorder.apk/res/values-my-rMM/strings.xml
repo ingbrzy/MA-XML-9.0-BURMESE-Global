@@ -73,7 +73,7 @@
     <string name="pause">တန့်ရပ်ပါ</string>
     <string name="back">ယခင်သို့</string>
     <string name="menu">မီနူး</string>
-    <string name="toast_uninstall_fileexplorer">အိပ်ပလိုရာအက်ပ်ကို တပ်ဆင်မထားပါ</string>
+    <string name="toast_uninstall_fileexplorer">ဖိုင်မန်နေဂျာအား မထည့်သွင်းရသေးပါ</string>
     <string name="record_download">Mi Cloud မှ ဒေါင်းလုဒ်လုပ်ပါ</string>
     <string name="record_download_msg">ဖမ်းယူထားသည့်အသံပိုင်းများကို ဒေါင်းလုဒ်လုပ်ပြီးနောက်သာလျှင်၊ ၎င်းတို့ကို ဖွင့်နိုင်ပါမည်။</string>
     <string name="record_download_msg_reload">ဒီအသံဖမ်းယူသည့်အရာက ရှိမနေပါ။</string>

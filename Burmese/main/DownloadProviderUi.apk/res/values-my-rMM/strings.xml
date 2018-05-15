@@ -196,6 +196,9 @@
     <string name="toast_only_wifi_download">အိုင်တမ်များအား ဒေါင်းလုဒ်လုပ်ရန် Wi-Fi နှင့် ချိတ်ဆက်ပါ</string>
     <string name="total_speedup">အရှိန်မြှင့်တင်မှု(စုစုပေါင်း)</string>
     <string name="version">ဗားရှင်း %s</string>
-    <string name="app_downloads">%sdownloads</string>
-    <string name="dialog_confirm_delete_downloads_message">ရွေးထားသော လုပ်ငန်းစဥ်များအား ဖျက်မလား?</string>
+    <string name="get_data_failed">အချက်အလက် မရယူနိုင်ခဲ့ပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="load_finish_hint">အားလုံးပြီးပါပြီ။</string>
+    <string name="loading">ခဏစောင့်ပါ…</string>
+    <string name="net_error">အင်တာနက်သို့ ချိတ်ဆက်ပြီး ပြန်ကြိုးစားကြည့်ပါ</string>
+    <string name="rank_app_list">ဒေါင်းလုဒ် အများဆုံး</string>
 </resources>

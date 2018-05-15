@@ -5,11 +5,13 @@
     <string name="copyUrl">URLအား ကူးခြင်း</string>
     <string name="cut">ဖြတ်ခြင်း</string>
     <string name="defaultVoiceMailAlphaTag">အသံစာပို့စနစ်</string>
+    <string name="defaultMsisdnAlphaTag">MSISDN1</string>
     <string name="emptyPhoneNumber">(ဖုန်းနံပါတ်မရှိပါ)</string>
     <string name="httpErrorBadUrl">URL က အမှန်အကန် မဟုတ်သောကြောင့် စာမျက်နှာကို ဖွင့် လို့ မရပါ</string>
     <string name="httpErrorUnsupportedScheme">ပရိုတိုကောကို ပံ့ပိုး မပေးပါ။</string>
     <string name="no">မလုပ်တော့</string>
     <string name="ok">အိုကေ</string>
+    <string name="paste">Paste</string>
     <string name="search_go">ရှာဖွေခြင်း</string>
     <string name="selectAll">အားလုံးရွေးရန်</string>
     <string name="unknownName">မသိရ</string>
@@ -21,6 +23,7 @@
     <string name="dialog_alert_title">သတိပြုရန်</string>
     <string name="VideoView_error_text_invalid_progressive_playback">ဒီဗိဒီယိုမှာ ဒီကိရိယာ ပေါ်မှာ ဖွင့်ကြည့်၍ မရနိုင်ပါ။</string>
     <string name="selectTextMode">စာသား ရွေးရန်</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="fingerprint_icon_content_description">လက်ဗွေ အိုင်ကွန်</string>
     <string name="paste_as_plain_text">စာသားအတိုင်း ကူးထည့်ပါ</string>
     <string name="BaMmi">အဝင်ခေါ်ဆိုမှုအားတားဆီးခြင်း</string>
@@ -118,6 +121,7 @@
     <string name="anr_activity_process">%1$s သည်တုံ့ပြန်မှုမရှိပါ</string>
     <string name="anr_application_process">%1$s သည်တုံ့ပြန်မှုမရှိပါ</string>
     <string name="anr_process">%1$s လုပ်ဆောင်ချက်သည် တုံ့ပြန်မှုမရှိပါ</string>
+    <string name="anr_title" />
     <string name="app_category_audio">တေးဂီတနှင့် အသံ</string>
     <string name="app_category_game">ဂိမ်းများ</string>
     <string name="app_category_image">ဓာတ်ပုံနှင့် ပုံများ</string>
@@ -132,6 +136,10 @@
     <string name="app_running_notification_title">%1$s က အလုပ်လုပ်နေသည်။</string>
     <string name="app_upgrading_toast">%1$s ကို အဆင့်မြှင့်တင်နေပါသည်…</string>
     <string name="autofill">အော်တိုဖြည့်</string>
+    <string name="autofill_address_name_separator">" "</string>
+    <string name="autofill_address_summary_format">$1$2$3</string>
+    <string name="autofill_address_summary_name_format">$1$2$3</string>
+    <string name="autofill_address_summary_separator">", "</string>
     <string name="autofill_area">နေရာ</string>
     <string name="autofill_county">နယ်</string>
     <string name="autofill_department">ဌာန</string>
@@ -175,6 +183,7 @@
     <string name="bugreport_option_interactive_summary">အခြေအနေတော်တော်များများတွင် ၎င်းကိုအသုံးပြုပါ။ ၎င်းသည် အစီရင်ခံစာကို မှတ်သားခြင်း၊ ပြဿနာအကြောင်း နောက်ထပ်အသေးစိတ်များကို ထည့်သွင်းခြင်းနှင့် မျက်နှာပြင်ပုံဖမ်းယူခြင်းတို့ကို ပြုလုပ်ခွင့်ပေးပါသည်။ ပေးပို့ရန် အလွန်ကြာပြီး အသုံးပြုခြင်းနည်းပါးသည့်အပိုင်းကို ၎င်းက ချန်ခဲ့နိုင်ပါသည်။</string>
     <string name="bugreport_option_interactive_title">လက်ငင်းတုံ့ပြန်နိုင်သည့် အစီရင်ခံချက်</string>
     <string name="bugreport_title">အမှားရှာဖွေပြင်ဆင်မှုမှတ်တမ်းအား ယူရန်</string>
+    <string name="byteShort">B</string>
     <string name="capability_desc_canCaptureFingerprintGestures">ကိရိယာ၏ လက်ဗွေအာရုံခံကိရိယာတွင် နှိပ်ထားသည်များကို မှတ်သားထားနိုင်သည်။</string>
     <string name="capability_desc_canControlMagnification">မျက်နှာပြင် ဇူးမ်အရွယ်နှင့် နေရာချထားခြင်းကို ထိန်းချုပ်ပါ။</string>
     <string name="capability_desc_canPerformGestures">တို့ခြင်း၊ ပွတ်ဆွဲခြင်း၊ နှင့် အခြား လက်ဟန်များကို အသုံးပြုနိုင်ပါသည်။</string>
@@ -196,6 +205,7 @@
     <string name="carrier_app_dialog_not_now">ယခုမဟုတ်သေးပါ</string>
     <string name="carrier_app_notification_text">၎င်းကိုတပ်ဆင်ရန် တို့ပါ</string>
     <string name="carrier_app_notification_title">SIM အသစ်ထည့်သွင်းလိုက်ပါသည်</string>
+    <string name="cfTemplateForwarded">{0}: {1}</string>
     <string name="cfTemplateForwardedTime">{0}: {1} နောက် {2} စက္ကန့်</string>
     <string name="cfTemplateNotForwarded">{0}: ထပ်ဆင့်မပို့နိုင်ပါ</string>
     <string name="cfTemplateRegistered">{0}: ထပ်ဆင့်မပို့နိုင်ပါ</string>
@@ -252,6 +262,7 @@
     <string name="default_audio_route_name">ဖုန်း</string>
     <string name="default_audio_route_name_dock_speakers">အထိုင်ရှိသော စပီကာများ</string>
     <string name="default_audio_route_name_headphones">နားကြပ်</string>
+    <string name="default_media_route_name_hdmi">HDMI</string>
     <string name="default_notification_channel_label">အမျိုးအစားမခွဲရသေးပါ</string>
     <string name="delete">ဖျက်ရန်</string>
     <string name="deleteText">ဖျက်ရန်</string>
@@ -294,6 +305,8 @@
     <string name="durationSecond">%1$d စက္ကန့်</string>
     <string name="durationSeconds">%1$d စက္ကန့်</string>
     <string name="editTextMenuTitle">စာတို လုပ်ဆောင်ချက်</string>
+    <string name="elapsed_time_short_format_h_mm_ss">%1$d:%2$02d:%3$02d</string>
+    <string name="elapsed_time_short_format_mm_ss">%1$02d:%2$02d</string>
     <string name="email">အီးမေးလ်</string>
     <string name="emailTypeCustom">မိမိစိတ်ကြိုက်</string>
     <string name="emailTypeHome">အိမ်</string>
@@ -309,6 +322,7 @@
     <string name="error_message_title">အမှား</string>
     <string name="etws_primary_default_message_earthquake">စိတ်ငြိမ်ငြိမ်ထားပြီး အနီးအနားတဝိုက်တွင် ခိုနားစရာ နေရာရှာပါ။</string>
     <string name="etws_primary_default_message_earthquake_and_tsunami">စိတ်ငြိမ်ငြိမ်ထားပြီး အနီးအနားတဝိုက်တွင် ခိုနားစရာ နေရာရှာပါ။</string>
+    <string name="etws_primary_default_message_others" />
     <string name="etws_primary_default_message_test">အရေးပေါ် မက်ဆေ့ဂျ် စမ်းသပ်မှု</string>
     <string name="etws_primary_default_message_tsunami">ကမ်းရိုးတန်းနှင့် မြစ်ကမ်းရိုးတစ်လျှောက်ရှိ နေရာဒေသတို့မှ ချက်ချင်းထွက်ခွာပြီး ဘေးကင်းရာကုန်းမြင့်ဒေသသို့ ပြောင်းရွှေ့ပါ။</string>
     <string name="eventTypeAnniversary">အထိမ်းအမှတ်</string>
@@ -365,8 +379,11 @@
     <string name="factorytest_no_action">စက်ရုံစမ်းသပ်မှုအားလုပ်ဆောင်ရန် မည်သည့်packageမှ မတွေ့ပါ။</string>
     <string name="factorytest_not_system">စက်ရုံစမ်းသပ်မှုမှာ စနစ်/အက်ပ်ထည့်သွင်းထားသောpackageများကိုသာ ပံ့ပိုးမှုပေးသည်။.</string>
     <string name="factorytest_reboot">လုပ်ငန်းစနစ်ထည့်သွင်းပြီး ပြန်လည်စတင်ရန်</string>
+    <string name="fast_scroll_alphabet">" ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
+    <string name="fast_scroll_numeric_alphabet">" 0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ"</string>
     <string name="fcComplete">ပုံစံကုတ်ပြီးဆုံးသည်</string>
     <string name="fcError">ဆက်သွယ်မှုဆိုင်ရာပြသနာ သို့မဟုတ် တရားမဝင်သောပုံစံကုတ်</string>
+    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="find">ရှာဖွေရန်</string>
     <string name="find_next">နောက်တစ်ခု ရှာဖွေရန်</string>
     <string name="find_on_page">စာမျက်နှာတွင်ရှာဖွေရန်</string>
@@ -395,6 +412,7 @@
     <string name="forward_intent_to_owner">သင်သည် ဒီအက်ပ်ကို သင့်အလုပ်ပရိုဖိုင် ပြင်ပတွင် အသုံးပြုနေ၏</string>
     <string name="forward_intent_to_work">သင်သည် ဒီအက်ပ်ကို သင်၏ အလုပ် ပရိုဖိုင် ထဲမှာ အသုံးပြုနေသည်</string>
     <string name="gadget_host_error_inflating">ဝဒ်ဂျက်ထည့်လို့ မရပါ</string>
+    <string name="gigabyteShort">GB</string>
     <string name="global_action_assist">အကူအညီ</string>
     <string name="global_action_bug_report">အမှားရှာဖွေပြင်ဆင်မှုမှတ်တမ်း</string>
     <string name="global_action_emergency">အရေးပေါ်</string>
@@ -413,6 +431,8 @@
     <string name="gpsNotifMessage">%1$s (%2$s)မှတောင်းခံသည်</string>
     <string name="gpsNotifTicker">%sမှ တည်နေရာအား တောင်းခံသည်</string>
     <string name="gpsNotifTitle">တည်နေရာအား တောင်းခံသည်</string>
+    <string name="gpsVerifNo">No</string>
+    <string name="gpsVerifYes">Yes</string>
     <string name="grant_credentials_permission_message_footer">ဤတောင်းခံမှုအားခွင့်ပြုမည်လား</string>
     <string name="grant_credentials_permission_message_header">အောက်ပါထဲက အက်ပ်တစ်ခု သို့မဟုတ် ပိုလျက် သင်၏ အကောင့်ကို၊ ယခု နှင့် အနာဂတ်မှာ ရယူအသုံးချရန် ခွင့်ပြုချက်ကို တောင်းထားသည်။</string>
     <string name="grant_permissions_header_text">သုံးစွဲခွင့် တောင်းဆိုရန်</string>
@@ -442,7 +462,16 @@
     <string name="httpErrorTimeout">ဆာဗာအားဆက်သွယ်မှု အချိန်ကုန်ဆုံးသွားပါသည်</string>
     <string name="httpErrorTooManyRequests">တောင်းခံမှုများစွာကို ပြုလုပ်နေသည် အချိန်အနည်းငယ်အကြာတွင်ပြန်လည်လုပ်ပါ</string>
     <string name="httpErrorUnsupportedAuthScheme">ဆိုက် မှန်ကန်မှု စိစစ်ရေး စနစ်ကို ပံ့ပိုး မပေးပါ။</string>
+    <string name="imProtocolAim">AIM</string>
     <string name="imProtocolCustom">မိမိစိတ်ကြိုက်</string>
+    <string name="imProtocolGoogleTalk">Hangouts</string>
+    <string name="imProtocolIcq">ICQ</string>
+    <string name="imProtocolJabber">Jabber</string>
+    <string name="imProtocolMsn">Windows Live</string>
+    <string name="imProtocolNetMeeting">NetMeeting</string>
+    <string name="imProtocolQq">QQ</string>
+    <string name="imProtocolSkype">Skype</string>
+    <string name="imProtocolYahoo">Yahoo</string>
     <string name="imTypeCustom">မိမိစိတ်ကြိုက်</string>
     <string name="imTypeHome">ပင်မစာမျက်နှာ</string>
     <string name="imTypeOther">တခြား</string>
@@ -454,6 +483,7 @@
     <string name="ime_action_previous">အနောက်သို့</string>
     <string name="ime_action_search">ရှာဖွေခြင်း</string>
     <string name="ime_action_send">ပို့ရန်</string>
+    <string name="imei">IMEI</string>
     <string name="immersive_cling_description">ထွက်ရန်၊ ထိပ်ဘက်မှ အောက်ဘက်သို့ ဆွဲချပါ။</string>
     <string name="immersive_cling_positive">ရပါပြီ</string>
     <string name="immersive_cling_title">မျက်နှာပြင်အပြည့် ကြည့်နေစဉ်</string>
@@ -473,6 +503,7 @@
     <string name="js_dialog_before_unload_positive_button">ဒီစာမျက်နှာကနေ သွားပါ</string>
     <string name="js_dialog_before_unload_title">သေချာကြောင်း လုပ်ပါ</string>
     <string name="js_dialog_title">ဒီ \"%s\" က စာမျက်နှာက ပြောဆိုတာက:</string>
+    <string name="js_dialog_title_default">JavaScript</string>
     <string name="keyboardview_keycode_alt">Altခလုတ်</string>
     <string name="keyboardview_keycode_cancel">မလုပ်တော့ ခလုတ်</string>
     <string name="keyboardview_keycode_delete">ဖျက်ရန်</string>
@@ -539,6 +570,7 @@
     <string name="kg_reordering_delete_drop_target_text">ဖယ်ရှားရန်</string>
     <string name="kg_sim_pin_instructions">ဆင်းမ်ကဒ် ပင် နံပါတ် ရိုက်ထည့်ပါ</string>
     <string name="kg_sim_unlock_progress_dialog_message">ဆင်းမ်ကဒ် ကို သော့ဖွင့်နေပါသည်</string>
+    <string name="kg_text_message_separator">" — "</string>
     <string name="kg_too_many_failed_attempts_countdown">%1$d စက္ကန့်အကြာတွင် ပြန်ကြိုးစားပါ</string>
     <string name="kg_too_many_failed_password_attempts_dialog_message">"သင်သည် စကားဝှက်ကို  %1$d ကြိမ် မှားရိုက်ပြီးပါပြီ။ 
 
@@ -552,6 +584,7 @@
     <string name="kg_wrong_password">စကားဝှက်အမှား</string>
     <string name="kg_wrong_pattern">ပုံဆွဲအမှား</string>
     <string name="kg_wrong_pin">ပင် နံပါတ်အမှား</string>
+    <string name="kilobyteShort">kB</string>
     <string name="language_picker_section_all">ဘာသာစကားများအားလုံး</string>
     <string name="language_picker_section_suggested">အကြံပြုထားသော</string>
     <string name="language_selection_title">ဘာသာစကားတစ်ခု ထည့်ပါ</string>
@@ -721,6 +754,7 @@
     <string name="mediasize_japanese_jis_b7">JIS ဘီ၇</string>
     <string name="mediasize_japanese_jis_b8">JIS ဘီ၈</string>
     <string name="mediasize_japanese_jis_b9">JIS ဘီ၉</string>
+    <string name="mediasize_japanese_jis_exec">JIS Exec</string>
     <string name="mediasize_japanese_kahu">ကဟူ</string>
     <string name="mediasize_japanese_kaku2">ကဟူ၂</string>
     <string name="mediasize_japanese_oufuku">အိုဖူကူ</string>
@@ -739,8 +773,11 @@
     <string name="mediasize_na_tabloid">တက်ဘလွိုက်</string>
     <string name="mediasize_unknown_landscape">အလျားလိုက် အရွယ်မသိ</string>
     <string name="mediasize_unknown_portrait">ထောင်လိုက် အရွယ်မသိ</string>
+    <string name="megabyteShort">MB</string>
     <string name="meid">MEIDနံပါတ်</string>
     <string name="menu_delete_shortcut_label">ဖျက်ရန်</string>
+    <string name="menu_enter_shortcut_label">enter</string>
+    <string name="menu_space_shortcut_label">space</string>
     <string name="midnight">ညသန်းခေါင်</string>
     <string name="minute">မိနစ်</string>
     <string name="minute_picker_description">မိနစ်လှည့်သော ရွေ့လျားတန်</string>
@@ -758,6 +795,7 @@
     <string name="muted_by">%1$s အသံပိတ်သည်</string>
     <string name="needPuk">ဆင်းမ်ကဒ် ရဲ့ ပင်နံပါတ် ပြန်ဖွင့်သည့် ကုဒ် သော့ကျနေပါသည်။ ဖွင့်ရန် ကုဒ်အားထည့်သွင်းပါ။</string>
     <string name="needPuk2">ဆင်းမ်ကဒ်အားမပိတ်ရန် PUK2အားထည့်သွင်းပါ</string>
+    <string name="negative_duration">−%1$s</string>
     <string name="network_available_sign_in">ကွန်ယက်သို့ လက်မှတ်ထိုးဝင်ရန်</string>
     <string name="network_logging_notification_text">ဤစက်ပစ္စည်းကို သင်၏ အဖွဲ့အစည်းက စီမံပြီး ကွန်ရက်အသွားအလာကို စောင့်ကြည့်နိုင်ပါသည်။ ထပ်မံလေ့လာရန် တို့ပါ။</string>
     <string name="network_logging_notification_title">စက်ပစ္စည်းကို စီမံခန့်ခွဲထားပါသည်</string>
@@ -802,6 +840,7 @@
     <string name="notification_hidden_by_policy_text">မူဝါဒမှ အကြောင်းအရာများကို ဝှက်ထားသည်</string>
     <string name="notification_hidden_text">အကြောင်းအရာများ ဝှက်ထား</string>
     <string name="notification_listener_binding_label">အကြောင်းကြားချက် နားတောင်သူ</string>
+    <string name="notification_messaging_title_template">%1$s− %2$s</string>
     <string name="notification_ranker_binding_label">သတိပေးချက် အဆင့်သတ်မှတ်ခြင်းဝန်ဆောင်မှု</string>
     <string name="notification_title">%1$s ဝင်ရာ အမှား</string>
     <string name="notification_work_profile_content_description">အလုပ်ကိုယ်ရေးအချက်အလက်</string>
@@ -825,6 +864,9 @@
     <string name="package_installed_device_owner">သင်၏ စီမံခန့်ခွဲသူက ထည့်သွင်းထားသည်</string>
     <string name="package_updated_device_owner">သင်၏ စီမံခန့်ခွဲသူက အပ်ဒိတ်လုပ်ထားသည်</string>
     <string name="passwordIncorrect">လျို့ဝှက် နံပါတ်မှားယွင်းနေသည်</string>
+    <string name="password_keyboard_label_alpha_key">ABC</string>
+    <string name="password_keyboard_label_alt_key">ALT</string>
+    <string name="password_keyboard_label_symbol_key">\?123</string>
     <string name="peerTtyModeFull">အခြားစက်မှ TTY မုဒ် FULL ပြုရန် တောင်းဆို၏</string>
     <string name="peerTtyModeHco">အခြားစက်မှ TTY မုဒ် HCO ပြုရန် တောင်းဆို၏</string>
     <string name="peerTtyModeOff">TTY မုဒ် OFF ပြုရန် အခြားစက်မှ တောင်းဆို၏</string>
@@ -1065,6 +1107,7 @@
     <string name="permlab_writeSyncSettings">ထပ်တူညီအောင် လုပ်ခြင်းအား ပြုနိုင်၊ မပြုနိုင် အပြောင်းအလဲလုပ်ခြင်း</string>
     <string name="perms_description_app">%1$s မှ ထောက်ပံ့သည်</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">အသစ်: </font></string>
+    <string name="petabyteShort">PB</string>
     <string name="phoneTypeAssistant">အထောက်အကူ</string>
     <string name="phoneTypeCallback">ပြန်လည်ခေါ်ဆိုမှုဆိုင်ရာ</string>
     <string name="phoneTypeCar">ကား</string>
@@ -1073,13 +1116,16 @@
     <string name="phoneTypeFaxHome">အိမ်ဖက်စ်</string>
     <string name="phoneTypeFaxWork">အလုပ်ဖက်စ်</string>
     <string name="phoneTypeHome">အိမ်</string>
+    <string name="phoneTypeIsdn">ISDN</string>
     <string name="phoneTypeMain">ပင်မ</string>
+    <string name="phoneTypeMms">MMS</string>
     <string name="phoneTypeMobile">မိုဘိုင်း</string>
     <string name="phoneTypeOther">တခြား</string>
     <string name="phoneTypeOtherFax">တခြားဖက်စ်</string>
     <string name="phoneTypePager">ပေဂျာ</string>
     <string name="phoneTypeRadio">ရေဒီယို</string>
     <string name="phoneTypeTelex">သံကြိုး</string>
+    <string name="phoneTypeTtyTdd">TTY TDD</string>
     <string name="phoneTypeWork">အလုပ်</string>
     <string name="phoneTypeWorkMobile">အလုပ်မိုဘိုင်း</string>
     <string name="phoneTypeWorkPager">အလုပ်ပေဂျာ</string>
@@ -1113,6 +1159,7 @@
     <string name="postalTypeWork">အလုပ်</string>
     <string name="power_dialog">ဖုန်းဆိုင်ရာရွေးချယ်မှုများ</string>
     <string name="power_off">စက်ပိတ်ပါ</string>
+    <string name="prepend_shortcut_label">Menu+</string>
     <string name="preposition_for_date">%s တွင်</string>
     <string name="preposition_for_time">%sမှာ</string>
     <string name="preposition_for_year">%sတွင်</string>
@@ -1150,6 +1197,7 @@
     <string name="relationTypeRelative">ဆွေမျိုး</string>
     <string name="relationTypeSister">ညီအမ</string>
     <string name="relationTypeSpouse">အိမ်ထောင်ဖက်</string>
+    <string name="relative_time">%1$s, %2$s</string>
     <string name="replace">အစားထိုခြင်း</string>
     <string name="report">သတင်းပို့ပါ</string>
     <string name="reset">ပြန်လည်သတ်မှတ်ရန်</string>
@@ -1221,8 +1269,11 @@
     <string name="sending">ပေးပို့နေစဉ်…</string>
     <string name="serial_number">အစဉ်လိုက်နံပါတ်</string>
     <string name="serviceClassData">ဒေတာ</string>
+    <string name="serviceClassDataAsync">Async</string>
     <string name="serviceClassDataSync">ထပ်တူ ကိုက်ညီခြင်း</string>
     <string name="serviceClassFAX">ဖက်စ်</string>
+    <string name="serviceClassPAD">PAD</string>
+    <string name="serviceClassPacket">Packet</string>
     <string name="serviceClassSMS">စာတိုစနစ်</string>
     <string name="serviceClassVoice">အသံ</string>
     <string name="serviceDisabled">ဝန်ဆောင်မှုအား ရပ်ဆိုင်းသည်</string>
@@ -1304,6 +1355,7 @@
     <string name="system_error_manufacturer">သင့်ကိရိယာအတွင်းပိုင်းတွင် ပြဿနာရှိနေ၏။ အသေးစိတ်သိရန်အတွက် ပစ္စည်းထုတ်လုပ်သူအား ဆက်သွယ်ပါ။</string>
     <string name="system_error_wipe_data">သင့်ကိရိယာအတွင်းပိုင်းတွင် ပြဿနာရှိနေပြီး၊ မူလစက်ရုံထုတ်အခြေအနေအဖြစ် ပြန်လည်ရယူနိုင်သည်အထိ အခြေအနေမတည်ငြိမ်နိုင်ပါ။</string>
     <string name="taking_remote_bugreport_notification_title">ချွတ်ယွင်းချက် အစီရင်ခံစာပြုစုနေသည်...</string>
+    <string name="terabyteShort">TB</string>
     <string name="tethered_notification_message">စနစ်ထည့်သွင်းရန် တို့ပါ။</string>
     <string name="tethered_notification_title">တဆင့်ပြန်လည်လွှင့်ခြင်း သို့မဟုတ် ဟော့စပေါ့ ဖွင့်ထားသည်</string>
     <string name="textSelectionCABTitle">စာတိုရွေးချယ်မှု</string>
@@ -1453,5 +1505,6 @@
     <string name="zen_mode_feature_name">မနှောင့်ယှက်ရ</string>
     <string name="zen_mode_forever">မနှောင့်ယှက်ရန် ကိုသင်ပိတ်သည်အထိ</string>
     <string name="zen_mode_forever_dnd">မနှောင့်ယှက်ရန် ကိုသင်ပိတ်သည်အထိ</string>
+    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="zen_mode_until">%1$sအထိ</string>
 </resources>

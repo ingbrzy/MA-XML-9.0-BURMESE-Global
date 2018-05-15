@@ -55,6 +55,6 @@
         <item quantity="other">%dမိနစ် ကျန်ရှိသည်</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
+        <item quantity="other">နေသာသော</item>
     </plurals>
 </resources>

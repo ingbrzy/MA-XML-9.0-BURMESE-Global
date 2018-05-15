@@ -30,6 +30,7 @@
     <string name="direction_north_west">အနောက်မြောက်</string>
     <string name="direction_south_east">အရှေ့တောင်</string>
     <string name="direction_south_west">အနောက်တောင်</string>
+    <string name="unit_degree">ဒီဂရီ</string>
     <string name="guide_toast">စံချိန်ကိုက်ညှိရန်၊ သင့်ဖုန်းကို မိုးရှင်းအောက်မှာ ရွှေ့စေပါ။</string>
     <string name="mobiledata_alert_dialog_title">ဒေတာအသုံးပြမှု သတိပေးချက်</string>
     <string name="mobiledata_alert_dialog_message">ပင်လယ်ပြင်ထက်အမြင့်ကို စံချိန်ကိုက်ညှိရန်၊ အင်တာနက်သို့ ချိတ်ဆက်မလား။</string>

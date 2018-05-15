@@ -23,7 +23,7 @@
     </string-array>
     <string-array name="ap_identify">
         <item>မူလသတ်မှတ်ချက်</item>
-        <item>iPhone</item>
+        <item>ခရီးဆောင် ဟော့စ်ပေါ့</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>ဂရပ်ဖစ်နှင့်ဆိုင်သော</item>
@@ -349,13 +349,26 @@
         <item>သော့ခတ် မျက်နှာပြင်</item>
         <item>ကလေးမုဒ်</item>
         <item>ဖိုင်ရှာဖွေသူ</item>
-        <item>အက်ပ်သော့ခတ်ခြင်း</item>
+        <item>ဖိုင်မန်နေဂျာ</item>
         <item>ဒုတိယနေရာ</item>
         <item>ဒုတိယနေရာ</item>
     </string-array>
     <string-array name="connect_mode_entries">
         <item>လိုက်ဖက်မှုရှိသော</item>
         <item>အရှိန်မြင့်သော</item>
+    </string-array>
+    <string-array name="device_support_face">
+        <item>jason</item>
+        <item>polaris</item>
+        <item>sagit</item>
+        <item>chiron</item>
+        <item>whyred</item>
+        <item>nitrogen</item>
+        <item>wayne</item>
+        <item>ysl</item>
+        <item>ဆာကူရာ</item>
+        <item>clover</item>
+        <item>dipper</item>
     </string-array>
     <string-array name="fluency_mode_confirms">
         <item>သင့်ကိရိယာက ဒီဆက်တင်ကို အသုံးချဖို့အတွက် စက်လုပ်ငန်းပြန်စတင်ရန်ပြင်ဆင်မည်လား?</item>
@@ -458,7 +471,7 @@
         <item>အညွှန်းဖိုလ်ဒါတစ်ခု ဖန်တီးပါ- mkdir /media/mtp</item>
         <item>သုံးစွဲသူအုပ်စု ခွင့်ပြုချက်များကို လက်ရှိဆက်စပ်နေသော သုံးစွဲသူအုပ်စုထဲတွင် အတည်ပြုပါ</item>
         <item>ထပ်မံ ဆိုင်းအင်ဝင်ပါ</item>
-        <item>ချိတ်ဆက်ထားသော စက် mtpfs /media/mtp သို့ ဖိုင်ရှာဖွေသူဖြင့် ဝင်ရောက်မည်၊ အတွင်းပိုင်းလမ်းညွှန်နှင့် အတူတူပင်ဖြစ်သည်</item>
+        <item>ချိတ်ဆက်ထားသော စက်- mtpfs /media/mtp သို့ ဖိုင်မန်နေဂျာဖြင့် ဝင်ရောက်မည်၊ အတွင်းပိုင်းလမ်းညွှန်နှင့် အတူတူပင်ဖြစ်သည်။</item>
         <item>"စက်ကို ဖြုတ်မည်- fusermount -u /media/mtp
 သတိ- Ubuntu 8.04 အတွက်သာ!"</item>
     </string-array>
@@ -665,5 +678,13 @@
         <item>မျက်နှာပြင်အရွယ်အစား</item>
         <item>ရီဆိုလူးရှင်း</item>
         <item>Androidဗားရှင်း</item>
+    </string-array>
+    <string-array name="standard_configuration_version_description_secondary">
+        <item>Snapdragon 820</item>
+        <item>3000mAh(typ)</item>
+        <item>16MP</item>
+        <item>၅.၁၅ လက်မ</item>
+        <item>1920 × 1080</item>
+        <item>6.0.1</item>
     </string-array>
 </resources>

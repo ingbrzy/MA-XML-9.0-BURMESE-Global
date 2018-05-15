@@ -2,6 +2,7 @@
 <resources>
     <string name="accept">လက်ခံရန်</string>
     <string name="accept_or_deny">%1$s သည် အယ်လ်ဘမ် %2$s ကို သင်နှင့်အတူ မျှဝေထားပါသည်။</string>
+    <string name="actionbar_overflow_item_desc">နောက်ထပ် ရွေးစရာများ</string>
     <string name="add_automatically_alert_msg">\"%1$s\" မှဓါတ်ပုံအား အလိုအလျောက်ပေါင်းထည့်ပါ</string>
     <string name="add_automatically_alert_title">ဓါတ်ပုံများအား　အလိုလျောက်ပေါင်းထည့်ပါ</string>
     <string name="add_secret_ensure_title">ကွယ်ဝှက်မည်</string>
@@ -19,6 +20,7 @@
     <string name="add_to_secret_failed_with_reason">ကွယ်ဝှက်အယ်လ်ဘမ်သို့ ပေါင်းထည့်၍မရနိုင်ပါ။%1$s</string>
     <string name="add_to_secret_successful">ကွယ်ဝှက်အယ်လ်ဘမ်သို့ ထည့်ပြီးပါပြီ</string>
     <string name="add_to_share_album_not_delete">ဝေမျှထားသော အယ်လ်ဘမ်မှ ဓါတ်ပုံများအား မဖျက်ပစ်နိုင်ပါ</string>
+    <string name="added_to_favorites">အကြိုက်ဆုံးသို့ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="added_to_favorites_tip">အကြိုက်ဆုံးအယ်လ်ဘမ်သို့ ပေါင်းထည့်ပြီးပြီ</string>
     <string name="adding">ပေါင်းထည့်နေ…</string>
     <string name="adding_recipients">လက်ခံသူများကို ထည့်နေသည်…</string>
@@ -90,6 +92,7 @@
     <string name="app_name">ပြခန်း</string>
     <string name="app_name_view_picture">ဓါတ်ပုံများအား ကြည့်ပါ</string>
     <string name="app_name_view_video">ဗီဒီယိုများကြည့်ပါ</string>
+    <string name="application_icon">အက်ပ်အိုင်ကွန်</string>
     <string name="apply">အသုံးချပါ</string>
     <string name="assistant_page_label">လက်ထောက်</string>
     <string name="associate_face_album">အယ်လ်ဘမ်ကိုရွေးပါ</string>
@@ -109,11 +112,13 @@
     <string name="baby_album_needs_auto_backup_tip">ကလေးအယ်လ်ဘမ်အတွက် အလိုအလျောက်အရန်သိမ်းခြင်းများအား ပိတ်၍မရပါ</string>
     <string name="baby_album_new_photo_remind">သင့်ကလေးအယ်လ်ဘမ်ထဲတွင် ဓါတ်ပုံအသစ်များရှိနေပါသည်</string>
     <string name="baby_album_setting_title">ဘေဘီအချက်အလက်</string>
+    <string name="baby_album_settings">ကလေးအယ်လ်ဘမ် ဆက်တင်</string>
     <string name="baby_album_sharer_accept_dialog_msg">"ချစ်ခင်ရပါသော %1$s ၏ %2$s၊
 %3$s၏ဝေမျှထားသော %4$s%5$s၏ အယ်လ်ဘမ်ဖြစ်ပါသည်"</string>
     <string name="baby_album_sharer_recommand_face">%1$s ၏လက်ရှိဓါတ်ပုံအား ပေါင်းထည့်မည်လား</string>
     <string name="baby_album_sharers_page_title">မိသားစုများဖြင့်မျှဝေ</string>
     <string name="baby_birthday">မွေးနေ့</string>
+    <string name="baby_face_desc">ကလေးအယ်လ်ဘမ်</string>
     <string name="baby_lock_wallpaper">သော့ခတ်မျက်နှာပြင် နောက်ခံပုံ</string>
     <string name="baby_lock_wallpaper_cancelled">မူလပုံသေ နောက်ခံမျက်နှာပြင်ပုံသို့ ပြောင်းလဲလိုက်ပြီ။</string>
     <string name="baby_lock_wallpaper_save_settings_msg">လက်ရှိဆက်တင်များအား အသုံးချမည်လား?</string>
@@ -125,6 +130,7 @@
     <string name="baby_nick_name">အမည်ပြောင်</string>
     <string name="baby_sexy">ကျားမလိင်</string>
     <string name="baby_suffix">ကလေး</string>
+    <string name="back">နောက်သို့</string>
     <string name="backup_automatically_summary">စက်အားလုံးမှ ဓါတ်ပုံများနှင့် ဗီဒီယိုများ အား Mi Cloud သို့ အရန်သိမ်းပါ။ ထိုသို့ဖြင့်၊ သင်သည် သင်၏စက်အားလုံးပေါ်ရှိ ဓါတ်ပုံများ၊ ဗီဒီယိုများ အဆင်ပြေစွာ ရှာဖွေခြင်း၊ စီစဉ်ခြင်း၊ တည်းဖြတ်ခြင်းနှင့် ဝေမျှခြင်းများ ပြုလုပ်နိုင်မည်ဖြစ်ပါသည်</string>
     <string name="backup_automatically_title">အလိုအလျောက် အရန်သိမ်းမည်</string>
     <string name="backup_battery_low_desc">အိုင်တမ်များအား ဆက်လက်အရန်သိမ်းပါကို ရွေးချယ်နိုင်ပါသေးသည်</string>
@@ -223,6 +229,8 @@
     <string name="cleaner_stop_scan">စကန်လုပ်ခြင်းကို ရပ်ပါ</string>
     <string name="click_download_gif">GIF အား ဒေါင်းလုဒ်လုပ်ရန် ထိနှိပ်ပါ</string>
     <string name="click_top_right">ဤအိုင်ကွန်ကို ထိပါ</string>
+    <string name="close">ပိတ်မည်</string>
+    <string name="close_dialog_desc">ဒိုင်ယာလော့ ဘောက်စ်ကို ပိတ်မည်</string>
     <string name="cloud_camera_display_name">ကင်မရာဓာတ်ပုံများ</string>
     <string name="cloud_guide_auto_backup_title">အရန်သိမ်းခြင်းလုပ်ရန် အိုင်တမ်ရွေးပါ</string>
     <string name="cloud_guide_login_title">ဓါတ်ပုံနှင့် ဗီဒီယိုများအား အလိုအလျောက် အရန်သိမ်းဆည်းပါ</string>
@@ -245,6 +253,7 @@
     <string name="cloudfolder_contain_invalidate_char">"အယ်လ်ဘမ်အမည်တွင် '%s' ပါဝင်၍ မရနိုင်ပါ"</string>
     <string name="cloudfolder_name_cannot_empty">အယ်လ်ဘမ်အမည်ထည့်ပါ</string>
     <string name="cloudfolder_name_reserved">အယ်လ်ဘမ်အမည်ကို ယူထားပြီးပါပြီ</string>
+    <string name="collage__talkback_effect">အထူးဖန်တီးချက် %d</string>
     <string name="collage_choose">ရွေးပါ</string>
     <string name="collage_margin_text">မာဂျင်လိုင်း</string>
     <string name="collage_mirror">မှန်</string>
@@ -282,6 +291,9 @@
     <string name="context_menu_add_contact">အဆက်အသွယ်များထဲသို့ ထည့်ပါ</string>
     <string name="context_menu_copy">ကူးပါ</string>
     <string name="context_menu_copy_notice">ကလစ်ဘုတ် ထဲသို့ ကူးပြီးပါပြီ</string>
+    <string name="correct_photo_time">ဓာတ်ပုံများအတွက် ရက်စွဲနှင့် အချိန်ကို ပြင်မည်</string>
+    <string name="correct_time_success">ပြင်ပြီးပါပြီ</string>
+    <string name="correct_time_tip">ဓာတ်ပုံများအတွက် ရက်စွဲနှင့် အချိန်ကို ပြင်နေသည်…</string>
     <string name="create_baby_album">ဘေဘီအယ်လ်ဘမ်တစ်ခုဖန်တီးပါ</string>
     <string name="create_baby_album_dialog_msg">%s　အတွက်အယ်လ်ဘမ်အား　ဖန်တီးပါ။</string>
     <string name="create_baby_album_later_toast">ဆက်တင်ထဲတွင် ဘေဘီအယ်လ်ဘမ်တစ်ခုအား မည်သည့်အချိန်မဆို ဖန်တီးပါ</string>
@@ -295,6 +307,7 @@
     <string name="custom_select_title_quickly_share">မျှဝေပါ</string>
     <string name="custom_select_title_select_all">အားလုံးရွေးပါ</string>
     <string name="custom_select_title_select_item">အိုင်တမ်များရွေး</string>
+    <string name="debugging_info">ဒီဘာဂ်အချက်အလက် ရရှိပါပြီ။ ဖိုလ်ဒါဖွင့်ရန် အိုကေအား ထိနှိပ်ပါ။</string>
     <string name="debugging_tip">ဒီဘာဂ် ဒေတာများအား ထုတ်လုပ်နေသည်</string>
     <string name="default_relation_name">အုပ်စုအသစ်</string>
     <string name="define_by_user">ကိုယ်တိုင်လုပ်ပါ</string>
@@ -424,6 +437,7 @@
     <string name="exit_share_in_process">အယ်လ်ဘမ် \"%s\"… မှထွက်ခွာနေသည်။</string>
     <string name="exit_share_successfully">%1$s မှ ထွက်ပြီးပြီ</string>
     <string name="exit_video_play">ထွက်</string>
+    <string name="expand_desc">နောက်ထပ်</string>
     <string name="expand_people">လူပို၍ပြသပါ</string>
     <string name="face_album_detecting_tip">ခဏစောင့်ပါ…</string>
     <string name="face_album_empty">"လူပုဂ္ဂိုလ်အား အလိုအလျောက်ခွဲခြားသိရှိနိုင်ရန် ဓါတ်ပုံမလုံလောက်ပါ။
@@ -444,12 +458,15 @@
     <string name="face_name_edit">တည်းဖြတ်</string>
     <string name="face_name_input">အမည်ထည့်သွင်းပါ</string>
     <string name="face_recommend">အကြံပြုချက်များ</string>
+    <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">လုပ်ဆောင်ချက် မပြီးမြောက်ခဲ့ပါ</string>
     <string name="fail_to_pick_email">ဘောင်မဝင်သော အီးမေးလ် လိပ်စာ</string>
     <string name="fail_to_sync_album">အယ်လ်ဘမ်ကို ဆင့်ခ်လုပ်လို့မရနိုင်ပါ။ သင့်ရဲ့ ဒေတာချိတ်ဆက်မှုကို စစ်ဆေးပြီး ထပ်ကြိုးစားပါ။</string>
     <string name="family_member_invitation_text">အခြားမိသားစုဝင်များ</string>
+    <string name="fancy_color_desc">အရောင်များ</string>
     <string name="fast_share_auto_render">အလှဆင်မှု</string>
     <string name="fast_share_auto_render_finish">အလှဆင်ခဲ့သည်</string>
+    <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="filter_bi_memory">အမှတ်တရ</string>
     <string name="filter_bi_mono">မိုနို</string>
     <string name="filter_bi_pink">ပန်းရောင်</string>
@@ -463,6 +480,7 @@
     <string name="filter_bi_young">လူငယ်ဆန်ဆန်</string>
     <string name="filter_category_film">ဖလင်</string>
     <string name="filter_category_food">အစားအစာ</string>
+    <string name="filter_category_master">မာစတာ</string>
     <string name="filter_category_portrait">လူပုံ</string>
     <string name="filter_category_scene">ရှုခင်း</string>
     <string name="filter_film_blackwhite">B&amp;W</string>
@@ -481,15 +499,23 @@
     <string name="filter_food_latte">ကော်ဖီလာတေး</string>
     <string name="filter_food_softdrink">ဆိုဒါ</string>
     <string name="filter_food_wholemeal">ကောက်ပဲသီးနှံ</string>
+    <string name="filter_master_hazy">မြူဆိုင်း</string>
+    <string name="filter_master_mellow">ငြိမ့်ညောင်း</string>
+    <string name="filter_master_memoire">ကိုယ်တွေ့မှတ်တမ်း</string>
+    <string name="filter_master_rise">ဆုံတွေ့</string>
+    <string name="filter_master_somber">ရီဝေဝေ</string>
     <string name="filter_original">မရှိ</string>
     <string name="filter_people_fairytale">ကလေး</string>
     <string name="filter_people_heart">စိတ်ခံစားမှု</string>
     <string name="filter_people_japanese">လန်းဆန်း</string>
     <string name="filter_people_maze">ဝင်္ကပါ</string>
     <string name="filter_people_mint">ဆန်းသစ်</string>
+    <string name="filter_people_movie">ရုပ်ရှင်</string>
     <string name="filter_people_nature">သဘာဝ</string>
     <string name="filter_people_pink">နူးညံ့</string>
+    <string name="filter_people_riddle">ပဟေဠိ</string>
     <string name="filter_people_roman">ရင်ခုန်စရာ</string>
+    <string name="filter_people_story">ပုံပြင်</string>
     <string name="filter_scene_city">မြို့ပြ</string>
     <string name="filter_scene_df">မြူဆိုင်းခြင်း</string>
     <string name="filter_scene_koizora">အချစ်</string>
@@ -502,12 +528,14 @@
     <string name="finish_fill_baby">ဖန်တီး</string>
     <string name="flash_off">ဖလက်ရှ် မရှိ</string>
     <string name="flash_on">ဖလက်ရှ် အသုံးပြုထားသည်</string>
+    <string name="free_view_desc">3D မြင်ကွင်း</string>
     <string name="gallery_setting">ဆက်တင်များ</string>
     <string name="gallery_sync_disable_toast">ပြခန်းအတွက် ဆင့်ခ်အား ပိတ်ထားသည်</string>
     <string name="get_album_info_in_process">မျှဝေထားသော အယ်လ်ဘမ်အသေးစိတ်များကို ရယူနေသည်…</string>
     <string name="gif_tip">GIF</string>
     <string name="gigabyteShort">GB</string>
     <string name="grant_permission_go_and_set">သတ်မှတ်</string>
+    <string name="grant_permission_item">\"%s\"</string>
     <string name="grant_permission_text">"ပြခန်းသည် ပုံမှန်အလုပ်လုပ်ရန် 
 %s
  သို့ ဝင်ရောက်ရန်လိုအပ်ပါသည်၊ ခွင့်ပြုချက်များသို့ သွားရောက်ရန် \"သတ်မှတ်\" ကိုထိနှိပ်ပါ။"</string>
@@ -701,6 +729,7 @@
     <string name="people_mark_mode_title_no_mark_name">လူတစ်ဦး ရွေးချယ်ပါ။</string>
     <string name="people_page_label">လူပုဂ္ဂိုလ်</string>
     <string name="people_page_unname">အမည်မပေးပါ</string>
+    <string name="percent_sign">%</string>
     <string name="pet_album_display_name">အိမ်မွေးတိရိစ္ဆာန်　ဓါတ်ပုံများ</string>
     <string name="petabyteShort">PB</string>
     <string name="photo">ဓာတ်ပုံများ</string>
@@ -746,6 +775,27 @@
     <string name="photo_editor_rotate">လှည့်မည်</string>
     <string name="photo_editor_saving">သိမ်းဆည်းနေ…</string>
     <string name="photo_editor_sticker">စတစ်ကာ</string>
+    <string name="photo_editor_talkback_cancel">ပယ်ဖျက်မည်</string>
+    <string name="photo_editor_talkback_confirm">အတည်ပြုသည်</string>
+    <string name="photo_editor_talkback_crop_16_9">တစ်ဆယ့်ခြောက်အချိုးကိုး</string>
+    <string name="photo_editor_talkback_crop_1_1">တစ်အချိုးတစ်</string>
+    <string name="photo_editor_talkback_crop_3_4">သုံးအချိုးလေး</string>
+    <string name="photo_editor_talkback_crop_4_3">လေးအချိုးသုံး</string>
+    <string name="photo_editor_talkback_crop_9_16">ကိုးအချိုးတစ်ဆယ့်ခြောက်</string>
+    <string name="photo_editor_talkback_crop_free">အခမဲ့</string>
+    <string name="photo_editor_talkback_crop_mirror">မှန်</string>
+    <string name="photo_editor_talkback_crop_original">မူရင်း</string>
+    <string name="photo_editor_talkback_crop_rotate">လှည့်မည်</string>
+    <string name="photo_editor_talkback_doodle_arrow">မြှား</string>
+    <string name="photo_editor_talkback_doodle_circular">စက်ဝိုင်း</string>
+    <string name="photo_editor_talkback_doodle_line">လိုင်း</string>
+    <string name="photo_editor_talkback_doodle_path">စုတ်တံ</string>
+    <string name="photo_editor_talkback_doodle_rectangle">စတုဂံ</string>
+    <string name="photo_editor_talkback_effect">အထူးဖန်တီးချက် %d</string>
+    <string name="photo_editor_talkback_eraser">ဖျက်ပစ်မည်</string>
+    <string name="photo_editor_talkback_recently">မကြာမီက သုံးထားသော</string>
+    <string name="photo_editor_talkback_redo">ပြန်လုပ်မည်</string>
+    <string name="photo_editor_talkback_undo">နောက်ပြန်ဆုတ်မည်</string>
     <string name="photo_editor_text">စာသား</string>
     <string name="photo_page_save_uri_image_fail">ပြခန်းသို့ မသိမ်းနိုင်ခဲ့ပါ</string>
     <string name="photo_page_save_uri_image_ok">ပြခန်းသို့ ဓါတ်ပုံအား သိမ်းလိုက်သည်</string>
@@ -795,6 +845,8 @@
     <string name="picker_title_specify_format_one">ဓာတ်ပုံ %d ပုံရွေးပါ</string>
     <string name="picker_title_unlimit">ဓာတ်ပုံများရွေးပါ</string>
     <string name="places_album_empty_title">ဓါတ်ပုံများကို တည်နေရာအလိုက် ခွဲထားနိုင်သည်</string>
+    <string name="play_gif_desc">GIF ဖွင့်ပါ</string>
+    <string name="play_video_desc">ဗီဒီယို ဖွင့်ပါ</string>
     <string name="preparing_data">ခဏစောင့်ပါ…</string>
     <string name="projection_cancel">ပယ်ဖျက်မည်</string>
     <string name="projection_checkbox_text">ဤပြသချက်ကို မှတ်ထားပါ</string>
@@ -820,6 +872,19 @@
     <string name="recovery_merge_or_rename">အယ်လ်ဘမ်များကို ပေါင်းစပ်ပါ</string>
     <string name="recovery_merge_or_rename_message">ဤအမည်နှင့် အယ်လ်ဘမ်ရှိနေပြီး ဖြစ်ပါသည်။ ယခုပေါင်းစည်းမည်လား?</string>
     <string name="recovery_rename">အမည်ပြန်ပေး</string>
+    <string name="refocus_desc">ဆုံချက် ပြန်ညှိပါ</string>
+    <string name="refocus_discard_confirm_message">ပြောင်းလဲခြင်းများကို သိမ်းထားမလား?</string>
+    <string name="refocus_discard_negative_btn">စွန့်ပစ်မည်</string>
+    <string name="refocus_discard_positive_btn">သိမ်းဆည်းမည်</string>
+    <string name="refocus_photo_not_support">ဤဓာတ်ပုံအား မှုန်ဝါးအောင် လုပ်၍မရပါ</string>
+    <string name="refocus_save_cancel">ပယ်ဖျက်မည်</string>
+    <string name="refocus_save_title">ဖောမတ် ရွေးပါ</string>
+    <string name="refocus_save_to_photo">ရုပ်ပုံအဖြစ် သိမ်းဆည်းပါ</string>
+    <string name="refocus_save_to_video">ဗီဒီယိုအဖြစ် သိမ်းဆည်းပါ</string>
+    <string name="refocus_saving">သိမ်းဆည်းနေသည်…</string>
+    <string name="refocus_title">မှုန်ဝါး</string>
+    <string name="refocus_type_static">မှုန်ဝါးမှု အဆင့်</string>
+    <string name="refocus_type_video">အလင်းရောင် အစက်အပြောက်</string>
     <string name="relation_text_empty_alert">ဆက်စပ်မှုဆိုင်ရာ　အချက်အလက်ပေါင်းထည့်ပါ</string>
     <string name="relation_text_family">မိသားစုဝင်များ</string>
     <string name="relation_text_father">အဖေ</string>
@@ -906,6 +971,7 @@
     <string name="search_setting_title">ပြခန်းမှ ဓာတ်ပုံများ ရှာပါ</string>
     <string name="search_syncing">ဒေတာဆင့်ခ်လုပ်နေသည်၊ ခဏနေပြန်လာပါ။</string>
     <string name="search_title_album">အယ်လ်ဘမ်</string>
+    <string name="search_title_app_screenshot">အက်ပ် မျက်နှာပြင်ရိုက်ချက်</string>
     <string name="search_title_history">ရှာဖွေမှုသမိုင်း</string>
     <string name="search_title_location">တည်နေရာများ</string>
     <string name="search_title_more">နောက်ထပ်</string>
@@ -914,6 +980,9 @@
     <string name="search_title_recommend">အကြံပြုထားသော</string>
     <string name="search_title_suggestion">အကြံပြုချက်များ</string>
     <string name="search_title_tag">အရာပစ္စည်းများ</string>
+    <string name="search_transition_element_icon">search_icon</string>
+    <string name="search_transition_element_input">search_input</string>
+    <string name="search_transition_element_voice">search_voice</string>
     <string name="searching_cast_devices">ပရိုဂျက်တာကို ရှာနေသည်…</string>
     <string name="secret_album_card_description">သင့်လျှို့ဝှက်ချက်လေးများအတွက် အကောင်းဆုံးနေရာဖြစ်ပါသည်</string>
     <string name="secret_album_card_title">ဝှက်ထားသော အယ်လ်ဘမ်များကို ပြပါ။</string>
@@ -934,8 +1003,11 @@
     <string name="see_ignore_faces">သင်လစ်လျူရှု့ခဲ့သော သူများ</string>
     <string name="select_item_face">%s ဤဟာလား?</string>
     <string name="select_origin_tip">မူရင်းဖိုင်(%s)</string>
+    <string name="send_file_beautify_failed">မျှဝေ၍ မရပါ</string>
     <string name="send_multiple_files_hint_format">ပို့ပါ(%s)</string>
     <string name="send_public_url">အယ်လ်ဘမ် URL ကို ပို့ပါ</string>
+    <string name="send_secret_file_failed">မျှဝေ၍ မရပါ</string>
+    <string name="send_secret_file_space_low">နေရာလွတ် မလုံလောက်ပါ</string>
     <string name="send_too_many_files_error">တစ်ကြိမ်တွင် အိုင်တမ်%dခုထိ ပေးပို့နိုင်ပါသည်</string>
     <string name="set_as_baby_lock_wallpaper">သော့ခတ်မျက်နှာပြင်　နောက်ခံပုံအဖြစ်သတ်မှတ်</string>
     <string name="set_as_wallpaper_description">ဤရုပ်ပုံမှာ thumbnail တစ်ခုဖြစ်ပါသည်၊ မူလပုံအား ဒေါင်းလုဒ်လုပ်မည်လား?</string>
@@ -951,6 +1023,7 @@
     <string name="share">မျှဝေပါ</string>
     <string name="share_album">အယ်လ်ဘမ်ကို မျှဝေပါ</string>
     <string name="share_album_needs_auto_upload_tip">ဝေမျှထားသော အယ်လ်ဘမ်များ၏ အရန်သိမ်းအား ပိတ်၍မရပါ</string>
+    <string name="share_album_qr_code">အယ်လ်ဘမ် QR ကုဒ်</string>
     <string name="share_by_email_start">နောက်ခံတွင် %1$s ကိုမျှဝေပါ</string>
     <string name="share_by_email_successfully">%1$s ကို မျှဝေပြီးပြီ</string>
     <string name="share_public_url_text">ကျွန်ုပ်သည် အယ်လ်ဘမ် %1$s ကို သင်နှင့်အတူ မျှဝေထားသည်။ ၎င်းကို %2$s တွင်ကြည့်ပါ</string>
@@ -1136,7 +1209,9 @@
     <string name="video_not_exist">ဗီဒီယို ရှိမနေပါ</string>
     <string name="view_by_gallery_tip">MIUI ပြခန်း</string>
     <string name="view_face_album">အယ်လ်ဘမ်ကို ကြည့်ပါ</string>
+    <string name="view_more_face_desc">နောက်ထပ်လူများ ပြပါ</string>
     <string name="view_queuing_status">ခြေအနေအား စစ်ဆေး</string>
+    <string name="welcome_to_auto_backup">@string/welcome_to_micloud</string>
     <string name="welcome_to_micloud">Mi ကလောက် မှ ကြိုဆိုပါ၏</string>
     <string name="where_is_barcode">QR ကုဒ်ဘယ်မှာလဲ?</string>
     <string name="who_is_this">ဘယ်လူပါလဲ?</string>

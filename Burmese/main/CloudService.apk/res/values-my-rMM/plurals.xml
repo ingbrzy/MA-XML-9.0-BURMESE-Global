@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <plurals name="sync_items_close">
-        <item quantity="other">%d ခု ပိတ်ထားသည်</item>
-    </plurals>
     <plurals name="items_unsynced">
         <item quantity="other">ဆင့်ခ်လုပ်ရန် ဆောင့်ဆိုင်းနေသော အိုင်တမ်များ−%d</item>
-    </plurals>
-    <plurals name="items_waiting_to_sync">
-        <item quantity="other">ဆင့်ခ်လုပ်ရန် အိုင်တမ် %d ခု စောင့်နေသည်</item>
     </plurals>
     <plurals name="dirty_contacts_count">
         <item quantity="other">အဆက်အသွယ် %d ခု</item>

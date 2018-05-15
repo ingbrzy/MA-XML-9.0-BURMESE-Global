@@ -50,6 +50,8 @@
     <string name="actionbar_textselection_title">စာသားရွေးချယ်မှု</string>
     <string name="actionbar_web_search">ဝက်ဘ် ရှာဖွေခြင်း</string>
     <string name="ad_btn_default_text">ထည့်သွင်းမည်</string>
+    <string name="ad_mark">ကြော်ငြာ</string>
+    <string name="ad_sponsored">ကြော်ငြာစပွန်စာ</string>
     <string name="adblock_force_updating_rules_toast">Ad ပိတ်ဆို့သူအား အသစ်မွမ်းမံနေ</string>
     <string name="adblock_rules_not_updated_toast">အသစ်မမွမ်းမံနိုင်ခဲ့</string>
     <string name="adblock_rules_restore">ဘလော့လုပ်ထားခြင်းမှဖြုတ်ပါ</string>
@@ -87,6 +89,7 @@
     <string name="aqi_quality_index_moderate">အသင့်အတင့်</string>
     <string name="aqi_quality_index_pure">အလွန်ကောင်းမွန်သော</string>
     <string name="aqi_quality_index_unhealthy">မကျန်းမာသော</string>
+    <string name="articles_updated">ဆောင်းပါး %1$d ပုဒ် အပ်ဒိတ်လုပ်ထားသည်</string>
     <string name="autoSwithcingSearchEngineTips">အသုံးများသော ရှာဖွေရေးအင်ဂျင်သို့ ပြောင်းခဲ့သည်</string>
     <string name="autofill_keyboard_accessory_content_description">ရရှိနိုင်သော အကြံပြုချက်များ</string>
     <string name="autofill_popup_content_description">အလိုအလျောက် ဖြည့်စွက်ခြင်းအား ပြနေသည်</string>
@@ -110,9 +113,9 @@
     <string name="bookmark_group_lable">အုပ်စု</string>
     <string name="bookmark_needs_title">စာအုပ်မှတ်တွင် အမည်ရှိရပါမည်</string>
     <string name="bookmark_needs_url">စာအုပ်မှတ်တွင် URL ပါရှိရပါမည်</string>
-    <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
+    <string name="bookmark_not_saved">စာအုပ်မှတ်သို့ ပေါင်းထည့်၍မရပါ</string>
     <string name="bookmark_rename_group">အုပ်စုကို အမည်ပြောင်းပါ</string>
-    <string name="bookmark_saved">Added to bookmarks</string>
+    <string name="bookmark_saved">စာအုပ်မှတ်သို့ ပေါင်းထည့်ပြီးပါပြီ</string>
     <string name="bookmark_title">စာအုပ်မှတ်အမည်</string>
     <string name="bookmark_title_lable">ခေါင်းစဉ်</string>
     <string name="bookmark_url">URL http://</string>
@@ -134,11 +137,14 @@
     <string name="cancel">မလုပ်</string>
     <string name="cannot_download">\"http\" သို့ \"https\" စသည့် URLsမျှသာ ​ဒေါင်းလုဒ်လုပ်၍ရပါသည်</string>
     <string name="card_setting_close_recommend">တုံ့ပြန်အကြံပြုချက်များအား လက်ခံရယူပါ</string>
+    <string name="channels_edit">တည်းဖြတ်မည်</string>
+    <string name="channels_finish">ပြီးပါပြီ</string>
     <string name="choosertitle_sharevia">မှတစ်ဆင့်မျှဝေ</string>
     <string name="clear_history">မှတ်တမ်းကို ရှင်းပစ်ပါ</string>
     <string name="clear_most_visited">လတ်တလော သမိုင်းများ</string>
     <string name="clear_search_history">မှတ်တမ်းကို ရှင်းပစ်</string>
     <string name="clear_video_download">ဗီဒီယိုများအား ရှင်းလင်းပါ</string>
+    <string name="click_to_refresh">ဤနေရာတွင် ရပ်တန့်ခဲ့သည်၊ ပြန်လန်းဆန်းစေရန် ထိနှိပ်ပါ</string>
     <string name="clip_dialog_title">ကော်ပီကူးထားသော URL ကိုဖွင့်မလား?</string>
     <string name="close_ads_choice_no">ခွင့်ပြုပါ</string>
     <string name="close_ads_choice_yes">ဘလော့လုပ်ပါ</string>
@@ -168,6 +174,7 @@
     <string name="color_picker_dialog_title">အရောင် ရွေးပါ</string>
     <string name="color_picker_hue">ပကတိအရောင်</string>
     <string name="color_picker_saturation">တောက်ပမှုပြင်းအား</string>
+    <string name="color_picker_value">အာနိသင်</string>
     <string name="comment_app_menu">မှတ်ချက်များ</string>
     <string name="comment_description">မှတ်ချက်</string>
     <string name="comment_hint">မှတ်ချက်</string>
@@ -197,6 +204,7 @@
     <string name="contextmenu_webpage_snapshot">ပေ့ဂျ်အား သိမ်းဆည်း</string>
     <string name="copy_to_clipboard_failure_message">ကလစ်ဘုတ်သို့ ကော်ပီကူး၍ မရပါ။</string>
     <string name="copy_url">URL ကို ကူးပါ</string>
+    <string name="could_not_load_data">ဒေတာ မရယူနိုင်ပါ၊ ပြန်လန်းဆန်းစေပြီး ထပ်ကြိုးစားကြည့်ပါ</string>
     <string name="create_qr_code">QR ကုဒ်</string>
     <string name="current_version_pad">Pad</string>
     <string name="current_version_pc">ဒက်စတော့</string>
@@ -204,9 +212,10 @@
     <string name="custom_head_card_text">အံ့သြဖွယ်ရာများဖြစ်ပေါ်လာမှာကို အမြဲယုံကြည်သည်။</string>
     <string name="custom_head_card_text_incognito">"သင်ရုပ်ဖျက်လိုက်ပြီ!
 သင်ကြည့်လိုက်သော စာမျက်နှာများသည် သမိုင်းတွင် ပေါ်လာလိမ့်မည်မဟုတ်ပါ"</string>
-    <string name="data_traffic_prompt_change">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုကြည့်ခြင်းကြောင့် ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
+    <string name="data_error">ဒေတာအမှား</string>
+    <string name="data_traffic_prompt_change">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ကြည့်ရှုပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
     <string name="data_traffic_prompt_message">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုများကို ရှာဖွေပါက ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။ ဒေတာကန့်သတ်ချက်ထက် ကျော်လွန်သွားပါက အပိုစရိတ်များ ကုန်ကျနိုင်သည်။</string>
-    <string name="data_traffic_prompt_message_short">မိုဘိုင်းဒေတာဖြင့် ဗီဒီယိုကြည့်ခြင်းကြောင့် ဒေတာသုံးစွဲမှုမြင့်တက်လာပါလိမ့်မည်။</string>
+    <string name="data_traffic_prompt_message_short">မိုဘိုင်းဒေတာဖြင့် ရုပ်ရှင်ကြည့်ခြင်းသည် သင့်ဒေတာအစီအစဉ် ကန့်သတ်ချက်သို့ ကျော်လွန်သွားနိုင်ပါသည်။</string>
     <string name="data_traffic_prompt_title">ဒေတာအသုံးပြမှု သတိပေးချက်</string>
     <string name="date_picker_dialog_clear">ရှင်းပစ်ပါ</string>
     <string name="date_picker_dialog_other_button_label">အခြား</string>
@@ -254,14 +263,14 @@
     <string name="download_dialog_file_length_nolength_txt">ခဏစောင့်ပါ…</string>
     <string name="download_failed">ဒေါင်းလုဒ်ကို ပြီးအောင်မလုပ်နိုင်ပါ</string>
     <string name="download_filter_all">အားလုံး</string>
-    <string name="download_filter_apk">Apk</string>
+    <string name="download_filter_apk">APK</string>
     <string name="download_filter_application">အက်ပ်များ</string>
     <string name="download_filter_audio">တေးဂီတ</string>
-    <string name="download_filter_image">ဓာတ်ပုံများ</string>
+    <string name="download_filter_image">ရုပ်ပုံ</string>
     <string name="download_filter_others">အခြား</string>
-    <string name="download_filter_text">ဖိုင်များ</string>
+    <string name="download_filter_text">စာရွက်စာတမ်း</string>
     <string name="download_filter_video">ဗီဒီယိုများ</string>
-    <string name="download_filter_zip">Zip</string>
+    <string name="download_filter_zip">ZIP</string>
     <string name="download_in_process">ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="download_list_open_xl_ok">အိုကေ</string>
     <string name="download_memory_info_avai">" ရရှိနိုင်သော%s|"</string>
@@ -344,7 +353,7 @@
     <string name="homepage_search_hint">ရှာ​ဖွေ</string>
     <string name="homepage_top_card_menu">ထိပ်ပိုင်း</string>
     <string name="in_incognito">သင်ရုပ်ပြောင်းရုပ်လွှဲလုပ်ထားသည်! ဤတဘ်တွင် သင်ကြည့်သော ဝဘ်စာမျက်နှာများသည် သင့်ဘရောက်ဇာမှတ်တမ်းတွင် ပေါ်မည်မဟုတ်ပါ။</string>
-    <string name="in_secureaccess">ဘရောက်ဇာအား လုံးခြုံသောမုဒ်အား ပြောင်းလဲခဲ့သည်</string>
+    <string name="in_secureaccess">ဘရောက်ဇာအား လုံခြုံမုဒ်သို့ ပြောင်းလဲခဲ့သည်</string>
     <string name="isReplacePage">ဖိုင်တည်ရှိနေပြီးဖြစ်၊ အစားထိုးမည်လား?</string>
     <string name="is_first_history_item">ဘရောက်ဇာမှတ်တမ်းတွင် ပထမဆုံးစာမျက်နှာဖြစ်သည်</string>
     <string name="is_first_tab">ပထမဆုံးတက်ဘ်ဖြစ်သည်</string>
@@ -365,10 +374,10 @@
     <string name="keep_queued_download">ထိန်းထား</string>
     <string name="last_month">လွန်ခဲ့သော လ</string>
     <string name="license_activity_title">စနစ်ဝက်ဘ်ကြည့်ရှုမှု လိုင်စင်များ</string>
-    <string name="load_more">နောက်ထပ် ကြည့်ရှုရန်</string>
     <string name="loading_tips">ပြန်လန်းဆန်းရန်အောက်သို့ဆွဲချပါ</string>
     <string name="local_bookmarks">Mi</string>
     <string name="login_failed_toast">ဆိုင်းအင်မဝင်နိုင်ခဲ့ပါ၊ ပြန်လန်းဆန်းပြီး ထပ်လုပ်ကြည့်ပါ</string>
+    <string name="long_press_edit">တည်းဖြတ်ရန် ကြာရှည်စွာဖိထားပါ</string>
     <string name="low_memory_error">မှတ်ဉာဏ်နည်းနေသောကြောင့် ယခင်လုပ်ငန်းအား ပြီးမြောက်အောင် မလုပ်နိုင်ခဲ့ပါ။</string>
     <string name="low_memory_toast">မှတ်ဉာဏ်နည်းနေသည့်အတွက် ဘရောက်ဇာအား အသုံးပြု၍မရ နိုင်ပါ</string>
     <string name="max_tabs_warning">နောက်ထပ်တက်ဘ် မဖွင့်နိုင်တော့ပါ</string>
@@ -386,7 +395,7 @@
     <string name="media_player_error_text_invalid_progressive_playback">ဤဗီဒီယိုအား ဤစက်ဖြင့် ထုတ်လွှင့်ပြသ၍ မရပါ။</string>
     <string name="media_player_error_text_unknown">ဤဗီဒီယိုအား ဖွင့်၍မရပါ။</string>
     <string name="media_player_error_title">ဗီဒီယိုအား ဖွင့်၍မရပါ</string>
-    <string name="media_player_loading_video">ဗီဒီယိုကို ဆွဲချနေဆဲ</string>
+    <string name="media_player_loading_video">ခဏစောင့်ပါ…</string>
     <string name="menu_addtodesk">အိမ်မျက်နှာပြင်သို့ ပေါင်းထည့်ပါ</string>
     <string name="menu_exit_nightmode">ထွက်ရန်</string>
     <string name="menu_hv_swap">V/A မျက်နှာပြင်</string>
@@ -394,7 +403,7 @@
     <string name="menu_preferences">ဆက်တင်များ</string>
     <string name="menu_theme_setting">သင်းမ် ဆက်တင်များ</string>
     <string name="menu_title_clear_all">အားလုံး ရှင်းပစ်ပါ</string>
-    <string name="menu_title_open_file_management">ဖိုင်ရှာသူအား ဖွင့်ပါ</string>
+    <string name="menu_title_open_file_management">ဖိုင်မန်နေဂျာအား ဖွင့်ပါ</string>
     <string name="menu_title_pause_all">အားလုံး တန့်ရပ်ပါ</string>
     <string name="menu_title_resume_all">အားလုံးကို စတင်ပါ</string>
     <string name="miui_autologin_bar_error">ဆိုင်းအင်ဝင်လို့ မရပါ</string>
@@ -509,6 +518,7 @@
     <string name="month_picker_dialog_title">လ သတ်မှတ်ပါ</string>
     <string name="more_description">မီနူး</string>
     <string name="more_option">နောက်ထပ် ရွေးစရာများ</string>
+    <string name="my_cahnnel">ကျွန်ုပ်၏ချန်နယ်များ</string>
     <string name="nav_bottom_bar_back">နောက်သို့</string>
     <string name="nav_bottom_bar_close_all">အားလုံးပိတ်</string>
     <string name="nav_bottom_bar_new_tab">တက်ဘ်အသစ်</string>
@@ -516,16 +526,21 @@
     <string name="nav_screen_container_tab_normal">ပုံမှန်တက်ဘ်</string>
     <string name="nav_screen_incognito_message">"ရုပ်ဖျက်မုဒ်အောက်တွင် ရှာဖွေမှုသမိုင်းကို မသိမ်းဆည်းပါ။
 သို့သော် သင်ဒေါင်းလုဒ်လုပ်သော ဖိုင်နှင့် စာအုပ်မှတ်များအား သိမ်းဆည်းမည်ကို သတိပြုပါ။"</string>
-    <string name="nav_screen_incognito_title">Incognito mode</string>
-    <string name="navigation_delete_all">Swipe left or right to close all tabs</string>
+    <string name="nav_screen_incognito_title">ရုပ်ဖျက်မုဒ်</string>
+    <string name="navigation_delete_all">တက်ဘ်အားလုံးကို ပိတ်ရန် ဘယ် သို့မဟုတ် ညာသို့ ပွတ်ဆွဲပါ</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">ဖျက်သိမ်းပါ</string>
     <string name="navigationbar_rightbutton_actiontext_go">သွား</string>
     <string name="navigationbar_rightbutton_actiontext_search">ရှာဖွေ</string>
+    <string name="net_error">ကွန်ရက်အမှား</string>
     <string name="network_show_wifi_setting_tip_dialog_description">အနီးနားတွင် Wi-Fi ဟော့စ်ပေါ့တစ်ခုတွေ့ရှိခဲ့သည်။ ချိတ်ဆက်ရန် ကြိုးစားမည်လား?</string>
     <string name="network_show_wifi_setting_tip_dialog_title">Wi-Fi ကွန်ရက် ရရှိနိုင်သော</string>
+    <string name="news_load_failed">ပြန်ကြိုးစားကြည့်ရန် ထိနှိပ်ပါ</string>
+    <string name="news_loading">လုပ်ဆောင်နေသည်…</string>
     <string name="next_button_label">နောက်ထပ်</string>
     <string name="no_app_open_document">မည်သည့်အက်ပ်ကိုမှ ဒီလုပ်ဆောင်မှုကို ကိုင်တွယ်ဖြေရှင်းရန် ရှာမတွေ့ခဲ့ပါ</string>
+    <string name="no_items">နောက်ထပ်အိုင်တမ်များ မရှိတော့ပါ၊ အခြားအမျိုးအစားအုပ်စုအား ရွေးပါ။</string>
     <string name="no_matches">ကိုက်ညီသည့်အရာများ မတွေ့ပါ</string>
+    <string name="no_network">သင့်ကွန်ရက်ဆက်သွယ်မှုကိုစစ်ဆေးပြီး ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="no_space_alert_cancel">နောက်မှ</string>
     <string name="no_space_alert_clean">နေရာရှင်းလင်းလိုက်</string>
     <string name="no_space_alert_text">သိုလှောင်ရန်နေရာမလုံလောက်ပါ</string>
@@ -540,10 +555,10 @@
     <string name="onews__category_cricket">ခရစ်ကက်</string>
     <string name="onews__category_reddit">Reddit</string>
     <string name="open_app_confirm_message">ဤစာမျက်နှာအား %s ကိုဖွင့်ရန် ခွင့်ပြုမည်လား?</string>
-    <string name="open_file_explorer_failed">ဖိုင်ရှာဖွေသူအား မဖွင့်နိုင်ခဲ့ပါ</string>
-    <string name="open_private_folder">ကွယ်ဝှက်ထားသော ဖိုလ်ဒါများအား ကြည့်ရှုရန် လွှတ်လိုက်ပါ</string>
+    <string name="open_file_explorer_failed">ဖိုင်မန်နေဂျာအား ဖွင့်၍ မရပါ</string>
     <string name="open_voice_permission">Mic ကို အင်တာနက်ဖြင့် ချိတ်ဆက်ရန် ခွင့်ပြုပါ</string>
     <string name="opening_file_error">ရွေးထားသော ဖိုင်အား ဖွင့်၍မရပါ။</string>
+    <string name="other_channel">နောက်ထပ်ချန်နယ်များ ပေါင်းထည့်ရန် ထိနှိပ်ပါ။</string>
     <string name="page_info">ပေ့ဂျ်အချက်အလက်</string>
     <string name="page_info_address">လိပ်စာ-</string>
     <string name="page_info_view">ပေ့ဂျ်အချက်လက်အား ကြည့်ရှု</string>
@@ -588,6 +603,7 @@
     <string name="pref_content_night_read_mode">ညမုဒ်</string>
     <string name="pref_content_search_engine">လိပ်စာဘားရှိ ရှာဖွေမှုအင်ဂျင်</string>
     <string name="pref_content_search_engine_summary">ရှာဖွေရေးအင်ဂျင်ရွေးပါ</string>
+    <string name="pref_develop_mode">ဆော့ဖ်ဝဲရေးသူ မုဒ်</string>
     <string name="pref_enable_adblock_notification">ကြော်ငြာ ဘလော့လုပ်သည့်အရာ အသိပေးချက်များကို ပြပါ</string>
     <string name="pref_enable_news">သတင်းများ</string>
     <string name="pref_enable_novels">စာအုပ်များ</string>
@@ -660,11 +676,12 @@
     <string name="pref_version_info">ဗားရှင်းအချက်အလက်</string>
     <string name="pref_volume_key_action">အသံခလုတ်ကိုသုံးပြီး အပေါ်အောက်ကြည့်</string>
     <string name="private_browsing_warning">ဤ Android ဗားရှင်းတွင် ထိုလုပ်ဆောင်ချက်ကို မပံ့ပိုးထားပါ။</string>
-    <string name="profiler_error_toast">ပရိုဖိုင်လာကို စတင်လို့ မရပါ။</string>
-    <string name="profiler_no_storage_toast">ပြင်ပသိုလှောင်ခန်း အသင့်မဖြစ်သေးသောကြောင့် ပရိုဖိုင်လာကို စတင်၍မရပါ</string>
+    <string name="profiler_error_toast">ပရိုဖိုင်လာအား စတင်၍မရပါ။</string>
+    <string name="profiler_no_storage_toast">ပြင်ပသိုလှောင်ခန်း အသင့်မဖြစ်သေးသောကြောင့် ပရိုဖိုင်လာကို စတင်လို့ မရပါ</string>
     <string name="profiler_started_toast">ပရိုဖိုင်လာ စတင်ပြီးပြီ</string>
     <string name="profiler_stopped_toast">ပရိုဖိုင်လာ ပြီးဆုံးပြီ။ %1$sတွင်ရလဒ်များအား ဖော်ပြပါလိမ့်မည်။</string>
     <string name="progress_dialog_setting_wallpaper">နောက်ခံပုံကို သတ်မှတ်နေဆဲ…</string>
+    <string name="pull_to_refresh">ပြန်လန်းဆန်းစေရန် အောက်သို့ဆွဲချပါ</string>
     <string name="pull_to_refresh_pull_label">ပြန်လန်းဆန်းရန် ဆွဲချပါ</string>
     <string name="pull_to_refresh_release_label">အကြံပေးရန်နှင့် ပြန်လန်းဆန်းရန် လွှတ်လိုက်ပါ</string>
     <string name="qr_code_title">QR ကုဒ်</string>
@@ -695,6 +712,11 @@
     <string name="readmode_recommend_message">ဒီစာအုပ်ကို သင် ဖတ်ထားပြီးသား ဖြစ်သည်။ :)</string>
     <string name="readmode_refresh">ပြန်လန်းဆန်း</string>
     <string name="readmodelist_bookmarks_to_show">ဖတ်ရှုရန် စာရင်း</string>
+    <string name="refresh">ပြန်လည်လန်းဆန်းစေပါ</string>
+    <string name="refresh_fail">အချက်အလက်များ မရယူနိုင်ပါ</string>
+    <string name="refresh_success">သင်ကြိုက်မည့် ဆောင်းပါး %1$dပုဒ် တွေ့ရှိထားသည်</string>
+    <string name="refreshing">ပြန်လန်းဆန်းနေသည်…</string>
+    <string name="release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="remember_passwords_confirm_message">ဤလုပ်ဆောင်ရည်အားပိတ်လိုက်ခြင်းသည် အသုံးပြုခြင်းအား သက်ရောက်မှုရှိနိုင်ပါသည်</string>
     <string name="remove_bookmark">စာအုပ်မှတ်အား ဖျက်ပစ်ပါ</string>
     <string name="remove_bookmark_group">အုပ်စုကို ဖျက်ပစ်ပါ</string>
@@ -708,11 +730,6 @@
     <string name="retry_after_network_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="retry_download">ပြန်ကြိုးစားကြည့်ပါ</string>
     <string name="return_to_homepage">အစ စာမျက်နှာသို့ ပြန်သွားပါ</string>
-    <string name="rlv_last_refreshing_time">မွမ်းမံထားသော %1$s</string>
-    <string name="rlv_loading_more">ခဏစောင့်ပါ…</string>
-    <string name="rlv_pull_to_refresh">ပြန်လန်းဆန်းစေရန် အောက်သို့ဆွဲချပါ</string>
-    <string name="rlv_refreshing">ပြန်လန်းဆန်းနေသည်…</string>
-    <string name="rlv_release_to_refresh">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="rlz_access_point">Y1</string>
     <string name="root_folder_lable">တစ်ခုမှမရှိ</string>
     <string name="router_download_exist">ဤဖိုင်မှာ တည်ရှိနေပြီးဖြစ်သည်</string>
@@ -722,7 +739,7 @@
     <string name="same_folder_name_warning">အလားတူအမည်ဖြင့် အုပ်စု ရှိနေပြီးသားဖြစ်သည်</string>
     <string name="save_button_text">သိမ်းရန်</string>
     <string name="save_dialog_title">သိမ်းရန်</string>
-    <string name="save_file">%sဖိုင်ကို သိမ်းဆည်းမည်</string>
+    <string name="save_file">%s အား သိမ်းဆည်းမည်</string>
     <string name="save_file_already_exist_alert_message">အမည်တူသော ဖိုင်တစ်ခု ရှိထားပြီးသား ဖြစ်သည်။ အစားထိုးမည်လား?</string>
     <string name="save_file_already_exist_alert_title">ဖိုင်အစားထိုးမည်လား?</string>
     <string name="save_form_data_confirm_message">ဤလုပ်ဆောင်ရည်အားပိတ်လိုက်ခြင်းသည် အသုံးပြုခြင်းအား သက်ရောက်မှုရှိနိုင်ပါသည်</string>
@@ -775,10 +792,6 @@
     <string name="sendstartpage">အစ စာမျက်နှာ</string>
     <string name="share_image_text">ကျွန်ုပ်ဘာတွေ့ထားတယ်ဆိုတာ ကြည့်ကြည့်ပါ! @MIUI</string>
     <string name="share_page_text">ကျွန်ုပ်ဘာတွေ့ထားတယ်ဆိုတာ ကြည့်ကြည့်ပါ- %1$s @MIUI| %2$s</string>
-    <string name="show_check_security_url_check_tip_dialog_description">ပုံမှန်အလုပ်လုပ်ရန် ဘရောက်ဇာသည် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်။ လုံခြုံရေးတိုးမြှင့်ရန်နှင့် ပိုမိုသင့်လျော်သောတုံ့ပြန်အကြံပြုချက်များ ရယူရန်၊ ဘရောက်ဇာကို သင်ဝင်ရောက်ခဲ့သော ဝက်ဘ်ဆိုက် URL နှင့် သင့်တည်နေရာတို့ကို ဝင်ရောက်ခွင့်ပြုပါ။</string>
-    <string name="show_check_security_url_check_tip_dialog_description_international">ပုံမှန်အလုပ်လုပ်ရန် ဘရောက်ဇာသည် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်။ ပိုမိုသင့်လျော်သောတုံ့ပြန်အကြံပြုချက်များ ရယူရန်၊ ဘရောက်ဇာကို သင်ဝင်ရောက်ခဲ့သော ဝက်ဘ်ဆိုက် URL နှင့် သင့်တည်နေရာတို့ကို ဝင်ရောက်ခွင့်ပြုပါ။</string>
-    <string name="show_security_tip_dialog_title">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
-    <string name="show_weather_location_getter_tip_dialog_description">ပုံမှန်အလုပ်လုပ်ရန် ဘရောက်ဇာသည် အင်တာနက်ချိတ်ဆက်မှု လိုအပ်ပါသည်။ လုံခြုံရေးတိုးမြှင့်ရန်နှင့် ပိုမိုသက်ဆိုင်သော အကြံပြုချက်များနှင့် မိုးလေဝသအချက်အလက်များကို ရယူရန်အတွက် ဘရောင်ဇာအား သင်ဝင်ကြည့်သော ဝဘ်ဆိုက်များ၏ URL များကို ရယူခွင့်ပြုပြီး သင်၏တည်နေရာအချက်အလက်များကို အသုံးပြုခွင့်ပေးပါ။</string>
     <string name="sign_in_to" formatted="false">%s1 %s2 သို့ဆိုင်းအင်ဝင်ရောက်ပါ</string>
     <string name="site_sort_des">အိုင်တမ်များကို ပြန်လည်စီမံမည်</string>
     <string name="skip_button_label">ကျော်သွား</string>
@@ -828,6 +841,7 @@
     <string name="time_picker_dialog_pm">ညနေ</string>
     <string name="time_picker_dialog_second_subsecond_separator">.</string>
     <string name="time_picker_dialog_title">အချိန် သတ်မှတ်ပါ</string>
+    <string name="tip_drag">တည်းဖြတ်ရန် ကြာရှည်စွာဖိထားပါ၊ မျိုးတူစုရန် ဆွဲချပါ။</string>
     <string name="title_bar_loading">ရယူနေ…</string>
     <string name="too_many_windows_dialog_message">အခြားတက်ဘ်ကိုမပိတ်မခြင်း ဘရောက်ဇာသည် တက်ဘ်အသစ်ကို ဖွင့်၍ မရနိုင်ပါ</string>
     <string name="too_many_windows_dialog_title">နောက်ထပ်တက်ဘ် မဖွင့်နိုင်တော့ပါ</string>
@@ -837,7 +851,7 @@
     <string name="unsecurity_url_toast">ဤဝက်ဘ်ဆိုက်မှာ မလုံခြုံပါ</string>
     <string name="up_to_loading_tips">ပြန်လန်းဆန်းစေရန် လွှတ်လိုက်ပါ</string>
     <string name="update_no_network_toast">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
-    <string name="updating_chrome">Chrome ကို အပ်ဒိတ်လုပ်နေသည်‧</string>
+    <string name="updating_chrome">Chrome ကို အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="uploads_disabled">ဖိုင်အပ်လုပ်ဒ်လုပ်ခြင်းကို ပိတ်ထားပါသည်</string>
     <string name="url_copy_done">ကလစ်ဘုတ်သို့ URL ကို ကူးပြီးပါပြီ</string>
     <string name="url_find_on_page_result">ဘရောက်ဇာတွင် ကြည့်ပါ</string>
@@ -865,7 +879,7 @@
     <string name="version_check_button_no_network">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="version_check_button_resume_download">ဒေါင်းလုဒ်အား ပြန်စတင်</string>
     <string name="version_check_button_update">မွမ်းမံမှု</string>
-    <string name="version_check_failed">ပြင်ဆင်မှုများအားစစ်ဆေးရန် မအောင်မြင်ခဲ့</string>
+    <string name="version_check_failed">အပ်ဒိတ်လုပ်၍ မရပါ</string>
     <string name="version_dialog_buttion_ok">အိုကေ</string>
     <string name="version_dialog_buttion_update">မွမ်းမံ</string>
     <string name="version_update_file_download_toast">ဒေါင်းလုဒ်လုပ်နေသည်</string>
@@ -928,7 +942,7 @@
     <string name="voice_title">သင့်အမိန့်ပေးချက်အားပြောပါ...</string>
     <string name="voice_title_distinguish">လုပ်ဆောင်နေ...</string>
     <string name="voice_title_listening">နားထောင်နေ...</string>
-    <string name="voice_title_please">စပြောပါ...</string>
+    <string name="voice_title_please">စ ပြောပါ…</string>
     <string name="voice_title_speech_again">သင်ပြောသည်ကို နားမလည်နိုင်ပါ</string>
     <string name="weather_description_no_aqi">%1$s</string>
     <string name="weather_location_confirm_message">ဤလုပ်ဆောင်ရည်အားပိတ်လိုက်ခြင်းသည် အသုံးပြုခြင်းအား သက်ရောက်မှုရှိနိုင်ပါသည်</string>

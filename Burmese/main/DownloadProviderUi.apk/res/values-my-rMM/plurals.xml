@@ -3,6 +3,9 @@
     <plurals name="confirm_delete_downloads_message">
         <item quantity="other">ဒေါင်းလုဒ် %d ခုအား ဖျက်ပစ်မည်။</item>
     </plurals>
+    <plurals name="dialog_confirm_delete_downloads_message">
+        <item quantity="other">လုပ်ငန်း %dခုကို ဖျက်မလား?</item>
+    </plurals>
     <plurals name="download_info_count_deleted_tasks">
         <item quantity="other">ဒေါင်းလုဒ် %1$d ခုအား ဖယ်ရှားခဲ့သည်</item>
     </plurals>

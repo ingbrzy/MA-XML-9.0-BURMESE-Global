@@ -44,10 +44,11 @@
     <string name="cloud_app_no_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
     <string name="button_delete">ဖျက်ပစ်ပါ</string>
     <string name="customization"><u>သုံးသူစိတ်ကြိုက်</u></string>
+    <string name="home_hint_global_launcher">Poco ပင်မမျက်နှာပြင်</string>
     <string name="self_phone">ဤဖုန်း</string>
+    <string name="self_phone_home">ဤဖုန်း- %s</string>
     <string name="process_whole_recovery">\"%s\" ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="device_xiaomi">Mi Phone</string>
-    <string name="device_corrupt">Mi ဖုန်း (ဒေတာပျက်စီးသော)</string>
     <string name="size_unknown">အရွယ်အစားမသိ</string>
     <string name="recovering">%s ကို နဂိုနေရာပြန်ထားခြင်း</string>
     <string name="start_recover">%s ကို နဂိုနေရာပြန်ထားပါ</string>
@@ -69,7 +70,7 @@
     <string name="desktop_downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="desktop_installing">တပ်ဆင်နေဆဲ</string>
     <string name="desktop_wait_wifi">စောင့်နေဆဲ</string>
-    <string name="desktop_failed">မအောင်မြင်ပါ</string>
+    <string name="desktop_failed">အမှား</string>
     <string name="recover_from_micloud">Mi Cloud အရန်သိမ်းခြင်းမှ နဂိုနေရာပြန်ထားပါ</string>
     <string name="click_try_to_restore_again">ပြန်လုပ်ကြည့်ရန် ထိနှိပ်ပါ</string>
     <string name="open_wifi">Wi-Fi အခု ဖွင့်ပါ</string>
@@ -132,6 +133,8 @@
     <string name="no_account">Mi အကောင့်သို့ ဆိုင်းအင်မဝင်ရသေးပါ။</string>
     <string name="no_backup">Mi Cloud တွင် အရန်သိမ်းထားခြင်း မရှိပါ။</string>
     <string name="download_meta_failed">ဒေတာကို မရယူနိုင်ပါ။</string>
+    <string name="home_restore_error">ပင်မမျက်နှာပြင်ကို ပြန်လည်ရယူ၍ မရပါ</string>
+    <string name="get_device_id_error">စက် ID အား မရယူနိုင်ပါ</string>
     <string name="download_home_data">ပင်မမျက်နှာပြင်အပြင်အဆင်ကို ဒေါင်းလုဒ်လုပ်နေသည်…</string>
     <string name="restore_home_failed">ပင်မမျက်နှာပြင်ကို ပြန်လည်ရယူ၍ မရပါ။</string>
     <string name="arrange_restore_order">အက်ပ်များကို ပြန်လည်စီစဥ်နေသည်…</string>
