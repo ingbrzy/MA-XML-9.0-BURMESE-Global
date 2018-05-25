@@ -809,10 +809,8 @@
     <string name="recognize_hotel_other_money">အခြားသုံးစွဲမှုများ %1$s</string>
     <string name="recognize_hotel_reverse_date">%1$s:%2$s %3$s မတိုင်မီ ဝင်ရောက်ပါ</string>
     <string name="recognize_hotel_room_type">အခန်း</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">ဟိုတယ်ဘိုကင်</string>
     <string name="recognize_hotel_user_names">ဧည့်သည်</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">ခရီးသွားဆက်တင်များ</string>
     <string name="recognize_ticket_air_notification_content">ကောင်မွန်သော ပျံသန်းမှု ဖြစ်ပါစေ!</string>
     <string name="recognize_ticket_air_notification_title">လေယာဉ် %3$s (%1$s/%2$s) သည် မကြာမီထွက်ခွာတော့မည်။ သင့်လေယာဉ်လက်မှတ်အချက်အလက်ကို သေချာအောင်စစ်ဆေးပါ။</string>
