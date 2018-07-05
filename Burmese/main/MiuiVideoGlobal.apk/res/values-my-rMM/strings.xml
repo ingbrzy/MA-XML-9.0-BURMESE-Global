@@ -19,7 +19,6 @@
     <string name="abc_shareactionprovider_share_with">မျှဝေဖို့ ရွေးပါ</string>
     <string name="abc_shareactionprovider_share_with_application">%s ကို မျှဝေပါရန်</string>
     <string name="abc_toolbar_collapse_description">ခေါက်ရန်</string>
-    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
     <string name="airkan_control_device_des">ပြသမှုကို အောက်ခြေခလုတ်ဖြင့် ထိန်းချုပ်နိုင်သည်။</string>
     <string name="airkan_device_xiaomi_phone">ကျွန်ုပ်၏ဖုန်း</string>
     <string name="airkan_playing">%sတွင် ပြသနေသည်</string>

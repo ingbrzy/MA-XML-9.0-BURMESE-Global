@@ -878,7 +878,6 @@
     <string name="power_remaining_charging_duration_only">အားပြည့်ရန် %1$s လိုပါသည်</string>
     <string name="power_remaining_duration_only">%1$s ခန့်လိုပါသည်</string>
     <string name="power_remaining_duration_only_short">%1$s ကျန်သည်</string>
-    <string name="process_kernel_label">Android စနစ်</string>
     <string name="profile_owned_footer">ပရိုဖိုင်ကို စောင့်ကြပ်နိုင်သည်</string>
     <string name="qs_dnd_keep">သိမ်းထားရန်</string>
     <string name="qs_dnd_prompt_app">\"မနှောင့်ယှက်ရ\" ကို အက်ပ် (%s) က ဖွင့်ခဲ့သည်။</string>

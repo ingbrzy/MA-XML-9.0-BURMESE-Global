@@ -73,12 +73,6 @@
         <item>သိုလှောင်မှုဖြင့်စီပါ</item>
         <item>တပ်ဆင်ချိန်အလိုက် စီမည်</item>
     </string-array>
-    <string-array name="key_app_info">
-        <item>install_source</item>
-        <item>install_time</item>
-        <item>update_source</item>
-        <item>update_time</item>
-    </string-array>
     <string-array name="title_app_info">
         <item>တပ်ဆင်ခြင်းအရင်းအမြစ်</item>
         <item>တပ်ဆင်ခြင်းအချိန်</item>

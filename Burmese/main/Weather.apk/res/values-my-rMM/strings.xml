@@ -81,12 +81,10 @@
     <string name="daily_forecast_add_city_message">အသေးစိတ်ခန့်မှန်းချက်အတွက် %1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်။</string>
     <string name="daily_forecast_add_city_title">%1$s၏ရာသီဥတုကို ဖော်လိုလိုက်မည်</string>
     <string name="daily_forecast_detail_date">M/d</string>
-    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"မိုးလေဝသအချက်အလက်ရယူ၍ မရပါ
 အောက်သို့ဆွဲပြီး ပြန်လန်းဆန်းစေပါ သို့မဟုတ် ကွန်ရက်ဆက်တင်ကို စစ်ဆေးပါ"</string>
     <string name="data_provided_by">ဒေတာ ထောက်ပံ့သော</string>
     <string name="edit_city">မြို့တော်အားစီမံ</string>
-    <string name="empty">" "</string>
     <string name="eu_region_version_first_start_network_msg">ဤထုတ်ကုန်အား အသုံးပြုခြင်းဖြင့် Xiaomi မှ သင်ရှာ​ဖွေသောမြို့များ၏ကိုသြဒီနိတ်၊ ကိုယ်ရေးအချက်အလက်ပေါ်လစီမှ သတ်မှတ်ထားသော အခြားအချက်အလက်များအပါအဝင် သင်၏ကိုယ်ရေးအချက်အလက်အား စုဆောင်းခြင်း၊ အသုံးပြုခြင်းကို သဘောတူရပါမည်။ စုဆောင်းပုံနှင့် အသုံးပြုပုံအား သိရှိနားလည်ရန် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို ဖတ်ရှုပါ။ \"သဘောတူပါသည်\"အား ရွေးပါက Xiaomi ၏ %1$sနှင့် %2$sကို သင်သဘောတူလက်ခံသည်။</string>
     <string name="feedback_heavy_rain">မိုးကြီးသော</string>
     <string name="feedback_heavy_snow">နှင်းကျ</string>
@@ -99,8 +97,6 @@
     <string name="first_start_network_title">အင်တာနက်နှင့် တည်နေရာဝင်ရောက်နိုင်မှု</string>
     <string name="global_aqi">AQI: %1$s %2$s</string>
     <string name="hourly_forcast_now">ယခု</string>
-    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
-    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">M/d</string>
     <string name="index_item_experience_now">ယခုထည့်သွင်း</string>
     <string name="index_item_install_dialog" />
@@ -112,12 +108,10 @@
     <string name="indices_title_feel">အမှန်တကယ်ခံစားရသော</string>
     <string name="indices_title_pressure">လေထုဖိအား</string>
     <string name="install">တပ်ဆင်</string>
-    <string name="install_progress">%1$s%%</string>
     <string name="international_details_pressure_title">ဖိအား</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">အသေးစိတ်များ</string>
     <string name="international_details_uv_index_title">UV အညွှန်း</string>
-    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">လေ</string>
     <string name="it_is_going_to_rain">မိုးရွာတော့မည်</string>
     <string name="locate_fail_detail_err">"စက်တည်နေရာ ရှာမရပါ
@@ -188,7 +182,6 @@
     <string name="share_menu_title">မျှဝေပါ</string>
     <string name="share_subject">မျှဝေပါ</string>
     <string name="share_weather_desc">\#MIUI ရာသီကတု#ယနေ့%1$s %2$s</string>
-    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">ဖန်သားပြင်ရုပ်ပုံဖမ်းယူချက်အား မရိုက်ယူနိုင်ပါ</string>
     <string name="some_where_on_earth">ကမ္ဘာပေါ်ရှိတစ်နေရာရာ</string>

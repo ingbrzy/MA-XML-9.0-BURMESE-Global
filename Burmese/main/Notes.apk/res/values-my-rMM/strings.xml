@@ -110,7 +110,6 @@
     <string name="menu_title_select_folder">ဖိုလ်ဒါ ရွေးပါ</string>
     <string name="menu_unhide">ဖော်ပါ</string>
     <string name="menu_unstick">ဆွဲဖြုတ်ပါ</string>
-    <string name="micloud_state_total_count">%1$s</string>
     <string name="not_now">အခု မဟုတ်ပါ</string>
     <string name="note_description_content">မှတ်စုအက်ပ်သည် သင့်စိတ်ကူးများကို မှတ်တမ်းတင်ထားရန်အတွက် အကောင်းဆုံးဖြစ်သည်။ ၎င်းတွင် မူလကတည်းက ထည့်သွင်းထားသော သတိပေးချက်ဝန်ဆောင်မှု ပါရှိပြီး သင်မှတ်ထားသော အရာများကို Mi Cloud ထဲတွင် ဆင့်ခ်လုပ်သည့်အတွက် ယင်းတို့ကို အချိန်မရွေး နေရာမရွေး ဝင်ရောက် အသုံးပြုနိုင်ပါသည်။ အက်ပ်ကို မဖျက်မီ သင်သည် ၎င်းဝန်ဆောင်မှုများ မရှိသည်ကို လက်ခံနိုင်ကြောင်း သေချာပါစေ။</string>
     <string name="note_description_title">မှတ်စုအကြောင်း</string>

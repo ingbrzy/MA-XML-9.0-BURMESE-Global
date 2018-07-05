@@ -224,7 +224,6 @@
     <string name="battery_saver">ဘက်ထရီချွေတာသူ</string>
     <string name="battery_saver_keywords">ဘက်ထရီချွေတာသူ၊မေးလ်ဘက်ထရီ</string>
     <string name="bcc">Bcc</string>
-    <string name="bcc_heading">"Bcc: "</string>
     <string name="bill_center_setting">ဘေလ်ဆက်တင်များ</string>
     <string name="bill_center_setting_head">ထိုအကောင့်များမှ အချက်အလက်များအား ထည့်သွင်းပါ</string>
     <string name="bill_cycle_text">ဘေလ်လုပ်ငန်းစဉ်</string>
@@ -245,7 +244,6 @@
     <string name="cancel_pop3_attchemt_downloading">POP3 အကောင့်များတွင် လက်ရှိ ပြုလုပ်နေသော ပူးတွဲဖိုင်များ၏ ဒေါင်းလုဒ်ကို ပယ်ဖျက်၍မရပါ</string>
     <string name="cant_move_or_change_labels">အကောင့်များစွာမှ အိုင်တမ်များအား ရွေ့၍မရနိုင်ပါ</string>
     <string name="cc">Cc</string>
-    <string name="cc_attribution">Cc: %1$s&lt;br></string>
     <string name="cc_bcc">Cc/Bcc</string>
     <string name="cc_heading">"Cc: "</string>
     <string name="change_folders_selection_dialog_title">ဖိုင်တွဲများကို ပြောင်းပါ</string>
@@ -263,7 +261,6 @@
     <string name="click_download_all_content">[အကြောင်းအရာများအား ဒေါင်းလုဒ်လုပ်ရန် ထိနှိပ်ပါ]</string>
     <string name="click_to_reload">ပြန်လန်းဆန်းရန် မျက်နှာပြင်အား ထိနှိပ်ပါ</string>
     <string name="collapse_recipient_details">လက်ခံသူအသေးစိတ်မျာအား မကြည့်တော့</string>
-    <string name="colon">:</string>
     <string name="compose">စာရေးသား</string>
     <string name="compose_attachment_number_limit">တွဲချိတ် ၁၀ ခုထက်ပို၍ ပေါင်းထည့်၍မရပါ</string>
     <string name="compose_paste_address_oob">အက္ခရာများလွန်းနေ</string>
@@ -476,7 +473,6 @@
     <string name="gmail_web_login_go">အိုကေ</string>
     <string name="gmail_web_login_required_message">Gmail သို့ဆိုင်းအင်ဝင်ပါ</string>
     <string name="header_category_account">အကောင့်များ</string>
-    <string name="header_category_general">@string/header_label_general_preferences</string>
     <string name="header_category_other">တုန့်ပြုန်မှုပို့</string>
     <string name="header_label_general_preferences">အထွေထွေ</string>
     <string name="help_and_info">အကူအညီ</string>
@@ -498,7 +494,6 @@
     <string name="invalid_recipient">လိပ်စာ %s မှာ ဘောင်မဝင်ပါ။</string>
     <string name="invalid_recipient_title">လက်ခံသူ အမှား</string>
     <string name="kilobytes">%s KB</string>
-    <string name="label_notification_ticker" formatted="false">%s: %s</string>
     <string name="load_from_remote">ဆာဗာတွင် မေးလ်သေတ္တာအား ရှာဖွေ</string>
     <string name="load_more">ထပ်ရှာ</string>
     <string name="loading_conversation">ရယူနေသည်…</string>
@@ -918,7 +913,6 @@
     <string name="silent_ringtone">တိတ်ဆိတ်</string>
     <string name="single_new_message_notification_big_text">"%1$s
 %2$s"</string>
-    <string name="single_new_message_notification_title">%1$s: %2$s</string>
     <string name="smtp_password_error">အထွက်ဆာဗာအတွက် စကားဝှက်မမှန်ကန်ပါ</string>
     <string name="sort_attachment">အားဖြင့်စီပါ</string>
     <string name="storage">သိုလှောင်မှု</string>
