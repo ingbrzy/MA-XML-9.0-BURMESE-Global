@@ -9,4 +9,10 @@
     <plurals name="note_terms">
         <item quantity="other">မှတ်ချက် %1$s ခု</item>
     </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">%d စက္ကန့် ကျန်သေးသည်</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">အက္ခရာ %s ခု</item>
+    </plurals>
 </resources>

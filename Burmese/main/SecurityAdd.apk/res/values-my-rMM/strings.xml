@@ -13,6 +13,7 @@
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
     <string name="main_toolbar_purchase">ငွေဖြည့်</string>
     <string name="usage_sorted_loading_text">ခဏစောင့်ပါ…</string>
+    <string name="empty">" "</string>
     <string name="share">မျှဝေပါ</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>

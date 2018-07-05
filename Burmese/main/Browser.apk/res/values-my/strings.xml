@@ -6,6 +6,7 @@
     <string name="common_google_play_services_install_button">ထည့်သွင်းပါ</string>
     <string name="common_google_play_services_install_text">သင့်တက်ဘလက်တွင် Google Play ဝန်ဆောင်မှုများမရှိသောကြောင့် %1$s ကိုဖွင့်၍မရပါ။</string>
     <string name="common_google_play_services_install_title">Google Play ဝန်ဆောင်မှုများရယူရန်</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ဝန်ဆောင်မှုများ ရရှိနိုင်သည်</string>
     <string name="common_google_play_services_notification_ticker">Google Play ဝန်ဆောင်မှုများ အမှား</string>
     <string name="common_google_play_services_unknown_issue">%1$s သည် Google Play ဝန်ဆောင်မှုများနှင့် ပြဿနာအနည်းငယ် ရှိနေပါသည်။ ထပ်လုပ်ကြည့်ပါ။</string>
     <string name="common_google_play_services_unsupported_text">Google Play ဝန်ဆောင်မှုများကို သင့်စက်ပစ္စည်းတွင် ပံ့ပိုးမထားသည့်အတွက် ၎င်းမရှိဘဲ %1$s ကို ဖွင့်၍မရပါ။</string>
@@ -23,4 +24,6 @@
     <string name="s4">ငြင်းပယ်ရန်</string>
     <string name="s5">ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းရန်</string>
     <string name="s6">ကြော်ငြာအား ပြက္ခဒိန်တွင် အစီအစဉ်ထည့်သွင်းခွင့် ပြုပါသလား။</string>
+    <string name="s7">စမ်းသပ်ကြော်ငြာ</string>
+    <string name="status_bar_notification_info_overflow">၉၉၉+</string>
 </resources>

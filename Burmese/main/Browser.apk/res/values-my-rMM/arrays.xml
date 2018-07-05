@@ -48,6 +48,10 @@
         <item>ဖုန်း</item>
         <item>Pad</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>ဒေါင်လိုက်</item>
+        <item>အလျားလိုက်</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>အလွန်သေး</item>
         <item>အသေး</item>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="stock_color_schema">
-        <item>အနီ - တက်၊ အစိမ်း - ကျ</item>
         <item>အစိမ်း - တက်၊ အနီ - ကျ</item>
+        <item>အနီ - တက်၊ အစိမ်း - ကျ</item>
     </string-array>
     <string-array name="stock_title_schema">
         <item>အမည်ကို ဟိုက်လိုက်လုပ်မည်</item>

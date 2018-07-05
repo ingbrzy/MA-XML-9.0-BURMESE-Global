@@ -9,10 +9,7 @@
     <string name="power_config_apps">ဘက်ထရီ ချွေတာခြင်း</string>
     <string name="app_list_title">အက်ပ်များ ရွေးပါ</string>
     <string name="power_hide_mode_app_list_summary">နောက်ခံတွင် ပါဝါချွေတာနေသည်</string>
-    <string name="enable_hide_mode">ဘက်ထရီချွေတာသူအား ဖွင့်ပါ</string>
-    <string name="disable_hide_mode">ဘက်ထရီချွေတာသူအား ပိတ်ပါ</string>
     <string name="about_hide_mode">ဘက်ထရီ ချွေတာခြင်း အကြောင်း</string>
-    <string name="disable_hide_mode_warning">ဘက်ထရီချွေတာသူကို ပိတ်ထားပါက သင်၏စက်ပါဝါအသုံးပြုခြင်း တိုးများနိုင်သည်။</string>
     <string name="show_system_app">စနစ် အက်ပ်များ ကို ပြသပါ</string>
     <string name="hide_system_app">စနစ် အက်ပ်များကို ဝှက်ပါ</string>
     <string name="scenario_policies_title">စမတ် မြင်ကွင်းများ</string>

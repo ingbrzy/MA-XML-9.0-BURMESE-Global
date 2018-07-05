@@ -294,6 +294,7 @@
     <string name="weibo_send">Weibo သို့ ပို့ပါ</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">QQ သူငယ်ချင်းများ/ကွန်ပျူတာသို့ ပေးပို့ပါ</string>
+    <string name="qq_login">QQ သို့ ဆိုင်းအင်ဝင်မည်</string>
     <string name="xspace_default_setting_label">ပုံသေအက်ပ်</string>
     <string name="xspace_default_app_title">ပုံသေအက်ပ်</string>
     <string name="xspace_default_app_summary">ပေးချေမှု၊ မျှဝေမှု၊ အကြိုက်ဆုံးများနှင့် အခြားအရာများအတွက် မူလအက်ပ်တစ်ခု သတ်မှတ်မည်။</string>
@@ -331,7 +332,7 @@
     <string name="can_not_delete_when_calling">ဖုန်းပြောနေစဉ် ဧရိယာများကို ဖျက်၍မရပါ</string>
     <string name="support_desc">Spaces Mobile မှ လုံခြုရေးဝန်ဆောင်မှုများကို ပံ့ပိုးသည်</string>
     <string name="sdcardfs_dialog_title">အရေးကြီးသော မွမ်းမံမှု</string>
-    <string name="sdcardfs_dialog_message">MIUI 9 စနစ်ဖိုင်အသစ် ရှိပါပြီ။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် အပ်ဒိတ်လုပ်ရန် အောက်ပါအဆင့်အတိုင်း ဆောင်ရွက်ပါ။ ဤအတောအတွင်း သင်၏စက်သည် နှစ်ကြိမ် ပိတ်၍ပြန်စလိမ့်မည်။</string>
+    <string name="sdcardfs_dialog_message">ဤအပ်ဒိတ်တွင် စနစ်ဖိုင်အသစ်တစ်ခု ရှိသည်။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် အပ်ဒိတ်လုပ်ရန် အောက်ပါအဆင့်အတိုင်း ဆောင်ရွက်ပါ။ ဤအတောအတွင်း သင်၏စက်သည် နှစ်ကြိမ် ပိတ်၍ပြန်စလိမ့်မည်။</string>
     <string name="do_not_ask">ထပ်မမေးပါနှင့်</string>
     <string name="gpg_message">ဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ် ဖန်တီးရာတွင် Google Playဂိမ်းများ လိုအပ်ပါသည်။ Google Playဂိမ်းများအတွက် နှစ်ခုတွဲအက်ပ်တစ်ခု ဖန်တီးမလား?</string>
     <string name="gpg_title">Google Play ဂိမ်းများအတွက် ပွားထားသော အက်ပ်</string>
@@ -363,14 +364,14 @@
     <string name="remove_user_click_message">*ဒုတိယနေရာတွင် အရေးကြီးသော အိုင်တမ်များမရှိပါက၊ %s</string>
     <string name="remove_user_click_message_action">ယခု ဒုတိယနေရာကို ဖျက်ပြီး သင်၏စက်ကို ပိတ်၍ပြန်စနိုင်ပါပြီ။</string>
     <string name="sdcradfs_dialog_in_owner_title">ဒုတိယနေရာ</string>
-    <string name="sdcradfs_dialog_in_owner_message">"MIUI 9 စနစ်ဖိုင်အသစ် ရှိပါပြီ။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် ဒုတိယနေရာမှ အိုင်တမ်များကို ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ၊ ဒုတိယနေရာကို ပြန်လည်ဖန်တီးပြီး အပ်ဒိတ်လုပ်ပါ။
+    <string name="sdcradfs_dialog_in_owner_message">"ဤအပ်ဒိတ်တွင် စနစ်ဖိုင်အသစ်တစ်ခု ရှိသည်။ ဒေတာအဟောင်းနှင့် ကိုက်ညီမှုမရှိသောကြောင့် ဒုတိယနေရာမှ အိုင်တမ်များကို ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ၊ ဒုတိယနေရာကို ပြန်လည်ဖန်တီးပြီး အပ်ဒိတ်လုပ်ပါ။
 အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
     <string name="sdcradfs_dialog_in_sec_title">အရေးကြီးသော မွမ်းမံမှု</string>
     <string name="sdcradfs_dialog_in_sec_message">"အပ်ဒိတ်လုပ်ရန် ဒုတိယနေရာကို ဖျက်၍ ပြန်ဖန်တီးပါ။ ဒုတိယနေရာမှ ဒေတာများကို ပထမနေရာသို့ ရွှေ့ပြီး သင်၏စက်အား ပိတ်၍ပြန်စပါ။
 အပ်ဒိတ်မလုပ်ပါက နှစ်ခုတွဲအက်ပ်များသည် ပုံမှန်အလုပ်လုပ်တော့မည်မဟုတ်ပါ။"</string>
     <string name="space_created_success">ဒုတိယနေရာ ဖန်တီးပြီးပါပြီ</string>
     <string name="encrypt_space_delete_dialog_title">သတိပြုရန်</string>
-    <string name="encrypt_space_delete_dialog_message">Androidအား အပ်ဒိတ်လုပ်တော့မည်။ အပ်ဒိတ်လုပ်ပြီးနောက် ဒုတိယနေရာမှ ဒေတာသည် တွဲဖက်၍ ရမည်မဟုတ်ပါ။ ထို့ကြောင့် ဒေတာအားလုံးကို ပထမနေရာသို့ ရွှေ့ထားပါ။ ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးပါ။</string>
+    <string name="encrypt_space_delete_dialog_message">စနစ်အပ်ဒိတ် လုပ်ဆောင်တော့မည်။ အပ်ဒိတ်လုပ်ပြီးနောက် ဒုတိယနေရာမှ ဒေတာသည် တွဲဖက်၍ ရမည်မဟုတ်ပါ။ ထို့ကြောင့် ဒေတာအားလုံးကို ပထမနေရာသို့ ရွှေ့ထားပါ။ ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးပါ။</string>
     <string name="encrypt_space_delete_dialog_click_message">*အကယ်၍ ဒေတာရွှေ့ရန် မလိုပါက၊ %s</string>
     <string name="encrypt_space_delete_dialog_click_message_action">ယခု ဒုတိယနေရာအား ဖျက်၍ ပြန်ဖန်တီးမည်။</string>
     <string name="encrypt_space_delete_dialog_positive_text">ဒေတာရွေ့မည်</string>
@@ -396,7 +397,5 @@
     <string name="experience_more_features">အင်္ဂါရပ်အားလုံးကို ကြည့်ရန် စက်ပေါင်းထည့်ပါ</string>
     <string name="can_not_switch_when_green_kid_active">ဒုတိယနေရာသို့ ကူးပြောင်းခြင်းအား မိဘ ထိန်းချုပ်မှုမှ ကန့်သတ်ထားသည်</string>
     <string name="need_network_when_bind">စက်များကို မပေါင်းထည့်မီ ကွန်ရက်သို့ ချိတ်ဆက်ပါ</string>
-    <string name="net_work_notice">Parental controls need to connect to the internet and get access to your location to work normally. This permissions are required to send the info about battery levels, step count, and your location to the controlled devices. Allow?</string>
-    <string name="agree">Agree</string>
-    <string name="disagree">"Don't agree"</string>
+    <string name="this_function_can_not_use_in_second_space">ဤအင်္ဂါရပ်သည် ပထမနေရာတွင်သာ သုံးနိုင်သည်</string>
 </resources>

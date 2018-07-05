@@ -51,15 +51,15 @@
     <string name="bookmark_confirm_delete_message">ရွေးချယ်ထားသော မက်ဆေ့ချ်များကို ကြယ်ပြထားခြင်းမှဖြုတ်မလား?</string>
     <string name="bookmark_empty">ကြပ်ပြထားသော မက်ဆေ့ချ်များမရှိပါ</string>
     <string name="bookmark_list_title">ကြယ်ပြထားသော</string>
-    <string name="button_emoji_creature">သတ္တဝါ အီမိုဂျီ</string>
+    <string name="button_emoji_creature">အီမိုဂျီ တိရစ္ဆာန်</string>
     <string name="button_emoji_lifestyle">နေထိုင်ပုံ အီမိုဂျီ</string>
-    <string name="button_emoji_smiley">အပြုံးမျက်နှာ အီမိုဂျီ</string>
+    <string name="button_emoji_smiley">မျက်နှာ အီမိုဂျိ</string>
     <string name="button_emoji_symbol">သင်္ကေတ အီမိုဂျီ</string>
     <string name="button_emoji_text">စာသား အီမိုဂျီ</string>
     <string name="button_fold">ခေါက်ပါ</string>
     <string name="button_next_slide">ရှေ့သို့</string>
     <string name="button_pre_slide">နောက်သို့</string>
-    <string name="button_resend_message">ပြန်လည်ပေးပို့ပါ</string>
+    <string name="button_resend_message">ထပ်မံပေးပို့ပါ</string>
     <string name="button_unfold">ဖြန့်ပါ</string>
     <string name="call_sender">ပေးပို့သူအား ခေါ်ဆိုပါ</string>
     <string name="cannot_add_picture_and_video">ဆလိုက်တစ်ခုသို့ ဗီဒီယိုနှင့် ပုံ ထည့်လို့မရပါ။</string>
@@ -135,7 +135,9 @@
     <string name="delete_wild_sims_title">ရွေးထားသော နံပါတ်များအား ဖျက်ပါ</string>
     <string name="delivery_report_activity">ပေးပို့ကြောင်းအစီရင်ခံစာ</string>
     <string name="delivery_toast_body">%sမှ မက်ဆေ့ချ်ကို လက်ခံရရှိသည်</string>
+    <string name="dialog_message_fake_cell_detect_error">ဤမက်ဆေ့ချ်နှင့် ပတ်သက်သော အချက်အလက်ကို ပြင်မလား? ပြင်လိုပါက MIUI မှ ဖုန်းနံပါတ် (%1$s)၊ မက်ဆေ့ချ်အကြောင်းအရာနှင့် အနီးအနားရှိ တည်နေရာအချက်အလက်များကို ဆာဗာသို့ လုဒ်တင်ရမည်။</string>
     <string name="dialog_message_sms_report">သင်အစီရင်ခံပြီးသောအခါ စပန်မက်ဆေ့ချ်များနှင့် ပေးပို့သူအချက်အလက်ကို MIUI သို့ တင်လိမ့်မည်။ ယင်းတို့အား MIUI စပန်တိုးတက်ရေးအတွက်သာ အသုံးပြုမည်ဖြစ်သည်။</string>
+    <string name="dialog_title_fake_cell_detect_error">အမှားပြင်ဆင်ချက်</string>
     <string name="disable_notifications_dialog_message">မူလသတ်မှတ်ချက် မက်ဆေ့ချ်ပို့သည့် အက်ပ်မှ နှစ်ခုထပ်နေသော စာသားမက်ဆေ့ချ် အသိပေးချက်များကို ရပ်မလား?</string>
     <string name="disabled">ပိတ်မည်</string>
     <string name="discard">ဖယ်ထုတ်ရန်</string>
@@ -165,7 +167,6 @@
     <string name="error_state">ရှေ့နောက်မကိုက်ညီသော အခြေအနေ</string>
     <string name="error_state_text">ပို့စ်တင်မှု အခြေအနေနှင့် လက်ခံသူများ မကိုက်ညီပါ။ ချွတ်ယွင်းချက် အစီရင်ခံစာကို ဓာတ်ပုံရိုက်ပြီး ၎င်းအား http://go/droidanizer မှတဆင့် အစီရင်ခံပါ</string>
     <string name="error_timed_msg">အချိန်မှားနေသည်။</string>
-    <string name="ex_type_guide">အချက်အလက်</string>
     <string name="ex_type_mx">Mi မက်ဆေ့ချ်</string>
     <string name="ex_type_sms">SMS/MMS</string>
     <string name="exceed_message_size_limitation">မက်ဆေ့ချ်အရွယ်အစားကန့်သတ်ချက် ရောက်ရှိနေသည်။</string>
@@ -177,6 +178,7 @@
     <string name="fail_to_view_attachment">ပူးတွဲဖိုင် မရရှိနိုင်ပါ</string>
     <string name="failed_to_add_media">ဤ %1$s ကို သင့်ရဲ့မက်ဆေ့ချ်ထဲသို့မထည့်နိုင်ပါ။</string>
     <string name="failed_to_resize_image">ပုံကို အရွယ်အစားပြောင်း၍ မရပါ။</string>
+    <string name="fake_cell_alert_detect_error">အခြေစိုက်စခန်းအတုမှ မက်ဆေ့ချ် မဟုတ်ပါ</string>
     <string name="fake_cell_alert_hint">ပြထားနေသည့်ဖုန်းနံပါတ်မဟုတ်သည် အခြားဖုန်းနံပါတ် တစ်ခုမှ ဤမက်ဆေ့ချ်အား ပေးပို့လိုက်ပုံရပါသည်။ မက်ဆေ့ချ်ပေါ်ရှိ ငွေကြေးနှင့် ဆိုင်သော အကြောင်းအရာများအား သတိထားပါ။</string>
     <string name="fake_cell_checking_hint">လုံခြုံရေးအား စစ်ဆေးနေ…</string>
     <string name="fake_cell_safe_hint">ဤမက်ဆေ့ချ်မှာ လုံခြုံပါသည်</string>
@@ -189,6 +191,7 @@
     <string name="file_size">အရွယ်အစား-</string>
     <string name="file_title">အမည်-</string>
     <string name="file_width_height">အရွယ်အစား-</string>
+    <string name="flatshow_page_no">%1$d</string>
     <string name="force_touch_new_message_title">မက်ဆေ့ချ်အသစ်</string>
     <string name="forward_from">ထံမှ ထပ်ဆင့်ပို့-</string>
     <string name="forward_prefix">"ထပ်ဆင့်ပို့- "</string>
@@ -357,6 +360,9 @@
     <string name="no_subject_view">(အကြောင်းအရာမပါ)</string>
     <string name="non_english_subject_limit">စာလုံး ၁၃ လုံး ကန့်သတ်ထားသည်</string>
     <string name="nosend_message">မပို့ပါ</string>
+    <string name="notification_channel_description">မက်ဆေ့ချ်ပို့ခြင်းမှ အသိပေးချက်များ</string>
+    <string name="notification_channel_name">မက်ဆေ့ချ်ပို့ခြင်း</string>
+    <string name="notification_copy">OTP အား ကော်ပီကူးပါ</string>
     <string name="notification_failed_multiple">မက်ဆေ့ချ် %s စောင်ကို ပို့လို့မရပါ</string>
     <string name="notification_failed_multiple_title">မက်ဆေ့ချ်ပို့လို့မရပါ</string>
     <string name="notification_multiple">[%s]</string>
@@ -390,7 +396,7 @@
     <string name="pref_show_blocked_messages_summary">စကားပြောဆိုထားမှု စာရင်းထဲတွင် ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
     <string name="pref_show_list_avatar_summary">ပရိုဖိုင်ပုံနှင့် အဆက်အသွယ်ပုံများကို အစဉ်လိုက်မြင်ကွင်းဖြင့် ပြပါ</string>
     <string name="pref_show_photo_word_summary">ပုံတူမရှိသော အဆက်အသွယ်များအတွက် ပုံတစ်ပုံအလိုအလျောက်ထည့်သွင်းမည်။</string>
-    <string name="pref_show_sms_template_entry_summary">တစ်ကြိမ်စီထုတ်ပေးသာ စကားဝှက်များကို SMS သို့ ပို့ပေးပါ</string>
+    <string name="pref_show_sms_template_entry_summary">Detect one-time passwords and show quick menus</string>
     <string name="pref_show_sms_template_in_summary">SMS မက်ဆေ့ချ်များထဲရှိ တစ်ကြိမ်သုံး စကားဝှက်များအား အလိုအလျောက် ထောက်လှမ်းပါ</string>
     <string name="pref_show_sms_template_summary">ကုဒ်များ ကူးယူခြင်း၊ လက်ကျန်ငွေစစ်ဆေးခြင်း စသော Mi မက်ဆေ့ချ်၏ စမတ်လုပ်ဆောင်ချက်များအား အသုံးပြုရန် ဖွင့်ပါ</string>
     <string name="pref_smart_messages_settings">စမတ် မက်ဆေ့ချ်များ</string>
@@ -537,6 +543,7 @@
     <string name="send_signature_confirm_dialog_title">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_sms">မက်ဆေ့ချ်ပို့ပါ</string>
     <string name="send_to">သို့-</string>
+    <string name="send_to_index_contact">%1$s/%2$s</string>
     <string name="sent_at_time">ပို့ခဲ့သော အချိန်- %1s</string>
     <string name="sent_label">"ပို့ပြီး- "</string>
     <string name="service_message_not_found">မက်ဆေ့ချ် သက်တမ်းကုန် (သို့) မရှိပါ</string>
@@ -619,13 +626,14 @@
     <string name="title_show_blocked_messages">ဘလော့လုပ်ထားသော SMS ကိုပြပါ</string>
     <string name="title_show_list_avatar">ပရိုဖိုင်ဓါတ်ပုံများကို ပြသပါ</string>
     <string name="title_show_photo_word">အဆက်အသွယ်ဓာတ်ပုံ ထည့်သွင်းမည်။</string>
-    <string name="title_show_sms_template">အတည်ပြုကုဒ်များအတွက် SMS ကို စစ်ဆေးပါ</string>
+    <string name="title_show_sms_template">Smart Messaging</string>
     <string name="title_show_sms_template_in">OTP အတွက် SMS အားစစ်ဆေးပါ</string>
     <string name="title_timed_message_dialog">အချိန်မက်ဆေ့ချ်ကို သတ်မှတ်ပါ</string>
     <string name="title_use_gsm_alphabet">GSM အက္ခရာစဥ်ကို အသုံးပြုပါ</string>
     <string name="to_address_label">"သို့- "</string>
     <string name="to_label">"သို့ "</string>
     <string name="to_send_wrapper">%s မှာ ပို့လိမ့်မည်</string>
+    <string name="toast_pending_hangup_msg">ခေါ်ဆိုမှု ပြီးဆုံးလျှင် မက်ဆေ့ချ်အား ပေးပို့လိမ့်မည်</string>
     <string name="today">ယနေ့</string>
     <string name="too_many_attachments">ပူးတွဲဖိုင် %1$s ခုထက် ကျော်၍ မရပါ။ ပထမဆုံး %2$s ခုကိုသာ ထည့်ပါလိမ့်မည်။</string>
     <string name="too_many_recipients">မက်ဆေ့ချ်တွင် လက်ခံသူများ (%1$s) များလွန်းသည်။ လက်ခံသူ %2$s ဦးထက် ပို၍ မရနိုင်ပါ။</string>
@@ -650,11 +658,12 @@
     <string name="unsupported_media_format">ထောက်ပံ့မပေးထားသော %1$s ဖောမတ်။</string>
     <string name="url_fraud_dangerous_alert">"သင်ဝင်ရောက်ရန် ကြိုးစားနေသော ဝက်ဘ်ဆိုက်မှာ အန္တာရာယ်ရှိနိုင်ပါသည်။ သင့်စက်နှင့် ဒေတာများအား ဖျက်စီးပစ်နိုင်ပါသည်။ မည်သို့ပင်မဆို ဝင်ရောက်မည်လား?
 %s"</string>
-    <string name="url_fraud_risky_alert">"သင်ဝင်ရောက်ရန် ကြိုးစားနေသော ဝက်ဘ်ဆိုက်မှာ အန္တာရာယ်ရှိနိုင်ပါသည်။ မည်သို့ပင်မဆို ဝင်ရောက်မည်လား?
-%s"</string>
+    <string name="url_fraud_risky_alert">"သင်ဝင်ရောက်ရန် ကြိုးစားနေသော ဝက်ဘ်ဆိုက် %s မှာ အန္တာရာယ်ရှိနိုင်ပါသည်။ ဝင်ရောက်မလား?
+"</string>
     <string name="url_fraud_title">ဝက်ဘ်ဆိုက်မှာ အတုဖြစ်နိုင်ပါသည်</string>
     <string name="url_fraud_visit"><u>မည်သို့ပင်မဆို ဝင်ရောက်ပါ</u></string>
     <string name="url_result_safe">URL လုံခြုံပါသည်</string>
+    <string name="url_scan_again">ပြန်လည်စစ်ဆေးပါ</string>
     <string name="url_scanning">URL အားစစ်ဆေးနေ…</string>
     <string name="verification_code_list_title">အတည်ပြုကုဒ်</string>
     <string name="view">ကြည့်ပါ</string>
@@ -666,5 +675,4 @@
     <string name="wild_msg_title">ဆင့်ခ်လုပ်ရန် ဖုန်းနံပါတ်ရွေးချယ်ပါ</string>
     <string name="yes">အိုကေ</string>
     <string name="yesterday">မနေ့က</string>
-    <string name="fake_cell_detection_entry">အခြေဆိုက်ဌာနအား ထောက်လှမ်းခြင်း</string>
 </resources>

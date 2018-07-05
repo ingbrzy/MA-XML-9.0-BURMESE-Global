@@ -6,16 +6,6 @@
         <item>နံပါတ်ပြပါ</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
-        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/WCDMA</item>
-        <item>TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM</item>
-        <item>TDSCDMA/GSM</item>
-        <item>LTE/TDSCDMA</item>
-        <item>TDSCDMA/WCDMA</item>
-        <item>TDSCDMA သီးသန့်</item>
         <item>LTE / WCDMA</item>
         <item>LTE</item>
         <item>ဂလိုဘယ်</item>
@@ -28,7 +18,7 @@
         <item>GSM/WCDMA အော်တို</item>
         <item>WCDMA သီးသန့်</item>
         <item>GSM သီးသန့်</item>
-        <item>GSM/WCDMA ကိုပိုလိုလားသည်</item>
+        <item>GSM/WCDMA ပိုလိုလားသည်</item>
     </string-array>
     <string-array name="list_language_entries">
         <item>အင်္ဂလိပ်</item>
@@ -39,6 +29,15 @@
         <item>တရုတ်</item>
         <item>ဟီဘရူး</item>
     </string-array>
+    <string-array name="list_language_values">
+        <item>၁</item>
+        <item>၂</item>
+        <item>၃</item>
+        <item>၄</item>
+        <item>၅</item>
+        <item>၆</item>
+        <item>၇</item>
+    </string-array>
     <string-array name="cdma_system_select_choices">
         <item>အိမ်သီးသန့်</item>
         <item>အလိုအလျောက်</item>
@@ -46,6 +45,10 @@
     <string-array name="cdma_subscription_choices">
         <item>RUIM/ဆင်းမ်</item>
         <item>NV</item>
+    </string-array>
+    <string-array name="cdma_subscription_values">
+        <item>၀</item>
+        <item>၁</item>
     </string-array>
     <string-array name="tty_mode_entries">
         <item>TTY ပိတ်</item>

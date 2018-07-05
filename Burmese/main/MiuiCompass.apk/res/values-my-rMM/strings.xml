@@ -57,4 +57,8 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">သံလိုက်အိမ်မြှောင်အကြောင်း</string>
     <string name="app_description_content">သံလိုက်အိမ်မြှောင်သည် သင့်အားလမ်းညွှန်နိုင်ပါသည်။ အဆိုပါအင်္ဂါရပ်အကြောင်း ကောင်းစွာနားလည်သိရှိပြီး ဤအက်ပ်ကိုဖြုတ်ပစ်ရန် သင်ဆုံးဖြတ်လိုက်သည်။</string>
+    <string name="open_perm_msg">သံလိုက်အိမ်မြှောင်သည် တည်နေရာအချက်အလက်နှင့် ကင်မရာသို့ ဝင်ရောက်ခွင့် လိုအပ်သည်။ ကိုသြဒီနိတ်ဆုံးဖြတ်ရန်နှင့် တိုက်ရိုက်ကြည့်ရှုမှုများအတွက် ဖြစ်သည်။ ခွင့်ပြုမလား?</string>
+    <string name="open_perm_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="cancel">ပယ်ဖျက်မည်</string>
+    <string name="allow">ခွင့်ပြုမည်</string>
 </resources>

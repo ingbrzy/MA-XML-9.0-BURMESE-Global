@@ -3,6 +3,7 @@
     <string name="camera_setting">ကင်မရာ</string>
     <string name="path_settings">စနစ်အက်ပ်များ/ကင်မရာ/ဆက်တင်များ</string>
     <string name="search_settings">ကင်မရာဆက်တင်များ၊ အရည်အသွေး၊ ပုံအရည်အသွေး၊ ရုပ်ပုံတည်နေရာ၊ ပုံတည်နေရာ၊မျက်နှာထောက်လှမ်းမှု၊ ကင်မရာအသံ</string>
+    <string name="hibernate_hint">ကင်မရာအား ဖွင့်ရန် မျက်နှာပြင်ကို ထိနှိပ်ပါ</string>
     <string name="camera_error_title">ကင်မရာ အမှား</string>
     <string name="cannot_connect_camera_once">ကင်မရာသို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="cannot_connect_camera_twice">ကင်မရာသို့ ချိတ်ဆက်၍ မရသေးပါ။ သင့်စက်အား ပိတ်ပြီးပြန်ဖွင့်ကြည့်ပါ။</string>
@@ -31,10 +32,15 @@
     <string name="pref_front_mirror_title">မှန်ပါအရှေ့ကင်မရာ</string>
     <string name="pref_video_quality_title">ဗီဒီယိုအရည်အသွေး</string>
     <string name="pref_video_hfr_title">ဗီဒီယို HFR</string>
-    <string name="pref_video_quality_entry_4kuhd">UHD 4K</string>
-    <string name="pref_video_quality_entry_1080p">FHD 1080P</string>
-    <string name="pref_video_quality_entry_720p">HD 720P</string>
-    <string name="pref_video_quality_entry_480p">SD 480P</string>
+    <string name="pref_video_quality_entry_4kuhd">UHD 4K, 30fps</string>
+    <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, 60fps</string>
+    <string name="pref_video_quality_entry_1080p">FHD 1080P, 30fps</string>
+    <string name="pref_video_quality_entry_1080p_60fps">FHD 1080P, 60fps</string>
+    <string name="pref_video_quality_entry_720p">HD 720P, 30fps</string>
+    <string name="pref_video_quality_entry_480p">SD 480P, 30fps</string>
+    <string name="pref_video_encoder_title">ဗီဒီယို ကုဒ်ထည့်ကိရိယာ</string>
+    <string name="pref_video_encoder_entry_h264">H.264 လိုက်ဖက်မှုမြင့်သော</string>
+    <string name="pref_video_encoder_entry_h265">H.265 စွမ်းဆောင်ရည်မြင့်သော</string>
     <string name="pref_video_time_lapse_frame_interval_title">စပ်ကြားအချိန်ချုံ့ခြင်း</string>
     <string name="pref_video_time_lapse_frame_interval_entry_2">2X (ကြားအချိန် ၀.၀၆ စက္ကန့်)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_4">4X (ကြားအချိန် ၀.၁၂ စက္ကန့်)</string>
@@ -92,11 +98,6 @@
     <string name="pref_camera_coloreffect_entry_negative" />
     <string name="pref_camera_coloreffect_entry_posterize" />
     <string name="pref_camera_coloreffect_entry_aqua" />
-    <string name="pref_camera_ai_scene_title">AI ကင်မရာ</string>
-    <string name="pref_camera_front_ai_scene_entry_on">AI ကင်မရာ</string>
-    <string name="pref_camera_front_ai_scene_entry_off">AI ကင်မရာအား ပိတ်ထားသည်</string>
-    <string name="ai_scene_mode_use_hint_text">"AI ကင်မရာသည် မြင်ကွင်းများကို အလိုအလျောက်ထုတ်ဖေါ်
-ပြီး ထိုအချက်အလက်ပေါ်မူတည်၍ ဓာတ်ပုံများကို အဆင့်မြှင့်တင်ပေးပါမည်"</string>
     <string name="pref_camera_coloreffect_entry_none">သာမန်</string>
     <string name="pref_camera_coloreffect_entry_instagram_rise">လိုမို</string>
     <string name="pref_camera_coloreffect_entry_instagram_clarendon">အေးမြလန်းဆန်း</string>
@@ -217,6 +218,8 @@
     <string name="accessibility_filter_close_panel">စစ်ထုတ်ကိရိယာမီနူးအား ပိတ်ထားသည်</string>
     <string name="accessibility_bokeh_normal">အရှေ့ကင်မရာ နောက်ခံမှုန်ဝါးမှုကို ပိတ်ထားသည်</string>
     <string name="accessibility_bokeh_on">အရှေ့ကင်မရာ နောက်ခံမှုန်ဝါးမှုကို ဖွင့်ထားသည်</string>
+    <string name="accessibility_ai_scene_on">AI ကင်မရာ ဖွင့်ထားသည်</string>
+    <string name="accessibility_ai_scene_off">AI camera is off</string>
     <string name="accessibility_more">နောက်ထပ်</string>
     <string name="accessibility_setting">ဆက်တင်</string>
     <string name="accessibility_protrait">လူပုံ</string>
@@ -408,6 +411,7 @@
     <string name="dual_camera_lens_covered_toast">မှန်ဘီးလူးအား ကာထားသည်။</string>
     <string name="dual_camera_use_hint">ရိုက်ကူးမည့် အရာဝတ္ထုကို ၂မီတာအတွင်း ထားပါ။</string>
     <string name="bokeh_use_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
+    <string name="back_bokeh_use_hint">ရိုက်ကူးမည့် အရာဝတ္ထုကို ၁.၅ မီတာအတွင်း ထားပါ။</string>
     <string name="pref_camera_zoom_ratio_wide">100</string>
     <string name="pref_camera_zoom_ratio_tele">200</string>
     <string name="pref_camera_zoom_mode_title">မှန်ဘီလူး</string>
@@ -415,6 +419,7 @@
     <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
     <string name="pref_camera_zoom_mode_entry_standard">ပုံမှန်</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">အလင်းမှိန်သော</string>
+    <string name="pref_camera_zoom_value_title">ဇူးမ်ချုံ့ချဲ့</string>
     <string name="pref_camera_portrait_mode_title">လူပုံမုဒ်</string>
     <string name="pref_camera_portrait_mode_entry_off">လူပုံမုဒ်ကို ပိတ်ထားသည်</string>
     <string name="pref_camera_portrait_mode_entry_on">လူပုံမုဒ်ကို ဖွင့်ထားသည်</string>
@@ -424,6 +429,7 @@
     <string name="portrait_mode_depth_effect_success_hint">အတွင်းကျကျဖန်တီးခြင်း</string>
     <string name="portrait_mode_use_hint">"လူပုံရိုက်ကူးခြင်းသည် နောက်ခံအရာအားလုံးကို မှုန်ဝါးစေပြီး
 အရှေ့မှလူပုံကို ပိုမိုရှင်းလင်းစေပါသည်။"</string>
+    <string name="portrait_mode_use_hint_with_switch">@string/portrait_mode_use_hint</string>
     <string name="pref_camera_square_mode_title">စတုရန်းပုံ</string>
     <string name="simple_mode_button_text_square">စတုရန်းပုံအား ပိတ်ပါ</string>
     <string name="face_beauty_smart">စမတ်</string>
@@ -438,6 +444,7 @@
     <string name="pref_camera_beautify_entry_low">အနိမ့်</string>
     <string name="pref_camera_beautify_entry_normal">အလယ်အလတ်</string>
     <string name="pref_camera_beautify_entry_high">အမြင့်</string>
+    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">မုဒ်များ</string>
     <string name="button_front_camera_title">ဆယ်ဖီတစ်ပုံ ရိုက်ပါ</string>
     <string name="button_normal_video_title">ဗီဒီယို မှတ်တမ်းတင်ပါ</string>
@@ -459,6 +466,7 @@
     <string name="hint_fast_motion">သင်ရိုက်ကူးသော ဗီဒီယိုကို ပိုမြန်သောနှုန်းဖြင့်ပြမည်။</string>
     <string name="hint_slow_motion">သင်ရိုက်ကူးသော ဗီဒီယိုကို အနှေးပြကွက်ဖြင့်ပြမည်။</string>
     <string name="hunt_dual_water_mark">ကင်မရာနှစ်ခုတွဲ အမှတ်အသားကို အလိုအလျောက်ပေါင်းထည့်မည်။</string>
+    <string name="hint_ae_af_lock">အော်တို ဆုံချက်ညှိခြင်း/ အော်တို အလင်းကျရောက်မှုအား လော့ခ်ချထားသည်</string>
     <string name="hint_device_water_mark">ဓာတ်ပုံ အမှတ်အသားအား အလိုအလျောက် ပေါင်းထည့်မည်။</string>
     <string name="module_name_fun">ဗွီဒီယိုအတိုလေး</string>
     <string name="module_name_video">ဗီဒီယို</string>
@@ -480,11 +488,21 @@
     <string name="config_name_super_resolution">စူပါ ရီဆိုလူးရှင်း</string>
     <string name="beauty_fragment_tab_name_beauty">လှပမှု</string>
     <string name="beauty_fragment_tab_name_makeup">အဆင့်မြင့်</string>
+    <string name="beauty_fragment_tab_name_3d_beauty">အလှဆင်မှု</string>
+    <string name="beauty_fragment_tab_name_3d_remodeling">အလှဆင်</string>
     <string name="edit_skin_white">အသံ</string>
     <string name="edit_skin_smooth">ချောမွေ့</string>
     <string name="edit_eye_large">မျက်လုံးပြူးပြူး</string>
     <string name="edit_face_slender">သွယ်လျား</string>
     <string name="edit_face_ruddy">နှင်းဆီရောင်</string>
+    <string name="edit_nose">နှာခေါင်း</string>
+    <string name="edit_risorius">Risorius</string>
+    <string name="edit_lips">နှုတ်ခမ်း</string>
+    <string name="edit_chin">မေးစေ့</string>
+    <string name="edit_neck">လည်ပင်း</string>
+    <string name="edit_smile">အပြုံး</string>
+    <string name="edit_slim_nose">နှာခေါင်း</string>
+    <string name="popup_tip_3d_beauty_intro_text">3D အလှ</string>
     <string name="sticker_tab1">ချစ်စရာ</string>
     <string name="sticker_tab2">ရယ်စရာ</string>
     <string name="user_agreement2">ဝန်ဆောင်မှုဆိုင်ရာ စည်းကမ်းချက်များ</string>
@@ -505,8 +523,20 @@
     <string name="front_camera_hint_text_rotate">သင့်ဖုန်းအား လှည့်လိုက်ပါ</string>
     <string name="front_camera_hint_text_place">"သင့်ဖုန်းအား လှည့်၍ ဆယ်လ်ဖီရိုက်ပါက
  ပိုမို လွယ်ကူပါသည်"</string>
+    <string name="pref_camera_ai_scene_title">AI ကင်မရာ</string>
+    <string name="pref_camera_front_ai_scene_entry_on">AI ကင်မရာ</string>
+    <string name="pref_camera_front_ai_scene_entry_off">AI ကင်မရာအား ပိတ်ထားသည်</string>
     <string name="text_ai_scene_selector_text_on">SILHOUETTE</string>
     <string name="text_ai_scene_selector_text_off">CONTRE-JOUR</string>
+    <string name="ai_scene_mode_use_hint_text">"AI ကင်မရာသည် မြင်ကွင်းများကို အလိုအလျောက်ထုတ်ဖေါ်
+ပြီး ထိုအချက်အလက်ပေါ်မူတည်၍ ဓာတ်ပုံများကို အဆင့်မြှင့်တင်ပေးပါမည်"</string>
     <string name="pref_camera_asd_popup_title">ဖလက်ရှ်မီး လိုအပ်ပါက အသိပေးပါ</string>
     <string name="pref_video_captrue_ability_title">အသံဖမ်းနေစဉ် ပုံရိုက်ယူပါ</string>
+    <string name="face_analyze_info">အသက်- %2$s (%1$s)</string>
+    <string name="pref_camera_picturesize_entry_standard">ပုံမှန် ၄:၃</string>
+    <string name="pref_camera_picturesize_entry_fullscreen">မျက်နှာပြင်အပြည့် ၁၆:၉</string>
+    <string name="lens_dirty_detected_title_back">နောက်ကျော ကင်မရာမှန်ဘီလူး ညစ်ပတ်နေသည်</string>
+    <string name="lens_dirty_detected_title_front">အရှေ့ ကင်မရာမှန်ဘီလူး ညစ်ပတ်နေသည်</string>
+    <string name="lens_dirty_detected_content">"Looks like your camera's lens is dirty.
+Clean the lens for better effect."</string>
 </resources>

@@ -579,6 +579,15 @@
         <item>Wi-Fi ကိုပိုနှစ်စက်သည်</item>
         <item>မိုဘိုင်းကို အသုံးပြုလိုပါသည်</item>
     </string-array>
+    <string-array name="wifi_calling_mode_values">
+        <item>၂</item>
+        <item>၁</item>
+        <item>၀</item>
+    </string-array>
+    <string-array name="wifi_calling_mode_values_without_wifi_only">
+        <item>၂</item>
+        <item>၁</item>
+    </string-array>
     <string-array name="wifi_eap_entries">
         <item>PEAPနည်းလမ်း</item>
         <item>TLS</item>

@@ -69,4 +69,26 @@
     <plurals name="resutl_function_install_app_summary">
         <item quantity="other">အက်ပ် &lt;Data>&lt;font color=#ff0000 >%d&lt;/font> ခု အချိန်ကြာမြင့်စွာ အသုံးမပြုဖြစ်နေသည်၊ သွားကြည့်ကြည့်ပါ။;&lt;/Data></item>
     </plurals>
+    <plurals name="clean_long_msg_p1">
+        <item quantity="other">"Cleaning %1$d files (%2$d%%)
+"</item>
+    </plurals>
+    <plurals name="clean_long_msg_p2">
+        <item quantity="other">%1$d items per second | Remaining time: %2$s</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%1$d နာရီ</item>
+    </plurals>
+    <plurals name="minute">
+        <item quantity="other">%1$d မိနစ်</item>
+    </plurals>
+    <plurals name="second">
+        <item quantity="other">%1$d စက္ကန့်</item>
+    </plurals>
+    <plurals name="wechat_video_time_p1">
+        <item quantity="other">%1$s:</item>
+    </plurals>
+    <plurals name="wechat_video_time_p2">
+        <item quantity="other">%1$s</item>
+    </plurals>
 </resources>

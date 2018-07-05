@@ -28,13 +28,13 @@
         <item quantity="other">PIN သည် ဂဏန်း %d ခု ဖြစ်ရမည်</item>
     </plurals>
     <plurals name="lockpassword_pin_too_long">
-        <item quantity="other">PIN နံပါတ်တွင် ဂဏန်း%d ထက် မပိုရပါ။</item>
+        <item quantity="other">You can enter up to %d digits</item>
     </plurals>
     <plurals name="lockpassword_pin_too_short">
-        <item quantity="other">PIN နံပါတ်တွင် အနည်းဆုံး ဂဏန်း %d လုံး ပါရမည်</item>
+        <item quantity="other">Enter at least %d digits</item>
     </plurals>
     <plurals name="lockpattern_recording_incorrect_too_short">
-        <item quantity="other">အနည်းဆုံး အစက် %d စက်ကို ဆက်ပါ။ ပြန်လည်ကြိုးစားကြည့်ပါ။</item>
+        <item quantity="other">အနည်းဆုံး အစက် %d စက်ကို ဆက်ပါ။ ပြန်ကြိုးစားကြည့်ပါ။</item>
     </plurals>
     <plurals name="lockpattern_too_many_failed_confirmation_attempts">
         <item quantity="other">မမှန်ကန်သော ကြိုးစားမှု အလွန်များနေသည်။ %d စက္ကန့်အကြာတွင် ပြန်ကြိုးစားကြည့်ပါ။</item>

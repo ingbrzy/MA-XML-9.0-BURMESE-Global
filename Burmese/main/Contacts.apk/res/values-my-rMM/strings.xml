@@ -99,6 +99,7 @@
     <string name="call_sim_menu_title_suffix">(ဦးစားပေး)</string>
     <string name="call_telex">တယ်လက်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_tty_tdd">TTY/TDD ဖုန်းကို ခေါ်ပါ</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">အလုပ်ဖုန်းကို ခေါ်ပါ</string>
     <string name="call_work_mobile">အလုပ်မိုဘိုင်းဖုန်းကို ခေါ်ပါ</string>
@@ -117,7 +118,7 @@
     <string name="callrecordview_item_op_time_short_incoming">"အဝင်- "</string>
     <string name="callrecordview_item_op_time_short_outgoing">"အထွက်- "</string>
     <string name="callrecordview_item_op_video">ဗီဒီယို</string>
-    <string name="callrecordview_menu_add_call_note">ခေါ်ဆိုမှု မှတ်စုကို ထည့်ပါ</string>
+    <string name="callrecordview_menu_add_call_note">ခေါ်ဆိုမှုမှတ်စု ပေါင်းထည့်ပါ</string>
     <string name="callrecordview_menu_batch_delete">ဒေတာအားရှင်းလင်း</string>
     <string name="callrecordview_menu_blocklist">ဘလော့စာရင်း</string>
     <string name="callrecordview_menu_conference">ကွန်ဖရင့်ခေါ်ဆိုခြင်း</string>
@@ -191,7 +192,7 @@
     <string name="composer_failed_to_get_database_infomation">ဒေတာဘေ့စ် အချက်အလက် မရနိုင်ပါ။</string>
     <string name="composer_has_no_exportable_contact">ပို့သွင်းနိုင်သော အဆက်အသွယ်များ မရှိပါ။ အကယ်၍ သင့်ဖုန်း၌ အဆက်အသွယ်များ ရှိနေလျှင်၊ ဒေတာစီစဥ်သူအချို့က အဆက်အသွယ်များ ဖုန်းကနေ ပို့သွင်းပေးဖို့ ခွင့်မပြုတာလည်း ဖြစ်နိုင်သည်။</string>
     <string name="composer_not_initialized">vCard စီစဥ်ကိရိယာက ကောင်းမွန်စွာ လုပ်ငန်းမစတင်ခဲ့ပါ။</string>
-    <string name="confirm_delete_contact_all_call_logs">ခေါ်ဆိုမှုမှတ်တမ်းအား ရှင်းလင်းမလား?</string>
+    <string name="confirm_delete_contact_all_call_logs">%s ၏ မှတ်တမ်းအားလုံးကို ရှင်းလင်းမလား?</string>
     <string name="confirm_delete_selected_all_call_logs">ခေါ်ဆိုမှုမှတ်တမ်းအား ရှင်းလင်းမည်လား?</string>
     <string name="confirm_delete_sim_entry_miui_title">ဖျက်ပစ်ပါ</string>
     <string name="confirm_export_message">သင့်အဆက်အသွယ်စာရင်းကို ဖိုင်သို့ ပို့သွင်းပါလိမ့်မည်: %s.</string>
@@ -211,8 +212,9 @@
     <string name="contact_detail_calllog_call_note_tips">မှတ်ချက်များ</string>
     <string name="contact_detail_calllog_call_record_tips">အသံဖမ်းထားသော ခေါ်ဖုန်းများ</string>
     <string name="contact_detail_calllog_empty">သမိုင်း မရှိပါ</string>
-    <string name="contact_detail_entry_pay">ပေးချေမည်</string>
+    <string name="contact_detail_entry_pay">ပိုက်ဆံ ပေးပို့မည်</string>
     <string name="contact_detail_entry_pay_dialog_title">ဖုန်းနံပါတ်အား ရွေးချယ်ပါ</string>
+    <string name="contact_detail_entry_pay_request">ပိုက်ဆံ တောင်းခံမည်</string>
     <string name="contact_detail_menu_delete_miprofile">ကဒ်အားဖျက်</string>
     <string name="contact_detail_miprofile_accept">ဆက်သွယ်ကဒ်များ ဖလှယ်ပါ</string>
     <string name="contact_detail_miprofile_accept_fail_toast">အဆက်သွယ်ကဒ်များအား ဖလှယ်မှုမပြုလုပ်နိုင်ခဲ့ပါ</string>
@@ -487,6 +489,7 @@
     <string name="force_touch_new_contact">အဆက်အသွယ် အသစ်</string>
     <string name="foundTooManyContacts">%d ဦးထက်မက တွေ့ရှိသည်။</string>
     <string name="frequentList">မကြာခဏ</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">အမည်</string>
     <string name="gallery">ပြခန်း</string>
     <string name="generic_no_account_prompt">သင့်ဖုန်း ပျောက်ဆုံးသွားရင်တောင်မှ၊ သင့်အဆက်အသွယ်များ စိတ်ချစွာဖြင့် ဆက်ရှိနေအောင်: အွန်လိုင်းဝန်ဆောင်မှုတစ်ခုနှင့် ဆင့်ခ်လုပ်ထားပါ။</string>
@@ -565,6 +568,7 @@
     <string name="keep_local">ဆင့်ခ်မလုပ်ပါနှင့်</string>
     <string name="keep_local_btn">ဖုန်း၏အတွင်းပိုင်းသိုလှောင်ခန်းကို သုံးပါ</string>
     <string name="label_custom_type">စိတ်ကြိုက်သတ်မှတ်ပါ</string>
+    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">ထပ်တူညီနေသောအရာများကို မတွေ့ပါ</string>
     <string name="label_notes">မှတ်ချက်များ</string>
     <string name="label_sip_address">အင်တာနက်ဖုန်း</string>
@@ -668,6 +672,7 @@
     <string name="miprofile_contact_header">ဆက်သွယ်ကဒ်များပါဝင်သည့် အဆက်သွယ်များ</string>
     <string name="miprofile_contact_meaasge">စက်ထဲရှိအဆက်သွယ်များ</string>
     <string name="miprofile_contact_verifying">အတည်ပြုနေ</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">ပရိုဖိုင်အား တည်းဖြတ်ပါ</string>
     <string name="miprofile_error_accept_self">သင့်ကိုယ်ပိုင်၏ အဆက်သွယ်ကဒ်အား ဖလှယ်၍မရနိုင်ပါ</string>
     <string name="miprofile_error_no_miaccount">သင်၏ Mi အကောင့်သို့ ဆိုင်းအင်ဝင်ပါ။</string>
@@ -812,7 +817,10 @@
     <string name="path_wipe_data">စနစ်အက်ပ်များ/အဆက်အသွယ်များ/အဆက်အသွယ်များအား စီမံ/ဒေတာရှင်းလင်း</string>
     <string name="payphone">ပေးဖုန်း</string>
     <string name="people">အဆက်အသွယ်များ</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">ဖုန်း</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">နံပါတ်အရမ်းရှည်သည်</string>
     <string name="phone_primary">ဦးစားပေး</string>
     <string name="photoPickerNotFoundText">ဖုန်းထဲတွင် မည်သည့်ပုံမျှ မရှိပါ။</string>
@@ -883,6 +891,7 @@
     <string name="preference_phone">စက်</string>
     <string name="preference_phone_more_title">ခေါ်ဆိုမှုဆက်တင်များ</string>
     <string name="preference_remove_duplicate">နှစ်ခုထပ်နေသော အဆက်အသွယ်များကို ပေါင်းပါ</string>
+    <string name="preference_show_firewall_calllog">ခေါ်ဆိုမှုသမိုင်းတွင် ဘလော့လုပ်ထားသော ခေါ်ဆိုမှုများကို ပြပါ</string>
     <string name="preference_show_yellowpage_tab_description">ဤအင်္ဂါရပ်ကို ပိတ်ထားပါက ဖုန်းလမ်းညွှန်များ ပုံမှန်အလုပ်လုပ်နိုင်မည် မဟုတ်ပါ။</string>
     <string name="preference_show_yellowpage_tab_title">ဖုန်းလမ်းညွှန်များကို ပြပါ</string>
     <string name="preference_simple_mode_description">ဓါတ်ပုံများနှင့် အခြားဆက်သွယ်မှုအချက်အလက်များအား စာရင်းစီပြသပါ</string>
@@ -1058,6 +1067,7 @@
     <string name="sim_unloaded">ဆင်းမ်ကဒ် ထည့်သွင်းထားခြင်းမရှိပါ</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">အုပ်စုအဖွဲ့ဝင်များ မရှိပါ</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">ကုမ္ပဏီများ</string>
     <string name="smart_group_company_unavailable">ကုမ္ပဏီအချက်အလက် မရှိပါ</string>
     <string name="smart_group_frequency_1">လွန်ခဲ့သောလအတွင်း</string>
@@ -1132,7 +1142,6 @@
     <string name="toast_start_intent_failed">ဤလုပ်ဆောင်ချက်ကို ဆောင်ရွက်နိုင်သောအက်ပ်များ ရှာမတွေ့ပါ</string>
     <string name="toast_text_copied">စာသားကို ကော်ပီကူးထားသည်</string>
     <string name="today">ဒီနေ့</string>
-    <string name="tomorrow">မနက်ဖြန်</string>
     <string name="transfer_accounts">အကောင့်လွှဲပြောင်း</string>
     <string name="type_incoming">အဝင်ဖုန်း</string>
     <string name="type_missed">လွဲခဲ့သောဖုန်း</string>
@@ -1191,6 +1200,7 @@
     <string name="voip_audio_description">VoIP ခေါ်ဆိုမှု</string>
     <string name="voip_video_description">VoIP ဗီဒီယိုခေါ်ဆိုမှု</string>
     <string name="websiteLabelsGroup">ဝက်ဘ်ဆိုက်</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">ဒေတာရှင်းပါ</string>
     <string name="yellowPageNavigationIconLabel">ဖုန်းလမ်းညွှန်</string>
     <string name="yellowPageNavigationLabel">အဝါရောင်စာမျက်နှာများ</string>
@@ -1216,6 +1226,5 @@
     <string name="yellowpage_navigation_send_to_desktop_succeeded">အိမ်မျက်နှာပြင်သို့ ထည့်ပြီးပါပြီ</string>
     <string name="yellowpage_search_the_yellowpage">ဖုန်းလမ်းညွှန်စာအုပ်များရှာပါ</string>
     <string name="yellowpage_user_profile">ပရိုဖိုင်း</string>
-    <string name="yesterday">မနေ့က</string>
     <string name="zero_items_selected">အိုင်တမ်များရွေး</string>
 </resources>

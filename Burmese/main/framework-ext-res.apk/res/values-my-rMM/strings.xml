@@ -113,10 +113,6 @@
     <string name="maml_component_customization_title">ဆက်တင်များ</string>
     <string name="default_name">မူလသတ်မှတ်ချက်</string>
     <string name="resource_select">ရွေးပါ</string>
-    <string name="group_name_contacts">အဆက်အသွယ်များ</string>
-    <string name="group_name_friends">သူငယ်ချင်းများ</string>
-    <string name="group_name_family">မိသားစု</string>
-    <string name="group_name_coworkers">လုပ်ဖော်ကိုင်ဖက်များ</string>
     <string name="fp_nav_center_action_choose_dlg_title">မြန်နှိပ်ခြင်းအား ဖွင့်ပါ</string>
     <string name="fp_nav_center_action_choose_dlg_msg">သင်သည် အိမ်မျက်နှာပြင်သို့ ဟုမ်းခလုတ်အား အသာအယာထိနှိပ်လိုက်ခြင်းဖြင့် ပြန်သွားနိုင်ပါသည်။ ဤလုပ်ဆောင်ချက်ကို ဆက်တင်များ>ထပ်ဆောင်းဆက်တင်များ>ခလုတ်များ>ဟုမ်းခလုတ်ထိနှိပ်ပြီး အိမ်မျက်နှာပြင်သို့ပြန်သွားခြင်း တွင်ဖွင့်၍ရနိုင်ပါသည်။</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">ဖွင့်</string>
@@ -171,4 +167,9 @@
     <string name="switching_tv">ပြောင်းနေသည်…</string>
     <string name="switch_desc_tv">စက်တစ်လုံး၊ ကိုယ်ပွားနှစ်ခု။</string>
     <string name="switch_brand_desc_tv">Spaces Mobile မှ လုံခြုရေးဝန်ဆောင်မှုများကို ပံ့ပိုးသည်</string>
+    <string name="miui_forbid_poweroff_when_device_locked">ပါဝါပိတ်၍ မရပါ၊ စက်အား လော့ခ်ချထားသည်။</string>
+    <string name="super_resolution_maintain_tips">စူပါ ရီဆိုလူးရှင်း မရနိုင်သေးပါ။</string>
+    <string name="wifi_assistant_wifi_no_internet">ဤ Wi-Fi ကွန်ရက်သည် အင်တာနက်သို့ ဝင်ရောက်၍ မရပါ</string>
+    <string name="wifi_assistant_wifi_no_internet_detail">အသေးစိတ်ကိုကြည့်ရန် ထိနှိပ်ပါ</string>
+    <string name="resolver_app_recommend_flag">အကြံပြုထားသော</string>
 </resources>

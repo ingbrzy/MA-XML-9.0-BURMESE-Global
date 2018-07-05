@@ -6,6 +6,9 @@
     <string name="xiaomi_update_dialog_message_diff">"မိတ်ဆက်ဗားရှင်း %1$s
  Delta အသစ်မွမ်းမံ အရွယ်အစား−%2$s"</string>
     <string name="xiaomi_external_storage_unavailable">သိုလှောင်မှုမရရှိနိုင်ပါ၊သင်၏SD ကဒ်အားစစ်ဆေးပါ</string>
+    <string name="xiaomi_bytes_unit">%1$sB</string>
+    <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+    <string name="xiaomi_megabytes_unit">%1$sMB</string>
     <string name="xiaomi_connect_download_manager_fail">ဒေါင်းလုဒ် စလုပ်၍မရပါ။ ဒေါင်းလုဒ်မန်နေဂျာ ပုံမှန်အလုပ်လုပ်မလုပ် စစ်ဆေးပါ။</string>
     <string name="app_name">အရန်သိမ်းခြင်း</string>
     <string name="local_app_name">အရန်သိမ်းခြင်း</string>
@@ -225,11 +228,14 @@
     <string name="restore_backup">နဂိုနေရာပြန်ထားပါ</string>
     <string name="enable_encrypt_description">ကုဒ်ဖွဲ့မည်</string>
     <string name="disable_encrypt_description">ကုဒ်မဖွဲ့ပါနှင့်</string>
+    <string name="digit_percent">%</string>
     <string name="state_waiting">ခဏစောင့်ပါ…</string>
     <string name="state_mounting">ရောက်တာ၏သိုလှောင်မှုသို့ ဝင်ရောက်နေ…</string>
     <string name="abort_backup_confirm">အရန်သိမ်းခြင်း မပြီးသေးပါ။ ဘာပဲဖြစ်ဖြစ် ရပ်လိုက်မလား။</string>
     <string name="abort_restore_confirm">ပြန်ရယူခြင်းမပြီးသေးပါ၊ မည်သို့ပင်မဆို ရပ်မည်လား?</string>
     <string name="feature_title_call_log">ဖုန်းခေါ်မှတ်တမ်း</string>
+    <string name="feature_title_contacts">အဆက်အသွယ်</string>
+    <string name="feature_title_sms">မက်ဆေ့ချ်</string>
     <string name="feature_title_mms">MMS</string>
     <string name="feature_title_account">Mi အကောင့်</string>
     <string name="feature_title_antispam">ဘလော့စာရင်း</string>
@@ -246,6 +252,7 @@
     <string name="err_filesystem_mount">ရောက်တာ၏သိုလှောင်မှုသို့ မဝင်ရောက်နိုင်</string>
     <string name="err_router_disconnected">သင့်ရောက်တာ၏ ကော်နက်ရှင်အား စစ်ဆေးပြီး၊ ပြန်လုပ်ကြည့်ပါ။</string>
     <string name="err_router_files_delete">သင့်ရောက်တာပေါ်ရှိ အရန်သိမ်းဖိုင်များအား ဖျက်၍မရနိုင်ခဲ့ပါ။</string>
+    <string name="err_acquire_system_service">စနစ်ဝန်ဆောင်မှု စတင်၍မရပါ။</string>
     <string name="err_not_allow">မပံ့ပိုးထားပါ</string>
     <string name="err_bakfile_not_exist">အရန်သိမ်းထားသောဖိုင် မရှိပါ။</string>
     <string name="err_pkg_not_exist">အက်ပ်ကို ရှာမတွေ့ပါ။</string>
@@ -290,7 +297,7 @@
     <string name="trans_receiver_time_remained">"%s ကျန်ရှိနေ။
  Wi-Fi ဟော့စ်ပေါ့အား မပိတ်ပါနှင့်။ စက်များအား အချင်းချင်းနီးကပ်စွာ ထားထားပါ။"</string>
     <string name="trans_time_spent">ကြာချိန်−%s</string>
-    <string name="trans_restoring_no_items">အိုင်တမ်များအား ဆင့်ခ်လုပ်နေသည်</string>
+    <string name="trans_restoring_no_items">အချက်အလက် ရယူနေသည်…</string>
     <string name="trans_detail_category_sysdata">စနစ်ဒေတာ (မက်ဆေ့ချ်များ၊ အဆက်အသွယ်များနှင့် ခေါ်ဆိုမှုသမိုင်း ပါဝင်သည်)</string>
     <string name="trans_detail_category_userdata">အက်ပ်များ</string>
     <string name="trans_detail_category_account">အကောင့်များနှင့် ဆက်သွယ်မှုများ</string>
@@ -338,6 +345,8 @@
     <string name="trans_connecting_toast">ချိတ်ဆက်နေ…</string>
     <string name="trans_switching_5g">5GHz Wi-Fi သို့ ကူးပြောင်းနေသည်…</string>
     <string name="trans_connect_failed_toast">မချိတ်ဆက်နိုင်ခဲ့</string>
+    <string name="trans_open_camera_failed_title">ကင်မရာသို့ ချိတ်ဆက်၍ မရပါ</string>
+    <string name="trans_open_camera_failed_message">သင်၏ဖုန်းအားပိတ်၍ပြန်ဖွင့်ပါ သို့မဟုတ် Mi Moverအား &lt;b>ကင်မရာ&lt;/b> သုံးခွင့်ပေးထားခြင်း ရှိမရှိ စစ်ဆေးပါ။</string>
     <string name="trans_generate_qr_code_failed">QR ကုဒ်ဖန်တီး၍မရပါ</string>
     <string name="trans_scan_invalid_qrcode">QR ကုဒ်မမှန်ကန်သော</string>
     <string name="trans_scan_qr_code_tips">စက်အသစ်ဖြင့် QR ကုဒ်ကို စကန်ဖတ်ပါ</string>
@@ -350,6 +359,7 @@
 2. အက်ပ်အားဖွင့်ပြီး စတင်ပါအား ထိနှိပ်ပါ။
 3.သင့်စက်အဟောင်းနှင့် QR ကုဒ်အား စကန်ဖတ်ပါ။"</string>
     <string name="trans_operate_old_phone_tips2">ဆက်တင်များ>ထပ်ဆောင်ဆက်တင်များ>လွှဲပြောင်း သို့သွားရောက်ပြီး၊ [ကျွန်ုပ်ဟာပေးပို့သူ] အား ထိနှိပ်ပါ။</string>
+    <string name="trans_operate_tip_for_other_android">သင်၏ဖုန်းဟောင်းတွင် Mi Moverအား ဖွင့်ပါ၊ \"စတင်ပါ\"အား ထိနှိပ်ပြီး အထက်ပါ QR ကုဒ်ကို စကန်ဖတ်ပါ။</string>
     <string name="trans_operate_reconnect_new_tips">"ဖုန်းအသစ်တွင် \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။\"ဟု ပြသည်အထိစောင့်ပါ။
 ထို့နောက် \"ပြန်ချိတ်ဆက်ပါ\"ကို ထိနှိပ်၍ QR ကုဒ်တစ်ခု ဖန်တီးပါ။"</string>
     <string name="trans_operate_reconnect_old_tips">"ဖုန်းအဟောင်းတွင် \"ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။\"ဟု ပြသည်အထိစောင့်ပါ။
@@ -365,16 +375,25 @@
 နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
     <string name="trans_select_data_too_large">"လွှဲပြောင်းရန် ရွေးထားသော အိုင်တမ် အလွန်များနေသည်။
 လွှဲပြောင်းမှု ပိုမြန်စေရန် အရေးကြီးသော အိုင်တမ်များကိုသာ ရွေးပါ။"</string>
-    <string name="trans_calculating_base_size">ဒေတာအရွယ်အစားအား တွက်ချက်နေ</string>
     <string name="trans_calculating">တွက်ချက်နေ…</string>
+    <string name="trans_calculating_tip">တွက်ချက်နေသည် %s…</string>
+    <string name="trans_calculating_media_description">မီဒီယာဖိုင်</string>
+    <string name="trans_calculating_app_sd_description">SD ကဒ်မှ ဒေတာ</string>
     <string name="trans_native_no_space">"စက်အဟောင်းတွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ (%s ရရှိနိုင်သည်)။
 နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
-    <string name="trans_calculating_app_sd_size">ဒေတာအရွယ်အစားအား တွက်ချက်နေ−%s</string>
     <string name="trans_please_waiting">ခဏစောင့်ပါ…</string>
     <string name="trans_old_phone_low_space_title">သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ</string>
     <string name="trans_old_phone_low_space_msg">Mi Mover မှ လွှဲပြောင်းမည့်ဒေတာကို ပက်ကေ့ချ်လုပ်ရန် နေရာလွတ်အချို့ လိုအပ်ပါသည်၊ သို့သော် စက်အဟောင်းတွင် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ။ \"လုံခြုရေး\"သို့သွား၍ နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသောအိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။</string>
     <string name="button_clean_garbage">နေရာလွတ် ရှင်းလင်းပါ</string>
     <string name="button_quit">ထွက်မည်</string>
+    <string name="trans_install_guide_page_title">သင့်ဖုန်းအဟောင်းတွင် Mi Mover အား ဒေါင်းလုဒ်လုပ်ပါ</string>
+    <string name="trans_install_guide_scan_install_tip">"Mi Mover အား ဒေါင်းလုဒ်လုပ်၍ ထည့်သွင်းရန်
+သင့်ဖုန်းအဟောင်းဖြင့် ဤ QR ကုဒ်အား စကန်ဖတ်ပါ။"</string>
+    <string name="trans_install_guide_step1_title">အဆင့် ၁</string>
+    <string name="trans_install_guide_step1_content">\"Mi Mover\" အား ဒေါင်းလုဒ်လုပ်၍ ထည့်သွင်းရန် သင့်ဖုန်းအဟောင်းဖြင့် ဤ QR ကုဒ်အား စကန်ဖတ်ပါ။</string>
+    <string name="trans_install_guide_step2_title">အဆင့် ၂</string>
+    <string name="trans_install_guide_step2_content">ထည့်သွင်းခြင်း ပြီးဆုံးပါက \"စတင်ပါ\"အား ထိနှိပ်ပါ။</string>
+    <string name="trans_install_guide_button_start">စတင်ပါ</string>
     <string name="size_byte">B</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>
@@ -398,10 +417,12 @@
     <string name="trans_intro_desc_new">\"ကျွန်ုပ်သည် လက်ခံသူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ QR ကုဒ် တစ်ခု ထွက်ပေါ်လာမည်။</string>
     <string name="trans_intro_title_old">ဖုန်းအဟောင်းတွင်-</string>
     <string name="trans_intro_desc_old">\"ကျွန်ုပ်သည် ပေးပို့သူဖြစ်သည်\"ကို ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
+    <string name="trans_intro_desc_old_market">\"စတင်ပါ\"အား ထိနှိပ်ပါ။ ဖုန်းအသစ်ရှိ QR ကုဒ်ကို စကန်ဖတ်ပြီး Mi Mover မှ ဖိုင်များပေးပို့သည်အထိ စောင့်ပါ၊ ပြီးနောက်\"ပေးပို့မည်\"ကို ထိနှိပ်ပါ။</string>
     <string name="trans_intro_question_3">%d။ Mi Moverသည် တစ်နေရာရာတွင် ရှေ့ဆက်၍မရပါက ဘယ်လိုလုပ်ရမလဲ?</string>
     <string name="trans_intro_desc_3">လွှဲပြောင်းမှုအား ဖျက်သိမ်း၍ Mi Mover မှ ထွက်ပြီး ပြန်စပါ။ လွှဲပြောင်းမှုအသစ်တွင် တူညီသောဖိုင်များ ထပ်နေမည် မဟုတ်ပါ။</string>
     <string name="trans_intro_question_4">%d။ အဘယ်ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရသနည်း?</string>
     <string name="trans_intro_desc_4">Mi Mover သည် Wi-Fi ဖြင့် ဖိုင်များကို လွှဲပြောင်းသည်။ ထို့ကြောင့် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi သုံး၍မရပါ။ သို့သော် မိုဘိုင်းဒေတာကို အသုံးပြုနိုင်သည်။ နောက်ဆုံးပေါ် စက်အချို့ (ဥပမာ-Mi 6)တွင် လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi ဖြင့် အင်တာနက်သို့ ချိတ်ဆက်နိုင်ပါသည်။</string>
+    <string name="trans_intro_desc_4_market">Mi Moverသည် Wi-Fi ဖြင့် ဖိုင်များအား လွှဲပြောင်းမည်။ ထို့ကြောင့် လွှဲပြောင်းနေစဥ် ဖုန်းနှစ်ခုစလုံးသည် Wi-Fi ဖြင့် အင်တာနက်သို့ ချိတ်ဆက်၍ ရမည်မဟုတ်ပါ။ သို့သော် မိုဘိုင်းဒေတာအား အသုံးပြုနိုင်ပါသည်။</string>
     <string name="trans_intro_question_5">%d။ အဘယ်ကြောင့် ကျွန်ုပ်၏ဖုန်းအဟောင်းတွင် နေရာလွတ်မလုံလောက်ပါဟု Mi Mover မှ သတိပေးနေသနည်း?</string>
     <string name="trans_intro_desc_5">လွှဲပြောင်းမှုလုပ်ရာတွင် ပက်ကေ့ချ်များ လိုအပ်ပါသည်။ ထို့အတွက် လွှဲပြောင်းမှု မလုပ်မီ သင်၏ဖုန်းဟောင်းတွင် နေရာလွတ် အနည်းဆုံး 500MB မှ 1GB အထိ ရှိရမည်။</string>
     <string name="trans_intro_question_6">%d။ အဘယ်ကြောင့် အချို့အက်ပ်များသည် လွှဲပြောင်းရာတွင် မအောင်မြင်သနည်း?</string>
@@ -419,16 +440,32 @@
     <string name="trans_intro_desc_multiuser">ဒုတိယနေရာရှိ အိုင်တမ်များကို Mi Mover မှ ဖတ်ယူ၍မရပါ။ ထိုအိုင်တမ်များကို ပထမနေရာသို့ရွှေ့ပြီး Mi Mover အား ပထမနေရာတွင် စတင်ဆောင်ရွက်စေပါ။</string>
     <string name="trans_intro_title_multiapp">နှစ်ခုတွဲအက်ပ် ဒေတာ-</string>
     <string name="trans_intro_desc_multiapp">Mi Mover သည် ကွဲလွဲမှုများကို ရှောင်ရှားရန် နှစ်ခုတွဲအက်ပ်များ၏ ဒေတာကိုလွှဲပြောင်းမပေးပါ။</string>
+    <string name="trans_intro_question_9_market">%d။ တုံ့ပြန်အကြံပြုချက်။</string>
+    <string name="trans_intro_desc_9_method_1_title">၁။ သင်၏အကြံပြုချက်အား \"တုံ့ပြန်အကြံပြုချက်\"အက်ပ်ဖြင့် မျှဝေပါ။</string>
+    <string name="trans_intro_desc_9_method_1_dec">ပင်မမျက်နှာပြင် > ကိရိယာ > တုံ့ပြန်အကြံပြုချက်သို့ သွားပါ။</string>
+    <string name="trans_intro_desc_9_method_2_title">၂။ ကျွန်ုပ်တို့ထံ အီးမေးလ် ပေးပို့ပါ</string>
+    <string name="trans_intro_desc_9_method_2_dec">သင်၏အကြံပြုချက်များအား miui-mover@xiaomi.comသို့ ပေးပို့ပါ။</string>
+    <string name="trans_intro_desc_9_method_3_title">၃။ ပြဿနာများအား QQတွင် အစီရင်ခံပါ</string>
+    <string name="trans_intro_desc_9_method_3_dec">Mi Mover၏ QQအုပ်စု- ၆၈၇၃၃၈၃၇၈</string>
     <string name="btn_got_it">ရပြီ</string>
     <string name="backup_security_tips_title">အရန်သိမ်းခြင်း အလုပ်မလုပ်ပါ</string>
     <string name="backup_security_tips_message">အချို့အက်ပ်များသည် အရန်သိမ်းဆည်းခြင်းနှင့် ပြန်လည်ရယူခြင်း လုပ်နိုင်လိမ့်မည် မဟုတ်ပါ။</string>
     <string name="trans_security_tips_title">Mi Mover လိုက်ဖက်မှု</string>
     <string name="trans_security_tips_message">အချို့အက်ပ်များသည် Mi Moverအား မပံ့ပိုးပါ။</string>
+    <string name="trans_cancel_selection_title">Mi Mover တွင် နေပါ</string>
+    <string name="trans_cancel_selection_message">If you exit Mi Mover, the ongoing transfer will be interrupted. Wait until the transfer is complete.</string>
+    <string name="trans_select_notification_title">Mi Mover အလုပ်လုပ်နေသည်…</string>
+    <string name="trans_select_notification_message">ကြည့်ရှုရန် ထိနှိပ်ပါ</string>
+    <string name="trans_button_stay">ဆက်နေပါ</string>
+    <string name="trans_button_exit">ထွက်မည်</string>
     <string name="trans_wlan_tips_title">Wi-Fi ကို မပိတ်ပါနှင့်</string>
     <string name="trans_wlan_tips_message">လွှဲပြောင်းမှုလုပ်နေစဥ် Wi-Fi ကို မပိတ်ပါနှင့်၊ အခြား Wi-Fi သို့လည်း မကူးပြောင်းပါနှင့်။ သို့မဟုတ်ပါက Mi Mover ဒေတာလွှဲပြောင်းမှု အောင်မြင်မည် မဟုတ်ပါ။</string>
     <string name="trans_disconnected_tips_title">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်</string>
     <string name="trans_disconnected_tips_message">ချိတ်ဆက်မှု ပြတ်တောက်သွားသည်။ ကိုယ်တိုင်ပြန်ချိတ်ဆက်ပါ သို့မဟုတ် လွှဲပြောင်းမှုကို ဖျက်သိမ်းပါ။</string>
     <string name="trans_button_cancel">ပယ်ဖျက်မည်</string>
+    <string name="trans_success_dialog_market_comment_title">"သင်၏ဖုန်းအသစ်သည် အရင်သုံးနေကျအတိုင်း ဖြစ်သွားပါပြီ။
+Mi Moverအား သင် နှစ်သက်ပါသလား?"</string>
+    <string name="trans_success_dialog_button_market_favourable_comment">Mi Moverအား အမှတ်ပေးမည်</string>
     <string name="trans_failed_details_page_title">မအောင်မြင်သော လွှဲပြောင်းမှုများ</string>
     <string name="close_twice_auth_tutor">Apple ID လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ</string>
     <string name="close_twice_auth_steps">Apple ID အတွက် လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ရန် အောက်ပါအတိုင်းလုပ်ပါ-</string>
@@ -442,7 +479,8 @@
 https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</string>
     <string name="platform_chooser_title">စက်ဟောင်းကို ရွေးပါ</string>
     <string name="platform_chooser_item_ios">iOS စက်ပစ္စည်းမှ တင်သွင်းမည်</string>
-    <string name="platform_chooser_item_android">Android စက်ပစ္စည်းမှ တင်သွင်းမည်</string>
+    <string name="platform_chooser_item_android_mi">Mi ဖုန်း</string>
+    <string name="platform_chooser_item_android_others">အခြားတံဆိပ်</string>
     <string name="icloud_need_wifi_title">Wi-Fi သို့ ချိတ်ဆက်ပါ</string>
     <string name="icloud_need_wifi_message">Wi-Fi သို့ ချိတ်ဆက်မထားပါ။ iCloud မှ ဒေတာများ တင်သွင်းရန် Wi-Fi ချိတ်ဆက်ပါ။</string>
     <string name="icloud_login_title">iCloud သို့ ဆိုင်းအင်ဝင်ပါ</string>
@@ -481,9 +519,9 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
     <string name="hsa_sending">ပေးပို့နေသည်…</string>
     <string name="hsa_send_failed">အတည်ပြုကုဒ် ပေးပို့၍မရပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
     <string name="hsa_tip_title">အကြံပြုချက်များ-</string>
-    <string name="hsa_tip_message">"၁. အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော စက်သို့ ပေးပို့ထားသည်။
+    <string name="hsa_tip_message">"၁။ အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော စက်သို့ ပေးပို့ထားသည်။
 ၂. အတည်ပြုကုဒ် မအောင်မြင်ပါက လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ။"</string>
-    <string name="hsa_tip_message_with_device">"၁. အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော \"%s\"သို့ ပေးပို့ထားသည်။
+    <string name="hsa_tip_message_with_device">"၁။ အတည်ပြုကုဒ်ပါသော မက်ဆေ့ချ်တစ်စောင်ကို သင်၏ Apple ID နှင့်တွဲချိတ်ထားသော \"%s\"သို့ ပေးပို့ထားသည်။
 ၂. အတည်ပြုကုဒ် မအောင်မြင်ပါက လုံခြုံရေးနှစ်ထပ် စနစ်ကို ပိတ်ပါ။"</string>
     <string name="hsa_tip_message_shutdown_hsa">လုံခြုံရေးနှစ်ထပ် စနစ်ကို ဘယ်လိုပိတ်ရမလဲ</string>
     <string name="hsa_verify_failed">အတည်မပြုနိုင်ပါ</string>
@@ -496,6 +534,7 @@ https://appleid.apple.com/#!&amp;page=signin သို့ သွားပါ"</s
  iCloud သို့ ဦးစွာ အရန်သိမ်းရမည်။"</string>
     <string name="list_footer_tip_title">အကြံပြုချက်များ-</string>
     <string name="import_tip_summary">လိုက်ဖက်မှုဆိုင်ရာ ပြဿနာများကြောင့် iOS စက်ပစ္စည်းများမှ ဒေတာအချို့ကိုသာ လွှဲပြောင်းနိုင်သည်။ လွှဲပြောင်းမှု မစတင်မီ iCloud သို့ အရန်သိမ်းထားခြင်း ရှိမရှိစစ်ဆေးပါ။</string>
+    <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="button_import">တင်သွင်းမည်</string>
     <string name="select_empty">တင်သွင်းရန်အိုင်တမ်များအား ရွေးချယ်ပါ</string>
     <string name="select_item_summary_wait">စောင့်နေသည်…</string>
@@ -536,4 +575,36 @@ Wi-Fi ကို မပိတ်ပါနှင့်"</string>
     <string name="alert_message_restore_from_miasist">Mi PC Suite မှ သင်၏ဖုန်းတွင် ပြန်လည်ရယူခြင်းလုပ်ရန် ခွင့်ပြုချက်တောင်းခံနေသည်။ ခွင့်ပြုမလား?</string>
     <string name="alert_button_deny">ငြင်းဆိုသည်</string>
     <string name="alert_button_agree_and_continue">ခွင့်ပြုသည်</string>
+    <string name="trans_open_location_button">ဖွင့်ပါ</string>
+    <string name="trans_open_location_title">တည်နေရာပြ ၀န်ဆောင်မှုအား ဖွင့်မည်</string>
+    <string name="trans_open_location_message">Wi-Fi ကွန်ရက် စာရင်း ရရှိနိုင်ရန် တည်နေရာပြ ၀န်ဆောင်မှုအား ဖွင့်ပါ။</string>
+    <string name="perm_camera">ကင်မရာ</string>
+    <string name="perm_read_contacts">အဆက်အသွယ်များအား ဖတ်မည်</string>
+    <string name="perm_location">တည်နေရာ</string>
+    <string name="perm_read_phone_state">ဖုန်းအခြေအနေကို ဖတ်မည်</string>
+    <string name="perm_read_call_log">ခေါ်ဆိုမှုမှတ်တမ်းကို ဖတ်မည်</string>
+    <string name="perm_read_sms">SMSကို ဖတ်မည်</string>
+    <string name="perm_storage">ပြင်ပသိုလှောင်ခန်းတွင် ဖတ်မည်၊ ရေးမည်</string>
+    <string name="lack_perm_title">ခွင့်ပြုချက်များ လိုအပ်သည်</string>
+    <string name="lack_perm_msg">Mi Moverမှ အောက်ပါခွင့်ပြုချက်များ လိုအပ်သည်- &lt;b>%s&lt;/b>။</string>
+    <string name="flash_drive_backup_restore">USB အရန်သိမ်းခြင်းများ</string>
+    <string name="flash_drive_backup_note">"USBထဲသို့ အက်ပ်များအား အရန်သိမ်းပါ။
+မစတင်မီ USBတွင် နေရာလွတ် လုံလောက်မှု ရှိမရှိ စစ်ဆေးပါ။"</string>
+    <string name="flash_drive_backup_btn">USBသို့ အရန်သိမ်းပါ</string>
+    <string name="flash_drive_restore_btn">USBမှ ပြန်လည်ရယူပါ</string>
+    <string name="usb_backup_select_data_too_large">"ရွေးထားသောဖိုင်များသည် အလွန်ကြီးသည်။ USBတွင် နေရာလွတ် လုံလောက်မှု ရှိမရှိ စစ်ဆေးပါ။
+အရေးကြီးသော အိုင်တမ်များကိုသာ လွှဲပြောင်းပါ။"</string>
+    <string name="flash_drive_search_backup_files">"USB အရန်သိမ်းခြင်းအား ရှာ​ဖွေနေသည်…
+အရန်သိမ်းထားသော ဖိုင်များကို မပြောင်းလဲပါနှင့်၊ အမည်ပြန်မပေးပါနှင့်။"</string>
+    <string name="flash_drive_connection_failed">USBအား ဖြုတ်ပြီးပါပြီ</string>
+    <string name="storage_sd_card">SD ကဒ်</string>
+    <string name="storage_usb">USB သိုလှောင်ခန်း</string>
+    <string name="usb_trans_select_data_no_space">"USB တွင် %s သာ ကျန်ရှိသည်။
+နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသော အိုင်တမ်များသာ လွှဲပြောင်းပါ။"</string>
+    <string name="usb_restore_select_data_too_large">"အရန်သိမ်းရန်ဖိုင်များ အလွန်ကြီးသည်။ ပြန်လည်ရယူရာတွင် အချိန်ကြာမြင့်နိုင်သည်။
+အရေးကြီးသော အိုင်တမ်များကိုသာ ပြန်လည်ရယူပါက ပိုမြန်နိုင်သည်။"</string>
+    <string name="usb_trans_native_no_space">"သင်၏ဖုန်းတွင် %s သာ ကျန်ရှိသည်။
+နေရာလွတ် ရှင်းလင်းပါ သို့မဟုတ် လွှဲပြောင်းမှုအား ခွဲလုပ်ပါ။"</string>
+    <string name="usb_trans_old_phone_low_space_title">သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ</string>
+    <string name="usb_trans_old_phone_low_space_msg">အရန်သိမ်းရန် ပက်ကေ့ချ်အတွက် နောက်ထပ်နေရာလွတ် လိုအပ်သည်။ လွှဲပြောင်းမှု ဆက်လက်လုပ်ဆောင်ရန် သိုလှောင်ခန်းနေရာလွတ် မလုံလောက်ပါ။ လုံခြုရေးသို့ သွား၍ မလိုအပ်သောဖိုင်များကို ဖျက်ပြီးနေရာလွတ်ရှင်းလင်းပါ သို့မဟုတ် အရေးကြီးသော အိုင်တမ်များသာ လွှဲပြောင်းပါ။</string>
 </resources>

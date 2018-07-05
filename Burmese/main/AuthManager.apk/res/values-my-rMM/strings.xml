@@ -25,8 +25,6 @@
     <string name="HIPS_Perm_VideoRecorder_Desc">ဓါတ်ပုံ (သို့) ဗီဒီယိုရိုက်ရန် ကင်မရာကို ရယူသုံးစွဲပါ</string>
     <string name="HIPS_Perm_AudioRecorder">အသံသွင်းပါ</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">အော်ဒီယိုနှင့် ဖုန်းခေါ်ဆိုမှုများကို အသံသွင်းပါ</string>
-    <string name="HIPS_Perm_Mobile_Connectivity">မိုဘိုင်းဒေတာချိတ်ဆက်မှုကို ပြောင်းပါ</string>
-    <string name="HIPS_Perm_Mobile_Connectivity_Desc">မိုဘိုင်းဒေတာကို ဖွင့်(သို့) ပိတ်ပါ</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi ချိတ်ဆက်မှုကို ပြောင်းပါ</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">Wi-Fi ကို ဖွင့် (သို့) ပိတ်ပါ</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">ဘလူးတုသ်ချိတ်ဆက်မှုကို ပြောင်းပါ</string>

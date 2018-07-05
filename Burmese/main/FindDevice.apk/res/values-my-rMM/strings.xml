@@ -21,8 +21,7 @@
     <string name="find_device_stop_noise">အသံတိတ်ရန် အိုကေကို ထိပါ</string>
     <string name="find_device_noise_title">စက်ရှာတွေ့မှု အနှိုးစက်</string>
     <string name="find_device_success_title">စက်ကို ရှာပါ</string>
-    <string name="find_device_notice_p1">သို့သွားပါ</string>
-    <string name="find_device_notice_p3">တည်နေရာရယူရန်၊ လော့ခ်ဖြည်ရန်၊ ဒေတာ ဖျက်ပစ်ရန်။</string>
+    <string name="find_device_notice">&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />သို့သွား၍ သင်၏ဖုန်းအား တည်နေရာရယူခြင်း၊ လော့ခ်ချခြင်း သို့မဟုတ်ပြန်လည်သိမ်းဆည်းခြင်းများ ပြုလုပ်နိုင်ပါသည်။</string>
     <string name="find_device_notice_sms_alert">ဆင်းမ်ကဒ်များကို ဖလှယ်လျှင် ဤအင်္ဂါရပ်ကို ပြန်လည်အသက်သွင်းရန် အခြား SMS မက်ဆေ့ချ်တစ်စောင်ကို အလိုအလျောက် ပေးပို့လိမ့်မည်။</string>
     <string name="i_know">အိုကေ</string>
     <string name="unlock_error_network">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>

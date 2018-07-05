@@ -57,34 +57,20 @@
         <item>Delhi</item>
         <item>Mumbai</item>
         <item>Moscow</item>
-        <item>Hyderabad</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Paris</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>သင့်တော်သော</item>
-        <item>မသင့်တော်သော</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>သင့်တော်သော</item>
-        <item>မသင့်တော်သော</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>နိမ့်သော</item>
-        <item>အသင့်အတင့်</item>
-        <item>မြင့်သော</item>
+        <item>ချန်နိုင်</item>
+        <item>အစ္စတန်ဘူလ်</item>
+        <item>ရီယိုဒီဂျနရို</item>
+        <item>စင်္ကာပူ</item>
+        <item>ဘာလင်</item>
+        <item>ရောမ</item>
+        <item>နယူးယောက်</item>
+        <item>လော့စ်အိန်ဂျလိစ်</item>
+        <item>ချီကာဂို</item>
+        <item>တိုကျို</item>
+        <item>ပဲရစ်</item>
+        <item>ဘန်ကောက်</item>
+        <item>ဆိုးလ်</item>
+        <item>ကွာလာလန်ပူ</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>ပြင်းထန်သော</item>
@@ -177,12 +163,5 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Beaufort စကေး</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
     </string-array>
 </resources>

@@ -3,6 +3,7 @@
     <string name="menu_clear">ရှင်းပစ်ပါ။</string>
     <string name="menu_view">ဖိုလ်ဒါထဲမှာကြည့်ရှုပါ။</string>
     <string name="menu_install">ဤအက်ပ်အား ထည့်သွင်းတပ်ဆင်မည်။</string>
+    <string name="menu_open">ဖွင့်ပါ</string>
     <string name="menu_add_to_white_list">ခြွင်းချက်သို့ပေါင်းထည့်မည်။</string>
     <string name="text_optimizer">ဖိုလ်ဒါအမည်များကို အပ်လုပ်တင်ပါ</string>
     <string name="summary_optimizer">ဒီလုပ်ဆောင်ချက်သည် Cheetah မိုဘိုင်း၏ အွန်လိုင်းဒေတာဘေ့စ်ကို အသစ်မွမ်းမံလုပ်ဖို့အတွက် ဖိုလ်ဒါအမည်များအား အပ်လုတ်တင်ခြင်းဖြစ်ပြီး၊ သင့်ကိရိယာ၏ ID ကိုလည်း လိုအပ်သည်။</string>
@@ -90,6 +91,7 @@
     <string name="hints_apk_header_left">ပက်ကေ့ချ်များ</string>
     <string name="hints_residual_header_left">အကြွင်းအကျန်များ</string>
     <string name="hints_memory_header_left">မှတ်ဉာဏ်</string>
+    <string name="hints_header_left">%d</string>
     <string name="hints_large_file_header_left">ဖိုင်ကြီး- %d ခု</string>
     <string name="hints_installed_apps_header_left">တပ်ဆင်ထားသော အက်ပ်များ: %d ခု</string>
     <string name="toast_resolve_apk_error">Apk အမှားကို ဖြေရှင်းပါ</string>
@@ -127,8 +129,8 @@
     <string name="msg_update_error_code_no_newer_db">သန့်ရှင်းစက်က နောက်ဆုံးထုတ်ဖြစ်သည်</string>
     <string name="msg_update_error_code_already_running">မွမ်းမံနေသည်…</string>
     <string name="msg_update_error_code_network_error">ကွန်ရက်သို့ ချိတ်ဆက်လို့ မရပါ</string>
-    <string name="msg_update_error_code_unknown_error">Servers are busy. Wait a minute or two and try again.</string>
-    <string name="msg_cleanup_db_update_time_unknown">Last update: Unknown</string>
+    <string name="msg_update_error_code_unknown_error">ဆာဗာများ မအားသေးပါ။ ခေတ္တစောင့်ဆိုင်းပြီးမှ ပြန်ကြိုးစားကြည့်ပါ။</string>
+    <string name="msg_cleanup_db_update_time_unknown">နောက်ဆုံးအကြိမ် အပ်ဒိတ်လုပ်ချိန် မသိပါ</string>
     <string name="item_title_process_mode">လုပ်ဆောင်မှုတစ်ခု ရွေးပါ</string>
     <string name="clean_content_zero">လုံးဝမလုပ်</string>
     <string name="clean_content_one">အိုင်တမ် ၁ခု</string>
@@ -166,7 +168,7 @@
     <string name="hints_quick_scanning">စကင်လုပ်နေဆဲ…</string>
     <string name="hints_quick_cleanuping">အကောင်းဆုံးဖြစ်အောင်လုပ်နေဆဲ…</string>
     <string name="hints_deepclean_scanning">စကန်ဖတ်နေသည် %s</string>
-    <string name="cache_title_system_cache">စက်စနစ်ကက်ချီ</string>
+    <string name="cache_title_system_cache">ဒေတာကက်ချ်</string>
     <string name="hints_storage_free">အခမဲ့</string>
     <string name="hints_storage_free_size">စုစုပေါင်း %1$s၊ လက်ကျန် %2$s</string>
     <string name="apps_sort_type_title">မျိုးတူစုပါ</string>
@@ -271,7 +273,7 @@
     <string name="toast_select_white_need_remove">ဖယ်ရှားရန်အိုင်တမ်များအား　ရွေးချယ်ပါ</string>
     <string name="network_not_available">ကွန်ရက်သို့ ချိတ်ဆက်၍ မရပါ</string>
     <string name="no_network_btn">ထပ်ကြိုးစား</string>
-    <string name="name_debuglog_dir">BSP debug log</string>
+    <string name="name_debuglog_dir">BSP ဒီဘာဂ်မှတ်တမ်း</string>
     <string name="just_now">ခုလေးတင်</string>
     <string name="yesterday">မနေ့က</string>
     <string name="month_day_format">dd MMM</string>
@@ -297,6 +299,7 @@
     <string name="downloading">ဒေါင်းလုဒ်လုပ်နေသည်</string>
     <string name="installing">တပ်ဆင်နေဆဲ</string>
     <string name="start_install">ယခုထည့်သွင်း</string>
+    <string name="empty">" "</string>
     <string name="open_browser">ဘရောက်ဇာတွင် ဖွင့်ပါ</string>
     <string name="title_share_link">URL အားမျှဝေ</string>
     <string name="connecting">ချိတ်ဆက်နေ…</string>
@@ -307,7 +310,7 @@
     <string name="seton_immediately">ဖွင့်ပါ</string>
     <string name="notify_when">အမှိုက် 100MB သို့ရောက်ပါက အသိပေးချက်ပေးပါ</string>
     <string name="goto_set">သတ်မှတ်</string>
-    <string name="virus_scan">လုံခြုရေးစကန်</string>
+    <string name="virus_scan">ဗိုင်းရပ်စ် စကန်ဖတ်ခြင်း</string>
     <string name="tips_of_virus_scan">သင့်စက်အားလုံခြုံနေစေရန် ပုံမှန်ဗိုင်းရပ်စ်စကန်ဖတ်ပါ</string>
     <string name="conn_of_function_safe">လုံခြံရေးအတွက် ကွန်ရက်ချိတ်ဆက်မှု</string>
     <string name="tips_of_connect">အင်တာနက်သို့ချိတ်ဆက်ပြီး လုံခြုံရေးဆိုင်ရာ လုပ်ဆောင်ရည်အား အပြည့်အဝအသုံးချပါ</string>
@@ -517,4 +520,14 @@
     <string name="guide_virus_dialog_message">အက်ပ်နှင့် ထည့်သွင်းမည့်ပက်ကေ့ချ်များကို စကန်ဖတ်ပါက သင့်ဖုန်းအား ဗိုင်းရပ်စ်နှင့် malware ရန်မှ ကာကွယ်ပေးနိုင်ပါသည်။ သင့်ဖုန်းအား ယခု စကန်ဖတ်မလား?</string>
     <string name="guide_virus_dialog_positive">စကန်ဖတ်မည်</string>
     <string name="guide_virus_dialog_negative">ပယ်ဖျက်မည်</string>
+    <string name="tips_low_storage_dialog_title">သိုလှောင်ခန်းနေရာ နည်းနေပြီ</string>
+    <string name="tips_low_storage_dialog_msg_storage">သိုလှောင်ခန်းနေရာ၏ ၉၀% ပြည့်နေပြီ။ အသုံးမပြုသော အက်ပ်များကို ဖြုတ်ချပါ။</string>
+    <string name="tips_low_storage_dialog_msg_wechat">WeChat ကက်ချ်အရွယ်အစားမှာ ၃ GB ရှိနေပြီ။ သင်၏စက်ကို နှေးစေနိုင်သည်။ WeChat ကက်ချ်အား ယခု ရှင်းပစ်မလား?</string>
+    <string name="tips_low_storage_dialog_msg_qq">QQ ကက်ချ်အရွယ်အစားမှာ ၃ GB ရှိနေပြီ။ သင်၏စက်ကို နှေးစေနိုင်သည်။ QQ ကက်ချ်အား ယခု ရှင်းပစ်မလား?</string>
+    <string name="tips_low_storage_dialog_ok_storage">နေရာလွတ်ရှင်းပါ</string>
+    <string name="tips_low_storage_dialog_ok">ရှင်းပစ်မည်</string>
+    <string name="tips_low_storage_dialog_cancel">ပယ်ဖျက်မည်</string>
+    <string name="wechat_msg_time_long">dd-MM-yyyy</string>
+    <string name="wechat_msg_time_short">dd-MM</string>
+    <string name="wechat_video_time">%1$s:%2$s</string>
 </resources>

@@ -57,6 +57,7 @@
     <string name="save_pic_success">ရုပ်ပုံအား %s သို့သိမ်းခဲ့သည်</string>
     <string name="save_pic_fail">ရု်ပုံအား သိမ်းဆည်း၍မရနိုင်ခဲ့ပါ၊ သင့်SD ကဒ်အား စစ်ဆေးပါ</string>
     <string name="pic_not_exist">ဤရု်ပုံမတည်ရှိပါ</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">ထုတ်ကုန်ရွေးချယ်ပါ</string>
     <string name="michat_skillset_business_type_title">ဝန်ဆောင်မှုရွေးချယ်</string>
     <string name="michat_close_text">Chat အဆုံးသတ်ခဲ့သည်</string>
@@ -191,7 +192,7 @@
     <string name="nothing">--</string>
     <string name="feedback_id">ID: %d</string>
     <string name="feedback_jira_key">JIRA ကီး− %s</string>
-    <string name="feedback_collect_log_failed">လော့များ မရနိုင်ခဲ့ပါ</string>
+    <string name="feedback_collect_log_failed">မှတ်တမ်းများ မရယူနိုင်ပါ</string>
     <string name="feedback_package_log_failed">ဖိနှိပ်ထားသော လော့များ မရနိုင်ခဲ့ပါ</string>
     <string name="submit_feedback_info_failed">အစီရင်ခံစာကို ပို့လို့မရပါ</string>
     <string name="post_miui_bbs_failed">MIUI ဖိုရမ်သို့ ပို့စ်မတင်နိုင်ခဲ့ပါ</string>
@@ -254,6 +255,12 @@
     <string name="feedback_status_jira_comment">မှတ်ချက်ပေါင်းထည့်ပါ</string>
     <string name="feedback_status_forum_reply">စာပြန်</string>
     <string name="feedback_status_submit_attachment">ပူးတွဲဖိုင်များကို တင်ပို့ပြီးပါပြီ</string>
+    <string name="feedback_status_collect_log_failed">မှတ်တမ်းများ မရယူနိုင်ပါ</string>
+    <string name="feedback_status_submit_feedback_failed">တုံ့ပြန်အကြံပြုချက်အား မပေးပို့နိုင်ပါ</string>
+    <string name="feedback_status_save_log_info_failed">ပူးတွဲဖိုင် URL အား ပြောင်း၍မရပါ</string>
+    <string name="feedback_status_submit_bbs_failed">တုံ့ပြန်အကြံပြုချက် အကြောင်းအရာအား မပေးပို့နိုင်ပါ</string>
+    <string name="feedback_status_get_and_save_bbs_info_failed">ပူးတွဲဖိုင် URL အား မရယူနိုင်ပါ</string>
+    <string name="feedback_status_upload_log_failed">ပူးတွဲဖိုင်များကို မပေါင်းထည့်နိုင်ခဲ့ပါ</string>
     <string name="feedback_status_change_notification_title">သင့်အစီရင်ခံစာပေးပို့မှု အသစ်မွမ်းမံခဲ့သည်</string>
     <string name="feedback_bug_status_change_notification_desc">%1$s ကိစ္စ \"%2$s\"</string>
     <string name="feedback_suggestion_status_change_notification_desc">%1$s အကြံပြုချက်\"%2$s\"</string>

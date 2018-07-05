@@ -4,6 +4,7 @@
     <string name="passport_notification_title">%1$s သို့ ဆိုင်းအင်ဝင်ချိန် မှားယွင်းမှုဖြစ်ပေါ်သည်</string>
     <string name="passport_login_prompt">Mi အကောင့်တစ်ခု။ Mi ဝန်ဆောင်မှုအားလုံး။</string>
     <string name="passport_login_using_other_ways">ဆိုင်းအင်ဝင်ရန် အခြားနည်းလမ်းများ</string>
+    <string name="passport_register_using_other_ways">အကောင့်ဖန်တီးရန် အခြားနည်းလမ်းများ</string>
     <string name="passport_login_title">သင်၏ Mi အကောင့်သို့ ဝင်ပါ။</string>
     <string name="passport_login">ဆိုင်းအင်ဝင်ပါ</string>
     <string name="passport_relogin">ထပ်မံ ဝင်ပါ</string>
@@ -27,6 +28,7 @@
     <string name="passport_reg_success_summary">%1$s မှာသင်၏အကောင့်နှင့် ချိတ်ဆက်ပြီးဖြစ်ပါသည်။ အကောင့်ထဲသို့ဝင်ရန် သို့မဟုတ် စကားဝှက်ပြန်လည်သတ်မှတ်ရန် ၄င်းအား အသုံးပြုနိုင်ပါသည်။</string>
     <string name="passport_re_register">ထပ်မံစာရင်းပေးပါ</string>
     <string name="passport_register">အကောင့်တစ်ခု ဖန်တီးပါ</string>
+    <string name="passport_new_user_register">အကောင့်တစ်ခု ဖန်တီးပါ</string>
     <string name="passport_vcode_sms_send_prompt">အတည်ပြုကုဒ်ကို %s သို့ ပို့ပါ</string>
     <string name="passport_get_verify_code">ကုဒ်နံပါတ် ရယူပါ</string>
     <string name="passport_re_get_verify_code">ကုဒ်နံပါတ် တဖန်ရယူပါ</string>
@@ -72,6 +74,7 @@
     <string name="passport_skip_register">မှတ်ပုံတင်ခြင်းကို ကိုကျော်လိုက်မည်</string>
     <string name="passport_account_not_activated">အကောင့်ကို အသက်မသွင်းရသေးပါ</string>
     <string name="passport_change_account"><u>အကောင့်ပြောင်းပါ</u></string>
+    <string name="passport_btn_change_account">အကောင့် ပြောင်းပါ</string>
     <string name="passport_register_account_verified_confirm">အကောင့် အတည်ပြုခဲ့သည်</string>
     <string name="passport_register_account_goto_email">အဝင်ဘောက်စ်သို့သွားပါ</string>
     <string name="passport_error_dup_email">သင်ရိုက်သွင်းလိုက်သော အီးမေးလ်မှာ အ ခြားအကောင့်တစ်ခုနှင့် ချိတ်ဆက်ပြီးဖြစ်ပါသည်။</string>
@@ -91,6 +94,7 @@
     <string name="passport_input_password_hint">စကားဝှက် ထည့်သွင်းပါ</string>
     <string name="passport_input_captcha_hint">ကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_input_vcode_hint">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
+    <string name="passport_input_voice_hint">အသံကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_email">အီးမေးလ်လိပ်စာ</string>
     <string name="passport_vcode_prompt_long">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_input_phone_hint">ဖုန်းနံပါတ်ထည့်သွင်းပါ</string>
@@ -104,6 +108,7 @@
     <string name="passport_error_empty_pwd">သင့် စကားဝှက်ကိုထည့်သွင်းပါ</string>
     <string name="passport_error_illegal_pwd">စကားဝှက် မမှန်ကန်ပါ</string>
     <string name="passport_error_empty_captcha_code">ရုပ်ပုံကုဒ် ရိုက်ထည့်ပါ</string>
+    <string name="passport_error_empty_voice_code">ပုံ၌ပြသောကုဒ် ထည့်သွင်းပါ</string>
     <string name="passport_error_empty_vcode">အတည်ပြုကုဒ် ရိုက်ထည့်ပါ</string>
     <string name="passport_i_know">ရပြီ</string>
     <string name="passport_retry">ထပ်ကြိုးစား</string>
@@ -116,6 +121,7 @@
     <string name="passport_yes">ဟုတ်ပါတယ်</string>
     <string name="passport_no">မဟုတ်ပါ</string>
     <string name="passport_continue">ဆက်လက်လုပ်ဆောင်မည်</string>
+    <string name="passport_Resend">ပြန်လည်ပေးပို့ပါ</string>
     <string name="passport_loading">ဆွဲတင်နေသည်…</string>
     <string name="passport_reging">အကောင့် ဖန်တီးခြင်း…</string>
     <string name="passport_checking_account">စကားဝှက်… ကိုစစ်ဆေးနေဆဲပါ</string>
@@ -147,6 +153,7 @@
     <string name="passport_error_user_name">သင်ရိုက်သွင်းလိုက်သော အသုံးပြုသူအမည် ဘောင်မဝင်ပါ</string>
     <string name="passport_access_denied">ဝင်သုံးစွဲခွင့်ကို ငြင်းပယ်ထားသည်</string>
     <string name="passport_wrong_captcha">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
+    <string name="passport_wrong_voice">သင်ရိုက်ထည့်သော ကုဒ်မှာ မမှန်ကန်ပါ</string>
     <string name="passport_wrong_vcode">သင်ထည့်သွင်းသော ကုဒ် မမှန်ကန်ပါ</string>
     <string name="passport_error_device_id">စက်ရဲ့ id မရရှိနိုင်ပါ</string>
     <string name="passport_error_invalid_dev_id">သင့်စက် ID ဘောင်မဝင်ပါ</string>
@@ -203,6 +210,12 @@
     <string name="passport_get_innetdate_agree">စစ်ဆေးပါ</string>
     <string name="passport_get_innetdate_disagree">မစစ်ပါနှင့်</string>
     <string name="passport_extra_gdpr_license">Mi အကောင့်တစ်ခု ဖန်တီးခြင်းဖြင့် သင်သည် Xiaomi မှ အတည်ပြုဒေတာ (ဥပမာ- အတည်ပြုကုဒ်များ)၊ ဒုတိယနေရာဒေတာ (ဥပမာ- ဒုတိယနေရာအား အသုံးပြုပုံ၊ ပထမနှင့် ဒုတိယနေရာ၏ IDများ) နှင့် ကျွန်ုပ်တို့ကိုယ်ရေးအချက်အလက် ပေါ်လစီမှ သတ်မှတ်ထားသော အခြားဒေတာအပါအဝင် သင်၏ကိုယ်ရေးအချက်အလက်အား စုဆောင်းခြင်း၊ အသုံးပြုခြင်းတို့ကို သဘောတူပြီးဖြစ်ပါသည်။ စုဆောင်းပုံနှင့် အသုံးပြုပုံအား သိရှိနားလည်ရန် ကျွန်ုပ်တို့၏ကိုယ်ရေးအချက်အလက်ပေါ်လစီကို ဖတ်ရှုပါ။</string>
+    <string name="passport_talkback_image_captcha">ရုပ်ပုံ အတည်ပြုကုဒ်</string>
+    <string name="passport_talkback_voice_captcha">အသံ အတည်ပြုကုဒ်အား ဖွင့်ပါ</string>
+    <string name="passport_talkback_switch_voice_captcha">အသံ အတည်ပြုကုဒ်သို့ ပြောင်းပါ</string>
+    <string name="passport_talkback_switch_image_captcha">ရုပ်ပုံ အတည်ပြုကုဒ်သို့ ပြောင်းပါ</string>
+    <string name="passport_license_info_open">အသေးစိတ်များ</string>
+    <string name="passport_license_info_collapse">ချုံ့မည်</string>
     <string name="search_app_name">Mi အကောင့်</string>
     <string name="search_mi_account">Mi အကောင့်</string>
     <string name="search_mi_account_key_words">Mi Cloud၊အကောင့်ဆက်တင်၊Mi PayMi Pay၊အချက်အလက်၊ဆိုင်းအောက်</string>
@@ -334,6 +347,7 @@
     <string name="account_user_details">ကိုယ်ရေးအချက်အလက်များ</string>
     <string name="account_security">အကောင့်လုံခြုံရေး</string>
     <string name="account_mibi_center">Mi ခရက်ဒစ်များ</string>
+    <string name="account_mibi_charge">ငွေဖြည့်မည်</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">ဝန်ဆောင်မှုများ</string>
     <string name="cloud_service">Mi Cloud</string>
@@ -455,7 +469,7 @@
     <string name="account_token_expired_msg">"အတည်ပြုကုဒ် သက်တမ်းကုန်ဆုံးသွားပြီဖြစ်၍ ဆိုင်းအင် သို့မဟုတ် ဆိုင်းအောက် ပြန်လုပ်ပါ
  သင်၏အကောင့်ID- %s"</string>
     <string name="bind_safe_phone_msg">နောက်တစ်ကြိမ် Mi အကောင့်သို့ ဆိုင်းအင်ဝင်နိုင်ရန် သင်၏ဖုန်းနံပါတ်ကို ပေါင်းထည့်ပါ။</string>
-    <string name="account_notification_message">>သက်တမ်း ကုန်ပါပြီ၊ ဆိုင်းအင်ပြန်ဝင်ပါ။</string>
+    <string name="account_notification_message">သက်တမ်း ကုန်ပါပြီ၊ ဆိုင်းအင်ပြန်ဝင်ပါ။</string>
     <string name="sim_changed_notification_title">ဖုန်းနံပါတ် ပြောင်းသွားပြီလား?</string>
     <string name="sim_changed_notification_msg">သင်၏အကောင့်အား ပိုမို၍လုံခြုံစေရန် ပြန်ဆယ်တင်ရေးဖုန်းအား အပ်ဒိတ်လုပ်ပါ။</string>
     <string name="recycle_phone_notification_title">Mi အကောင့်လုံခြုံရေး အန္တရာယ်</string>

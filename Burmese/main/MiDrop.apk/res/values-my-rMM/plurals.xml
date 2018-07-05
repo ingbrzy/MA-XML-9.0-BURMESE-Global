@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="delete_confirm_multiple_files">
+        <item quantity="other">ရွေးထားသော ဖိုင် %d ခုအား ဖျက်မလား?</item>
+    </plurals>
     <plurals name="notif_receive_cancel">
         <item quantity="other">%1$s ထံမှ လွှဲပြောင်းမှုအား ပယ်ဖျက်လိုက်သည်</item>
     </plurals>
@@ -12,7 +15,16 @@
     <plurals name="receiver_file_num">
         <item quantity="other">%1$s ထံမှ ဖိုင် %2$d ခု</item>
     </plurals>
+    <plurals name="selected_file_num">
+        <item quantity="other">ရွေးထားသော အိုင်တမ် %d ခု</item>
+    </plurals>
     <plurals name="sender_file_num">
         <item quantity="other">အိုင်တမ် %1$d ခု</item>
+    </plurals>
+    <plurals name="transfer_list_received_header">
+        <item quantity="other">ဖိုင် %1$dခု (%2$s)အား လက်ခံရရှိသည်</item>
+    </plurals>
+    <plurals name="transfer_list_sent_header">
+        <item quantity="other">ဖိုင် %1$dခု (%2$s)အား ပေးပို့သည်</item>
     </plurals>
 </resources>

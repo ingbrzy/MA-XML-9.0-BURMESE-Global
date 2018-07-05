@@ -3,23 +3,17 @@
     <plurals name="alarm_alert_snooze_set">
         <item quantity="other">%d မိနစ်ကြာကြာ တခနအိပ်</item>
     </plurals>
-    <plurals name="auto_silence_summary">
-        <item quantity="other">%d မိနစ်ပြီးနောက် နှိုးစက်ရပ်သွားလိမ့်မည်</item>
-    </plurals>
     <plurals name="delete_alarm_confirm">
         <item quantity="other">ဤနှိုးစက်အား ဖျက်မည်လား?</item>
     </plurals>
     <plurals name="delete_timezone_confirm">
         <item quantity="other">ဤအချိန်ဇုန်အား ဖျက်မည်လား?</item>
     </plurals>
+    <plurals name="second">
+        <item quantity="other">%d စက္ကန့်</item>
+    </plurals>
     <plurals name="snooze_message">
         <item quantity="other">%d မိနစ်ကြာ တခနအိပ်</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_minutes">
-        <item quantity="other">၁ မိနစ်</item>
-    </plurals>
-    <plurals name="timer_item_duration_display_seconds">
-        <item quantity="other">၁ စက္ကန့်</item>
     </plurals>
     <plurals name="timer_message_hour">
         <item quantity="other">%1$d နာရီ</item>
@@ -29,5 +23,14 @@
     </plurals>
     <plurals name="timer_message_second">
         <item quantity="other">%1$d စက္ကန့်</item>
+    </plurals>
+    <plurals name="auto_silence_summary">
+        <item quantity="other">%d မိနစ်ပြီးနောက် နှိုးစက်ရပ်သွားလိမ့်မည်</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_minutes">
+        <item quantity="other">၁ မိနစ်</item>
+    </plurals>
+    <plurals name="timer_item_duration_display_seconds">
+        <item quantity="other">၁ စက္ကန့်</item>
     </plurals>
 </resources>
